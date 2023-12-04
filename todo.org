@@ -1,0 +1,95 @@
+* bib todo
+** AltLink: Replace archive.today links with archive.org links
+*** Job Site
+- https://www.quora.com/Is-there-a-good-website-to-hire-cheap-freelancers-for-basic-data-entry
+- https://www.freelancer.com
+- I am looking for a freelancer to help me fix citation links in my
+  bibliography. There is no citation style, only the HTTP links in the
+  file need to be fixed. I am flexible with the timeline for the
+  completion of the project. There are 70 to 80 citation links that
+  need to be fixed. See attached file for directions and examples.
+
+*** Directions
+- The archive.vn links in AltLink are usually broken.
+- Replace archive.vn links with web.archive.org page links.
+  - Go to https://archive.org/web/ (the Wayback Machine at Internet Archive)
+  - Enter the orginal Link url
+  - Find a copy at or just after the cited Date
+    - if there is more than one copy for the Date, use the one with the latest time.
+  - Put the archive.org url in AltLink
+  - Create a tinyurl for the link
+  - Put the tinyurl in AltLink at the beginning
+  - If the date is "very" different, remove the archive.vn link,
+    otherwise put is at the end
+  - Update the Date to match the archive.org date.
+
+- Exceptions
+  - If the archive.org date is close to the date "in the article,"
+    then don't change the Date:
+  - If the date in the article is very different from the date in the AltLink reference,
+    then put the AltLink date in DateSeen:
+  - If Date is missing, follow the archive.vn AltLink to get the date.
+    - If the archive.vn does not work, then find the newest date in
+      archive.org.  (the Wayback Machine Chrome extention can be
+      used.)
+  - If a Link url is not found in archive.org, then the Wayback Machine Chrome
+    extention can be used to archive the page.
+  - If the Link url is not found at all, then add or update the Annote: line with a
+    short problem description. For example: Link not found.
+  - If the archive.vn Date is very different, delete the archive.vn link
+  - Problems or exceptions can be noted in the Annote: line.
+
+- Note:
+  - All the text after a tag is all on one line. That is, no line breaks.
+  - AltLink urls are space separated.
+
+*** Tools
+- https://tinyurl.com/app
+- Wayback Machine Chrome Extension
+  https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US
+
+*** Example
+**** Before
+
+{little-01}
+Type: article
+Media: link
+Title: The Lure of Obedience
+Author: Little, Mat
+Date: 2012-07-13
+Publisher: New Compass, Grenmarsvegen 12, 3912 Porsgrunn, Norway
+Link: http://new-compass.net/articles/lure-obedience
+AltLink: https://archive.vn/GrqpI
+Annote: See notes.
+
+{wikipedia-48}
+Type: article
+Media: link
+Title: Dunbar's number
+Date: 2023-06-20
+Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
+AltLink: https://archive.vn/b1ora
+
+**** After
+
+{little-01}
+Type: article
+Media: link
+Title: The Lure of Obedience
+Author: Little, Mat
+Date: 2012-07-13
+DateSeen:  2023-03-23
+Publisher: New Compass, Grenmarsvegen 12, 3912 Porsgrunn, Norway
+Link: http://new-compass.net/articles/lure-obedience
+AltLink: https://tinyurl.com/3mvwex8t https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience https://archive.vn/GrqpI
+Annote: See notes.
+
+{wikipedia-48}
+Type: article
+Media: link
+Title: Dunbar's number
+Date: 2023-06-20
+Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
+AltLink: https://tinyurl.com/2xkt99ms https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number https://archive.vn/b1ora
+
+**
