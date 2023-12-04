@@ -1,18 +1,23 @@
 
 mVerPath = $(HOME)/ver/local/project/book-humane/draft
 mPubPath = moria:/rel/released/doc/own/bib
+mTidy = tidy -m -config etc/tidyxhtml.conf
 
 clean :
 	find . -name '*~' -exec rm {} \;
 	-bib clean
 
-publish release :
-	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
-
 update : doc.odt
+
+publish release : README.html
+	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
 
 # -------------
 # Add and maintain the bibliography in a Libreoffice document
+
+README.html : README.md
+	-pandoc -f markdown -t html <$? >$@
+	-$(mTidy) $@
 
 doc.odt : 
 	ln -s $(mVerPath)/alien.odt $@
