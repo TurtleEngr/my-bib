@@ -21405,6 +21405,15 @@ Tags: person, important, biblio
 Link: https://en.wikipedia.org/wiki/Walter_Wink
 AltLink: https://tinyurl.com/5n94msnm https://web.archive.org/web/20231118004505/https://en.wikipedia.org/wiki/Walter_Wink
 
+Id: wikipedia-57
+Type: article
+Media: link
+Title: Digital dark age
+Date: 2023-12-04
+Link: https://en.wikipedia.org/wiki/Digital_dark_age
+AltLink: https://tinyurl.com/aw3fravs https://web.archive.org/web/20231204221130/https://en.wikipedia.org/wiki/Digital_dark_age
+
+
 Id: wilburhotsprings-01
 Type: site
 Media: site
