@@ -10,6 +10,15 @@ clean :
 update : doc.odt
 
 publish release : README.html
+	git co develop
+	git pull origin develop
+	git ci -am Updated
+	git push origin develop
+	git co main
+	git pull origin main
+	git merge develop
+	git push origin main
+	git co develop
 	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
 
 # -------------
