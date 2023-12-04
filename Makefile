@@ -12,7 +12,7 @@ update : doc.odt
 publish release : README.html
 	git co develop
 	git pull origin develop
-	git ci -am Updated
+	-git ci -am Updated
 	git push origin develop
 	git co main
 	git pull origin main
