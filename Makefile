@@ -9,7 +9,7 @@ clean :
 
 update : doc.odt
 
-publish release : README.html
+publish release : clean README.html
 	git co develop
 	git pull origin develop
 	-git ci -am Updated
