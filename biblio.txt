@@ -1152,18 +1152,6 @@ Tags: biblio, important, commons
 ISBN: 9781576753613
 ASIN: 1637377
 
-Id: barnes-03
-Type: book
-Media: Hardcover
-Title: Capitalism 3.0: A Guide to Reclaiming the Commons
-Author: Barnes, Peter
-Date: 2006
-Publisher: Berrett-Koehler Publishers
-Tags: book, book, biblio, book, commons
-ISBN: 9781576753613
-ASIN: 1637377
-Link: http://www.amazon.com/Capitalism-3-0-Guide-Reclaiming-Commons/dp/1459682564/
-
 Id: bartesterblog-wordpress-01
 Type: site
 Media: site
@@ -1315,7 +1303,7 @@ Type: article
 Media: link
 Title: On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
 Author: Bender, Emily M.
-Authors: Gebru, Timnit; McMillan-Major, Angelina ; Shmitchell, Shmargaret
+Authors: Gebru, Timnit; McMillan-Major, Angelina; Shmitchell, Shmargaret
 Date: 2021-03-03
 Tags: article, pdf, biblio, article
 Link: https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
@@ -1921,14 +1909,6 @@ Media: product
 Title: HTC Hero software applications &amp; games free download.
 Tags: toolhw, phone, link, biblio, link
 Link: http://www.brothersoft.com/mobile/phone/htc/htc_hero/
-
-Id: brown-01
-Type: book
-Media: Ebook
-Title: Coming Back to Life: The Updated Guide to the Work that Reconnects
-Author: Macy, Joanna
-Tags: book, book, biblio, book
-Link: https://www.amazon.com/Coming-Back-Life-Updated-Reconnects-ebook/dp/B00LDYEX4Q/
 
 Id: browne-01
 Type: media
@@ -4327,7 +4307,6 @@ Type: book
 Media: Ebook
 Title: In Real Life
 Author: Doctorow, Cory
-Authors: Wang, Jen; Wang, Jen
 Date: 2014
 Publisher: First Second
 Tags: e, biblio
