@@ -1468,13 +1468,6 @@ Title: Jan-Piet Mens / Using TrueCrypt on CentOS
 Tags: home, make, crypt, link, biblio, link
 Link: http://blog.fupps.com/2007/03/20/using-truecrypt-on-centos/
 
-Id: blog-longnow-01
-Type: article
-Media: link
-Title: Stewart Brand Gives In-Depth and Personal Interview to Tim Ferriss - Blog of the Long Now
-Tags: misc, link, biblio, link
-Link: http://blog.longnow.org/02018/01/16/stewart-brand-gives-in-depth-and-personal-interview-to-tim-ferriss/
-
 Id: blog-onshoulders-01
 Type: article
 Media: link
@@ -1744,6 +1737,15 @@ Publisher: Penguin Books
 Tags: biblio
 ISBN: 0140139966
 ASIN: 3636
+
+Id: brand-03
+Type: article
+Media: link
+Title: Stewart Brand Gives In-Depth and Personal Interview to Tim Ferriss - Blog of the Long Now
+Author: Brand, Stewart
+Publisher: Long Now
+Tags: misc, link, biblio, link
+Link: http://blog.longnow.org/02018/01/16/stewart-brand-gives-in-depth-and-personal-interview-to-tim-ferriss/
 
 Id: brasschecktv-01
 Type: article
@@ -3299,31 +3301,34 @@ Title: Tortuga: JoiningCommunity
 Tags: home, cohousing, link, biblio, link
 Link: http://cothwinobena.nfshost.com/wiki/JoiningCommunity
 
-Id: countercurrents-01
+Id: misra-??
 Type: article
 Media: link
 Title: CounterCurrents.org Gender/Feminism Home Page
+Author: Misra, Roli
+Date: 2015--03-30
+Publisher: Counter Currents
 Tags: home, change, link, biblio, link
 Link: http://www.countercurrents.org/gender.htm
 
-Id: countercurrents-02
+Id: jensen-??
 Type: article
 Media: link
-Title: Feminism's Challenge: Articulating Alternatives To Unsustainable Hierarchies By Robert Jensen
+Title: Feminism's Challenge: Articulating Alternatives To Unsustainable Hierarchies
+Author: Jensen, Robert
+Date: 2009-03-12
+Publisher: Counter Currents
 Tags: home, change, link, biblio, link
 Link: http://www.countercurrents.org/jensen120309.htm
 
-Id: countercurrents-03
+Id: dasani-01
 Type: article
 Media: link
-Title: Radical Love By Mickey Z. interviews Natty Seidenverg
-Tags: home, change, link, biblio, link
-Link: http://www.countercurrents.org/mickeyz240209.htm
-
-Id: countercurrents-04
-Type: article
-Media: link
-Title: Gendered Language By Neerja Dasani &amp; Swati Roy
+Title: Gendered Language
+Author: Dasani, Neerja
+Authors: Roy, Swati
+Date: 2009-11-05
+Publisher: Counter Currents
 Tags: home, change, link, biblio, link
 Link: http://www.countercurrents.org/roy051109.htm
 
@@ -8785,6 +8790,7 @@ Media: link
 Title: Heart of It All: Tamera and the New Story of Love ;  Ian MacKenzie
 Tags: culture, link, biblio, link
 Link: http://www.ianmack.com/tamera-story-love-interview/
+Annote: broken link
 
 Id: ianmack-03
 Type: media
@@ -8792,6 +8798,16 @@ Media: video
 Title: 7 Ways to Craft a Kickass Crowdfunding Video ;  Ian MacKenzie
 Tags: video, link, biblio, link, video
 Link: http://www.ianmack.com/7-ways-to-craft-a-kickass-crowdfunding-video/
+Annote: broken link
+
+Id: ianmack-04
+Type: media
+Media: audio
+Title: #90 | Initiation Rites: Defining the Sacred Role of Men w/ Ian MacKenzie
+Author: MacKenzie, Ian
+Date: 2017-10-14
+Producer: Last Born in the Wilderness
+Link: https://www.lastborninthewilderness.com/episodes/ian-mackenzie-1
 
 Id: ibm-01
 Type: article
@@ -16692,6 +16708,15 @@ Date: 2015-05-04
 Tags: humor, ted, biblio
 Link: https://www.youtube.com/watch?v=5c6AADI7Pb4
 Annote: See notes.
+
+Id: seidenverg-01
+Type: article
+Media: link
+Title: Radical Love By Mickey Z. interviews Natty Seidenverg
+Author:  Seidenverg, Natty
+Publisher: Counter Currents
+Tags: home, change, link, biblio, link
+Link: http://www.countercurrents.org/mickeyz240209.htm
 
 Id: selfcare-bcgi-01
 Type: article
