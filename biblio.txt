@@ -5,6 +5,16 @@
 # Type: book; Media: Ebook, Paperback, Hardcover, book
 # Type: site; Media: org
 
+Id: Johnson-08
+Type: media
+Media: video
+Title: How to Find Joy in Climate Action | Ayana Elizabeth Johnson | TED
+Author: Johnson, Ayana Elizabeth
+Date: 2022-06-21
+Tags: ted
+Link: https://www.youtube.com/watch?v=VsOJR40M0as
+Annote: See notes.
+
 Id: aa-san-mateo-01
 Type: site
 Media: org
@@ -3301,37 +3311,6 @@ Title: Tortuga: JoiningCommunity
 Tags: home, cohousing, link, biblio, link
 Link: http://cothwinobena.nfshost.com/wiki/JoiningCommunity
 
-Id: misra-??
-Type: article
-Media: link
-Title: CounterCurrents.org Gender/Feminism Home Page
-Author: Misra, Roli
-Date: 2015--03-30
-Publisher: Counter Currents
-Tags: home, change, link, biblio, link
-Link: http://www.countercurrents.org/gender.htm
-
-Id: jensen-??
-Type: article
-Media: link
-Title: Feminism's Challenge: Articulating Alternatives To Unsustainable Hierarchies
-Author: Jensen, Robert
-Date: 2009-03-12
-Publisher: Counter Currents
-Tags: home, change, link, biblio, link
-Link: http://www.countercurrents.org/jensen120309.htm
-
-Id: dasani-01
-Type: article
-Media: link
-Title: Gendered Language
-Author: Dasani, Neerja
-Authors: Roy, Swati
-Date: 2009-11-05
-Publisher: Counter Currents
-Tags: home, change, link, biblio, link
-Link: http://www.countercurrents.org/roy051109.htm
-
 Id: covad-01
 Type: article
 Media: link
@@ -3640,6 +3619,17 @@ Media: link
 Title: darron schall :: Installing Flash Player 9 on 64 bit Linux
 Tags: toolsw, platform, centos, firefox-32bit, link, biblio, link
 Link: http://www.darronschall.com/weblog/archives/000258.cfm
+
+Id: dasani-01
+Type: article
+Media: link
+Title: Gendered Language
+Author: Dasani, Neerja
+Authors: Roy, Swati
+Date: 2009-11-05
+Publisher: Counter Currents
+Tags: home, change, link, biblio, link
+Link: http://www.countercurrents.org/roy051109.htm
 
 Id: dataevolution-01
 Type: article
@@ -4071,6 +4061,24 @@ Date: 2013
 Publisher: Zendow Press
 Tags: biblio, important
 ASIN: 26868220
+
+Id: devi-01
+Type: site
+Media: site
+Title: KamalaDevi - Polyamorous Coch, Mentor, and Bestselling Author
+Author: Devi, Kamala
+Date: 2023-12-07
+Tags: culture, link, biblio, link
+Link: http://www.kamaladevi.com/
+
+Id: devi-02
+Type: article
+Media: link
+Title: ZEGG Forum Rules &amp; Guidelines for Building Polyamory Community
+Author: Devi, Kamala
+Authors: Paulman, Adam
+Tags: culture, link, biblio, link
+Link: http://www.kamaladevi.com/2998/zegg-forum-rules-guidelines-polyamory-community#.VjWdvHUViko
 
 Id: dhubs-01
 Type: article
@@ -8756,13 +8764,6 @@ Title: Hylo
 Tags: culture, link, biblio, link
 Link: https://www.hylo.com/h/all-posts
 
-Id: ip-01
-Type: article
-Media: link
-Title: I2P Anonymous Network - I2P
-Tags: home, make, crypt, link, biblio, link
-Link: http://www.i2p2.de/
-
 Id: iahf-01
 Type: article
 Media: link
@@ -9149,6 +9150,13 @@ Tags: home, make, link, biblio, link
 Link: http://www.ioncannon.net/programming/551/rfid-reader-writer-usb-prototyping-kit/
 
 Id: ip-01
+Type: article
+Media: link
+Title: I2P Anonymous Network - I2P
+Tags: home, make, crypt, link, biblio, link
+Link: http://www.i2p2.de/
+
+Id: ip-01
 Type: book
 Media: Ebook
 Title: Foolproof: Why Safety Can Be Dangerous and How Danger Makes Us Safe
@@ -9327,6 +9335,16 @@ Title: Anyone up for some Jenga... alright where's the dog?
 Tags: video, biblio, video
 Link: http://www.wimp.com/jengadog/
 
+Id: jensen-01
+Type: article
+Media: link
+Title: Feminism's Challenge: Articulating Alternatives To Unsustainable Hierarchies
+Author: Jensen, Robert
+Date: 2009-03-12
+Publisher: Counter Currents
+Tags: home, change, link, biblio, link
+Link: http://www.countercurrents.org/jensen120309.htm
+
 Id: jeremijenko-01
 Type: media
 Media: video
@@ -9449,16 +9467,6 @@ Date: 2023-03-22
 Tags: audio, biblio, audio
 Link: https://www.npr.org/sections/codeswitch/2023/03/22/1161664788/the-women-behind-the-montgomery-bus-boycott
 AltLink: https://archive.vn/Oo8UA
-Annote: See notes.
-
-Id: Johnson-08
-Type: media
-Media: video
-Title: How to Find Joy in Climate Action | Ayana Elizabeth Johnson | TED
-Author: Johnson, Ayana Elizabeth
-Date: 2022-06-21
-Tags: ted
-Link: https://www.youtube.com/watch?v=VsOJR40M0as
 Annote: See notes.
 
 Id: johntaylorgatto-01
@@ -9586,20 +9594,6 @@ Date: 2011
 Publisher: Farrar, Straus and Giroux
 Tags: biblio, important
 ASIN: 11559588
-
-Id: kamaladevi-01
-Type: site
-Media: site
-Title: Married, dating and/or practicing polyamory ... Become a better lover!Kamala Devi ;  Make Love to Life
-Tags: culture, link, biblio, link
-Link: http://www.kamaladevi.com/
-
-Id: kamaladevi-02
-Type: article
-Media: link
-Title: ZEGG Forum Rules &amp; Guidelines for Building Polyamory CommunityKamala Devi
-Tags: culture, link, biblio, link
-Link: http://www.kamaladevi.com/2998/zegg-forum-rules-guidelines-polyamory-community#.VjWdvHUViko
 
 Id: kanat-alexander-01
 Type: book
@@ -12127,6 +12121,16 @@ Title: TED: Anupam Mishra: The ancient ingenuity of water harvesting
 Tags: ted, biblio
 Link: http://www.ted.com/talks/anupam_mishra_the_ancient_ingenuity_of_water_harvesting.html
 
+Id: misra-01
+Type: article
+Media: link
+Title: CounterCurrents.org Gender/Feminism Home Page
+Author: Misra, Roli
+Date: 2015--03-30
+Publisher: Counter Currents
+Tags: home, change, link, biblio, link
+Link: http://www.countercurrents.org/gender.htm
+
 Id: missioncontrolsf-01
 Type: site
 Media: site
@@ -13735,14 +13739,6 @@ Date: 2015-12-11
 Link: https://web.archive.org/web/20151211215507/https://openai.com/blog/introducing-openai/
 AltLink: https://tinyurl.com/3hxf4feb
 
-Id: openai-pricing-03
-Type: article
-Media: link
-Title: OpenAI Pricing
-Date: 2023-11-07
-Link: https://openai.com/pricing
-AltLink: https://tinyurl.com/2b5tybxk https://web.archive.org/web/20231107222949/https://openai.com/pricing
-
 Id: openai-chat-01
 Type: site
 Media: link
@@ -13761,6 +13757,14 @@ Tags: misc, music, link, biblio, site, link, link
 Link: https://openai.com/blog/jukebox/
 AltLink: https://tinyurl.com/2p93m7m6 https://web.archive.org/web/20231107224823/https://openai.com/research/jukebox
 Annote: See notes.
+
+Id: openai-pricing-03
+Type: article
+Media: link
+Title: OpenAI Pricing
+Date: 2023-11-07
+Link: https://openai.com/pricing
+AltLink: https://tinyurl.com/2b5tybxk https://web.archive.org/web/20231107222949/https://openai.com/pricing
 
 Id: openfilm-01
 Type: media
@@ -19450,6 +19454,15 @@ Media: video
 Title: ADHD As A Difference In Cognition, Not A Disorder: Stephen Tonti at TEDxCMU
 Tags: ted, biblio
 Link: http://www.youtube.com/watch?v=uU6o2_UFSEY
+
+Id: torenberg-01
+Type: article
+Media: link
+Title: On Nonviolent Communication
+Author: Torenberg, Erik
+Date: 2016-12-28
+Link: https://medium.com/@eriktorenberg_/on-nonviolent-communication-33ca8c7ebfcb
+AltLink: https://tinyurl.com/5n7rd5mk https://web.archive.org/web/20170512181546/https://medium.com/@eriktorenberg_/on-nonviolent-communication-33ca8c7ebfcb
 
 Id: torproject-01
 Type: site
