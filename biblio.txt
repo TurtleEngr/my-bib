@@ -7937,6 +7937,15 @@ Author: Harari, Yuval Noah
 Tags: biblio, important
 Link: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A
 
+Id: harari-02
+Type: media
+Media: video
+Title: MAGA 'suicide'? Yuval Noah Harari on conservatives losing, conspiracies, AI, religion & history
+Author: Harari, Yuval Noah
+Date: 2023-11-30
+Publisher: MSNBC
+Link: https://youtu.be/nlni04mpDdg?si=DdY3wqsOJ2RrTa3D
+
 Id: harbin-01
 Type: site
 Media: site

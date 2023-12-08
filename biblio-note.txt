@@ -464,6 +464,17 @@ Eddie Huang TED Conference Exposed</a> - Published on Feb 28, 2013 Joe
 Rogan talks to Eddie Huang about his experience at the TED
 conference.</note>
 
+Id: harari-02
+<note>Interviewed by Ari Melber
+<blockquote>If you really want to make a change you cannot do it as an
+isolated individual. The super power of our species is not individual
+genius, it's the ability to cooperate in large
+numbers.{harari-02:2173s}</blockquote>
+<p>Then he added: 50 people will cooperate as part of a community. And
+they will make much bigger changes than 500 isolated individuals.</p>
+<p>History is not the study of the past, it is the study of change.</p>
+</note>
+
 Id: hari-01
 <note>We think our inability to focus is a personal failure to exert
 enough willpower over our devices. The truth is even more disturbing:

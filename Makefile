@@ -1,11 +1,15 @@
 
 mVerPath = $(HOME)/ver/local/project/book-humane/draft
-mPubPath = moria:/rel/released/doc/own/bib
+mPubPath = moria.whyayh.com:/rel/released/doc/own/bib
 mTidy = tidy -m -config etc/tidyxhtml.conf
+mClone = git clone git@github.com:TurtleEngr/my-bib.git
 
 clean :
 	find . -name '*~' -exec rm {} \;
 	-bib clean
+
+ci checkin commit : clean
+	git commit -am "Updated"
 
 update : doc.odt
 
