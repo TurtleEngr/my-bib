@@ -10128,7 +10128,7 @@ Id: kropotkin-01
 Type: book
 Media: Ebook
 Title: Mutual Aid: A Factor of Evolution
-Author: Kropotkin, kniaz Petr Alekseevich
+Author: Kropotkin, Kniaz Petr Alekseevich
 Date: 1902
 Publisher: Project Gutenberg
 Tags: biblio, book, epub3, book
