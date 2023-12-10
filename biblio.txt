@@ -5,16 +5,6 @@
 # Type: book; Media: Ebook, Paperback, Hardcover, book
 # Type: site; Media: org
 
-Id: Johnson-08
-Type: media
-Media: video
-Title: How to Find Joy in Climate Action | Ayana Elizabeth Johnson | TED
-Author: Johnson, Ayana Elizabeth
-Date: 2022-06-21
-Tags: ted
-Link: https://www.youtube.com/watch?v=VsOJR40M0as
-Annote: See notes.
-
 Id: aa-san-mateo-01
 Type: site
 Media: org
@@ -2505,6 +2495,14 @@ Title: Celtx - Free Scriptwriting &amp; All-In-One Production Studios
 Tags: video, link, biblio, link, video
 Link: https://www.celtx.com/index.html
 
+Id: centerforpartnership-01
+Type: site
+Media: org
+Title:  Home - The Center for Partnership Systems
+Date: Author:
+Link: https://centerforpartnership.org/
+AltLink: https://tinyurl.com/y39atran https://web.archive.org/web/20231210195621/https://centerforpartnership.org/
+
 Id: centos-01
 Type: article
 Media: link
@@ -2942,7 +2940,7 @@ Link: https://www.cnet.com/forums/discussions/the-intel-nuc-nuc5cpyh-and-10-dist
 Id: cnvc-01
 Type: article
 Media: link
-Title: The Center for Nonviolent Communication ;  Center for Nonviolent Communication
+Title: The Center for Nonviolent Communication
 Date: 2022-11-18
 Tags: home, homelan, frequent, link, biblio, link
 Link: http://www.cnvc.org/
@@ -4428,7 +4426,7 @@ Title: The Lost Cause
 Author: Doctorow, Cory
 Date: 2023-11-14
 Publisher: Tor Books
-Link: https://www.amazon.com/Lost-Cause-Cory-Doctorow-ebook/dp/B0BQGGP2XT
+Link: https://www.amazon.com/dp/B0BQGGP2XT
 AltLink: https://craphound.com/category/lostcause/
 
 Id: documents-mx-01
@@ -4572,7 +4570,7 @@ Media: Hardcover
 Title: Tamera: A Model for the Future
 Author: Dregger, Leila
 Tags: book, book, biblio, book
-Link: http://www.amazon.com/Tamera-Model-Future-Leila-Dregger/dp/3927266272/
+Link: http://www.amazon.com/dp/3927266272/
 
 Id: drive-google-01
 Type: article
@@ -4763,7 +4761,7 @@ Date: 2014
 Publisher: Verlag Meiga
 Tags: book, book, biblio, book
 ASIN: 11302832
-Link: http://www.amazon.com/Eros-Unredeemed-Paperback-Author-Dieter/dp/B00FVQLU6Q/
+Link: https://www.amazon.com/dp/B00FVQLU6Q/
 
 Id: duhm-12
 Type: book
@@ -6590,10 +6588,11 @@ Publisher: The Oxford Village Press
 ISBN: 0945700040
 Link: https://web.archive.org/web/20050403041637/http://www.johntaylorgatto.com:80/chapters/index.htm
 AltLink: https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/
+Annote: Out of print. Link is to complete book online.
 
 Id: gatto-07
-Type: book
-Media: Paperback
+Type: article
+Media: link
 Title: The Underground History of American Education: Chapter 17a: Three Holes In My Floor
 Author: Gatto, John Taylor
 Date: 2003
@@ -6601,6 +6600,17 @@ Publisher: The Oxford Village Press
 ISBN: 0945700040
 Link: https://web.archive.org/web/20050205062857/http://www.johntaylorgatto.com/chapters/17a.htm
 AltLink: https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/17a.htm
+
+Id: gatto-08
+Type: book
+Media: Paperback
+Title: The Underground History of American Education, Volume I: An Intimate Investigation Into the Prison of Modern Schooling
+Author: Gatto, John Taylor
+Date: 2017-05-22
+Publisher: Valor Academy
+Tags: home, tofile, set3, link, biblio, link
+ISBN: 0998919101
+Link: https://www.amazon.com/Underground-History-American-Education-Investigation/dp/0998919101
 
 Id: gawande-01
 Type: book
@@ -8429,11 +8439,11 @@ Type: book
 Media: Paperback
 Title: Desert or Paradise: Restoring Endangered Landscapes Using Water Management, Including Lake and Pond Construction
 Author: Holzer, Sepp
-Date: 2012
-Publisher: Chelsea Green Publishing (2012), Edition: Illustrated, 224 pages
+Date: 2012-11-15
+Publisher: Chelsea Green Publishing
 Tags: biblio, important
 ISBN: 1603584641
-ASIN: 13764774
+Link: https://www.amazon.com/gp/product/1603584641/
 
 Id: home-01
 Type: article
@@ -9478,17 +9488,15 @@ Link: https://www.npr.org/sections/codeswitch/2023/03/22/1161664788/the-women-be
 AltLink: https://archive.vn/Oo8UA
 Annote: See notes.
 
-Id: johntaylorgatto-01
-Type: book
-Media: Paperback
-Title: The Underground History of American Education - John Taylor Gatto
-Author: Gatto, John Taylor
-Date: 2017
-Publisher: Valor Academy (2017), 300 pages
-Tags: home, tofile, set3, link, biblio, link
-ISBN: 0998919101
-ASIN: 167797
-Link: http://www.johntaylorgatto.com/underground/index.htm
+Id: Johnson-08
+Type: media
+Media: video
+Title: How to Find Joy in Climate Action | Ayana Elizabeth Johnson | TED
+Author: Johnson, Ayana Elizabeth
+Date: 2022-06-21
+Tags: ted
+Link: https://www.youtube.com/watch?v=VsOJR40M0as
+Annote: See notes.
 
 Id: jolicloud-01
 Type: site
@@ -11650,6 +11658,17 @@ Date: 2023-03-17
 Tags: book, biblio, book
 Link: https://www.amazon.com/gp/product/B0BXB8MBJR
 Annote: See notes.
+
+Id: mccamant-01
+Type: book
+Media: Paperback
+Title: Cohousing: A Contemporary Approach to Housing Ourselves
+Author: McCamant, Kathryn M. 
+Authors: Durrett, Charles; Mooore, Charles W.
+Date: 1989-01-01
+Publisher‏: Ten Speed Press
+ISBN: 0898153069
+Link: https://www.amazon.com/0898153069/
 
 Id: mccloskey-01
 Type: book
