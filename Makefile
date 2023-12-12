@@ -13,19 +13,20 @@ ci checkin commit : clean
 
 update : doc.odt
 
-save : todo.html
+save : clean todo.html README.html
 	git co develop
 	git pull origin develop
 	-git ci -am Updated
 	git push origin develop
 
-publish release : clean save README.html
+publish release : save
 	git co main
 	git pull origin main
 	git merge develop
 	git push origin main
 	git co develop
-	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
+
+# rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
 
 # -------------
 # Add and maintain the bibliography in a Libreoffice document
