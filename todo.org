@@ -74,131 +74,131 @@
 *** Example
 **** Before
 
-    Id: demarco-03
-    Type: book
-    Media: Paperback
-    Title: Waltzing With Bears: Managing Risk on Software Projects
-    Author: DeMarco, Tom
-    Date: 2003
-    Publisher: Dorset House
-    Tags: biblio, engineering
-    ISBN: 0932633609
-    ASIN: 188256
+        Id: demarco-03
+        Type: book
+        Media: Paperback
+        Title: Waltzing With Bears: Managing Risk on Software Projects
+        Author: DeMarco, Tom
+        Date: 2003
+        Publisher: Dorset House
+        Tags: biblio, engineering
+        ISBN: 0932633609
+        ASIN: 188256
 
-Id: doctorow-16
-Type: book
-Media: Ebook
-Title: The Lost Cause
-Author: Doctorow, Cory
-Date: 2023-11-14
-Publisher: Tor Books
-Link: https://www.amazon.com/Lost-Cause-Cory-Doctorow-ebook/dp/B0BQGGP2XT
-AltLink: https://craphound.com/category/lostcause/
+        Id: doctorow-16
+        Type: book
+        Media: Ebook
+        Title: The Lost Cause
+        Author: Doctorow, Cory
+        Date: 2023-11-14
+        Publisher: Tor Books
+        Link: https://www.amazon.com/Lost-Cause-Cory-Doctorow-ebook/dp/B0BQGGP2XT
+        AltLink: https://craphound.com/category/lostcause/
 
-Id: little-01
-Type: article
-Media: link
-Title: The Lure of Obedience
-Author: Little, Mat
-Date: 2012-07-13
-Publisher: New Compass, Grenmarsvegen 12, 3912 Porsgrunn, Norway
-Link: http://new-compass.net/articles/lure-obedience
-AltLink: https://archive.vn/GrqpI
-Annote: See notes.
+        Id: little-01
+        Type: article
+        Media: link
+        Title: The Lure of Obedience
+        Author: Little, Mat
+        Date: 2012-07-13
+        Publisher: New Compass, Grenmarsvegen 12, 3912 Porsgrunn, Norway
+        Link: http://new-compass.net/articles/lure-obedience
+        AltLink: https://archive.vn/GrqpI
+        Annote: See notes.
 
-Id: macy-01
-Type: book
-Media: Ebook
-Title: Coming back to life : the updated guide to the work that reconnects
-Author: Macy, Joanna
-Date: 2014
-Publisher: Gabriola Island, BC, Canada : New Society Publishers, 2014.
-Tags: biblio, important
-ISBN: 1550925806
-ASIN: 1401243
+        Id: macy-01
+        Type: book
+        Media: Ebook
+        Title: Coming back to life : the updated guide to the work that reconnects
+        Author: Macy, Joanna
+        Date: 2014
+        Publisher: Gabriola Island, BC, Canada : New Society Publishers, 2014.
+        Tags: biblio, important
+        ISBN: 1550925806
+        ASIN: 1401243
 
-Id: nfnc-01
-Type: site
-Media: org
-Title: Network For a New Culture :: Home
-Tags: culture, link, biblio, link
-Link: http://www.nfnc.org/
+        Id: nfnc-01
+        Type: site
+        Media: org
+        Title: Network For a New Culture :: Home
+        Tags: culture, link, biblio, link
+        Link: http://www.nfnc.org/
 
-Id: wikipedia-48
-Type: article
-Media: link
-Title: Dunbar's number
-Date: 2023-06-20
-Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
-AltLink: https://archive.vn/b1ora
+        Id: wikipedia-48
+        Type: article
+        Media: link
+        Title: Dunbar's number
+        Date: 2023-06-20
+        Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
+        AltLink: https://archive.vn/b1ora
 
 **** After
 
-Id: demarco-03
-Type: book
-Media: Paperback
-Title: Waltzing With Bears: Managing Risk on Software Projects
-Author: DeMarco, Tom
-Authors: Lister, Timothy
-Date: 2003-01-01
-Publisher: Dorset House
-Tags: biblio, engineering
-ISBN: 0932633609
-Link: https://www.amazon.com/gp/product/0932633609/
-Annote: added authors, extended date, added link
+        Id: demarco-03
+        Type: book
+        Media: Paperback
+        Title: Waltzing With Bears: Managing Risk on Software Projects
+        Author: DeMarco, Tom
+        Authors: Lister, Timothy
+        Date: 2003-01-01
+        Publisher: Dorset House
+        Tags: biblio, engineering
+        ISBN: 0932633609
+        Link: https://www.amazon.com/gp/product/0932633609/
+        Annote: added authors, extended date, added link
 
-Id: doctorow-16
-Type: book
-Media: Ebook
-Title: The Lost Cause
-Author: Doctorow, Cory
-Date: 2023-11-14
-Publisher: Tor Books
-Link: https://www.amazon.com/dp/B0BQGGP2XT
-AltLink: https://craphound.com/category/lostcause/
-Annote: verified shortened link works
+        Id: doctorow-16
+        Type: book
+        Media: Ebook
+        Title: The Lost Cause
+        Author: Doctorow, Cory
+        Date: 2023-11-14
+        Publisher: Tor Books
+        Link: https://www.amazon.com/dp/B0BQGGP2XT
+        AltLink: https://craphound.com/category/lostcause/
+        Annote: verified shortened link works
 
-Id: little-01
-Type: article
-Media: link
-Title: The Lure of Obedience
-Author: Little, Mat
-Date: 2012-07-13
-DateSeen:  2023-03-23
-Publisher: New Compass
-Link: http://new-compass.net/articles/lure-obedience
-AltLink: https://tinyurl.com/3mvwex8t https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience https://archive.vn/GrqpI
-Annote: See notes. AltLink web.archive.org, Added DateSeen, shortened Publisher
+        Id: little-01
+        Type: article
+        Media: link
+        Title: The Lure of Obedience
+        Author: Little, Mat
+        Date: 2012-07-13
+        DateSeen:  2023-03-23
+        Publisher: New Compass
+        Link: http://new-compass.net/articles/lure-obedience
+        AltLink: https://tinyurl.com/3mvwex8t https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience https://archive.vn/GrqpI
+        Annote: See notes. AltLink web.archive.org, Added DateSeen, shortened Publisher
 
-Id: macy-01
-Type: book
-Media: Ebook
-Title: Coming back to life : the updated guide to the work that reconnects
-Author: Macy, Joanna
-Authors: Brown, Molly Young
-Date: 2014
-Publisher: New Society Publishers
-Tags: biblio, important
-ISBN: 1550925806
-ASIN: B00LDYEX4Q
-Link: https://www.amazon.com/Coming-Back-Life-Updated-Reconnects-ebook/dp/B00LDYEX4Q/
-Annote: Revised ed. edition. Added Authors, added Link, shortened Publisher
+        Id: macy-01
+        Type: book
+        Media: Ebook
+        Title: Coming back to life : the updated guide to the work that reconnects
+        Author: Macy, Joanna
+        Authors: Brown, Molly Young
+        Date: 2014
+        Publisher: New Society Publishers
+        Tags: biblio, important
+        ISBN: 1550925806
+        ASIN: B00LDYEX4Q
+        Link: https://www.amazon.com/Coming-Back-Life-Updated-Reconnects-ebook/dp/B00LDYEX4Q/
+        Annote: Revised ed. edition. Added Authors, added Link, shortened Publisher
 
-Id: nfnc-01
-Type: site
-Media: org
-Title: Home :: Network For a New Culture
-Tags: culture, link, biblio, link
-Date: 2023-09-03
-Link: http://www.nfnc.org/
-AltLink: https://tinyurl.com/bddmbw7t https://web.archive.org/web/20230903130952/https://www.nfnc.org/
-Annote: Found newest archived page.
+        Id: nfnc-01
+        Type: site
+        Media: org
+        Title: Home :: Network For a New Culture
+        Tags: culture, link, biblio, link
+        Date: 2023-09-03
+        Link: http://www.nfnc.org/
+        AltLink: https://tinyurl.com/bddmbw7t https://web.archive.org/web/20230903130952/https://www.nfnc.org/
+        Annote: Found newest archived page.
 
-Id: wikipedia-48
-Type: article
-Media: link
-Title: Dunbar's number
-Date: 2023-06-20
-Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
-AltLink: https://tinyurl.com/2xkt99ms https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number https://archive.vn/b1ora
-Annote: Added web.archive.org to AltLink
+        Id: wikipedia-48
+        Type: article
+        Media: link
+        Title: Dunbar's number
+        Date: 2023-06-20
+        Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
+        AltLink: https://tinyurl.com/2xkt99ms https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number https://archive.vn/b1ora
+        Annote: Added web.archive.org to AltLink
