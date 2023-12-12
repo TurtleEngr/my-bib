@@ -1,7 +1,7 @@
 *~
+*.html
 .cvsignore
 CVS/
-README.html
 backup/
 doc.odt
 my-bib.clone
