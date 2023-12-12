@@ -13,11 +13,13 @@ ci checkin commit : clean
 
 update : doc.odt
 
-publish release : clean README.html
+save :
 	git co develop
 	git pull origin develop
 	-git ci -am Updated
 	git push origin develop
+
+publish release : clean save README.html
 	git co main
 	git pull origin main
 	git merge develop
