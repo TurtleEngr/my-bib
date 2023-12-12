@@ -73,8 +73,8 @@
 
 *** Example
 **** Before
-
 #+BEGIN_EXPORT html
+<pre>
 Id: demarco-03
 Type: book
 Media: Paperback
@@ -132,6 +132,7 @@ Title: Dunbar's number
 Date: 2023-06-20
 Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
 AltLink: https://archive.vn/b1ora
+</pre>
 #+END_EXPORT
 
 **** After
@@ -206,4 +207,5 @@ Date: 2023-06-20
 Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
 AltLink: https://tinyurl.com/2xkt99ms https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number https://archive.vn/b1ora
 Annote: Added web.archive.org to AltLink
+</pre>
 #+END_EXPORT

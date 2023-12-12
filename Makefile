@@ -13,7 +13,7 @@ ci checkin commit : clean
 
 update : doc.odt
 
-save :
+save : todo.html
 	git co develop
 	git pull origin develop
 	-git ci -am Updated
@@ -30,8 +30,12 @@ publish release : clean save README.html
 # -------------
 # Add and maintain the bibliography in a Libreoffice document
 
-README.html : README.md
-	-pandoc -f markdown -t html <$? >$@
+%.html : %.org
+	-pandoc -f org -t html < $< >$@
+	-$(mTidy) $@
+
+%.html : %.md
+	-pandoc -f markdown -t html < $< >$@
 	-$(mTidy) $@
 
 doc.odt : 
