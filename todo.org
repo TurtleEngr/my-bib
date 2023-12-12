@@ -74,16 +74,16 @@
 *** Example
 **** Before
 
-Id: demarco-03
-Type: book
-Media: Paperback
-Title: Waltzing With Bears: Managing Risk on Software Projects
-Author: DeMarco, Tom
-Date: 2003
-Publisher: Dorset House
-Tags: biblio, engineering
-ISBN: 0932633609
-ASIN: 188256
+    Id: demarco-03
+    Type: book
+    Media: Paperback
+    Title: Waltzing With Bears: Managing Risk on Software Projects
+    Author: DeMarco, Tom
+    Date: 2003
+    Publisher: Dorset House
+    Tags: biblio, engineering
+    ISBN: 0932633609
+    ASIN: 188256
 
 Id: doctorow-16
 Type: book
