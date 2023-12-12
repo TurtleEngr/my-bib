@@ -365,6 +365,16 @@ Title: Alternative Press Review :: Your Guide Beyond the Mainstream
 Tags: home, eco, link, biblio, link
 Link: http://www.altpr.org/
 
+Id: alzoughbi-01
+Type: article
+Media: link
+Title: Sulha
+Date: 2023-07-24
+Author: Alzoughbi, Zoughbi
+Publisher: Wi'am: The Palestinian Conflict Transformation Center
+Link: https://www.alaslah.org/sulha/
+AltLink: http://tinyurl.com/3az6syd9 https://web.archive.org/web/20230724185815/https://www.alaslah.org/sulha/
+
 Id: amazon-01
 Type: site
 Media: site
