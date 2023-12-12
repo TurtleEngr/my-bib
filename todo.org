@@ -11,8 +11,8 @@
   examples.
 
 *** For Media: link, fixup the AltLink tags
-- The archive.vn links in AltLink are mostly broken. Replace them with
-  web.archive.org page links.
+  - The archive.vn links in AltLink are mostly broken. Replace them with
+    web.archive.org page links.
   1. Go to https://archive.org/web/ (the Wayback Machine at Internet
     Archive)
   2. Enter the orginal Link url
@@ -28,13 +28,13 @@
   8. Update the Date to match the archive.org date.
 
 **** Using Chrome extension
-  - Add "Wayback Machine" Chrome extension
+  1. Add "Wayback Machine" Chrome extension
     - Wayback Machine Chrome Extension
     - https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US
     - https://tinyurl.com/app
   2. Enter the orginal Link url
   3. Click on the chrome extension, then click on "Save Page Now" or "Newest"
-  - continue with steps 4 to 8.
+  4. Continue with steps 4 to 8.
 
 **** Exceptions
   - If the archive.org date is close to the date "in the article,"
