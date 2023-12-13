@@ -962,6 +962,23 @@ Id: openai-jukebox-01
 to ensure that artificial general intelligence benefits all of
 humanity.</note>
 
+Id: ostrom-01
+<note>
+- <blockquote>
+- Question: Is there an alternative to top-down government or free
+  market solutions?
+
+- Elinor Ostrom: Yeah. This is the, this concept of polycentricity of
+  enabling both market and governments at multiple scales to interact
+  with community organization so that we have a complex nested
+  system. and it ain't pretty in the sense that it's nice and neat and
+  many people have tried to get rid of creative solutions that are
+  complex, but society is complex, people are complex. And for us to
+  have simple solutions to complex problems, not a good idea.
+  {ostrom-01:63s}
+</blockquote>
+</note>
+
 Id: pbs-02
 <note>Paleontologist Kirk Johnson explores the dynamic history-and
 future-of ice at the poles.</p> <p>I grep'ed through the full

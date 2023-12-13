@@ -13993,6 +13993,15 @@ Title: RRDtool - RRD World
 Tags: toolsw, appdb, link, biblio, link
 Link: http://oss.oetiker.ch/rrdtool/rrdworld/index.en.html
 
+Id: ostrom-01
+Type: media
+Media: video
+Title: Ending The Tragedy of The Commons
+Author: Ostrom, Elinor
+Date: 2012-04-24
+Publisher: Big Think
+Link: https://www.youtube.com/watch?v=Qr5Q3VvpI7w
+
 Id: ourmedia-01
 Type: site
 Media: site
