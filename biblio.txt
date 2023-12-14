@@ -1503,6 +1503,16 @@ Tags: biblio
 ISBN: 0471419192
 ASIN: 176608
 
+Id: bloom-02
+Type: article
+Media: link
+Title: Blue Eyes, Brown Eyes: On race and Jane Elliott’s famous experiment on prejudice
+Author: Bloom, Stephen G.
+Date: 2022-11-22
+Publisher: Skeptic
+Link: https://www.skeptic.com/reading_room/blue-eyes-brown-eyes-jane-elliott-prejudice-experiment/
+AltLink: http://tinyurl.com/3ykyp3fs https://web.archive.org/web/20221122103738/https://www.skeptic.com/reading_room/blue-eyes-brown-eyes-jane-elliott-prejudice-experiment/
+
 Id: blowfish-01
 Type: site
 Media: site
@@ -1799,6 +1809,15 @@ Media: site
 Title: Bridges to Understanding
 Tags: home, change, link, biblio, link
 Link: http://www.bridgesweb.org/
+
+Id: briggs-01
+Type: article
+Media: link
+Title: "Why Don't You Kill Your Baby Brother?" The Dynamics of Peace in Canadian Intuit Camps
+Author: Briggs, Jean L.
+Date: 2015
+Link: https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf
+AltLink: http://tinyurl.com/4j68u7wt https://web.archive.org/web/20220516101111/https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf
 
 Id: brighthub-01
 Type: article
@@ -9580,6 +9599,14 @@ Media: link
 Title: Three Easy Steps to Set-up Anonymous Web Browsing on Linux ;  TechSource
 Tags: home, make, crypt, link, biblio, link
 Link: http://www.junauza.com/2009/03/three-easy-steps-to-set-up-anonymous.html
+
+Id: junk-01
+Title: The kill your brother game: playful dramas & unintended consequences of censorship
+Author: Junk, Dennis
+Date: 2023-12-13
+Publication: Skeptic
+Link: https://www.skeptic.com/reading_room/kill-your-brother-game-playful-dramas-unintended-consequences-of-censorship/
+AltLink: http://tinyurl.com/45uw69k4 https://web.archive.org/web/20231214181136/https://www.skeptic.com/reading_room/kill-your-brother-game-playful-dramas-unintended-consequences-of-censorship/
 
 Id: just-gov-01
 Type: site
