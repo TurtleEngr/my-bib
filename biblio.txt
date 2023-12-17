@@ -6707,6 +6707,16 @@ Title: GCstar, personal collections manager
 Tags: home, a/v, link, biblio, video, link
 Link: http://www.gcstar.org/
 
+Id: gebru-01
+Type: article
+Media: link
+Title: Timnit Gebru
+Author: Gebru, Timnit
+Date: 2023-11-07
+Tags: link, person, biblio, link
+Link: https://en.wikipedia.org/wiki/Timnit_Gebru
+AltLink: https://tinyurl.com/4988uwa2 https://web.archive.org/web/20231108000409/https://en.wikipedia.org/wiki/Timnit_Gebru
+
 Id: geekwire-01
 Type: article
 Media: link
@@ -14135,6 +14145,17 @@ Title: Search Results
 Tags: home, tofile, set7, link, biblio, link
 Link: http://www.parks.ca.gov/parkindex/results.asp?searchtype=21
 
+Id: parks-02
+Type: article
+Media: link
+Title: Rosa Parks
+Author: Parks, Rosa
+Date: 2023-10-26
+Tags: link, person, biblio, link
+Link: https://en.wikipedia.org/wiki/Rosa_Parks
+AltLink: https://tinyurl.com/5n7exntd https://web.archive.org/web/20231026164829/https://en.wikipedia.org/wiki/Rosa_Parks https://archive.vn/hiVE3
+Annone: See notes.
+
 Id: partselect-01
 Type: article
 Media: link
@@ -21464,21 +21485,14 @@ AltLink: https://tinyurl.com/ynt5apaw https://web.archive.org/web/20231016210931
 Id: wikipedia-52
 Type: article
 Media: link
-Title: Rosa Parks
-Date: 2023-10-26
-Tags: link, person, biblio, link
-Link: https://en.wikipedia.org/wiki/Rosa_Parks
-AltLink: https://tinyurl.com/5n7exntd https://web.archive.org/web/20231026164829/https://en.wikipedia.org/wiki/Rosa_Parks https://archive.vn/hiVE3
-Annote: See notes.
+Title: available
+Annone: moved to parks-02
 
 Id: wikipedia-53
 Type: article
 Media: link
-Title: Timnit Gebru
-Date: 2023-11-07
-Tags: link, person, biblio, link
-Link: https://en.wikipedia.org/wiki/Timnit_Gebru
-AltLink: https://tinyurl.com/4988uwa2 https://web.archive.org/web/20231108000409/https://en.wikipedia.org/wiki/Timnit_Gebru
+Title: available
+Annone: moved to Id: gebru-01
 
 Id: wikipedia-54
 Type: article
@@ -21512,7 +21526,6 @@ Title: Digital dark age
 Date: 2023-12-04
 Link: https://en.wikipedia.org/wiki/Digital_dark_age
 AltLink: https://tinyurl.com/aw3fravs https://web.archive.org/web/20231204221130/https://en.wikipedia.org/wiki/Digital_dark_age
-
 
 Id: wilburhotsprings-01
 Type: site

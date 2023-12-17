@@ -990,6 +990,14 @@ Id: ostrom-01
 </blockquote>
 </note>
 
+Id: parks-02
+<note>King wrote in his 1958 book Stride Toward Freedom that Parks's
+arrest was the catalyst rather than the cause of the protest: "The
+cause lay deep in the record of similar injustices."[55]: 437  He
+wrote, "Actually, no one can understand the action of Mrs. Parks
+unless he realizes that eventually the cup of endurance runs over, and
+the human personality cries out, 'I can take it no longer.'"</note>
+
 Id: pbs-02
 <note>Paleontologist Kirk Johnson explores the dynamic history-and
 future-of ice at the poles.</p> <p>I grep'ed through the full
@@ -1521,14 +1529,6 @@ through their mobile phones</note>
 
 Id: wikipedia-47
 <note>See the section: Nonviolent resistance interpretation</note>
-
-Id: wikipedia-52
-<note>King wrote in his 1958 book Stride Toward Freedom that Parks's
-arrest was the catalyst rather than the cause of the protest: "The
-cause lay deep in the record of similar injustices."[55]: 437  He
-wrote, "Actually, no one can understand the action of Mrs. Parks
-unless he realizes that eventually the cup of endurance runs over, and
-the human personality cries out, 'I can take it no longer.'"</note>
 
 Id: wink-03
 <note>All of us deal with the Powers That Be. They staff our
