@@ -47,7 +47,7 @@ ASIN: 10076704
 Id: abram-02
 Type: book
 Media: Ebook
-Title: Spell of the Sensuous, The
+Title: The Spell of the Sensuous
 Author: Abram, David
 Date: 2012
 Publisher: Knopf Doubleday Publishing Group
@@ -1711,14 +1711,14 @@ ASIN: 5241223
 Id: boswell-01
 Type: article
 Media: article
-Title: Art of Readable Code, The
+Title: The Art of Readable Code
 Author: Boswell, Dustin
 Tags: biblio, engineering
 
 Id: boswell-02
 Type: article
 Media: article
-Title: Art of Readable Code: Simple and Practical Techniques for Writing Better Code (Theory in Practice), The
+Title: The Art of Readable Code: Simple and Practical Techniques for Writing Better Code (Theory in Practice)
 Author: Boswell, Dustin
 Tags: biblio
 
@@ -2086,7 +2086,7 @@ ASIN: 326891
 Id: buhner-02
 Type: book
 Media: book
-Title: Secret Teachings of Plants, The: The Intelligence of the Heart in the Direct Perception of Nature
+Title: The Secret Teachings of Plants: The Intelligence of the Heart in the Direct Perception of Nature
 Author: Buhner, Stephen Harrod
 Tags: book, book, biblio, book
 Link: https://www.amazon.com/Secret-Teachings-Plants-Intelligence-Perception-ebook/dp/B003ZHVB80/
@@ -4395,7 +4395,7 @@ ASIN: 109
 Id: doctorow-04
 Type: book
 Media: Ebook
-Title: Great Big Beautiful Tomorrow (Outspoken Authors Book 8), The
+Title: The Great Big Beautiful Tomorrow (Outspoken Authors Book 8)
 Author: Doctorow, Cory
 Date: 2011
 Publisher: PM Press
@@ -4435,7 +4435,7 @@ ASIN: 22788475
 Id: doctorow-08
 Type: book
 Media: Ebook
-Title: Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations, The
+Title: The Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations
 Author: Doctorow, Cory
 Date: 2012
 Publisher: Tom Doherty Associates
@@ -4802,7 +4802,7 @@ ASIN: 11302832
 Id: duhm-07
 Type: book
 Media: Ebook
-Title: Sacred Matrix: From the Matrix of Violence to the Matrix of Life, The Foundation for a New Civilization, The
+Title: Sacred Matrix: From the Matrix of Violence to the Matrix of Life, The Foundation for a New Civilization
 Author: Duhm, Dieter
 Date: 2014
 Publisher: Verlag Meiga
@@ -4855,7 +4855,7 @@ Link: https://www.amazon.com/dp/B00FVQLU6Q/
 Id: duhm-12
 Type: book
 Media: Ebook
-Title: Sacred Matrix, The
+Title: The Sacred Matrix
 Author: Duhm, Dieter
 Tags: book, book, biblio, book
 Link: http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/
@@ -6267,7 +6267,7 @@ Link: https://formufit.com/collections/5-way-pvc-center-cross
 Id: forster-01
 Type: book
 Media: Ebook
-Title: Life to Come: And Other Short Stories, The
+Title: The Life to Come: And Other Short Stories
 Author: Forster, E. M.
 Date: 2015
 Publisher: RosettaBooks
@@ -6654,7 +6654,7 @@ ASIN: 45411
 Id: gandhi-02
 Type: book
 Media: Ebook
-Title: Bhagavad Gita According to Gandhi, The
+Title: The Bhagavad Gita According to Gandhi
 Author: Gandhi, Mohandas K.
 Date: 2013
 Publisher: Start Publishing LLC
@@ -6723,7 +6723,7 @@ ASIN: 167797
 Id: gatto-04
 Type: book
 Media: Ebook
-Title: Underground History of American Education: A School Teacher's Intimate Investigation Into the Problem of Modern Schooling, The
+Title: The Underground History of American Education: A School Teacher's Intimate Investigation Into the Problem of Modern Schooling
 Author: Gatto, John Taylor
 Date: 2015
 Publisher: Publisher Unknown
@@ -6797,7 +6797,7 @@ ASIN: 15069990
 Id: gawande-02
 Type: book
 Media: Ebook
-Title: Checklist Manifesto: How to Get Things Right, The
+Title: The Checklist Manifesto: How to Get Things Right
 Author: Gawande, Atul
 Date: 2009
 Publisher: Henry Holt and Co.
@@ -6976,7 +6976,7 @@ ASIN: 19534477
 Id: gibson-02
 Type: book
 Media: Ebook
-Title: Peripheral, The
+Title: The Peripheral
 Author: Gibson, William
 Date: 2014
 Publisher: Penguin Publishing Group
@@ -8011,7 +8011,7 @@ Link: http://www.guidingtech.com/29921/remove-samsung-galaxy-s5/
 Id: guillebeau-01
 Type: book
 Media: Ebook
-Title: Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World (Perigee Book.), The
+Title: The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World (Perigee Book.)
 Author: Guillebeau, Chris
 Date: 2010
 Publisher: Penguin Publishing Group
@@ -8467,7 +8467,7 @@ Link: http://hexayurt.com/
 Id: hieronimus-01
 Type: book
 Media: Ebook
-Title: Secret Life of Lady Liberty: Goddess in the New World, The
+Title: The Secret Life of Lady Liberty: Goddess in the New World
 Author: Hieronimus, Robert
 Date: 2016
 Publisher: Inner Traditions/Bear & Company
@@ -10234,7 +10234,7 @@ ASIN: 15805678
 Id: korten-03
 Type: book
 Media: Ebook
-Title: Great Turning: From Empire to Earth Community, The
+Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David C
 Date: 2007
 Publisher: Berrett-Koehler Publishers
@@ -10288,7 +10288,7 @@ Link: http://www.amazon.com/Change-Story-Future-Living-Economy/dp/1626562903/
 Id: korten-08
 Type: book
 Media: book
-Title: Great Turning, The: From Empire to Earth Community
+Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David C.
 Tags: h, book, book, biblio, book
 Link: http://www.amazon.com/Great-Turning-Empire-Earth-Community/dp/1887208089/
@@ -14628,7 +14628,7 @@ Link: https://pebblebee.com/
 Id: peck-01
 Type: book
 Media: Ebook
-Title: Different Drum: Community Making and Peace, The
+Title: The Different Drum: Community Making and Peace
 Author: Peck, M. Scott
 Date: 2010
 Publisher: Touchstone
@@ -14660,7 +14660,7 @@ Link: https://www.amazon.com/dp/B002IPZBOA
 Id: peck-04
 Type: book
 Media: book
-Title: Different Drum, The: Community Making and Peace
+Title: The Different Drum: Community Making and Peace
 Author: Peck, Scott
 Tags: book, book, biblio, book
 Link: https://www.amazon.com/Different-Drum-Community-Making-Peace-ebook/dp/B003LL3K5M/
@@ -15223,7 +15223,7 @@ Link: http://www.precaution.org/lib/07/prn_some_ideas.htm
 Id: prechtel-01
 Type: book
 Media: Ebook
-Title: Smell of Rain on Dust: Grief and Praise, The
+Title: The Smell of Rain on Dust: Grief and Praise
 Author: Prechtel, Martu00edn
 Date: 2015
 Publisher: North Atlantic Books
@@ -15240,7 +15240,7 @@ Link: https://www.premierkites.com/collections/beginner/products/66132
 Id: press-01
 Type: book
 Media: Ebook
-Title: Greatest Speeches of Elizabeth Warren (so faru2026), The
+Title: The Greatest Speeches of Elizabeth Warren (so faru2026)
 Author: Press, Progressive
 Date: 2017
 Publisher: Publisher Unknown
@@ -16110,7 +16110,7 @@ Link: http://www.regenerativedesign.org/
 Id: reich-01
 Type: book
 Media: Ebook
-Title: Function of the Orgasm: Discovery of the Orgone, The
+Title: The Function of the Orgasm: Discovery of the Orgone
 Author: Reich, Wilhelm
 Date: 2013
 Publisher: Farrar, Straus and Giroux
@@ -18368,7 +18368,7 @@ ASIN: 11129978
 Id: stephenson-02
 Type: book
 Media: Ebook
-Title: Rise and Fall of D.O.D.O.: A Novel, The
+Title: The Rise and Fall of D.O.D.O.: A Novel
 Author: Stephenson, Neal
 Date: 2017
 Publisher: HarperCollins
@@ -18797,7 +18797,7 @@ Link: http://www.taichisage.com/
 Id: tait-01
 Type: book
 Media: Ebook
-Title: WORDS OF JESUS: The spoken words of Jesus in chronological order., THE
+Title: THE WORDS OF JESUS: The spoken words of Jesus in chronological order.
 Author: TAIT, DAVID
 Date: 2016
 Publisher: Walking With Jesus Ministries
@@ -20577,7 +20577,7 @@ Link: https://www.amazon.com/When-Gadgets-Betray-Infatuation-Technologies-ebook/
 Id: van-01
 Type: book
 Media: Ebook
-Title: Revolution Where You Live: Stories from a 12,000-Mile Journey Through a New America, The
+Title: The Revolution Where You Live: Stories from a 12,000-Mile Journey Through a New America
 Author: van Gelder, Sarah
 Date: 2017
 Publisher: Berrett-Koehler Publishers
@@ -20657,7 +20657,7 @@ ASIN: 15062936
 Id: veblen-01
 Type: book
 Media: Ebook
-Title: Theory of the Leisure Class, The
+Title: The Theory of the Leisure Class
 Author: Veblen, Thorstein
 Date: 2020
 Publisher: Publisher Unknown
@@ -22150,7 +22150,7 @@ Link: http://www.winlink.org/
 Id: winters-01
 Type: book
 Media: Ebook
-Title: Sentinel, The
+Title: The Sentinel
 Author: Winters, Eden
 Date: 2014
 Publisher: Rocky Ridge Books
