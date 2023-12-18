@@ -115,6 +115,9 @@ https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and<br>
 https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275</p>
 </note>
 
+Id: brand-04
+<note>Excellent analysis.</note>
+
 Id: browne-01
 <note>Media: DVD</note>
 
@@ -431,6 +434,11 @@ target="_blank">part 2/2</a> - video</note>
 Id: graeber-06
 <note>Charlie Rose. 2006?</note> Id: graeber-11 <note>See also
 [srslywrong-01]</note>
+
+Id: graeber-12
+<note>David Graeber talked about jobs that he says qualify as
+employment but are pointless and unnecessary. David Graeber was
+interviewed by Cory Doctorow.</note>
 
 Id: graves-01
 <note>Handout prepared by Chris Cowan for Dr. Gaves's presentation in
@@ -858,6 +866,19 @@ deeper with: Tamera at</a> <a
 href="https://www.tamera.org/">https://www.tamera.org/</a> We need to
 stop this "war" on the "other"; we are part of nature, and need to see
 how to be a lot more cooperative.</note>
+
+Id: moore-08
+<note>Extra chapter added to Sicko. Comment: @TwinTn: Just to clear
+something up: Bastøy is not a normal prison sentence, it is a
+rehabilitation program at the end of a long sentence. Murderers and
+rapists are not normally sent directly to bastøy. They may serve
+several years in a closed prison, and if they behave and pose little
+threat, they may finish their sentence at Bastøy. The maximum prison
+sentence in Norway is indeed 21 years, but if an inmate poses a
+serious threat to society, he can be held indefinitely (eg. life). To
+summarize: The Norwegian prison system does not release inmates
+according to when society is ready to take them back, but when the
+inmates are ready to be a part of society again.</note>
 
 Id: motherjones-01
 <note>See also: [haidt-01]</note>
@@ -1523,6 +1544,9 @@ Id: vimeo-01
 <note><a href="http://www.livingeconomies.org/" target="_blank">BALLE
 - Business Alliance for Local Living Economies</a></note>
 
+Id: weiner-davis-01
+<note>Good tips</note>
+
 Id: wikipedia-46
 <note>As of October 2011, over 350 million users accessed Facebook
 through their mobile phones</note>
@@ -2144,9 +2168,6 @@ href="https://www.youtube.com/watch?v=U1k9APedIUY">Kimberly Jones -
 Speaking Out About Black Experiences in America | The Daily Social
 Distancing Show</a></note>
 
-Id: youtube-152
-<note>Excellent analysis.</note>
-
 Id: youtube-155
 <note>This channel also has a number of video about how to use a
 microscope.</note>
@@ -2167,27 +2188,6 @@ Id: youtube-158
 <note>Here's the web site link: <a
 href="https://spotthestation.nasa.gov/home.cfm" target="_blank">Spote
 The Station</a></note>
-
-Id: youtube-168
-<note>Good tips</note>
-
-Id: youtube-179
-<note>David Graeber talked about jobs that he says qualify as
-employment but are pointless and unnecessary. David Graeber was
-interviewed by Cory Doctorow.</note>
-
-Id: youtube-180
-<note>Extra chapter added to Sicko. Comment: @TwinTn: Just to clear
-something up: Bastøy is not a normal prison sentence, it is a
-rehabilitation program at the end of a long sentence. Murderers and
-rapists are not normally sent directly to bastøy. They may serve
-several years in a closed prison, and if they behave and pose little
-threat, they may finish their sentence at Bastøy. The maximum prison
-sentence in Norway is indeed 21 years, but if an inmate poses a
-serious threat to society, he can be held indefinitely (eg. life). To
-summarize: The Norwegian prison system does not release inmates
-according to when society is ready to take them back, but when the
-inmates are ready to be a part of society again.</note>
 
 Id: zeitgeist-01
 <note>Related: <a href="http://www.thevenusproject.com/"

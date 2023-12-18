@@ -277,6 +277,16 @@ Date: 1971
 Tags: biblio, book, book
 Link: https://www.amazon.com/gp/product/B003T0G9GM/
 
+Id: allen-01
+Old: youtube-074
+Type: media
+Media: video
+Title: Will Allen [Urban Farmer] - Growing Power
+Author: Allen, Will
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=K5zP4WPgcqY
+Annote: See notes.
+
 Id: allende-01
 Type: media
 Media: video
@@ -791,6 +801,15 @@ Media: video
 Title: Karen Armstrong: 2008 TED Prize wish: Charter for Compassion
 Tags: ted, biblio, video
 Link: http://www.ted.com/index.php/talks/karen_armstrong_makes_her_ted_prize_wish_the_charter_for_compassion.html
+
+Id: armstrong-02
+Old: youtube-076
+Type: media
+Media: video
+Title: Alison Armstrong: How Women Speak Part 1 of 3 There is NO Point!
+Author: Armstrong, Alison
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=L4kE_JVu_Qk
 
 Id: art-simon-tripod-01
 Type: article
@@ -1355,6 +1374,16 @@ Tags: community
 ASIN: B0B2ZMZYN4
 Link: https://www.amazon.com/gp/product/B0B2ZMZYN4/
 
+Id: berry-02
+Old: youtube-088
+Type: media
+Media: video
+Title: Drew Berry: Animations of unseeable biology
+Author: Berry, Drew
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=WFCvkkDSfIU
+Annote: See notes.
+
 Id: bestbuy-01
 Type: site
 Media: product
@@ -1618,6 +1647,16 @@ Tags: biblio, commons
 Link: https://www.filmsforaction.org/watch/this-land-is-our-land-the-fight-to-reclaim-the-commons/
 AltLink: https://shop.mediaed.org/this-land-is-our-land-p146.aspx
 
+Id: bonar-01
+Old: youtube-085
+Type: media
+Media: video
+Title: Funniest Thing You Can Do With A Squeaky Toy. Brad Bonar - Full Special
+Author: Bonar, Brad
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=ToTS_-JVaVs
+Annote: See notes.
+
 Id: bookdarts-01
 Type: site
 Media: product
@@ -1766,6 +1805,15 @@ Author: Brand, Stewart
 Publisher: Long Now
 Tags: misc, link, biblio, link
 Link: http://blog.longnow.org/02018/01/16/stewart-brand-gives-in-depth-and-personal-interview-to-tim-ferriss/
+
+Id: brand-04
+Type: media
+Media: video
+Title: Why The Left Can't Handle Donald Trump
+Author: Brand, Russell
+Tags: politics, video, biblio, video
+Link: https://www.youtube.com/watch?v=YofLsS3vfOU
+Annote: See notes.
 
 Id: brasschecktv-01
 Type: article
@@ -3744,6 +3792,24 @@ Tags: article, biblio, article
 Link: https://www.sciencetimes.com/articles/34138/20211025/tiktok-bad-brain-constant-social-media-streaming-narrows-collective-attention.htm
 AltLink: https://archive.vn/7gVnB
 
+Id: davis-02
+Old: youtube-016
+Type: media
+Media: video
+Title: Angela Davis: Wars Against Women- Past Present and Future?
+Author: Davis, Angela
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=DeA-m1jbi28
+
+Id: davis-03
+Old: youtube-030
+Type: media
+Media: video
+Title: Angela Davis: How Does Change Happen?
+Author: Davis, Angela
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=Pc6RHtEbiOA
+
 Id: dbaron-01
 Type: article
 Media: link
@@ -5144,6 +5210,17 @@ Date: 2023-09-21
 Link: https://charleseisenstein.substack.com/p/on-mobs-cults-and-russell-brand
 Annote: <p>See notes</p>
 
+Id: eisenstein-15
+Old: youtube-048
+Type: media
+Media: video
+Title: Occupy Wall St.-NYC-ReEnvisioning Money-Charles Eisenstein-October 24-2011-film by Antonio Ferrera
+Author: Eisenstein, Charles
+Date: 2011-10-24
+Producer: Antonio Ferrera
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=ldeqY6O0LV0
+
 Id: eisler-01
 Type: book
 Media: Ebook
@@ -5205,6 +5282,15 @@ Date: 2021-10-12
 Tags: article, biblio, article
 Link: https://rianeeisler.com/building-cultures-of-partnership-and-peace/
 AltLink: https://archive.vn/DPyMX
+
+Id: eisler-07
+Old: youtube-009
+Type: media
+Media: video
+Title: Domination, Gender and Fear with Riane Eisler
+Author: Eisler, Riane
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=2USTyvTRG58
 
 Id: elearn-ellak-gr-01
 Type: article
@@ -5864,6 +5950,28 @@ Tags: ted, biblio
 Link: http://www.ted.com/talks/richard_feynman.html
 Annote: <p>Link to a number of interview videos.</p>
 
+Id: feynman-02
+Old: youtube-109
+Type: media
+Media: video
+Title: The complete FUN TO IMAGINE with Richard Feynman
+Author: Feynman, Richard
+Publisher: BBC2
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=uY-u1qyRM5w
+Annote: See notes.
+
+Id: feynman-03
+Old: youtube-081
+Type: media
+Media: video
+Title: The complete FUN TO IMAGINE with Richard Feynman BBC2
+Author: Feynman, Richard
+Publisher: BBC2
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=P1ww1IXRfTA
+Annote: See notes.
+
 Id: fi-google-01
 Type: site
 Media: site
@@ -6438,6 +6546,16 @@ Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=f0un-l1L8Zw
 Annote: See also Jonathan Haidt
 
+Id: fried-01
+Old: youtube-010
+Type: media
+Media: video
+Title: Jason Fried: Why work doesn't happen at work
+Author: Fried, Jason
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=5XD2kNopsUs&amp;feature=youtu.be
+Annote: See notes.
+
 Id: frisch-01
 Type: book
 Media: book
@@ -6452,6 +6570,16 @@ Media: link
 Title: Round-Robin Database Storage Engine (RRD) ;  FromDual
 Tags: toolsw, appdb, link, biblio, link
 Link: http://www.fromdual.com/round-robin-database-storage-engine
+
+Id: fromm-01
+Old: youtube-042
+Type: media
+Media: video
+Title: Erich Fromm: The Automaton Citizen and Human Rights (1 of 3)
+Author: Fromm, Erich
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=dXiZnong2_U
+Annote: See notes.
 
 Id: functionaltools-01
 Type: media
@@ -6473,6 +6601,16 @@ Media: site
 Title: Future Method - Cleansing Done Right
 Tags: culture, link, biblio, link
 Link: https://futuremethod.com/
+
+Id: gage-01
+Old: youtube-103
+Type: media
+Media: video
+Title: Electrical experiments with plants that count and communicate
+Author: Gage, Greg
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=pvBlSFVmoaw
+Annote: See notes.
 
 Id: galacticinteractions-scientopia-01
 Type: article
@@ -6554,6 +6692,17 @@ Date: 2015
 Publisher: 20th Century Fox
 Tags: biblio
 ASIN: 690192
+
+Id: gates-01
+Old: youtube-062
+Type: media
+Media: video
+Title: The next outbreak? We're not ready ;  Bill Gates
+Author: Gates, Bill
+Date: 2015-04-03
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=6Af6b_wyiwI
+Annote: See notes.
 
 Id: gatto-01
 Type: book
@@ -6640,6 +6789,17 @@ Publisher: Valor Academy
 Tags: home, tofile, set3, link, biblio, link
 ISBN: 0998919101
 Link: https://www.amazon.com/Underground-History-American-Education-Investigation/dp/0998919101
+
+Id: gatto-09
+Old: youtube-090
+Type: media
+Media: video
+Title: John Taylor Gatto: Elite Schooling - Part 1 of 2
+Author: Gatto, John Taylor
+Date: 2014 -08-13
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=Ztq5WqbOFL8
+Annote: See notes.
 
 Id: gawande-01
 Type: book
@@ -7640,6 +7800,17 @@ Tags: culture, book, important, biblio, book
 Link: https://www.amazon.com/dp/B08R2KL3VY
 Annote: See notes.
 
+Id: graeber-12
+Type: media
+Media: video
+Title: David Graeber - Bullsh*t Jobs: A Theory
+Author: Graeber, David
+Date: 2018-06-13
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=6eyaDHj5I5g
+AltLink: https://www.c-span.org/video/?446716-2/bullshit-jobs
+Annote: See notes.
+
 Id: grammarly-01
 Type: article
 Media: link
@@ -7956,6 +8127,16 @@ Tags: ted, biblio, video, video
 Link: http://www.youtube.com/watch?v=iIhOXCgSunc
 Annote: See notes.
 
+Id: hanauer-02
+Old: youtube-104
+Type: media
+Media: video
+Title: Beware, fellow plutocrats, the pitchforks are coming
+Author: Hanauer, Nick
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=q2gO4DKVpa8
+Annote: See notes.
+
 Id: handcock-01
 Type: media
 Media: video
@@ -7964,6 +8145,15 @@ Date: 2013-17-03
 Tags: ted, biblio, video, video
 Link: http://www.youtube.com/watch?v=-b6-0yW7Iaw&amp;feature=youtu.be
 Annote: See notes.
+
+Id: hancock-02
+Old: youtube-024
+Type: media
+Media: video
+Title: Graham Hancock Debunks David Morrison Astrobiologist
+Author: Hancock, Graham
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=KFjvgzpHr88
 
 Id: handpen-01
 Type: article
@@ -8554,6 +8744,15 @@ Title: Red Dragon
 Author: Hopkins, Anthony
 Tags: biblio
 ISBN: 0783268807
+
+Id: horn-01
+Old: youtube-141
+Type: media
+Media: video
+Title: Intrigue - How to Create Interest and Connect with Anyone: Sam Horn at TEDxBethesdaWomen
+Author: Horn, Sam
+Tags: misc, link, biblio, link
+Link: https://www.youtube.com/watch?v=Xlg8zdSVjgg
 
 Id: hosted-webs-01
 Type: article
@@ -9527,7 +9726,7 @@ Link: https://www.npr.org/sections/codeswitch/2023/03/22/1161664788/the-women-be
 AltLink: https://archive.vn/Oo8UA
 Annote: See notes.
 
-Id: Johnson-08
+Id: johnson-08
 Type: media
 Media: video
 Title: How to Find Joy in Climate Action | Ayana Elizabeth Johnson | TED
@@ -9972,6 +10171,16 @@ Tags: biblio, important, article, article
 Link: https://www.nytimes.com/2023/02/26/opinion/microsoft-bing-sydney-artificial-intelligence.html
 AltLink: https://archive.vn/gaYg2
 
+Id: klett-01
+Old: youtube-060
+Type: media
+Media: video
+Title: Child Discipline Isn't What It Used To Be. Fred Klett - Full Special
+Author: Klett, Fred
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=1OJPu27Bve0
+Annote: See notes.
+
 Id: knight-01
 Type: article
 Media: link
@@ -10378,6 +10587,16 @@ Publisher: Knopf (2010), Edition: 1, 224 pages
 Tags: biblio, important
 ISBN: 0307269647
 ASIN: 8749061
+
+Id: lanier-04
+Old: youtube-002
+Type: media
+Media: video
+Title: Jaron Lanier - You Are Not A Gadget
+Author: Lanier, Jaron
+Tags: video, biblio, video
+Link: http://www.youtube.com/user/theRSAorg#p/a/F0BF7CBE52B52896/1/T5JZFx6rIlY
+Annote: See notes.
 
 Id: lanlinkup-01
 Type: article
@@ -11041,6 +11260,15 @@ Title: Never knew this about ants
 Tags: video, biblio, video
 Link: http://www.wimp.com/lordants/
 
+Id: lorde-01
+Old: youtube-056
+Type: media
+Media: video
+Title: Audre Lorde reads Uses of the Erotic: The Erotic as Power
+Author: Lorde, Audre
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=xFHwg6aNKy0
+
 Id: lorenzod-n-wordpress-01
 Type: article
 Media: link
@@ -11255,6 +11483,15 @@ Publisher: Gabriola Island, BC, Canada : New Society Publishers, 2014.
 Tags: biblio, important
 ISBN: 1550925806
 ASIN: 1401243
+
+Id: maddow-01
+Old: youtube-038
+Type: media
+Media: video
+Title: Thanks Patriot Act - Obama Implements 'Precrime' 'Prolonged Detention' Rachel Maddow Reports
+Author: Maddow, Rachel
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=XBdPEK5pNtE&amp;feature=related
 
 Id: madeonthecoastlocalshmbpumpkinfest-01
 Type: media
@@ -11945,6 +12182,17 @@ Title: Microvox
 Tags: home, tofile, set8, link, biblio, link
 Link: http://members.tripod.com/werdav/t2smicrv.html
 
+Id: mendelssohn-01
+Old: youtube-095
+Type: media
+Media: video
+Title: Tamera - Benjamin von Mendelssohn - Part 1 of 2
+Author: Mendelssohn, Benjamin von
+Date: 2014-07-16
+Tags: video, biblio, video, video
+Link: https://www.youtube.com/watch?v=eIV-jMKglGM
+Annote: See notes.
+
 Id: merchantcircle-01
 Type: article
 Media: link
@@ -12006,6 +12254,15 @@ Media: link
 Title: Electric vehicles are reality
 Tags: home, electriccar, googlesearch, link, biblio, link
 Link: http://www.metricmind.com/ac_honda/main.htm
+
+Id: meyer-01
+Old: youtube-029
+Type: media
+Media: video
+Title: Pamela Meyer: How to spot a liar
+Author: Meyer, Pamela
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=P_6vDLq64gE
 
 Id: meyers-01
 Type: article
@@ -12277,6 +12534,25 @@ Title: Thievery, Fraud, Fistfights and Weed: The Other Side of Community Gardens
 Tags: culture, link, biblio, link
 Link: http://modernfarmer.com/2013/12/robbery-drugs-fistfights-dark-side-community-gardening/
 
+Id: molyneux-01
+Old: youtube-006
+Type: media
+Media: video
+Title: A shorter version: Stefan Molyneux of Freedomain Radio Talks Sex and Violence on TV
+Author: Molyneux, Stefan
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=-ObjgMzI904&amp;list=PL647967DADDBDA0A7
+
+Id: molyneux-02
+Old: youtube-051
+Type: media
+Media: video
+Title: Ending the State in 30 Days! Stefan Molyneux of Freedomain Radio at Freedom Summit 2010
+Author: Molyneux, Stefan
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=pNyIcJIQKV0&amp;feature=relmfu
+Annote: See notes.
+
 Id: momfamily-01
 Type: media
 Media: video
@@ -12383,6 +12659,23 @@ Publisher: Lionsgate (2016), Edition: DVD
 Tags: biblio
 ASIN: 17895373
 
+Id: moore-08
+Type: media
+Media: video
+Title: Michael Moore Goes to Norway & Visits a Prison of the Future
+Date: 2011-03-18
+Link: https://www.youtube.com/watch?v=01mTKDaKa6Q
+Annote: See notes.
+
+Id: moore-09
+Old: youtube-023
+Type: media
+Media: video
+Title: CNN Gets Blitzed by Michael Moore
+Author: Moore, Michael
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=JpKoN40K7mA&amp;feature=related
+
 Id: moria-whyayh-01
 Type: article
 Media: link
@@ -12432,6 +12725,16 @@ Title: As work gets more complex, 6 rules to simplify
 Author: Morieux, Yves
 Tags: video, video, biblio, video
 Link: https://www.youtube.com/watch?v=0MD4Ymjyc2I
+
+Id: morieux-02
+Old: youtube-008
+Type: media
+Media: video
+Title: Yves Morieux: As work gets more complex, 6 rules to simplify
+Author: Morieux, Yves
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=0MD4Ymjyc2I
+Annote: See notes.
 
 Id: morrell-01
 Type: book
@@ -13507,7 +13810,17 @@ Title: Where Are All the Bob Ross Paintings? We Found Them. - The New York Times
 Tags: video, link, biblio, link, video
 Link: https://www.nytimes.com/video/arts/100000005865824/bob-ross-paintings-mystery.html?playlistId=video/Most-Viewed
 
-Id: o'keefe-01
+Id: o-duinn-01
+Old: youtube-012
+Type: media
+Media: video
+Title: Release Engineering as a Force Multiplier, by John O'Duinn - Mozilla
+Author: O'Duinn, John
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=7j0NDGJVROI
+Annote: See notes.
+
+Id: o-keefe-01
 Type: article
 Media: article
 Title: The Craft of Prolog (Logic Programming)
@@ -13515,7 +13828,7 @@ Author: O'Keefe, Richard A.
 Tags: biblio
 ISBN: 0262150395
 
-Id: o'reilly-01
+Id: o-reilly-01
 Type: article
 Media: article
 Title: Managing UUCP and Usenet (A Nutshell Book)
@@ -13531,6 +13844,13 @@ Author: O'Keefe, James
 Tags: ted, biblio
 Link: https://www.youtube.com/watch?v=4Khn_z9FPmU
 Annote: See notes.
+
+Id: o-reillynet-01
+Type: article
+Media: link
+Title: O'Reilly Network -- Sending Apache httpd Logs to Syslog
+Tags: toolsw, syslog, link, biblio, link
+Link: http://www.oreillynet.com/pub/a/sysadmin/2006/10/12/httpd-syslog.html
 
 Id: oaec-01
 Type: site
@@ -13633,6 +13953,26 @@ Title: Gerrymandering: Last Week Tonight with John Oliver (HBO)
 Author: Oliver, John
 Date: 2017-04-09
 Link: https://www.youtube.com/watch?v=A-4dIImaodQ
+Annote: See notes.
+
+Id: oliver-02
+Old: youtube-151
+Type: media
+Media: video
+Title: Police: Last Week Tonight with John Oliver (HBO)
+Author: Oliver, John
+Tags: politics, video, biblio, video
+Link: https://www.youtube.com/watch?v=Wf4cea5oObY
+Annote: See notes.
+
+Id: oliver-03
+Old: youtube-075
+Type: media
+Media: video
+Title: Sex Education: Last Week Tonight with John Oliver (HBO)
+Author: Oliver, John
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=L0jQz6jqQS0&amp;t=35s
 Annote: See notes.
 
 Id: olson-01
@@ -14009,12 +14349,14 @@ Title: Managing RPM-Based Systems with Kickstart and Yum
 Tags: toolsw, platform, centos, link, biblio, link
 Link: http://www.oreilly.com/catalog/9780596513825/index.html
 
-Id: oreillynet-01
-Type: article
-Media: link
-Title: O'Reilly Network -- Sending Apache httpd Logs to Syslog
-Tags: toolsw, syslog, link, biblio, link
-Link: http://www.oreillynet.com/pub/a/sysadmin/2006/10/12/httpd-syslog.html
+Id: oschman-01
+Old: youtube-139
+Type: media
+Media: video
+Title: Electric Universe - The Human Story - James Oschman
+Author: Oschman, James
+Tags: misc, exercise, health, link, biblio, link
+Link: https://www.youtube.com/watch?v=tGylGdNrG4o
 
 Id: oss-oetiker-01
 Type: article
@@ -14826,6 +15168,16 @@ Date: 2011
 Publisher: Vintage (2011), 199 pages
 Tags: biblio, important
 ASIN: 46821
+
+Id: potter-01
+Old: youtube-113
+Type: media
+Media: video
+Title: The secret US prisons you've never heard of before
+Author: Potter, Will
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=xuAAPsiD768
+Annote: See notes.
 
 Id: potterton-01
 Type: article
@@ -15945,6 +16297,15 @@ Tags: ted, biblio
 Link: http://www.ted.com/talks/mary_roach_10_things_you_didn_t_know_about_orgasm.html
 Annote: See notes.
 
+Id: roach-02
+Old: youtube-013
+Type: media
+Media: video
+Title: Mary Roach: 10 things you didn't know about orgasm
+Author: Roach, Mary
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=7jx0dTYUO5E
+
 Id: robertnz-01
 Type: article
 Media: link
@@ -15962,6 +16323,16 @@ DateSeen: 2023-04-13
 Tags: article, biblio, article
 Link: https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
 AltLink: https://archive.vn/viisR
+Annote: See notes.
+
+Id: robertson-01
+Old: youtube-026
+Type: media
+Media: video
+Title: JEANNE ROBERTSON VIDEO! Don't Bungee Jump Naked!
+Author: Robertson, Jeanne
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=L1_W0LCHwK4
 Annote: See notes.
 
 Id: robinson-01
@@ -16060,12 +16431,32 @@ Tags: biblio
 ISBN: 0452263328
 ASIN: 14958850
 
+Id: ronson-01
+Old: youtube-112
+Type: media
+Media: video
+Title: How one tweet can ruin your life
+Author: Ronson, Jon
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=wAIP6fI0NAI
+Annote: See notes.
+
 Id: rootsandshoots-01
 Type: site
 Media: site
 Title: Home - Roots &amp; Shoots : Engaging and empowering youth with service learning projects.
 Tags: home, change, ted, link, biblio, link
 Link: http://www.rootsandshoots.org/
+
+Id: rose-01
+Type: media
+Media: video
+Title: Psychologist debunks 8 myths of mass scale
+Author: Rose, Todd
+Date: 2022-12-11
+Publisher: Big Think
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=BD_Euf_CBbs
 
 Id: rosegardenmusic-01
 Type: site
@@ -16199,6 +16590,16 @@ Tags: commons
 Link: https://rushkoff.medium.com/the-tragedy-of-no-commons-b763189a6fdf
 AltLink: https://archive.vn/XSJnJ
 
+Id: russell-01
+Old: youtube-025
+Type: media
+Media: video
+Title: Cameron Russell: Looks aren't everything. Believe me, I'm a model
+Author: Russell, Cameron
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=KM4Xe6Dlp0Y
+Annote: See notes.
+
 Id: russianbalalaika-01
 Type: media
 Media: video
@@ -16323,6 +16724,26 @@ Tags: ted, biblio
 Link: http://www.ted.com/talks/michael_sandel_what_s_the_right_thing_to_do.html
 Annote: See notes.
 
+Id: sanders-01
+Old: youtube-035
+Type: media
+Media: video
+Title: Sen Bernie Sanders Amazing Speech DEC 02 2010
+Author: Sanders, Bernie
+Date: 2010-12-02 
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=Tq1zpHF0J04&amp;feature=related
+
+Id: sanders-02
+Old: youtube-021
+Type: media
+Media: video
+Title: Senator Sanders and Michael Moore
+Author: Sanders, Bernie
+Authors: Moore, Michael
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=I5rcnAWaC64&amp;feature=related
+
 Id: sandler-01
 Type: media
 Media: DVD
@@ -16417,6 +16838,16 @@ Media: site
 Title: 12th Annual Touring Festival 2017 - Dan Savage's HUMP Film Festival
 Tags: humpfilmfest, link, biblio, link
 Link: https://humpfilmfest.com/
+
+Id: savory-01
+Old: youtube-111
+Type: media
+Media: video
+Title: How to green the world's deserts and reverse climate change
+Author: Savory, Allan
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=vpTHi7O66pI
+Annote: See notes.
 
 Id: savory-global-01
 Type: site
@@ -16906,6 +17337,16 @@ Tags: ted, biblio
 Link: http://www.ted.com/talks/elif_shafak_the_politics_of_fiction.html
 Annote: See notes.
 
+Id: shane-01
+Old: youtube-080
+Type: media
+Media: video
+Title: The danger of AI is weirder than you think ;  Janelle Shane
+Author: Shane, Janelle
+Tags: video, biblio, video
+Link: https://www.youtube.com/watch?v=OhCzX0iLnOc
+Annote: See notes.
+
 Id: shareable-01
 Type: site
 Media: site
@@ -17211,6 +17652,15 @@ Media: site
 Title: sipdroid - Project Hosting on SIP/VoIP client for Android
 Tags: toolhw, phone, link, biblio, link
 Link: http://sipdroid.org/
+
+Id: sivers-01
+Old: youtube-027
+Type: media
+Media: video
+Title: Derek Sivers: Keep your goals to yourself
+Author: Sivers, Derek
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=NHopJHSlVo4
 
 Id: sixrevisions-01
 Type: article
@@ -17847,6 +18297,16 @@ Media: link
 Title: Stafford - The trusted name in family-owned senior care and rehabilitation : Stafford Suites in Port Orchard
 Tags: misc, link, biblio, link
 Link: http://www.staffordsuites.com/portorchard/
+
+Id: stallman-01
+Old: youtube-033
+Type: media
+Media: video
+Title: Richard Stallman lecturing about copyright at University of Calgary (2009)
+Author: Stallman, Richard
+Date: 2009
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=SNBMdDaYhZA&amp;feature=channel
 
 Id: standing-01
 Type: book
@@ -20668,6 +21128,16 @@ Title: Nice trick - How to turn water into marbles
 Tags: video, biblio, video
 Link: http://www.wimp.com/watermarbles/
 
+Id: watts-01
+Old: youtube-054
+Type: media
+Media: video
+Title: Alan Watts - Money
+Author: Watts, Alan
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=vvBKR5GPCWc
+Annote: See notes.
+
 Id: wdslt-01
 Type: site
 Media: site
@@ -20723,6 +21193,15 @@ Media: link
 Title: What is X3D? ;  Web3D Consortium
 Tags: tools, link, biblio, link
 Link: http://www.web3d.org/x3d/what-x3d
+
+Id: webb-01
+Old: youtube-040
+Type: media
+Media: video
+Title: Amy Webb: How I hacked online dating
+Author: Webb, Amy
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=d6wG_sAdP0U
 
 Id: webcache-googleusercontent-01
 Type: article
@@ -20842,6 +21321,15 @@ Media: link
 Title: We Feel Fine / Movements
 Tags: home, change, link, biblio, link
 Link: http://wefeelfine.org/movements.html
+
+Id: weiner-davis-01
+Type: media
+Media: video
+Title: The Sex-Starved Marriage ;  Michele Weiner-Davis ;  TEDxCU
+Author: Weiner-Davis, Michele
+Tags: video, video, biblio, video
+Link: https://www.youtube.com/watch?v=Ep2MAx95m20
+Annote: See notes.
 
 Id: weirdlife-01
 Type: media
@@ -22184,6 +22672,15 @@ Link: https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Ec
 AltLink: https://tinyurl.com/5ecr2k6j
 https://web.archive.org/web/20231024180815/https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
 
+Id: yankovic-01
+Old: youtube-052
+Type: media
+Media: video
+Title: Perform This Way (Parody of Born This Way by Lady Gaga) - Weird Al Yankovic
+Author: Yankovic, Weird Al
+Tags: video, biblio, video
+Link: http://www.youtube.com/watch?v=ss_BmTGv43M
+
 Id: yates-01
 Type: book
 Media: Paperback
@@ -22326,14 +22823,6 @@ Title: The Bomb in the Brain: The True Roots of Human Violence
 Tags: video, biblio, video
 Link: http://www.youtube.com/playlist?list=PLB3F2CF45EEB95C80&amp;feature=plcp
 
-Id: youtube-002
-Type: media
-Media: video
-Title: Jaron Lanier - You Are Not A Gadget
-Tags: video, biblio, video
-Link: http://www.youtube.com/user/theRSAorg#p/a/F0BF7CBE52B52896/1/T5JZFx6rIlY
-Annote: See notes.
-
 Id: youtube-003
 Type: media
 Media: video
@@ -22356,13 +22845,6 @@ Title: Amazing dancer
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?feature=player_embedded&amp;v=RM2Aio9mvNE#!
 
-Id: youtube-006
-Type: media
-Media: video
-Title: A shorter version: Stefan Molyneux of Freedomain Radio Talks Sex and Violence on TV
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=-ObjgMzI904&amp;list=PL647967DADDBDA0A7
-
 Id: youtube-007
 Type: media
 Media: video
@@ -22371,50 +22853,12 @@ Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=0E_tM_dI5eA
 Annote: See notes.
 
-Id: youtube-008
-Type: media
-Media: video
-Title: Yves Morieux: As work gets more complex, 6 rules to simplify
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=0MD4Ymjyc2I
-Annote: See notes.
-
-Id: youtube-009
-Type: media
-Media: video
-Title: Domination, Gender and Fear with Riane Eisler
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=2USTyvTRG58
-
-Id: youtube-010
-Type: media
-Media: video
-Title: Jason Fried: Why work doesn't happen at work
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=5XD2kNopsUs&amp;feature=youtu.be
-Annote: See notes.
-
 Id: youtube-011
 Type: media
 Media: video
 Title: Flight 405
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=7_ITIlPvcm0
-
-Id: youtube-012
-Type: media
-Media: video
-Title: Release Engineering as a Force Multiplier, by John O'Duinn - Mozilla
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=7j0NDGJVROI
-Annote: See notes.
-
-Id: youtube-013
-Type: media
-Media: video
-Title: Mary Roach: 10 things you didn't know about orgasm
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=7jx0dTYUO5E
 
 Id: youtube-014
 Type: media
@@ -22429,13 +22873,6 @@ Media: video
 Title: Human Computation
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=Aszl5avDtek
-
-Id: youtube-016
-Type: media
-Media: video
-Title: Angela Davis: Wars Against Women- Past Present and Future?
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=DeA-m1jbi28
 
 Id: youtube-017
 Type: media
@@ -22468,56 +22905,12 @@ Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=I5B9LbTX4us
 Annote: See notes.
 
-Id: youtube-021
-Type: media
-Media: video
-Title: Senator Sanders and Michael Moore
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=I5rcnAWaC64&amp;feature=related
-
 Id: youtube-022
 Type: media
 Media: video
 Title: The Revolution Will Not Be Televised -- Chavez The Coup
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=Id--ZFtjR5c
-
-Id: youtube-023
-Type: media
-Media: video
-Title: CNN Gets Blitzed by Michael Moore
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=JpKoN40K7mA&amp;feature=related
-
-Id: youtube-024
-Type: media
-Media: video
-Title: Graham Hancock Debunks David Morrison Astrobiologist
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=KFjvgzpHr88
-
-Id: youtube-025
-Type: media
-Media: video
-Title: Cameron Russell: Looks aren't everything. Believe me, I'm a model
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=KM4Xe6Dlp0Y
-Annote: See notes.
-
-Id: youtube-026
-Type: media
-Media: video
-Title: JEANNE ROBERTSON VIDEO! Don't Bungee Jump Naked!
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=L1_W0LCHwK4
-Annote: See notes.
-
-Id: youtube-027
-Type: media
-Media: video
-Title: Derek Sivers: Keep your goals to yourself
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=NHopJHSlVo4
 
 Id: youtube-028
 Type: media
@@ -22526,20 +22919,6 @@ Title: LFTR in 5 Minutes - THORIUM REMIX 2011
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=P9M__yYbsZ4
 Annote: See notes.
-
-Id: youtube-029
-Type: media
-Media: video
-Title: Pamela Meyer: How to spot a liar
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=P_6vDLq64gE
-
-Id: youtube-030
-Type: media
-Media: video
-Title: Angela Davis: How Does Change Happen?
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=Pc6RHtEbiOA
 
 Id: youtube-031
 Type: media
@@ -22555,26 +22934,12 @@ Title: The Prison: A Sign of Democracy?
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=Q25-KJ55k_0
 
-Id: youtube-033
-Type: media
-Media: video
-Title: Richard Stallman lecturing about copyright at University of Calgary (2009)
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=SNBMdDaYhZA&amp;feature=channel
-
 Id: youtube-034
 Type: media
 Media: video
 Title: Pleasure and The Creative Power of Sexual Energy
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=Sv6rq2tNa2M
-
-Id: youtube-035
-Type: media
-Media: video
-Title: Sen Bernie Sanders Amazing Speech DEC 02 2010
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=Tq1zpHF0J04&amp;feature=related
 
 Id: youtube-036
 Type: media
@@ -22590,13 +22955,6 @@ Title: Thorium Remix 2009 - LFTR in 16 Minutes
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=WWUeBSoEnRk
 
-Id: youtube-038
-Type: media
-Media: video
-Title: Thanks Patriot Act - Obama Implements 'Precrime' 'Prolonged Detention' Rachel Maddow Reports
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=XBdPEK5pNtE&amp;feature=related
-
 Id: youtube-039
 Type: media
 Media: video
@@ -22604,27 +22962,12 @@ Title: Asteroid Discovery from 1980 to 2010
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=cKT1VGIDEd4
 
-Id: youtube-040
-Type: media
-Media: video
-Title: Amy Webb: How I hacked online dating
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=d6wG_sAdP0U
-
 Id: youtube-041
 Type: media
 Media: video
 Title: The Quantum Conspiracy: What Popularizers of QM Don't Want You to Know
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=dEaecUuEqfc
-
-Id: youtube-042
-Type: media
-Media: video
-Title: Erich Fromm: The Automaton Citizen and Human Rights (1 of 3)
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=dXiZnong2_U
-Annote: See notes.
 
 Id: youtube-043
 Type: media
@@ -22662,13 +23005,6 @@ Title: The Holographic Universe (Part One)
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=lMBt_yfGKpU
 
-Id: youtube-048
-Type: media
-Media: video
-Title: Occupy Wall St.-NYC-ReEnvisioning Money-Charles Eisenstein-October 24-2011-film by Antonio Ferrera
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=ldeqY6O0LV0
-
 Id: youtube-049
 Type: media
 Media: video
@@ -22684,35 +23020,12 @@ Title: How Rich Men Think and Act - the secret why they become richer and richer
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=oqnG0fzqfWQ
 
-Id: youtube-051
-Type: media
-Media: video
-Title: Ending the State in 30 Days! Stefan Molyneux of Freedomain Radio at Freedom Summit 2010
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=pNyIcJIQKV0&amp;feature=relmfu
-Annote: See notes.
-
-Id: youtube-052
-Type: media
-Media: video
-Title: Perform This Way (Parody of Born This Way by Lady Gaga) - Weird Al Yankovic
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=ss_BmTGv43M
-
 Id: youtube-053
 Type: media
 Media: video
 Title: Fuel-Less Gravity Powered Airplane
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=tPbu5UeW4uk&amp;NR=1
-
-Id: youtube-054
-Type: media
-Media: video
-Title: Alan Watts - Money
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=vvBKR5GPCWc
-Annote: See notes.
 
 Id: youtube-055
 Type: media
@@ -22721,26 +23034,12 @@ Title: DC Douglas' Why #OccupyWallStreet? 4 Reasons.
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=wK1MOMKZ8BI
 
-Id: youtube-056
-Type: media
-Media: video
-Title: Audre Lorde reads Uses of the Erotic: The Erotic as Power
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=xFHwg6aNKy0
-
 Id: youtube-057
 Type: media
 Media: video
 Title: Dakota hole fire
 Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=yXDlSjZ5fgQ
-
-Id: youtube-058
-Type: media
-Media: video
-Title: Dr Edgar Cahn
-Tags: video, biblio, video
-Link: http://www.youtube.com/watch?v=zPLQBz8AucA
 
 Id: youtube-059
 Type: media
@@ -22750,29 +23049,12 @@ Tags: video, biblio, video
 Link: https://www.youtube.com/channel/UCvHqXK_Hz79tjqRosK4tWYA
 Annote: See notes.
 
-Id: youtube-060
-Type: media
-Media: video
-Title: Child Discipline Isn't What It Used To Be. Fred Klett - Full Special
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=1OJPu27Bve0
-Annote: See notes.
-
 Id: youtube-061
 Type: media
 Media: video
 Title: The Private Life of Chickens
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=1c06xOF4uQ8
-Annote: See notes.
-
-Id: youtube-062
-Type: media
-Media: video
-Title: The next outbreak? We're not ready ;  Bill Gates
-Date: 2015-04-03
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=6Af6b_wyiwI
 Annote: See notes.
 
 Id: youtube-063
@@ -22850,7 +23132,8 @@ Annote: See notes.
 Id: youtube-072
 Type: media
 Media: video
-Title: Regreening the desert with John D. Liu ;  VPRO Documentary ;  2012
+Title: Regreening the desert with John D. Liu ;  VPRO Documentary
+Date: 2012
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=IDgDWbQtlKI
 Annote: See notes.
@@ -22862,29 +23145,6 @@ Title: My Mom Uses Ring Cam to Order Her Chickens Back Inside
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=INuI6oWfhFo
 Annote: See notes.
-
-Id: youtube-074
-Type: media
-Media: video
-Title: Will Allen [Urban Farmer] - Growing Power
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=K5zP4WPgcqY
-Annote: See notes.
-
-Id: youtube-075
-Type: media
-Media: video
-Title: Sex Education: Last Week Tonight with John Oliver (HBO)
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=L0jQz6jqQS0&amp;t=35s
-Annote: See notes.
-
-Id: youtube-076
-Type: media
-Media: video
-Title: Alison Armstrong: How Women Speak Part 1 of 3 There is NO Point!
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=L4kE_JVu_Qk
 
 Id: youtube-077
 Type: media
@@ -22910,22 +23170,6 @@ Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=Nw5KQMXDiM4&amp;t=1s
 Annote: See notes.
 
-Id: youtube-080
-Type: media
-Media: video
-Title: The danger of AI is weirder than you think ;  Janelle Shane
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=OhCzX0iLnOc
-Annote: See notes.
-
-Id: youtube-081
-Type: media
-Media: video
-Title: The complete FUN TO IMAGINE with Richard Feynman BBC2 (1:06:49)
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=P1ww1IXRfTA
-Annote: See notes.
-
 Id: youtube-082
 Type: media
 Media: video
@@ -22949,14 +23193,6 @@ Title: 6 Advanced Ancient Inventions We Still Can't Figure Out
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=RlgbKU9mgJA
 
-Id: youtube-085
-Type: media
-Media: video
-Title: Funniest Thing You Can Do With A Squeaky Toy. Brad Bonar - Full Special
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=ToTS_-JVaVs
-Annote: See notes.
-
 Id: youtube-086
 Type: media
 Media: video
@@ -22973,29 +23209,12 @@ Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=V7PU1WN9jWY
 Annote: See notes.
 
-Id: youtube-088
-Type: media
-Media: video
-Title: Drew Berry: Animations of unseeable biology
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=WFCvkkDSfIU
-Annote: See notes.
-
 Id: youtube-089
 Type: media
 Media: video
 Title: lexxtex - 293 - The hidden secret of the great pyramids construction uncovered
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=YTgxGJfXRQ0
-Annote: See notes.
-
-Id: youtube-090
-Type: media
-Media: video
-Title: John Taylor Gatto: Elite Schooling - Part 1 of 2
-Date: 2014 -08-13
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=Ztq5WqbOFL8
 Annote: See notes.
 
 Id: youtube-091
@@ -23028,15 +23247,6 @@ Media: video
 Title: Backyard Chickens: What Do You Do With Extra Roosters?
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=e2folxLqFGQ
-Annote: See notes.
-
-Id: youtube-095
-Type: media
-Media: video
-Title: Tamera - Benjamin von Mendelssohn - Part 1 of 2
-Date: 2014-07-16
-Tags: video, biblio, video, video
-Link: https://www.youtube.com/watch?v=eIV-jMKglGM
 Annote: See notes.
 
 Id: youtube-096
@@ -23095,22 +23305,6 @@ Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=ovJcsL7vyrk&amp;t=41s
 Annote: See notes.
 
-Id: youtube-103
-Type: media
-Media: video
-Title: Electrical experiments with plants that count and communicate ;  Greg Gage
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=pvBlSFVmoaw
-Annote: See notes.
-
-Id: youtube-104
-Type: media
-Media: video
-Title: Beware, fellow plutocrats, the pitchforks are coming ;  Nick Hanauer
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=q2gO4DKVpa8
-Annote: See notes.
-
 Id: youtube-105
 Type: media
 Media: video
@@ -23142,44 +23336,12 @@ Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=tj7Sfu3IuYs&amp;t=712s
 Annote: See notes.
 
-Id: youtube-109
-Type: media
-Media: video
-Title: The complete FUN TO IMAGINE with Richard Feynman BBC2 (1:06:49)
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=uY-u1qyRM5w
-Annote: See notes.
-
 Id: youtube-110
 Type: media
 Media: video
 Title: Compress Air with No Moving Parts! - Trompe
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=uvf0lD5xzH0
-Annote: See notes.
-
-Id: youtube-111
-Type: media
-Media: video
-Title: How to green the world's deserts and reverse climate change ;  Allan Savory
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=vpTHi7O66pI
-Annote: See notes.
-
-Id: youtube-112
-Type: media
-Media: video
-Title: How one tweet can ruin your life ;  Jon Ronson
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=wAIP6fI0NAI
-Annote: See notes.
-
-Id: youtube-113
-Type: media
-Media: video
-Title: The secret US prisons you've never heard of before ;  Will Potter
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=xuAAPsiD768
 Annote: See notes.
 
 Id: youtube-114
@@ -23193,14 +23355,14 @@ Annote: See notes.
 Id: youtube-115
 Type: media
 Media: video
-Title: Building the X1 Orgasmatron Toy - YouTube
+Title: Building the X1 Orgasmatron Toy
 Tags: broken, link, biblio, link
 Link: https://www.youtube.com/watch?v=HcIkTsMy9Lk&amp;index=11&amp;list=PLeokm7v4leOFVHqEvlqr5HmBp8CMegsP8
 
 Id: youtube-116
 Type: media
 Media: video
-Title: Wake Up World Education - YouTube
+Title: Wake Up World Education
 Tags: culture, link, biblio, link
 Link: https://www.youtube.com/channel/UCupSRneCmjUpKLZJtgphuCQ
 
@@ -23293,7 +23455,7 @@ Link: http://www.youtube.com/watch?v=QmqpGZv0YT4
 Id: youtube-128
 Type: media
 Media: video
-Title: The Big Bang Never Happened Part 5 - YouTube
+Title: The Big Bang Never Happened Part 5
 Tags: home, electricuniverse, link, biblio, link
 Link: http://www.youtube.com/watch?v=ILIRSsGyXKM&amp;feature=related
 
@@ -23369,26 +23531,12 @@ Title: Why is there no equation for the perimeter of an ellipse?
 Tags: math, engineering, video, biblio, video
 Link: https://www.youtube.com/watch?v=5nW3nJhBHL0
 
-Id: youtube-139
-Type: media
-Media: video
-Title: Electric Universe - The Human Story - James Oschman - YouTube
-Tags: misc, exercise, health, link, biblio, link
-Link: https://www.youtube.com/watch?v=tGylGdNrG4o
-
 Id: youtube-140
 Type: media
 Media: video
-Title: What is the fossil record of Horsetails? - YouTube
+Title: What is the fossil record of Horsetails?
 Tags: misc, gardening, link, biblio, link
 Link: https://www.youtube.com/watch?v=2l5v97r-fQo
-
-Id: youtube-141
-Type: media
-Media: video
-Title: Intrigue - How to Create Interest and Connect with Anyone: Sam Horn at TEDxBethesdaWomen - YouTube
-Tags: misc, link, biblio, link
-Link: https://www.youtube.com/watch?v=Xlg8zdSVjgg
 
 Id: youtube-142
 Type: media
@@ -23400,14 +23548,14 @@ Link: https://www.youtube.com/watch?v=kXkr5Ls3ArA
 Id: youtube-143
 Type: media
 Media: video
-Title: Your 3 day Warning before the Declaration of Martial Law + FEMA - This MAY save your LIFE! - YouTube
+Title: Your 3 day Warning before the Declaration of Martial Law + FEMA - This MAY save your LIFE!
 Tags: misc, link, biblio, link
 Link: https://www.youtube.com/watch?v=n-V13WGfTwA
 
 Id: youtube-144
 Type: media
 Media: video
-Title: Preppers! 14 Things That Will Instantly Give Your Location Away! Stay Hidden &amp; Stay Safe! - YouTube
+Title: Preppers! 14 Things That Will Instantly Give Your Location Away! Stay Hidden &amp; Stay Safe!
 Tags: misc, link, biblio, link
 Link: https://www.youtube.com/watch?v=q05o04wbhpw
 
@@ -23431,6 +23579,7 @@ Id: youtube-147
 Type: media
 Media: video
 Title: It Is Here - Fendrick &amp; Peck
+Author: 
 Tags: music, video, biblio, video
 Link: https://www.youtube.com/watch?v=rmDwF5NTPNs
 Annote: See notes.
@@ -23459,26 +23608,10 @@ Tags: politics, video, biblio, video
 Link: https://www.youtube.com/watch?v=RpXXUC623ow
 Annote: See notes.
 
-Id: youtube-151
-Type: media
-Media: video
-Title: Police: Last Week Tonight with John Oliver (HBO)
-Tags: politics, video, biblio, video
-Link: https://www.youtube.com/watch?v=Wf4cea5oObY
-Annote: See notes.
-
-Id: youtube-152
-Type: media
-Media: video
-Title: Why The Left Can't Handle Donald Trump ;  Russell Brand
-Tags: politics, video, biblio, video
-Link: https://www.youtube.com/watch?v=YofLsS3vfOU
-Annote: See notes.
-
 Id: youtube-153
 Type: media
 Media: video
-Title: Yellowstone Caldera : The Biggest Volcanic Eruption Ever Awaits Mankind - YouTube
+Title: Yellowstone Caldera : The Biggest Volcanic Eruption Ever Awaits Mankind
 Tags: reference, link, biblio, link
 Link: https://www.youtube.com/watch?v=-iGJlYgp43s
 
@@ -23585,14 +23718,6 @@ Title: The Sustainable Human youtube channel
 Tags: video, video, biblio, video, video
 Link: https://www.youtube.com/user/TheSustainableMan
 
-Id: youtube-168
-Type: media
-Media: video
-Title: Sex-Starved Marriage, The ;  Michele Weiner-Davis ;  TEDxCU
-Tags: video, video, biblio, video
-Link: https://www.youtube.com/watch?v=Ep2MAx95m20
-Annote: See notes.
-
 Id: youtube-169
 Type: media
 Media: video
@@ -23614,21 +23739,11 @@ Title: Genetic Roulette
 Tags: gmo, video, biblio, video
 Link: https://www.youtube.com/watch?v=FnhB99I86G8
 
-Id: youtube-176
-Type: media
-Media: video
-Title: Psychologist debunks 8 myths of mass scale ;  Todd Rose
-Author: Rose, Todd
-Date: 2022-12-11
-Publisher: Big Think
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=BD_Euf_CBbs
-
 Id: youtube-177
 Type: media
 Media: video
 Title: Longing to Belong: Looking for Your Tribe? part 2
-Author: peakmoment.tv
+Publisher: peakmoment.tv
 Date: 2016-06-22
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=-DT1fcfqMT0
@@ -23636,29 +23751,11 @@ Link: https://www.youtube.com/watch?v=-DT1fcfqMT0
 Id: youtube-178
 Type: media
 Media: video
-Title: Rethinking Thinking: How Intelligent Are Other Animals?w
-Author: Festival, World Science
+Title: Rethinking Thinking: How Intelligent Are Other Animals?
+Publisher: World Science Festival
 Date: 2020-01-31
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=tdsVRh9oKiE
-
-Id: youtube-179
-Type: media
-Media: video
-Title: David Graeber - Bullsh*t Jobs: A Theory
-Date: 2018-06-13
-Tags: video, biblio, video
-Link: https://www.youtube.com/watch?v=6eyaDHj5I5g
-AltLink: https://www.c-span.org/video/?446716-2/bullshit-jobs
-Annote: See notes.
-
-Id: youtube-180
-Type: media
-Media: video
-Title: Michael Moore Goes to Norway & Visits a Prison of the Future
-Date: 2011-03-18
-Link: https://www.youtube.com/watch?v=01mTKDaKa6Q
-Annote: See notes.
 
 Id: yro-slashdot-01
 Type: article
