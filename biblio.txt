@@ -22452,13 +22452,6 @@ Title: private shit
 Tags: home, people, link, biblio, link
 Link: http://wskcc.com/privnet/
 
-Id: wskcc-02
-Type: site
-Media: site
-Title: Index of /pics
-Tags: home, per, link, biblio, link
-Link: http://www.wskcc.com/pics/
-
 Id: wunderground-01
 Type: site
 Media: site
@@ -23485,20 +23478,6 @@ Media: video
 Title: Gay Kiss - YouTube
 Tags: home, per, youtube, link, biblio, link, video
 Link: http://www.youtube.com/watch?v=8eEZtrmGuq8&amp;list=PL13FC63FDE5B08EC8&amp;index=3&amp;feature=plpp_video
-
-Id: youtube-133
-Type: media
-Media: video
-Title: HOT TWINKS FEELING SEXY - HOT ARMPITS FACES AND NIPPLES - YouTube
-Tags: home, per, youtube, link, biblio, link, video
-Link: http://www.youtube.com/watch?v=RJ41ccdac_o&amp;list=PL13FC63FDE5B08EC8&amp;index=4&amp;feature=plpp_video
-
-Id: youtube-134
-Type: media
-Media: video
-Title: &amp;quot;we're so SCENE that we kiss other boys!&amp;quot; - YouTube
-Tags: home, per, youtube, link, biblio, link, video
-Link: http://www.youtube.com/watch?v=U4KHZWSMGmY&amp;list=PL13FC63FDE5B08EC8&amp;index=5&amp;feature=plpp_video
 
 Id: youtube-135
 Type: media
