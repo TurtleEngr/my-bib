@@ -278,7 +278,7 @@ Tags: biblio, book, book
 Link: https://www.amazon.com/gp/product/B003T0G9GM/
 
 Id: allen-01
-Old: youtube-074
+# Old: youtube-074
 Type: media
 Media: video
 Title: Will Allen [Urban Farmer] - Growing Power
@@ -803,7 +803,7 @@ Tags: ted, biblio, video
 Link: http://www.ted.com/index.php/talks/karen_armstrong_makes_her_ted_prize_wish_the_charter_for_compassion.html
 
 Id: armstrong-02
-Old: youtube-076
+# Old: youtube-076
 Type: media
 Media: video
 Title: Alison Armstrong: How Women Speak Part 1 of 3 There is NO Point!
@@ -1375,7 +1375,7 @@ ASIN: B0B2ZMZYN4
 Link: https://www.amazon.com/gp/product/B0B2ZMZYN4/
 
 Id: berry-02
-Old: youtube-088
+# Old: youtube-088
 Type: media
 Media: video
 Title: Drew Berry: Animations of unseeable biology
@@ -1648,7 +1648,7 @@ Link: https://www.filmsforaction.org/watch/this-land-is-our-land-the-fight-to-re
 AltLink: https://shop.mediaed.org/this-land-is-our-land-p146.aspx
 
 Id: bonar-01
-Old: youtube-085
+# Old: youtube-085
 Type: media
 Media: video
 Title: Funniest Thing You Can Do With A Squeaky Toy. Brad Bonar - Full Special
@@ -1861,7 +1861,7 @@ Link: http://www.bridgesweb.org/
 Id: briggs-01
 Type: article
 Media: link
-Title: "Why Don't You Kill Your Baby Brother?" The Dynamics of Peace in Canadian Intuit Camps
+Title: Why Don't You Kill Your Baby Brother? The Dynamics of Peace in Canadian Intuit Camps
 Author: Briggs, Jean L.
 Date: 2015
 Link: https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf
@@ -3793,7 +3793,7 @@ Link: https://www.sciencetimes.com/articles/34138/20211025/tiktok-bad-brain-cons
 AltLink: https://archive.vn/7gVnB
 
 Id: davis-02
-Old: youtube-016
+# Old: youtube-016
 Type: media
 Media: video
 Title: Angela Davis: Wars Against Women- Past Present and Future?
@@ -3802,7 +3802,7 @@ Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=DeA-m1jbi28
 
 Id: davis-03
-Old: youtube-030
+# Old: youtube-030
 Type: media
 Media: video
 Title: Angela Davis: How Does Change Happen?
@@ -4155,15 +4155,6 @@ Publisher: Zendow Press
 Tags: biblio, important
 ASIN: 26868220
 
-Id: devi-01
-Type: site
-Media: site
-Title: KamalaDevi - Polyamorous Coch, Mentor, and Bestselling Author
-Author: Devi, Kamala
-Date: 2023-12-07
-Tags: culture, link, biblio, link
-Link: http://www.kamaladevi.com/
-
 Id: devi-02
 Type: article
 Media: link
@@ -4172,6 +4163,15 @@ Author: Devi, Kamala
 Authors: Paulman, Adam
 Tags: culture, link, biblio, link
 Link: http://www.kamaladevi.com/2998/zegg-forum-rules-guidelines-polyamory-community#.VjWdvHUViko
+
+Id: devi-03
+Type: site
+Media: site
+Title: KamalaDevi - Polyamorous Coch, Mentor, and Bestselling Author
+Author: Devi, Kamala
+Date: 2023-12-07
+Tags: culture, link, biblio, link
+Link: http://www.kamaladevi.com/
 
 Id: dhubs-01
 Type: article
@@ -5211,7 +5211,7 @@ Link: https://charleseisenstein.substack.com/p/on-mobs-cults-and-russell-brand
 Annote: <p>See notes</p>
 
 Id: eisenstein-15
-Old: youtube-048
+# Old: youtube-048
 Type: media
 Media: video
 Title: Occupy Wall St.-NYC-ReEnvisioning Money-Charles Eisenstein-October 24-2011-film by Antonio Ferrera
@@ -5284,7 +5284,7 @@ Link: https://rianeeisler.com/building-cultures-of-partnership-and-peace/
 AltLink: https://archive.vn/DPyMX
 
 Id: eisler-07
-Old: youtube-009
+# Old: youtube-009
 Type: media
 Media: video
 Title: Domination, Gender and Fear with Riane Eisler
@@ -5951,7 +5951,7 @@ Link: http://www.ted.com/talks/richard_feynman.html
 Annote: <p>Link to a number of interview videos.</p>
 
 Id: feynman-02
-Old: youtube-109
+# Old: youtube-109
 Type: media
 Media: video
 Title: The complete FUN TO IMAGINE with Richard Feynman
@@ -5962,7 +5962,7 @@ Link: https://www.youtube.com/watch?v=uY-u1qyRM5w
 Annote: See notes.
 
 Id: feynman-03
-Old: youtube-081
+# Old: youtube-081
 Type: media
 Media: video
 Title: The complete FUN TO IMAGINE with Richard Feynman BBC2
@@ -6547,7 +6547,7 @@ Link: https://www.youtube.com/watch?v=f0un-l1L8Zw
 Annote: See also Jonathan Haidt
 
 Id: fried-01
-Old: youtube-010
+# Old: youtube-010
 Type: media
 Media: video
 Title: Jason Fried: Why work doesn't happen at work
@@ -6572,7 +6572,7 @@ Tags: toolsw, appdb, link, biblio, link
 Link: http://www.fromdual.com/round-robin-database-storage-engine
 
 Id: fromm-01
-Old: youtube-042
+# Old: youtube-042
 Type: media
 Media: video
 Title: Erich Fromm: The Automaton Citizen and Human Rights (1 of 3)
@@ -6603,7 +6603,7 @@ Tags: culture, link, biblio, link
 Link: https://futuremethod.com/
 
 Id: gage-01
-Old: youtube-103
+# Old: youtube-103
 Type: media
 Media: video
 Title: Electrical experiments with plants that count and communicate
@@ -6694,7 +6694,7 @@ Tags: biblio
 ASIN: 690192
 
 Id: gates-01
-Old: youtube-062
+# Old: youtube-062
 Type: media
 Media: video
 Title: The next outbreak? We're not ready ;  Bill Gates
@@ -6791,7 +6791,7 @@ ISBN: 0998919101
 Link: https://www.amazon.com/Underground-History-American-Education-Investigation/dp/0998919101
 
 Id: gatto-09
-Old: youtube-090
+# Old: youtube-090
 Type: media
 Media: video
 Title: John Taylor Gatto: Elite Schooling - Part 1 of 2
@@ -8128,7 +8128,7 @@ Link: http://www.youtube.com/watch?v=iIhOXCgSunc
 Annote: See notes.
 
 Id: hanauer-02
-Old: youtube-104
+# Old: youtube-104
 Type: media
 Media: video
 Title: Beware, fellow plutocrats, the pitchforks are coming
@@ -8147,7 +8147,7 @@ Link: http://www.youtube.com/watch?v=-b6-0yW7Iaw&amp;feature=youtu.be
 Annote: See notes.
 
 Id: hancock-02
-Old: youtube-024
+# Old: youtube-024
 Type: media
 Media: video
 Title: Graham Hancock Debunks David Morrison Astrobiologist
@@ -8746,7 +8746,7 @@ Tags: biblio
 ISBN: 0783268807
 
 Id: horn-01
-Old: youtube-141
+# Old: youtube-141
 Type: media
 Media: video
 Title: Intrigue - How to Create Interest and Connect with Anyone: Sam Horn at TEDxBethesdaWomen
@@ -9413,7 +9413,7 @@ Title: I2P Anonymous Network - I2P
 Tags: home, make, crypt, link, biblio, link
 Link: http://www.i2p2.de/
 
-Id: ip-01
+Id: ip-02
 Type: book
 Media: Ebook
 Title: Foolproof: Why Safety Can Be Dangerous and How Danger Makes Us Safe
@@ -9810,6 +9810,8 @@ Tags: home, make, crypt, link, biblio, link
 Link: http://www.junauza.com/2009/03/three-easy-steps-to-set-up-anonymous.html
 
 Id: junk-01
+Type: article
+Media: link
 Title: The kill your brother game: playful dramas & unintended consequences of censorship
 Author: Junk, Dennis
 Date: 2023-12-13
@@ -10172,7 +10174,7 @@ Link: https://www.nytimes.com/2023/02/26/opinion/microsoft-bing-sydney-artificia
 AltLink: https://archive.vn/gaYg2
 
 Id: klett-01
-Old: youtube-060
+# Old: youtube-060
 Type: media
 Media: video
 Title: Child Discipline Isn't What It Used To Be. Fred Klett - Full Special
@@ -10589,7 +10591,7 @@ ISBN: 0307269647
 ASIN: 8749061
 
 Id: lanier-04
-Old: youtube-002
+# Old: youtube-002
 Type: media
 Media: video
 Title: Jaron Lanier - You Are Not A Gadget
@@ -11261,7 +11263,7 @@ Tags: video, biblio, video
 Link: http://www.wimp.com/lordants/
 
 Id: lorde-01
-Old: youtube-056
+# Old: youtube-056
 Type: media
 Media: video
 Title: Audre Lorde reads Uses of the Erotic: The Erotic as Power
@@ -11485,7 +11487,7 @@ ISBN: 1550925806
 ASIN: 1401243
 
 Id: maddow-01
-Old: youtube-038
+# Old: youtube-038
 Type: media
 Media: video
 Title: Thanks Patriot Act - Obama Implements 'Precrime' 'Prolonged Detention' Rachel Maddow Reports
@@ -11950,7 +11952,7 @@ Title: Cohousing: A Contemporary Approach to Housing Ourselves
 Author: McCamant, Kathryn M. 
 Authors: Durrett, Charles; Mooore, Charles W.
 Date: 1989-01-01
-Publisher‏: Ten Speed Press
+Publisher: Ten Speed Press
 ISBN: 0898153069
 Link: https://www.amazon.com/0898153069/
 
@@ -12183,7 +12185,7 @@ Tags: home, tofile, set8, link, biblio, link
 Link: http://members.tripod.com/werdav/t2smicrv.html
 
 Id: mendelssohn-01
-Old: youtube-095
+# Old: youtube-095
 Type: media
 Media: video
 Title: Tamera - Benjamin von Mendelssohn - Part 1 of 2
@@ -12256,7 +12258,7 @@ Tags: home, electriccar, googlesearch, link, biblio, link
 Link: http://www.metricmind.com/ac_honda/main.htm
 
 Id: meyer-01
-Old: youtube-029
+# Old: youtube-029
 Type: media
 Media: video
 Title: Pamela Meyer: How to spot a liar
@@ -12535,7 +12537,7 @@ Tags: culture, link, biblio, link
 Link: http://modernfarmer.com/2013/12/robbery-drugs-fistfights-dark-side-community-gardening/
 
 Id: molyneux-01
-Old: youtube-006
+# Old: youtube-006
 Type: media
 Media: video
 Title: A shorter version: Stefan Molyneux of Freedomain Radio Talks Sex and Violence on TV
@@ -12544,7 +12546,7 @@ Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=-ObjgMzI904&amp;list=PL647967DADDBDA0A7
 
 Id: molyneux-02
-Old: youtube-051
+# Old: youtube-051
 Type: media
 Media: video
 Title: Ending the State in 30 Days! Stefan Molyneux of Freedomain Radio at Freedom Summit 2010
@@ -12668,7 +12670,7 @@ Link: https://www.youtube.com/watch?v=01mTKDaKa6Q
 Annote: See notes.
 
 Id: moore-09
-Old: youtube-023
+# Old: youtube-023
 Type: media
 Media: video
 Title: CNN Gets Blitzed by Michael Moore
@@ -12727,7 +12729,7 @@ Tags: video, video, biblio, video
 Link: https://www.youtube.com/watch?v=0MD4Ymjyc2I
 
 Id: morieux-02
-Old: youtube-008
+# Old: youtube-008
 Type: media
 Media: video
 Title: Yves Morieux: As work gets more complex, 6 rules to simplify
@@ -13811,7 +13813,7 @@ Tags: video, link, biblio, link, video
 Link: https://www.nytimes.com/video/arts/100000005865824/bob-ross-paintings-mystery.html?playlistId=video/Most-Viewed
 
 Id: o-duinn-01
-Old: youtube-012
+# Old: youtube-012
 Type: media
 Media: video
 Title: Release Engineering as a Force Multiplier, by John O'Duinn - Mozilla
@@ -13828,15 +13830,7 @@ Author: O'Keefe, Richard A.
 Tags: biblio
 ISBN: 0262150395
 
-Id: o-reilly-01
-Type: article
-Media: article
-Title: Managing UUCP and Usenet (A Nutshell Book)
-Author: O'Reilly, Tim
-Tags: biblio
-ISBN: 0937175935
-
-Id: o-keefe-01
+Id: o-keefe-02
 Type: media
 Media: video
 Title: Homosexuality: It's about survival - not sex: TEDxTallaght
@@ -13844,6 +13838,14 @@ Author: O'Keefe, James
 Tags: ted, biblio
 Link: https://www.youtube.com/watch?v=4Khn_z9FPmU
 Annote: See notes.
+
+Id: o-reilly-01
+Type: article
+Media: article
+Title: Managing UUCP and Usenet (A Nutshell Book)
+Author: O'Reilly, Tim
+Tags: biblio
+ISBN: 0937175935
 
 Id: o-reillynet-01
 Type: article
@@ -13956,7 +13958,7 @@ Link: https://www.youtube.com/watch?v=A-4dIImaodQ
 Annote: See notes.
 
 Id: oliver-02
-Old: youtube-151
+# Old: youtube-151
 Type: media
 Media: video
 Title: Police: Last Week Tonight with John Oliver (HBO)
@@ -13966,7 +13968,7 @@ Link: https://www.youtube.com/watch?v=Wf4cea5oObY
 Annote: See notes.
 
 Id: oliver-03
-Old: youtube-075
+# Old: youtube-075
 Type: media
 Media: video
 Title: Sex Education: Last Week Tonight with John Oliver (HBO)
@@ -14350,7 +14352,7 @@ Tags: toolsw, platform, centos, link, biblio, link
 Link: http://www.oreilly.com/catalog/9780596513825/index.html
 
 Id: oschman-01
-Old: youtube-139
+# Old: youtube-139
 Type: media
 Media: video
 Title: Electric Universe - The Human Story - James Oschman
@@ -14496,7 +14498,7 @@ Date: 2023-10-26
 Tags: link, person, biblio, link
 Link: https://en.wikipedia.org/wiki/Rosa_Parks
 AltLink: https://tinyurl.com/5n7exntd https://web.archive.org/web/20231026164829/https://en.wikipedia.org/wiki/Rosa_Parks https://archive.vn/hiVE3
-Annone: See notes.
+Annote: See notes.
 
 Id: partselect-01
 Type: article
@@ -15170,7 +15172,7 @@ Tags: biblio, important
 ASIN: 46821
 
 Id: potter-01
-Old: youtube-113
+# Old: youtube-113
 Type: media
 Media: video
 Title: The secret US prisons you've never heard of before
@@ -16298,7 +16300,7 @@ Link: http://www.ted.com/talks/mary_roach_10_things_you_didn_t_know_about_orgasm
 Annote: See notes.
 
 Id: roach-02
-Old: youtube-013
+# Old: youtube-013
 Type: media
 Media: video
 Title: Mary Roach: 10 things you didn't know about orgasm
@@ -16326,7 +16328,7 @@ AltLink: https://archive.vn/viisR
 Annote: See notes.
 
 Id: robertson-01
-Old: youtube-026
+# Old: youtube-026
 Type: media
 Media: video
 Title: JEANNE ROBERTSON VIDEO! Don't Bungee Jump Naked!
@@ -16432,7 +16434,7 @@ ISBN: 0452263328
 ASIN: 14958850
 
 Id: ronson-01
-Old: youtube-112
+# Old: youtube-112
 Type: media
 Media: video
 Title: How one tweet can ruin your life
@@ -16591,7 +16593,7 @@ Link: https://rushkoff.medium.com/the-tragedy-of-no-commons-b763189a6fdf
 AltLink: https://archive.vn/XSJnJ
 
 Id: russell-01
-Old: youtube-025
+# Old: youtube-025
 Type: media
 Media: video
 Title: Cameron Russell: Looks aren't everything. Believe me, I'm a model
@@ -16725,7 +16727,7 @@ Link: http://www.ted.com/talks/michael_sandel_what_s_the_right_thing_to_do.html
 Annote: See notes.
 
 Id: sanders-01
-Old: youtube-035
+# Old: youtube-035
 Type: media
 Media: video
 Title: Sen Bernie Sanders Amazing Speech DEC 02 2010
@@ -16735,7 +16737,7 @@ Tags: video, biblio, video
 Link: http://www.youtube.com/watch?v=Tq1zpHF0J04&amp;feature=related
 
 Id: sanders-02
-Old: youtube-021
+# Old: youtube-021
 Type: media
 Media: video
 Title: Senator Sanders and Michael Moore
@@ -16840,7 +16842,7 @@ Tags: humpfilmfest, link, biblio, link
 Link: https://humpfilmfest.com/
 
 Id: savory-01
-Old: youtube-111
+# Old: youtube-111
 Type: media
 Media: video
 Title: How to green the world's deserts and reverse climate change
@@ -17338,7 +17340,7 @@ Link: http://www.ted.com/talks/elif_shafak_the_politics_of_fiction.html
 Annote: See notes.
 
 Id: shane-01
-Old: youtube-080
+# Old: youtube-080
 Type: media
 Media: video
 Title: The danger of AI is weirder than you think ;  Janelle Shane
@@ -17654,7 +17656,7 @@ Tags: toolhw, phone, link, biblio, link
 Link: http://sipdroid.org/
 
 Id: sivers-01
-Old: youtube-027
+# Old: youtube-027
 Type: media
 Media: video
 Title: Derek Sivers: Keep your goals to yourself
@@ -18299,7 +18301,7 @@ Tags: misc, link, biblio, link
 Link: http://www.staffordsuites.com/portorchard/
 
 Id: stallman-01
-Old: youtube-033
+# Old: youtube-033
 Type: media
 Media: video
 Title: Richard Stallman lecturing about copyright at University of Calgary (2009)
@@ -19596,7 +19598,7 @@ Link: http://www.thegreatturning.net/index.php
 Id: theguardian-01
 Type: article
 Media: link
-Title: 'We're doomed': Mayer Hillman on the climate reality no one else will dare mention ;  Environment ;  The Guardian
+Title: We're doomed: Mayer Hillman on the climate reality no one else will dare mention ;  Environment ;  The Guardian
 Tags: culture, link, biblio, link
 Link: https://www.theguardian.com/environment/2018/apr/26/were-doomed-mayer-hillman-on-the-climate-reality-no-one-else-will-dare-mention
 
@@ -21129,7 +21131,7 @@ Tags: video, biblio, video
 Link: http://www.wimp.com/watermarbles/
 
 Id: watts-01
-Old: youtube-054
+# Old: youtube-054
 Type: media
 Media: video
 Title: Alan Watts - Money
@@ -21195,7 +21197,7 @@ Tags: tools, link, biblio, link
 Link: http://www.web3d.org/x3d/what-x3d
 
 Id: webb-01
-Old: youtube-040
+# Old: youtube-040
 Type: media
 Media: video
 Title: Amy Webb: How I hacked online dating
@@ -21974,13 +21976,13 @@ Id: wikipedia-52
 Type: article
 Media: link
 Title: available
-Annone: moved to parks-02
+Annote: moved to parks-02
 
 Id: wikipedia-53
 Type: article
 Media: link
 Title: available
-Annone: moved to Id: gebru-01
+Annote: moved to Id: gebru-01
 
 Id: wikipedia-54
 Type: article
@@ -22665,15 +22667,16 @@ Tags: culture, link, biblio, link
 Link: https://www.yang2020.com/
 
 Id: yang-02
+Type: article
+Media: link
 Title: The Human-Centered Economy
 Date: 2023-10-23
 Author: Yang, Andrew
 Link: https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
-AltLink: https://tinyurl.com/5ecr2k6j
-https://web.archive.org/web/20231024180815/https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
+AltLink: https://tinyurl.com/5ecr2k6j https://web.archive.org/web/20231024180815/https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
 
 Id: yankovic-01
-Old: youtube-052
+# Old: youtube-052
 Type: media
 Media: video
 Title: Perform This Way (Parody of Born This Way by Lady Gaga) - Weird Al Yankovic
@@ -23579,7 +23582,6 @@ Id: youtube-147
 Type: media
 Media: video
 Title: It Is Here - Fendrick &amp; Peck
-Author: 
 Tags: music, video, biblio, video
 Link: https://www.youtube.com/watch?v=rmDwF5NTPNs
 Annote: See notes.
