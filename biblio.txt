@@ -5970,7 +5970,6 @@ Author: Feynman, Richard
 Publisher: BBC2
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=P1ww1IXRfTA
-Annote: See notes.
 
 Id: fi-google-01
 Type: site
@@ -6610,7 +6609,6 @@ Title: Electrical experiments with plants that count and communicate
 Author: Gage, Greg
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=pvBlSFVmoaw
-Annote: See notes.
 
 Id: galacticinteractions-scientopia-01
 Type: article
@@ -8135,7 +8133,6 @@ Title: Beware, fellow plutocrats, the pitchforks are coming
 Author: Hanauer, Nick
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=q2gO4DKVpa8
-Annote: See notes.
 
 Id: handcock-01
 Type: media
@@ -10181,7 +10178,6 @@ Title: Child Discipline Isn't What It Used To Be. Fred Klett - Full Special
 Author: Klett, Fred
 Tags: video, biblio, video
 Link: https://www.youtube.com/watch?v=1OJPu27Bve0
-Annote: See notes.
 
 Id: knight-01
 Type: article

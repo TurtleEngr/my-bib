@@ -270,9 +270,6 @@ Id: economy-01
 <note>This is a continuation of his book "You are not a gadget". 448
 pages of very unique analysis of culture and economy</note>
 
-Id: eisenstein-02
-<note>.</note>
-
 Id: eisenstein-12
 <note>kindle edition</note>
 
@@ -340,9 +337,6 @@ preaching to the choir, but the choir's not singing.</p> <p>Related:
 <a
 href="http://www.ted.com/talks/jane_fonda_life_s_third_act.html">Jane
 Fonda: Life's third act</a> - TED video</note>
-
-Id: forge-medium-01
-<note>.</note>
 
 Id: fridman-01
 <note>See also Jonathan Haidt</note>
@@ -563,7 +557,7 @@ Id: johnson-07
 <note>Copy:
 https://moria.whyayh.com/rel/archive/audio/ThirdParty/political/women-behind-the-montgomery-bus-boycott.mp3</note>
 
-Id: Johnson-08
+Id: johnson-08
 <note>What are you good at? What is the work that needs doing? And
 what brings you joy? Where your answers intersect is where you should
 put your climate action effort. The important parts are:
@@ -770,9 +764,6 @@ Id: mediaite-01
 href="http://www.msnbc.msn.com/id/21134540/vp/44079837#44079837"
 target="_blank">Main source</a><br /></note>
 
-Id: medium-01
-<note>.</note>
-
 Id: medium-02
 <note>This is a great article, showing why we need to act sooner not
 later: Coronavirus: Why You Must Act Now</note>
@@ -959,9 +950,6 @@ TEDxUCO</a></note>
 Id: olson-02
 <note>Gerrymandering solution: use algorithms. See also: olson-01, evans-02, oliver-01, brin-02</note>
 
-Id: onezero-medium-01
-<note>.</note>
-
 Id: onezero-medium-02
 <note>by Colin Horgan. Why shutting down Twitter accounts or limiting
 Facebook groups won't solve our problem.</p> <p>My comments: Could a
@@ -999,7 +987,6 @@ Id: ostrom-01
 - <blockquote>
 - Question: Is there an alternative to top-down government or free
   market solutions?
-
 - Elinor Ostrom: Yeah. This is the, this concept of polycentricity of
   enabling both market and governments at multiple scales to interact
   with community organization so that we have a complex nested
@@ -1606,7 +1593,8 @@ interviewed me (live) when I came out.</note>
 Id: youtu-be-02
 <note>This is so cute.</note>
 
-Id: youtube-002
+Id: lanier-04
+# Old: youtube-002
 <note>The Internet mistake of "give it away for free, and you will be
 rewarded"</p> <p><a
 href="http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307269647/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1277582930&amp;sr=8-1"
@@ -1622,7 +1610,8 @@ Id: youtube-007
 <note>In the comments, the best alternative word, that others came up
 with was: activism</note>
 
-Id: youtube-008
+Id: morieux-02
+# Old: youtube-008
 <note><a
 href="http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.webm">local
 archive</a></p> <p>Really excellent points. I think most of this can
@@ -1645,7 +1634,8 @@ for failing to help, or failing to ask for help)</p> </li> </ol>
 <p>The real battle is not against our competitors, it is against our
 own bureaucracies.</note>
 
-Id: youtube-010
+Id: fried-01
+# Old: youtube-010
 <note>Why people can't seem to get work done at work.</p> <p>When
 asked, where got when you really need to get something done? Most
 people will answer with:</p> <ol> <li>A place, a location, or a
@@ -1662,7 +1652,8 @@ Thursday afternoons.</li> <li>Use passive communication (email, IM,
 etc.) - but you can not be required to answer right away.</li>
 <li>Just cancel meetings.</li> </ul></note>
 
-Id: youtube-012
+Id: o-duinn-01
+# Old: youtube-012
 <note><pre> Release Engineers != Developers developers build
 "products" release engineers build "pipelines" operation engineers
 keep it going Single Track The release schedule is as predictable as
@@ -1721,10 +1712,12 @@ target="_blank">Angelica Bongiovonni Roue Cyr Demo</a></li> <li><a
 href="http://www.youtube.com/watch?v=3qDg9Cr_GJA" target="_blank">Cyr
 Wheel Act - CORTEO (Cirque du Soleil)</a></li> </ol></note>
 
-Id: youtube-025
+Id: russell-01
+# Old: youtube-025
 <note>Image is powerful</p> <p>Image is superficial</note>
 
-Id: youtube-026
+Id: robertson-01
+# Old: youtube-026
 <note>All good:</p> <p><a
 href="http://www.youtube.com/watch?v=14msmjowzrc"
 target="_blank">Jeanne Robertson "Don't Get Frisky in a tent!" ("Don't
@@ -1764,7 +1757,8 @@ target="_blank">Energy from Thorium, LFTR Technology</a> - <a
 href="http://flibe-energy.com/" target="_blank">by Flibe
 Energy</a></note>
 
-Id: youtube-042
+Id: fromm-01
+# Old: youtube-042
 <note>Even more relevant to our current culture.</p> <p><a
 href="http://www.erich-fromm.de/data/pdf/2008a-e.pdf"
 target="_blank">2008a-e The Automaton Citizen and Human Rights</a> -
@@ -1785,7 +1779,8 @@ engineering minds put together... amazing video and amazing
 creature... just fascinating... look at the optimal railway paths of
 Tokyo created by the slime mould and be amazed...</note>
 
-Id: youtube-051
+Id: molyneux-02
+# Old: youtube-051
 <note>My problem with this libertarian view (From "The ecstasy of
 influence", below at 2012-04-10): "The power of a gift economy remains
 difficult for the empiricists of our market culture to understand. In
@@ -1801,7 +1796,8 @@ political life, and many other basic human activities require
 insulation from market forces. In fact, paying for many of these
 things can ruin them.</note>
 
-Id: youtube-054
+Id: watts-01
+# Old: youtube-054
 <note><a
 href="http://www.youtube.com/results?search_query=alan+watts+nothing&amp;aq=f">Alan
 Watts on YouTube</a> <ol> <li><a
@@ -1834,13 +1830,8 @@ Id: youtube-059
 <p><a href="https://www.thunderbolts.info/wp/" target="blank">The
 Thunderbolts Project</a> - Home web site</note>
 
-Id: youtube-060
-<note>.</note>
-
-Id: youtube-061
-<note>.</note>
-
-Id: youtube-062
+Id: gates-01
+# Old: youtube-062
 <note>We are living in the scenario he showed in the talk, 5 years
 ago!</note>
 
@@ -1869,15 +1860,6 @@ Id: youtube-065
 Id: youtube-066
 <note>Great speech about how humans treat the earth and life.</note>
 
-Id: youtube-067
-<note>.</note>
-
-Id: youtube-068
-<note>.</note>
-
-Id: youtube-069
-<note>.</note>
-
 Id: youtube-070
 <note>My own video.</note>
 
@@ -1887,13 +1869,8 @@ href="https://www.thejuicemedia.com/honest-government-ads/">https://www.thejuice
 /> Honest Government Ads<br /> Authorized by the Department of Genuine
 Satire.<br /> Produced by the Patrons of The Juice Media.</note>
 
-Id: youtube-072
-<note>.</note>
-
-Id: youtube-073
-<note>.</note>
-
-Id: youtube-074
+Id: allen-01
+# Old: youtube-074
 <note><a
 href="http://www.yesmagazine.org/issues/food-for-everyone/growing-power-in-an-urban-food-desert"
 target="_blank">Food for Everyone, Growing Power in an Urban Food
@@ -1906,9 +1883,6 @@ target="_blank">Wikipedia: Growing Power</a></note>
 Id: youtube-075
 <note>Funny and sad.</note>
 
-Id: youtube-077
-<note>.</note>
-
 Id: youtube-078
 <note>Hidden in democratic countries.</note>
 
@@ -1918,11 +1892,9 @@ work to make a new "normal".</p> <p><a
 href="https://forge.medium.com/prepare-for-the-ultimate-gaslighting-6a8ce3f0a0e0"
 target="_blank">prepare-for-the-ultimate-gaslighting</a></note>
 
-Id: youtube-080
+Id: shane-01
+# Old: youtube-080
 <note>Dangerous because it is stupid.</note>
-
-Id: youtube-081
-<note>.</note>
 
 Id: youtube-082
 <note>Another good one: <a
@@ -1934,10 +1906,8 @@ should never be recorded with a vertical orientation. Americans will
 argue that vertical is OK. Really? Would you turning a video camera
 sideways?</note>
 
-Id: youtube-083
-<note>.</note>
-
-Id: youtube-085
+Id: bonar-01
+# Old: youtube-085
 <note>Really funny magician.</note>
 
 Id: youtube-086
@@ -1949,14 +1919,16 @@ Id: youtube-087
 constants really are constant. Good scientists will keep
 measuring.</note>
 
-Id: youtube-088
+Id: berry-02
+# Old: youtube-088
 <note>Amazing!</note>
 
 Id: youtube-089
 <note>Amazing.</p> <p>local file:
 the_hidden_secret_of_the_great_pyramids_construction_uncovered.webm</note>
 
-Id: youtube-090
+Id: gatto-09
+# Old: youtube-090
 <note>This is a remix that combines a number of separate
 postings. This is really good overview of what education should
 be.</p> <p><a href="https://www.youtube.com/watch?v=0A4CCvheAac"
@@ -1966,16 +1938,8 @@ summary of the books he has written.</a></note>
 Id: youtube-091
 <note>What happened 13,000 years ago?</note>
 
-Id: youtube-092
-<note>.</note>
-
-Id: youtube-093
-<note>.</note>
-
-Id: youtube-094
-<note>.</note>
-
-Id: youtube-095
+Id: mendelssohn-01
+# Old: youtube-095
 <note>This is my own recording and edit of this talk.</p> <p><a
 href="https://www.youtube.com/watch?v=f47LGny-CiU"
 target="_blank">Tamera - Benjamin von Mendelssohn - Part 2 of
@@ -1997,26 +1961,11 @@ Id: youtube-097
 <note>Squirrels are amazing. Actually this a squirrel obstacle
 course.</note>
 
-Id: youtube-098
-<note>.</note>
-
 Id: youtube-099
 <note>Great details that describe the EU model.</note>
 
-Id: youtube-100
-<note>.</note>
-
-Id: youtube-101
-<note>.</note>
-
 Id: youtube-102
 <note>Mandelbrot set and the binomial equation.</note>
-
-Id: youtube-103
-<note>.</note>
-
-Id: youtube-104
-<note>.</note>
 
 Id: youtube-105
 <note>"We have an archaic idea of what family is," says Brooks in a
@@ -2027,13 +1976,8 @@ share of people living alone in America has doubled. The nuclear
 family is no longer the norm-and it should no longer be the
 ideal.</note>
 
-Id: youtube-107
-<note>.</note>
-
-Id: youtube-108
-<note>.</note>
-
-Id: youtube-109
+Id: feynman-02
+# Old: youtube-109
 <note>"The problem with playing tricks on highly intelligent people is
 that the time it takes for them to realize what exactly has happened
 from the moment they see something wrong is too short to provide any
@@ -2045,13 +1989,16 @@ fast)</note> 1 418 261
 Id: youtube-110
 <note>Very cool</note>
 
-Id: youtube-111
+Id: savory-01
+# Old: youtube-111
 <note>Compact animal herds are the key, with rotation.</note>
 
-Id: youtube-112
+Id: ronson-01
+# Old: youtube-112
 <note>Sad.</note>
 
-Id: youtube-113
+Id: potter-01
+# Old: youtube-113
 <note>More: <a href="WillPotter.com/CMU">WillPotter.com/CMU</a> -
 notes</p> <p>The solution is transparency.</note>
 
@@ -2158,6 +2105,8 @@ brutality with military tactics, macing and more of the same violence
 that protesters are working to shut down.</p> <p>Let us not forget
 this, this time!</note>
 
+Id: oliver-02
+# Old: youtube-151
 Id: youtube-151
 <note>John Oliver discusses how the histories of policing and white
 supremacy are intertwined, the roadblocks to fixing things, and some
