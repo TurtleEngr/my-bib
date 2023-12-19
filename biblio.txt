@@ -21369,7 +21369,7 @@ Type: media
 Media: audio
 Title: Central Leader Communities with Evil Dictator Paul Wheaton
 Author: Wheaton, Paul
-Authors: McMichael, Erin
+Authors: Mesritz, Rebecca
 Date: 2023-09-07
 Link: https://www.ic.org/podcast-paul-wheaton/
 Annote: See notes.
