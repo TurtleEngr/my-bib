@@ -4142,7 +4142,7 @@ Link: https://developers.google.com/youtube/player_parameters
 Id: devi-01
 Type: book
 Media: Ebook
-Title: Sacred Sexual Healing: The SHAMAN Method of Sex Magic (from the Sacred Sexual Healing Series by Baba Dez and Kamala Devi)
+Title: Sacred Sexual Healing: The SHAMAN Method of Sex Magic
 Author: Devi, Kamala
 Date: 2013
 Publisher: Zendow Press
@@ -6790,7 +6790,7 @@ Media: Ebook
 Title: Being Mortal: Medicine and What Matters in the End
 Author: Gawande, Atul
 Date: 2014
-Publisher: Metropolitan Books (2014), Edition: 1, 297 pages
+Publisher: Metropolitan Books
 Tags: biblio, important
 ASIN: 15069990
 
@@ -6809,8 +6809,8 @@ Type: book
 Media: Paperback
 Title: The Checklist Manifesto: How to Get Things Right
 Author: Gawande, Atul
-Date: 2010
-Publisher: Picador (2011), Edition: 1, 240 pages
+Date: 2011
+Publisher: Picador
 Tags: biblio, important
 ISBN: 9780312430009
 ASIN: 8891944
@@ -6911,7 +6911,7 @@ Media: Paperback
 Title: The Man Who Folded Himself
 Author: Gerrold, David
 Date: 2003
-Publisher: BenBella Books (2003), Edition: 1st BenBella Books Ed, 144 pages
+Publisher: BenBella Books
 Tags: biblio
 ISBN: 1932100040
 ASIN: 81718
@@ -6922,7 +6922,7 @@ Media: Paperback
 Title: Javascript for the World Wide Web (Visual QuickStart Guide)
 Author: Gesing, Ted
 Date: 1997
-Publisher: Peachpit Pr (1997), 182 pages
+Publisher: Peachpit Pr
 Tags: biblio
 ISBN: 020168814X
 ASIN: 13484
@@ -7022,7 +7022,7 @@ Media: Paperback
 Title: The Goddesses and Gods of Old Europe: Myths and Cult Images
 Author: Gimbutas, Marija
 Date: 2007
-Publisher: University of California Press (2007), Edition: First, 304 pages
+Publisher: University of California Press
 Tags: biblio
 ISBN: 0520253981
 ASIN: 383278
@@ -7033,7 +7033,7 @@ Media: Hardcover
 Title: The Language of the Goddess: Unearthing the Hidden Symbols of Western Civilization
 Author: Gimbutas, Marija Alseikaite
 Date: 1989
-Publisher: Harper & Row (1989), 388 pages
+Publisher: Harper & Row
 Tags: biblio
 ISBN: 0500014809
 ASIN: 51058
@@ -7276,7 +7276,7 @@ Media: Paperback
 Title: It's Not Luck
 Author: Goldratt, Eliyahu M.
 Date: 1994
-Publisher: North River Press (1994), Edition: 1, 283 pages
+Publisher: North River Press
 Tags: biblio
 ISBN: 9780884271154
 ASIN: 228270
@@ -7287,7 +7287,7 @@ Media: Paperback
 Title: The Goal 3th (third) edition Text Only
 Author: Goldratt, Eliyahu M.
 Date: 2004
-Publisher: The North River Press (2004), Edition: 3rd
+Publisher: The North River Press
 Tags: biblio
 ISBN: 0884271781
 ASIN: 774
@@ -7298,7 +7298,7 @@ Media: Paperback
 Title: Theory of Constraints
 Author: Goldratt, Eliyahu M.
 Date: 1999
-Publisher: North River Press (1999), Edition: 1, 160 pages
+Publisher: North River Press
 Tags: biblio
 ISBN: 9780884271666
 ASIN: 493677
@@ -7411,7 +7411,7 @@ Link: http://www.google.com/#sclient=psy&amp;hl=en&amp;q=thorium+power&amp;aq=f&
 Id: google-14
 Type: article
 Media: link
-Title: Google Voice - Inbox (1)
+Title: Google Voice - Inbox
 Tags: home, homelan, frequent, link, biblio, link
 Link: https://www.google.com/voice#inbox
 
@@ -7676,7 +7676,7 @@ Media: Paperback
 Title: Dear God! What's Happening to Us?: Halting Eons of Manipulation: Halting Aeons of Manipulation
 Author: Grabhorn, Lynn
 Date: 2003
-Publisher: Hampton Roads Publishing Co (2003), 192 pages
+Publisher: Hampton Roads Publishing Co
 Tags: biblio
 ISBN: 1571743847
 ASIN: 1432009
@@ -7745,7 +7745,7 @@ Media: Hardcover
 Title: Debt: The First 5,000 Years
 Author: Graeber, David
 Date: 2011
-Publisher: Melville House (2011), Edition: 1st Edition, 544 pages
+Publisher: Melville House
 Tags: biblio, important
 ISBN: 1933633867
 ASIN: 9530527
@@ -7767,7 +7767,7 @@ Media: Hardcover
 Title: Debt: The First 5,000 Years
 Author: Graeber, David
 Date: 2011
-Publisher: Melville House (2011), Edition: 1st Edition, 544 pages
+Publisher: Melville House
 Tags: book, book, biblio, book, commons
 ISBN: 978-1933633-86-2
 Link: https://www.amazon.com/Debt-Updated-Expanded-First-Years-ebook/dp/B00Q1HZMCW/
@@ -7778,7 +7778,7 @@ Media: Ebook
 Title: The Dawn of Everything: A New History of Humanity
 Author: Graeber, David
 Date: 2021-11-09
-Publisher: Farrar, Straus and Giroux (November 9, 2021)
+Publisher: Farrar, Straus and Giroux
 Tags: culture, book, important, biblio, book
 Link: https://www.amazon.com/dp/B08R2KL3VY
 Annote: See notes.
@@ -7848,7 +7848,7 @@ Media: Paperback
 Title: The Fault in Our Stars
 Author: Green, John
 Date: 2014
-Publisher: Penguin Books (2014), Edition: Reprint, 352 pages
+Publisher: Penguin Books
 Tags: biblio
 ISBN: 014242417X
 ASIN: 11456497
@@ -7880,7 +7880,7 @@ Media: Paperback
 Title: The Adventure of Self-Discovery: Dimensions of Consciousness and New Perspectives in Psychotherapy and Inner Exploration (SUNY Series in Transpersonal and Humanistic Psychology)
 Author: Grof, Stanislav
 Date: 1988
-Publisher: State Univ of New York Pr (1988), 342 pages
+Publisher: State Univ of New York Pr
 Tags: biblio
 ISBN: 0887065414
 ASIN: 278036
@@ -7891,7 +7891,7 @@ Media: Paperback
 Title: The Holotropic Mind: The Three Levels of Human Consciousness and How They Shape Our Lives
 Author: Grof, Stanislav
 Date: 1993
-Publisher: HarperOne (1993), Edition: Reprint, 256 pages
+Publisher: HarperOne
 Tags: biblio
 ISBN: 9780062506597
 ASIN: 186253
@@ -8155,7 +8155,7 @@ Media: DVD
 Title: Bridge of Spies DVD
 Author: Hanks, Tom
 Date: 2016
-Publisher: Walt Disney Studios (2016)
+Publisher: Walt Disney Studios
 Tags: biblio
 ASIN: 16665129
 
@@ -8306,7 +8306,7 @@ Media: Ebook
 Title: Dumbbell Training
 Author: Hedrick, Allen
 Date: 2014
-Publisher: Human Kinetics, Inc. (2014), Edition: First, 224 pages
+Publisher: Human Kinetics, Inc.
 Tags: biblio
 ISBN: 145044458X
 ASIN: 14802141
@@ -8387,7 +8387,7 @@ Media: Hardcover
 Title: The Little Book of Eastern Wisdom: Sufi, Tao, Zen
 Author: Hemenway, Priya
 Date: 2003
-Publisher: Barnes & Noble (2003), 152 pages
+Publisher: Barnes & Noble
 Tags: biblio
 ISBN: 0760745048
 ASIN: 46223
@@ -8429,7 +8429,7 @@ Media: Ebook
 Title: The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous
 Author: Henrich, Joseph
 Date: 2020-09-08
-Publisher: Farrar, Straus and Giroux (September 8, 2020)
+Publisher: Farrar, Straus and Giroux
 ASIN: B07RZFCPMD
 Link: https://www.amazon.com/gp/product/B07RZFCPMD/
 
@@ -8480,7 +8480,7 @@ Media: Paperback
 Title: The Book of Postfix: State-of-the-Art Message Transport
 Author: Hildebrandt, Ralf
 Date: 2005
-Publisher: No Starch Press (2005), Edition: 1st, 496 pages
+Publisher: No Starch Press
 Tags: biblio
 ISBN: 1593270011
 ASIN: 735318
@@ -8529,7 +8529,7 @@ Media: Paperback
 Title: DARK MISSION: The Secret History of NASA
 Author: Hoagland, Richard C.
 Date: 2007
-Publisher: FERAL HOUSE (2007), Edition: CONTR, 550 pages
+Publisher: FERAL HOUSE
 Tags: biblio
 ISBN: 1932595260
 ASIN: 4294102
@@ -8555,7 +8555,7 @@ Media: Paperback
 Title: Catastrophes, Chaos & Convolutions
 Author: Hogan, James P.
 Date: 2005
-Publisher: Baen (2005), 496 pages
+Publisher: Baen
 Tags: biblio, important
 ISBN: 1416509216
 ASIN: 463794
@@ -8566,7 +8566,7 @@ Media: Paperback
 Title: Echoes of an Alien Sky
 Author: Hogan, James P.
 Date: 2008
-Publisher: Baen (2008), 432 pages
+Publisher: Baen
 Tags: biblio
 ISBN: 1416555323
 ASIN: 2318312
@@ -8606,7 +8606,7 @@ Media: Paperback
 Title: Definitive XSL-FO
 Author: Holman, G. Ken
 Date: 2003
-Publisher: Prentice Hall (2003), Edition: 1, 480 pages
+Publisher: Prentice Hall
 Tags: biblio
 ISBN: 0131403745
 ASIN: 1284791
@@ -8638,7 +8638,7 @@ Media: Paperback
 Title: How to Start and Run a Writing and Editing Business (Wiley Small Business Editions)
 Author: Holtz, Herman
 Date: 1992
-Publisher: Wiley (1992), Edition: 1, 272 pages
+Publisher: Wiley
 Tags: biblio
 ISBN: 0471548316
 ASIN: 1034529
@@ -8955,7 +8955,7 @@ Media: Paperback
 Title: The Miracle Mineral Supplement of the 21st Century
 Author: Humble, Jim
 Date: 2007
-Publisher: Jim V. Humble (2008), Edition: 2nd, 256 pages
+Publisher: Jim V. Humble
 Tags: biblio
 ISBN: 0979288444
 ASIN: 5730611
@@ -8988,7 +8988,7 @@ Media: Paperback
 Title: The Gift: Imagination and the Erotic Life of Property
 Author: Hyde, Lewis
 Date: 1983
-Publisher: Vintage (1983), Edition: 1st Vintage Books ed, 352 pages
+Publisher: Vintage
 Tags: biblio
 ISBN: 0394715195
 ASIN: 258760
@@ -9144,7 +9144,7 @@ Media: Paperback
 Title: Deschooling Society: Social Questions
 Author: Illich, Ivan
 Date: 1995
-Publisher: Marion Boyars Publishers Ltd (1995), Edition: New edition, 116 pages
+Publisher: Marion Boyars Publishers Ltd
 Tags: biblio, important
 ISBN: 0714508799
 ASIN: 165351
@@ -9483,7 +9483,7 @@ Media: Hardcover
 Title: A Fishkeeper's Guide to Aquarium Plants: A Superbly Illustrated Guide to Growing Healthy Aquarium Plants, Featuring over 60 Species (Fishkeeper's Guide Series)
 Author: James, Barry
 Date: 1986
-Publisher: Salamander Books Ltd (1986), 120 pages
+Publisher: Salamander Books Ltd
 Tags: biblio
 ISBN: 0861012070
 ASIN: 1135300
@@ -9647,7 +9647,7 @@ Media: Paperback
 Title: Ecstasy: Understanding the Psychology of Joy
 Author: Johnson, Robert A.
 Date: 1987
-Publisher: Harper (1989), Edition: Illustrated, 100 pages
+Publisher: Harper
 Tags: biblio
 ISBN: 0062504320
 ASIN: 102235
@@ -9688,7 +9688,7 @@ Media: Paperback
 Title: Ecstasy: Understanding the Psychology of Joy
 Author: Johnson, Robert A.
 Date: 1987
-Publisher: Harper (1989), Edition: Illustrated, 100 pages
+Publisher: Harper (1989)
 Tags: book, book, biblio, book
 ISBN: 0062504320
 ASIN: 102235
@@ -9855,7 +9855,7 @@ Media: Paperback
 Title: Changing the World: One Relationship at a Time : Focused Listening for Mutual Support & Empowerment (Personal Power)
 Author: Karas, Sheryl
 Date: 1998
-Publisher: Crossing Pr (1998), Edition: 893rd, 112 pages
+Publisher: Crossing Pr
 Tags: biblio
 ISBN: 0895949458
 ASIN: 4863077
@@ -9890,7 +9890,7 @@ Media: Paperback
 Title: We Need Each Other: Building Gift Community
 Author: Kauth, Bill
 Date: 2011-09-09
-Publisher: Silver Light Publications (2011), 166 pages
+Publisher: Silver Light Publications
 Tags: biblio, important
 ISBN: 0974489093
 ASIN: 22562926
@@ -9931,7 +9931,7 @@ Media: DVD
 Title: Speechless
 Author: Keaton, Michael
 Date: 2001
-Publisher: MGM (Video & DVD) (2001)
+Publisher: MGM (Video & DVD)
 Tags: biblio
 ISBN: 0792851722
 ASIN: 17045985
@@ -9942,7 +9942,7 @@ Media: DVD
 Title: The Dream Team
 Author: Keaton, Michael
 Date: 2003
-Publisher: Universal Pictures Home Entertainment (2003), Edition: DVD
+Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ASIN: 16557420
 
@@ -9959,7 +9959,7 @@ Media: Ebook
 Title: Occupy Money: Creating an Economy where Everybody Wins
 Author: Kennedy, Margrit
 Date: 2012
-Publisher: New Society Publishers (2012), 131 pages
+Publisher: New Society Publishers
 Tags: biblio, important
 ASIN: 13116531
 
@@ -10012,7 +10012,7 @@ Media: Ebook
 Title: The Social Justice Advocate's Handbook: A Guide to Gender
 Author: Killermann, Sam
 Date: 2013
-Publisher: Impetus Books (2013), Edition: 8.5.2013, 250 pages
+Publisher: Impetus Books
 Tags: biblio
 ISBN: 0989760200
 ASIN: 14241657
@@ -10062,7 +10062,7 @@ Media: Paperback
 Title: Shapers Chronicles: The Wreckers
 Author: Kirk, Dan
 Date: 2006
-Publisher: Lulu.com (2006), 261 pages
+Publisher: Lulu.com
 Tags: biblio
 ISBN: 1411643577
 ASIN: 1353689
@@ -10080,7 +10080,7 @@ Media: Paperback
 Title: Rich Dad Poor Dad: What the Rich Teach Their Kids About Money-That the Poor and the Middle Class Do Not!
 Author: Kiyosaki, Robert T.
 Date: 2000
-Publisher: Business Plus (2000), Edition: 1, 272 pages
+Publisher: Business Plus
 Tags: biblio
 ISBN: 0446677450
 ASIN: 12716
@@ -10197,7 +10197,7 @@ Media: Paperback
 Title: The Monk and the Riddle: The Art of Creating a Life While Making a Living
 Author: Komisar, Randy
 Date: 2001
-Publisher: Harvard Business Review Press (2001), Edition: First Printing, 208 pages
+Publisher: Harvard Business Review Press
 Tags: biblio
 ISBN: 9781578516445
 ASIN: 27248
@@ -10216,7 +10216,7 @@ Media: Paperback
 Title: Agenda for a New Economy: From Phantom Wealth to Real Wealth
 Author: Korten, David C.
 Date: 2009
-Publisher: Berrett-Koehler Publishers (2009), Edition: First Edition, 216 pages
+Publisher: Berrett-Koehler Publishers
 Tags: a, biblio
 ISBN: 9781605092898
 ASIN: 7723659
@@ -10247,7 +10247,7 @@ Media: Hardcover
 Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David C.
 Date: 2006
-Publisher: Berrett-Koehler (2006), 402 pages
+Publisher: Berrett-Koehler
 Tags: d, biblio, important
 ISBN: 1887208070
 ASIN: 854173
@@ -10258,7 +10258,7 @@ Media: Paperback
 Title: The Post-Corporate World: Life After Capitalism
 Author: Korten, David C.
 Date: 2000
-Publisher: Berrett-Koehler Publishers (2000), Edition: 1, 336 pages
+Publisher: Berrett-Koehler Publishers
 Tags: e, biblio
 ISBN: 1887208038
 ASIN: 555122
@@ -10269,7 +10269,7 @@ Media: Paperback
 Title: When Corporations Rule the World
 Author: Korten, David C.
 Date: 2001
-Publisher: Kumarian Press (2001), Edition: 2nd, 385 pages
+Publisher: Kumarian Press
 Tags: f, biblio, important
 ISBN: 1887208046
 ASIN: 63770
@@ -10317,7 +10317,7 @@ Media: Hardcover
 Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David
 Date: 2017-02-02
-Publisher: Berrett-Koehler (2006), 402 pages
+Publisher: Berrett-Koehler
 Tags: article, greatturning, link, biblio, article, link
 ISBN: 1887208070
 ASIN: 854173
@@ -10377,7 +10377,7 @@ Media: Ebook
 Title: The Conquest of Bread
 Author: Author: Kropotkin, kniaz Petr Alekseevich
 Date: 1926
-Publisher: New York, Vanguard Press (1926)
+Publisher: Vanguard Press
 Link: https://www.gutenberg.org/ebooks/23428
 AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/the_conquest_of_bread_by_kropotkin_1892.epub
 
@@ -10552,7 +10552,7 @@ Media: Ebook
 Title: You Are Not a Gadget
 Author: Lanier, Jaron
 Date: 2009
-Publisher: Vintage (2010), Edition: Reprint, 295 pages
+Publisher: Vintage 
 Tags: biblio, important
 ASIN: 8749061
 
@@ -10562,7 +10562,7 @@ Media: Hardcover
 Title: You Are Not a Gadget: A Manifesto
 Author: Lanier, Jaron
 Date: 2010
-Publisher: Knopf (2010), Edition: 1, 224 pages
+Publisher: Knopf
 Tags: biblio, important
 ISBN: 0307269647
 ASIN: 8749061
@@ -10596,7 +10596,7 @@ Media: Hardcover
 Title: In Search of Stardust: Amazing Micrometeorites and Their Terrestrial Imposters
 Author: Larsen, Jon
 Date: 2017
-Publisher: Voyageur Press (2017), 152 pages
+Publisher: Voyageur Press
 Tags: biblio
 ISBN: 076035264X
 ASIN: 19780284
@@ -10748,7 +10748,7 @@ Media: Hardcover
 Title: Freakonomics (Revised Edition)
 Author: Levitt, Steven D
 Date: 2006
-Publisher: William Morrow (2006), Edition: Revised, 336 pages
+Publisher: William Morrow
 Tags: biblio
 ISBN: 0061234001
 ASIN: 675
@@ -10769,7 +10769,7 @@ Media: Paperback
 Title: Fluent in 3 Months: How Anyone at Any Age Can Learn to Speak Any Language from Anywhere in the World
 Author: Lewis, Benny
 Date: 2014
-Publisher: HarperOne (2014), Edition: F 1st Paperback edition, 256 pages
+Publisher: HarperOne
 Tags: biblio
 ISBN: 0062282697
 ASIN: 14836356
@@ -10802,7 +10802,7 @@ Media: Paperback
 Title: Temple of Love
 Author: Lichtenfels, Sabine
 Date: 2011
-Publisher: Verlag Meiga (2011), 276 pages
+Publisher: Verlag Meiga
 Tags: biblio, important
 ISBN: 3927266442
 ASIN: 26862717
@@ -11333,7 +11333,7 @@ Media: DVD
 Title: Dracula (Universal Studios Classic Monster Collection)
 Author: Lugosi, Bela
 Date: 2009
-Publisher: Universal Pictures Home Entertainment (2009), Edition: DVD
+Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ISBN: 0783227450
 ASIN: 1363865
@@ -11588,7 +11588,7 @@ Media: Paperback
 Title: Finding the Way Home: Poems of Awakening and Transformation (Companions for the Journey)
 Author: Maloney, Dennis
 Date: 2010
-Publisher: White Pine Press (2010), Edition: 1, 240 pages
+Publisher: White Pine Press
 Tags: biblio
 ISBN: 1935210122
 ASIN: 10160462
@@ -11599,7 +11599,7 @@ Media: Paperback
 Title: Finding the Way Home: Poems of Awakening and Transformation (Companions for the Journey)
 Author: Maloney, Dennis
 Date: 2010
-Publisher: White Pine Press (2010), Edition: 1, 240 pages
+Publisher: White Pine Press
 Tags: biblio
 ISBN: 1935210122
 ASIN: 10160462
@@ -11625,7 +11625,7 @@ Media: Paperback
 Title: King Perry (The Lost and Founds) (Volume 1)
 Author: Manning, Edmond
 Date: 2012
-Publisher: Pickwick Ink Press (2012), Edition: 2, 300 pages
+Publisher: Pickwick Ink Press
 Tags: biblio
 ISBN: 0997860898
 ASIN: 12527666
@@ -11752,7 +11752,7 @@ Media: DVD
 Title: Cheaper by the Dozen
 Author: Martin, Steve
 Date: 2004
-Publisher: 20th Century Fox (2004)
+Publisher: 20th Century Fox
 Tags: biblio
 ASIN: 8196936
 
@@ -11794,10 +11794,10 @@ Link: http://www.wimp.com/mathieubich/
 Id: matlin-01
 Type: media
 Media: DVD
-Title: What the Bleep!? - Down the Rabbit Hole (QUANTUM Three-Disc Special Edition)
+Title: What the Bleep!? - Down the Rabbit Hole
 Author: Matlin, Marlee
 Date: 2006
-Publisher: 20th Century Fox (2006), Edition: Special Edition
+Publisher: 20th Century Fox
 Tags: biblio
 ASIN: 8208756
 
@@ -11876,7 +11876,7 @@ Media: Hardcover
 Title: Delete: The Virtue of Forgetting in the Digital Age
 Author: Mayer-Schu00f6nberger, Viktor
 Date: 2009
-Publisher: Princeton University Press (2009), 256 pages
+Publisher: Princeton University Press
 Tags: biblio, important
 ISBN: 0691138613
 ASIN: 8721443
@@ -11936,7 +11936,7 @@ Media: Paperback
 Title: Industrious
 Author: McCloskey, Michael
 Date: 2011
-Publisher: MichaelMcCloskey (2011), 210 pages
+Publisher: MichaelMcCloskey
 Tags: biblio
 ISBN: 0615457231
 ASIN: 12392939
@@ -11947,7 +11947,7 @@ Media: Paperback
 Title: Insidious
 Author: McCloskey, Michael
 Date: 2010
-Publisher: iUniverse (2010), 324 pages
+Publisher: iUniverse
 Tags: biblio
 ISBN: 1440192529
 ASIN: 10735086
@@ -12317,7 +12317,7 @@ Media: link
 Title: The Dilemma of Obedience
 Author: Milgram, Stanley
 Date: 1974-05
-Publisher: The Phi Delta Kappan, May, 1974, Vol. 55, No. 9 (May, 1974), pp. 603-606
+Publisher: The Phi Delta Kappan, May, 1974, Vol. 55, No. 9
 Link: https://www.jstor.org/stable/20297701
 AltLink: https://archive.vn/T9FDc
 
@@ -12327,7 +12327,7 @@ Media: Blu-ray
 Title: Apollo 11 (2019) [Blu-ray]
 Author: Miller, Todd Douglas
 Date: 2019
-Publisher: Universal Pictures Home Entertainment (2019), Edition: Blu-ray   Digital
+Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ASIN: 23240016
 
@@ -12337,7 +12337,7 @@ Media: Ebook
 Title: How To Bottom Like A Porn Star
 Author: Miller, Woody
 Date: 2014
-Publisher: Woodpecker Media (2014), 136 pages
+Publisher: Woodpecker Media
 Tags: biblio
 ISBN: 0989139743
 ASIN: 17874557
@@ -12348,7 +12348,7 @@ Media: Ebook
 Title: Toward a New Psychology of Women 2nd Edition
 Author: Miller, Jean Baker
 Date: 2012-02-21
-Publisher: Beacon Press; 2nd edition (February 21, 2012)
+Publisher: Beacon Press
 ASIN: B006Q1KBZ6
 Link: https://www.amazon.com/Toward-Psychology-Women-Baker-Miller-ebook/dp/B006Q1KBZ6
 
@@ -12358,7 +12358,7 @@ Media: Hardcover
 Title: Community Fishes
 Author: Mills, Dick
 Date: 1991
-Publisher: Tetra Press (1991)
+Publisher: Tetra Press
 Tags: biblio
 ISBN: 3923880529
 ASIN: 3297273
@@ -12468,7 +12468,7 @@ Media: Paperback
 Title: Stopping Identity Theft: 10 Easy Steps to Security
 Author: Mitic, Scott
 Date: 2009
-Publisher: NOLO (2009), Edition: 1st, 256 pages
+Publisher: NOLO
 Tags: biblio
 ISBN: 1413309569
 ASIN: 8231502
@@ -12608,7 +12608,7 @@ Media: DVD
 Title: Roger & Me
 Author: Moore, Michael
 Date: 2003
-Publisher: Warner Home Video (2003)
+Publisher: Warner Home Video
 Tags: biblio
 ISBN: 0790780232
 ASIN: 929569
@@ -12627,7 +12627,7 @@ Media: DVD
 Title: Where To Invade Next
 Author: Moore, Michael
 Date: 2016
-Publisher: Lionsgate (2016), Edition: DVD
+Publisher: Lionsgate
 Tags: biblio
 ASIN: 17895373
 
@@ -12712,7 +12712,7 @@ Media: Paperback
 Title: Shackleton's Way: Leadership Lessons from the Great Antarctic Explorer
 Author: Morrell, Margot
 Date: 2002
-Publisher: Penguin Books (2002), 256 pages
+Publisher: Penguin Books
 Tags: biblio, important
 ISBN: 9780142002360
 ASIN: 3787
@@ -12837,7 +12837,7 @@ Media: Paperback
 Title: Ecstasy Through Tantra (Llewellyns Tantra and Sexual Arts Series)
 Author: Mumford, Jonn
 Date: 2002
-Publisher: Llewellyn Publications (2002), Edition: Illustrated, 208 pages
+Publisher: Llewellyn Publications
 Tags: biblio
 ISBN: 0875424945
 ASIN: 65556
@@ -13051,7 +13051,7 @@ Media: DVD
 Title: The Final Cut
 Author: Naim, Omar
 Date: 2007
-Publisher: Lionsgate (2005), Edition: DVD
+Publisher: Lionsgate
 Tags: biblio
 ASIN: 5540437
 
@@ -13068,7 +13068,7 @@ Media: Blu-ray
 Title: An American Werewolf in London [Blu-ray]
 Author: Naughton, David
 Date: 2013
-Publisher: Universal Pictures Home Entertainment (2010), Edition: Full Moon Edition
+Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ASIN: 317758
 
@@ -13127,7 +13127,7 @@ Media: Paperback
 Title: Linux Toys: 13 Cool Projects for Home, Office and Entertainment (ExtremeTech)
 Author: Negus, Christopher
 Date: 2003
-Publisher: Wiley (2003), 360 pages
+Publisher: Wiley
 Tags: biblio
 ISBN: 0764525085
 ASIN: 84491
@@ -13138,7 +13138,7 @@ Media: Paperback
 Title: Black Elk Speaks: The Complete Edition
 Author: Neihardt, John G.
 Date: 2014
-Publisher: BISON BOOKS (2014), Edition: Complete ed., 424 pages
+Publisher: BISON BOOKS
 Tags: biblio
 ISBN: 0803283911
 ASIN: 3251626
@@ -13163,7 +13163,7 @@ Media: Paperback
 Title: Neither Wolf nor Dog: On Forgotten Roads with an Indian Elder
 Author: Nerburn, Kent
 Date: 2002
-Publisher: New World Library (2002), Edition: 2nd, 304 pages
+Publisher: New World Library
 Tags: biblio, important
 ISBN: 1577312333
 ASIN: 371298
@@ -13275,7 +13275,7 @@ Media: DVD
 Title: Frank Herbert's Children of Dune: Sci-Fi TV Miniseries (Two-Disc DVD Set)
 Author: Newman, Alec
 Date: 2003
-Publisher: Alliance (2003)
+Publisher: Alliance
 Tags: biblio
 ASIN: 1278120
 
@@ -13493,7 +13493,7 @@ Media: Paperback
 Title: Protector (Known Space)
 Author: Niven, Larry
 Date: 1987
-Publisher: Del Rey (1987), Edition: Reissue, 218 pages
+Publisher: Del Rey
 Tags: biblio
 ISBN: 0345353129
 ASIN: 18896
@@ -13858,7 +13858,7 @@ Media: Paperback
 Title: Dolphin Connection: Interdimensional Ways of Living
 Author: Ocean, Joan
 Date: 1989
-Publisher: Dolphin Connection (1989), Edition: First Edition, 144 pages
+Publisher: Dolphin Connection
 Tags: biblio
 ISBN: 0949679100
 ASIN: 4864820
@@ -14416,7 +14416,7 @@ Media: Paperback
 Title: The Enneagram in Love and Work: Understanding Your Intimate and Business Relationships
 Author: Palmer, Helen
 Date: 1995
-Publisher: HarperOne (1995), Edition: 1, 432 pages
+Publisher: HarperOne
 Tags: biblio
 ISBN: 0062507214
 ASIN: 39413
@@ -14641,7 +14641,7 @@ Media: Paperback
 Title: People of the Lie: The Hope for Healing Human Evil
 Author: Peck, M. Scott
 Date: 1998
-Publisher: Touchstone (1998), Edition: 2, 272 pages
+Publisher: Touchstone
 Tags: biblio, important
 ISBN: 0684848597
 ASIN: 24864462
@@ -14678,7 +14678,7 @@ Media: Paperback
 Title: Gay Witchcraft: Empowering the Tribe
 Author: Penczak, Christopher
 Date: 2003
-Publisher: Red Wheel/Weiser (2003), 288 pages
+Publisher: Red Wheel/Weiser
 Tags: biblio, important
 ISBN: 1578632811
 ASIN: 470136
@@ -14749,7 +14749,7 @@ Media: Ebook
 Title: 12 Rules for Life: An Antidote to Chaos
 Author: Peterson, Jordan B.
 Date: 2018
-Publisher: Random House Canada (2018), Edition: Later prt., 409 pages
+Publisher: Random House Canada
 Tags: biblio
 ISBN: 0345816021
 ASIN: 19389000
@@ -14935,7 +14935,7 @@ Media: Paperback
 Title: Zen and the Art of Motorcycle Maintenance: An Inquiry into Values
 Author: Pirsig, Robert M
 Date: 2006
-Publisher: HarperTorch (2006), Edition: 1st, 540 pages
+Publisher: HarperTorch
 Tags: biblio, important
 ISBN: 0060589469
 ASIN: 1008
@@ -14946,7 +14946,7 @@ Media: Paperback
 Title: The Worst-Case Scenario Survival Handbook (Worst Case Scenario (WORS))
 Author: Piven, Joshua
 Date: 1999
-Publisher: Chronicle Books (1999), Edition: 1, 176 pages
+Publisher: Chronicle Books
 Tags: biblio
 ISBN: 0811825558
 ASIN: 19794247
@@ -15016,7 +15016,7 @@ Media: Blu-ray
 Title: Inside Out (Blu-ray/DVD Combo Pack Digital Copy)
 Author: Poehler, Amy
 Date: 2015
-Publisher: Walt Disney Studios (2015), Edition: DVD   Digital Copy
+Publisher: Walt Disney Studios
 Tags: biblio
 ASIN: 16707643
 
@@ -15131,7 +15131,7 @@ Media: Ebook
 Title: Technopoly: The Surrender of Culture to Technology
 Author: Postman, Neil
 Date: 2011
-Publisher: Vintage (2011), 199 pages
+Publisher: Vintage
 Tags: biblio, important
 ASIN: 46821
 
@@ -15158,7 +15158,7 @@ Media: Paperback
 Title: The Mote In God's Eye
 Author: Pournelle, Jerry
 Date: 1974
-Publisher: Pocket 1974 (1974), Edition: Trade Paperback Edition
+Publisher: Pocket
 Tags: biblio
 ISBN: 0671741926
 ASIN: 16539
@@ -15253,7 +15253,7 @@ Media: Paperback
 Title: Random Acts of Kindness
 Author: Press, Conari
 Date: 1993
-Publisher: Conari Press (1993), Edition: First Edition, 159 pages
+Publisher: Conari Press
 Tags: biblio
 ISBN: 0943233437
 ASIN: 814157
@@ -15418,7 +15418,7 @@ Media: DVD
 Title: Dragonheart: 2 Legendary Tales (Dragonheart / Dragonheart: A New Beginning)
 Author: Quaid, Dennis
 Date: 2010
-Publisher: Universal Pictures Home Entertainment (2010), Edition: DVD
+Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ISBN: 0783289561
 ASIN: 16651524
@@ -15429,7 +15429,7 @@ Media: DVD
 Title: Far From Heaven
 Author: Quaid, Dennis
 Date: 2003
-Publisher: Innotrac - NBC Universal (2003)
+Publisher: Innotrac - NBC Universal
 Tags: biblio
 ASIN: 758733
 
@@ -15439,7 +15439,7 @@ Media: DVD
 Title: The day after tomorrow
 Author: Quaid, Dennis
 Date: 2004
-Publisher: [United States] : [Hong Kong] : 20th Century Fox Home Entertainment ; Distributed by Deltamac (Hong Kong) Ltd., c2004.
+Publisher: 20th Century Fox Home Entertainment
 Tags: biblio
 ASIN: 26862839
 
@@ -15690,7 +15690,7 @@ Media: DVD
 Title: OMG Oh My God (Bollywood DVD With English Subtitles)
 Author: Rawal, Paresh
 Date: 2012
-Publisher: Viacom (2012)
+Publisher: Viacom
 Tags: biblio
 ASIN: 26864829
 
@@ -15825,7 +15825,7 @@ Media: Ebook
 Title: On Chocorua: Book 1 of the Trailblazer series
 Author: Reardon, Robin
 Date: 2019
-Publisher: IAM Books (2019), 297 pages
+Publisher: IAM Books
 Tags: biblio
 ISBN: 099884148X
 ASIN: 23635219
@@ -16055,7 +16055,7 @@ Media: DVD
 Title: Superman - The Movie
 Author: Reeve, Christopher
 Date: 2001
-Publisher: Warner Home Video (2001), Edition: Special Edition
+Publisher: Warner Home Video
 Tags: biblio
 ISBN: 0790752433
 ASIN: 2439133
@@ -16066,7 +16066,7 @@ Media: DVD
 Title: Superman III
 Author: Reeve, Christopher
 Date: 2001
-Publisher: Warner Home Video (2001)
+Publisher: Warner Home Video
 Tags: biblio
 ISBN: 079075245X
 ASIN: 1791750
@@ -16077,7 +16077,7 @@ Media: DVD
 Title: Superman IV - The Quest for Peace
 Author: Reeve, Christopher
 Date: 2005
-Publisher: Warner Home Video (2001)
+Publisher: Warner Home Video
 Tags: biblio
 ISBN: 0790752468
 ASIN: 1815791
@@ -16088,7 +16088,7 @@ Media: DVD
 Title: Johnny Mnemonic
 Author: Reeves, Keanu
 Date: 1999
-Publisher: Sony Pictures Home Entertainment (1997)
+Publisher: Sony Pictures Home Entertainment
 Tags: biblio
 ISBN: 043396734791
 ASIN: 1093744
@@ -16200,7 +16200,7 @@ Media: Paperback
 Title: The Draegan Lords
 Author: Rhodes, M. L.
 Date: 2008
-Publisher: Amber Quill Press, LLC (2008), 221 pages
+Publisher: Amber Quill Press, LLC 
 Tags: biblio
 ISBN: 160272945X
 ASIN: 2919106
@@ -16318,7 +16318,7 @@ Media: Paperback
 Title: The Dark Beyond the Stars: A Novel
 Author: Robinson, Frank M.
 Date: 1997
-Publisher: Orb Books (1997), Edition: 1st Orb Edition/ 1st Printing, 420 pages
+Publisher: Orb Books
 Tags: biblio
 ISBN: 0312866240
 ASIN: 216195
@@ -16389,7 +16389,7 @@ Media: Paperback
 Title: Joy of Cooking
 Author: Rombauer, Irma S.
 Date: 1985
-Publisher: Plume (1992), 864 pages
+Publisher: Plume
 Tags: biblio
 ISBN: 0452263328
 ASIN: 14958850
@@ -16528,7 +16528,7 @@ Media: Ebook
 Title: Team Human
 Author: Rushkoff, Douglas
 Date: 2019-01-22
-Publisher: W. W. Norton & Company (January 22, 2019)
+Publisher: W. W. Norton & Company
 Tags: book, biblio, important, book
 Link: https://www.amazon.com/dp/B07DP62FZB
 
@@ -16592,7 +16592,7 @@ Media: Hardcover
 Title: Sex at Dawn: The Prehistoric Origins of Modern Sexuality
 Author: Ryan, Christopher
 Date: 2010
-Publisher: Harper (2010), Edition: 1, 416 pages
+Publisher: Harper
 Tags: biblio, important
 ISBN: 0061707805
 ASIN: 10020301
@@ -16709,7 +16709,7 @@ Media: DVD
 Title: 50 First Dates / Mr.Deeds (Widescreen Edition)
 Author: Sandler, Adam
 Date: 2011
-Publisher: Sony Pictures Home Entertainment (2011), Edition: Special Edition
+Publisher: Sony Pictures Home Entertainment
 Tags: biblio
 ISBN: 1404988173
 ASIN: 29641421
@@ -16734,7 +16734,7 @@ Media: DVD
 Title: Akira (Widescreen)
 Author: Sasaki, Nozomu
 Date: 2001
-Publisher: Geneon [Pioneer] (2001)
+Publisher: Geneon [Pioneer]
 Tags: biblio
 ASIN: 11799471
 
@@ -16786,7 +16786,7 @@ Media: Paperback
 Title: The Millennial Project: Colonizing the Galaxy in Eight Easy Steps
 Author: Savage, Marshall T.
 Date: 1994
-Publisher: Little Brown & Co (1994), Edition: Reprint, 508 pages
+Publisher: Little Brown & Co
 Tags: biblio
 ISBN: 0316771635
 ASIN: 57275
@@ -16862,7 +16862,7 @@ Media: Paperback
 Title: Blood of the Goddess
 Author: Schindler, William
 Date: 2020
-Publisher: Lulu.com (2020), 304 pages
+Publisher: Lulu.com
 Tags: biblio
 ISBN: 1716885620
 ASIN: 2357464
@@ -16873,7 +16873,7 @@ Media: Paperback
 Title: Blood of the Goddess
 Author: Schindler, William
 Date: 2020
-Publisher: Lulu.com (2020), 304 pages
+Publisher: Lulu.com
 Tags: biblio
 ISBN: 1716885620
 ASIN: 2357464
@@ -16884,7 +16884,7 @@ Media: Paperback
 Title: Blood of the Goddess
 Author: Schindler, William
 Date: 2020
-Publisher: Lulu.com (2020), 304 pages
+Publisher: Lulu.com
 Tags: biblio
 ISBN: 1716885620
 ASIN: 2357464
@@ -16895,7 +16895,7 @@ Media: Paperback
 Title: Essays on Gay Tantra
 Author: Schindler, William
 Date: 2001
-Publisher: Xlibris (2001), 436 pages
+Publisher: Xlibris
 Tags: biblio
 ISBN: 073886028X
 ASIN: 2261804
@@ -16916,7 +16916,7 @@ Media: Paperback
 Title: Secrets Of Gay Tantra: A Gay-Centered Path To Enlightenment
 Author: Schindler, William
 Date: 2012
-Publisher: lulu.com (2012), Edition: First Edition, 310 pages
+Publisher: lulu.com
 Tags: biblio
 ISBN: 125790356X
 ASIN: 12208495
@@ -16927,7 +16927,7 @@ Media: Hardcover
 Title: Writing for Self-Discovery: A Personal Approach to Creative Writing
 Author: Schneider, Myra
 Date: 1998
-Publisher: Barnes & Noble Books (1998), Edition: First Edition, 229 pages
+Publisher: Barnes & Noble Books
 Tags: biblio
 ISBN: 0760709963
 ASIN: 192513
@@ -17069,7 +17069,7 @@ Media: Paperback
 Title: The Electric Sky
 Author: Scott, Donald E.
 Date: 2006
-Publisher: Mikamar Publishing (2006), Edition: 1, 256 pages
+Publisher: Mikamar Publishing
 Tags: biblio
 ISBN: 0977285111
 ASIN: 5054276
@@ -17347,7 +17347,7 @@ Media: DVD
 Title: Star Trek II - The Wrath of Khan
 Author: Shatner, William
 Date: 2000
-Publisher: Paramount Home Video (2000)
+Publisher: Paramount Home Video
 Tags: biblio
 ISBN: 6305910103
 ASIN: 1029760
@@ -17384,7 +17384,7 @@ Media: Ebook
 Title: Science Set Free: 10 Paths to New Discovery
 Author: Sheldrake, Rupert
 Date: 2012
-Publisher: Deepak Chopra (2012), 402 pages
+Publisher: Deepak Chopra
 Tags: biblio, important
 ASIN: 12138997
 
@@ -17438,7 +17438,7 @@ Media: Paperback
 Title: I Could Do Anything If I Only Knew What It Was: How to Discover What You Really Want and How to Get It
 Author: Sher, Barbara
 Date: 1995
-Publisher: Dell (1995), Edition: 1, 322 pages
+Publisher: Dell
 Tags: biblio
 ISBN: 0440505003
 ASIN: 54505
@@ -17449,7 +17449,7 @@ Media: Hardcover
 Title: It's Only Too Late If You Don't Start Now : How to Create Your Second Life After Forty
 Author: Sher, Barbara
 Date: 1998
-Publisher: Delacorte Press (1998), Edition: First Edition, 352 pages
+Publisher: Delacorte Press
 Tags: biblio
 ISBN: 0385315058
 ASIN: 141754
@@ -17518,7 +17518,7 @@ Media: Paperback
 Title: Healing Your Rift with God: A Guide to Spiritual Renewal and Ultimate Healing
 Author: Sibcy, Paul
 Date: 2007
-Publisher: Atria Books/Beyond Words (2007), Edition: Original ed., 200 pages
+Publisher: Atria Books/Beyond Words
 Tags: biblio
 ISBN: 1582700044
 ASIN: 3087867
@@ -18073,7 +18073,7 @@ Media: Hardcover
 Title: Cosmos
 Author: Sparrow, Giles
 Date: 2006
-Publisher: Smith-Davies Pub (2006), Edition: 1st Edition, 224 pages
+Publisher: Smith-Davies Pub
 Tags: biblio
 ISBN: 1905204299
 ASIN: 1933608
@@ -18242,7 +18242,7 @@ Media: Paperback
 Title: Water Gardens (Nature Guides)
 Author: Stadelmann, Peter
 Date: 1992
-Publisher: Barrons Educational Series Inc (1992), 143 pages
+Publisher: Barrons Educational Series Inc
 Tags: biblio
 ISBN: 0812049284
 ASIN: 819804
@@ -18350,7 +18350,7 @@ Media: Hardcover
 Title: Desktop Kornshell Graphical Programming (Addison-Wesley Professional Computing Series)
 Author: Stephen, Jr. Pendergrast J.
 Date: 1995
-Publisher: Addison-Wesley Pub (Sd) (1995), Edition: 1St Edition, 840 pages
+Publisher: Addison-Wesley Pub
 Tags: biblio
 ISBN: 0201633752
 ASIN: 3432491
@@ -18397,7 +18397,7 @@ Media: DVD
 Title: Star Trek - Nemesis (Widescreen Edition)
 Author: Stewart, Patrick
 Date: 2003
-Publisher: Paramount (2003)
+Publisher: Paramount
 Tags: biblio
 ISBN: 0792187040
 ASIN: 713721
@@ -18408,7 +18408,7 @@ Media: DVD
 Title: Star Trek VII: Generations
 Author: Stewart, Patrick
 Date: 1998
-Publisher: Paramount (1998)
+Publisher: Paramount
 Tags: biblio
 ISBN: 6305181721
 ASIN: 126861
@@ -18425,8 +18425,8 @@ Type: book
 Media: Hardcover
 Title: When God Was A Woman
 Author: Stone, Merlin
-Date: 2012
-Publisher: Marboro Books (1990), 265 pages
+Date: 1990
+Publisher: Marboro Books
 Tags: book, biblio, important, book
 ISBN: 0880295333
 ASIN: 112299
@@ -18436,8 +18436,8 @@ Type: book
 Media: Hardcover
 Title: When God Was a Woman
 Author: Stone, Merlin
-Date: 2012
-Publisher: Marboro Books (1990), 265 pages
+Date: 1990
+Publisher: Marboro Books
 Tags: book, biblio, important, book
 ISBN: 0880295333
 ASIN: 112299
@@ -18447,8 +18447,8 @@ Type: book
 Media: Hardcover
 Title: When God Was A Woman
 Author: Stone, Merlin
-Date: 2012
-Publisher: Marboro Books (1990), 265 pages
+Date: 1990
+Publisher: Marboro Books
 Tags: book, biblio, book
 ISBN: 0880295333
 ASIN: 112299
@@ -18548,7 +18548,7 @@ Media: DVD
 Title: Mamma Mia! The Movie
 Author: Streep, Meryl
 Date: 2012
-Publisher: Universal Pictures Home Entertainment (2008), Edition: DVD
+Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ASIN: 8000381
 
@@ -18558,7 +18558,7 @@ Media: DVD
 Title: Postcards from the Edge
 Author: Streep, Meryl
 Date: 1990
-Publisher: Mill Creek-Sony Pictures Home Entertainment (2001)
+Publisher: Sony Pictures Home Entertainment
 Tags: biblio
 ISBN: 0767859820
 ASIN: 2837896
@@ -18583,7 +18583,7 @@ Media: Paperback
 Title: Sync
 Author: Strogatz, Steven
 Date: 2004
-Publisher: Hyperion- Acquired Assets (2004), Edition: Reprint, 351 pages
+Publisher: Hyperion- Acquired Assets
 Tags: biblio
 ISBN: 0786887214
 ASIN: 12264
@@ -18810,7 +18810,7 @@ Media: Paperback
 Title: The Holographic Universe
 Author: Talbot, Michael
 Date: 1992
-Publisher: Harper Perennial (1992), Edition: Reprint, 338 pages
+Publisher: Harper Perennial
 Tags: biblio, important
 ISBN: 0060922583
 ASIN: 27785
@@ -18828,7 +18828,7 @@ Media: Paperback
 Title: Thunderbolts of the Gods
 Author: Talbott, David
 Date: 2005
-Publisher: Mikamar Publishing (2005), 107 pages
+Publisher: Mikamar Publishing
 Tags: biblio
 ISBN: 0977285103
 ASIN: 5054271
@@ -18907,7 +18907,7 @@ Media: DVD
 Title: Cleopatra - Award Series (2 Disc DVD Set)
 Author: Taylor, Elizabeth
 Date: 2006
-Publisher: Twentieth Century-Fox Film Corporation (2006)
+Publisher: Twentieth Century-Fox Film Corporation
 Tags: biblio
 ASIN: 687245
 
@@ -19409,7 +19409,7 @@ Title: Vaporized: Solid Strategies for Success in a Dematerialized World
 Author: Tercek, Robert
 Authors: Negroponte, Nicholas
 Date: 2015
-Publisher: LifeTree (2015), 336 pages
+Publisher: LifeTree
 Tags: biblio, important
 ASIN: 16693004
 
@@ -20188,7 +20188,7 @@ Media: Hardcover
 Title: Supervolcano: All Fall Down
 Author: Turtledove, Harry
 Date: 2012
-Publisher: Roc (2012), Edition: 1, 416 pages
+Publisher: Roc
 Tags: biblio
 ISBN: 0451464818
 ASIN: 12595909
@@ -20220,7 +20220,7 @@ Media: Paperback
 Title: Tao Te Ching: A New English Version (Perennial Classics)
 Author: Tzu, Lao
 Date: 2006
-Publisher: Harper Perennial Modern Classics (2006), Edition: Reprint, 144 pages
+Publisher: Harper Perennial Modern Classics
 Tags: biblio
 ISBN: 9780061142666
 ASIN: 24392
@@ -20387,7 +20387,7 @@ Media: DVD
 Title: Hanging up : Widescreen Edition
 Author: Up, Hanging
 Date: 2002
-Publisher: Alliance Entertainment (2002)
+Publisher: Alliance Entertainment
 Tags: biblio
 ASIN: 1967719
 
@@ -20551,7 +20551,7 @@ Media: Paperback
 Title: VRML Clearly Explained, Second Edition: Bringing Virtual Reality to the Internet
 Author: Vacca, John R.
 Date: 1997
-Publisher: Academic Press (1997), Edition: 2nd, 822 pages
+Publisher: Academic Press
 Tags: biblio
 ISBN: 0127100083
 ASIN: 10944715
@@ -20569,7 +20569,7 @@ Media: Paperback
 Title: When Gadgets Betray Us
 Author: Vamosi, Robert
 Date: 2013
-Publisher: Basic Books (2013), Edition: Reprint, 240 pages
+Publisher: Basic Books
 Tags: biblio
 ISBN: 9780465031382
 Link: https://www.amazon.com/When-Gadgets-Betray-Infatuation-Technologies-ebook/dp/B004JN0UFE
@@ -20609,7 +20609,7 @@ Title: Talking to My Daughter About the Economy: or, How Capitalism Works--and H
 Author: Varoufakis, Yanis
 Authors: Varoufakis, Yanis; Moe, Jacob
 Date: 2018
-Publisher: Farrar, Straus and Giroux (2018), 224 pages
+Publisher: Farrar, Straus and Giroux
 Tags: biblio, important
 ISBN: 0374272360
 ASIN: 16238926
@@ -20630,7 +20630,7 @@ Media: Paperback
 Title: Kamasutra (Oxford World's Classics)
 Author: Vatsyayana, Mallanaga
 Date: 2009
-Publisher: Oxford University Press (2009), Edition: Reissue, 304 pages
+Publisher: Oxford University Press
 Tags: biblio
 ISBN: 0199539162
 ASIN: 58987
@@ -20649,7 +20649,7 @@ Title: More Than Two: A Practical Guide to Ethical Polyamory
 Author: Veaux, Franklin
 Authors: Gill, Tatiana; Hardy, Janet
 Date: 2014
-Publisher: Thorntree Press (2014), 496 pages
+Publisher: Thorntree Press
 Tags: biblio
 ISBN: 0991399714
 ASIN: 15062936
@@ -20837,7 +20837,7 @@ Media: Hardcover
 Title: The Children of the Sky (Zones of Thought)
 Author: Vinge, Vernor
 Date: 2011
-Publisher: Tor Books (2011), Edition: 1, 448 pages
+Publisher: Tor Books
 Tags: biblio
 ISBN: 0312875622
 ASIN: 9928224
@@ -21033,7 +21033,7 @@ Media: Paperback
 Title: Cities of Light: A New Vision of the Future
 Author: Walters, Donald J.
 Date: 2005
-Publisher: Crystal Clarity Publishers (2005), Edition: 2, 134 pages
+Publisher: Crystal Clarity Publishers
 Tags: biblio
 ISBN: 1565891724
 ASIN: 9768689
@@ -21314,7 +21314,7 @@ Media: Hardcover
 Title: Practical Programming in Tcl & Tk
 Author: Welch, Brent B.
 Date: 1997
-Publisher: Prentice Hall (1997), Edition: 2nd, 630 pages
+Publisher: Prentice Hall
 Tags: biblio
 ISBN: 0136168302
 ASIN: 135602
@@ -21381,7 +21381,7 @@ Media: Ebook
 Title: The End of Protest: A New Playbook for Revolution
 Author: White, Micah
 Date: 2016
-Publisher: Knopf Canada (2016), Edition: 1, 318 pages
+Publisher: Knopf Canada
 Tags: biblio
 ASIN: 17389007
 
@@ -21418,7 +21418,7 @@ Media: Paperback
 Title: Leaves of Grass: Authoritative Texts, Prefaces, Whitman on His Art, Criticism (Norton Critical Edition)
 Author: Whitman, Walt
 Date: 1985
-Publisher: W. W. Norton & Company (1985), Edition: 2nd Edition, 1008 pages
+Publisher: W. W. Norton & Company
 Tags: biblio
 ISBN: 0393093883
 ASIN: 11081126
@@ -21436,7 +21436,7 @@ Media: Paperback
 Title: The Heart Aroused: Poetry and the Preservation of the Soul in Corporate America
 Author: Whyte, David
 Date: 1996
-Publisher: Currency (1996), Edition: Rev ed., 368 pages
+Publisher: Currency
 Tags: biblio
 ISBN: 0385484186
 ASIN: 71346
@@ -21995,7 +21995,7 @@ Media: Paperback
 Title: The Secret of the Golden Flower: A Chinese Book of Life
 Author: Wilhelm, Richard
 Date: 1962
-Publisher: Harcourt Brace Jovanovich (1970), Edition: New, Revised and Augmented edition, 176 pages
+Publisher: Harcourt Brace Jovanovich
 Tags: biblio
 ISBN: 0156799804
 ASIN: 204188
@@ -22093,7 +22093,7 @@ Media: Paperback
 Title: Setting Foundations for a New Civilization
 Author: Winiecki, Martin
 Date: 2013
-Publisher: Verlag Meiga (2013), Edition: Illustrated, 124 pages
+Publisher: Verlag Meiga
 Tags: biblio, important
 ISBN: 3927266477
 ASIN: 26862721
@@ -22124,7 +22124,7 @@ Media: Ebook
 Title: The Powers That Be: Theology for a New Millennium
 Author: Wink, Walter
 Date: 2010
-Publisher: Harmony (2010), 238 pages
+Publisher: Harmony
 Tags: book, biblio, important, book
 ASIN: 232203
 Link: https://www.amazon.com/Powers-That-Be-Theology-Millennium-ebook/dp/B0036S4BUI/
@@ -22163,7 +22163,7 @@ Media: Hardcover
 Title: Winters' Tales: Stories and Observations for the Unusual
 Author: Winters, Jonathan
 Date: 1987
-Publisher: Random House (1987), Edition: 1st, 216 pages
+Publisher: Random House
 Tags: biblio
 ISBN: 0394564243
 ASIN: 434016
@@ -22242,7 +22242,7 @@ Media: DVD
 Title: The Lord of the Rings: The Return of the King (Special Extended Edition)
 Author: Wood, Elijah
 Date: 2004
-Publisher: New Line Home Video (2004), Edition: Special Extended Edition
+Publisher: New Line Home Video
 Tags: biblio
 ISBN: 0780646533
 ASIN: 24986237
@@ -22253,7 +22253,7 @@ Media: DVD
 Title: The Lord of the Rings: The Two Towers (Four-Disc Special Extended Edition)
 Author: Wood, Elijah
 Date: 2003
-Publisher: New Line Home Video (2003), Edition: Special Extended Edition
+Publisher: New Line Home Video
 Tags: biblio
 ISBN: 0780644042
 ASIN: 24985803
@@ -22395,7 +22395,7 @@ Media: Hardcover
 Title: Codes, Ciphers and Other Cryptic and Clandestine Communication: 400 Ways to Send Secret Messages from Hieroglyphs to the Internet
 Author: Wrixon, Fred B.
 Date: 1998
-Publisher: Black Dog & Leventhal (1998), Edition: Revised, 704 pages
+Publisher: Black Dog & Leventhal
 Tags: biblio
 ISBN: 1579120407
 ASIN: 285272
@@ -22633,7 +22633,7 @@ Media: Paperback
 Title: Leave Myself Behind
 Author: Yates, Bart
 Date: 2004
-Publisher: Kensington (2004), Edition: Reprint, 256 pages
+Publisher: Kensington
 Tags: biblio
 ISBN: 0758203497
 ASIN: 385708
@@ -22727,7 +22727,7 @@ Media: Paperback
 Title: Death March: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects (Yourdon Computing Series)
 Author: Yourdon, Edward
 Date: 1999
-Publisher: Pearson P T R (1999), 240 pages
+Publisher: Pearson P T R
 Tags: biblio
 ISBN: 0130146595
 ASIN: 8382446
@@ -23708,7 +23708,7 @@ Media: Paperback
 Title: Taoist Yoga and Sexual Energy: Transforming Your Body, Mind, and Spirit
 Author: Yudelove, Eric
 Date: 2000
-Publisher: Llewellyn Publications (2000), Edition: First Edition/3rd Printing, 312 pages
+Publisher: Llewellyn Publications
 Tags: biblio
 ISBN: 1567188346
 ASIN: 1445300
