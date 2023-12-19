@@ -11977,15 +11977,6 @@ Title: FAQ
 Tags: home, oldwork, sychron, link, biblio, link
 Link: http://mckinley.us.sychron.com/fom/cache/1.html
 
-Id: mcmichael-01
-Type: media
-Media: audio
-Title: Central Leader Communities with Evil Dictator Paul Wheaton
-Author: McMichael, Erin
-Date: 2023-09-07
-Link: https://www.ic.org/podcast-paul-wheaton/
-Annote: See notes.
-
 Id: mcneil-01
 Type: article
 Media: link
@@ -21371,6 +21362,17 @@ Media: site
 Title: Global DNS Propagation Checker - What's My DNS?
 Tags: tools, link, biblio, link
 Link: https://www.whatsmydns.net/
+
+Id: wheaton-01
+# Old: mcmichael-01
+Type: media
+Media: audio
+Title: Central Leader Communities with Evil Dictator Paul Wheaton
+Author: Wheaton, Paul
+Authors: McMichael, Erin
+Date: 2023-09-07
+Link: https://www.ic.org/podcast-paul-wheaton/
+Annote: See notes.
 
 Id: wheeldeath-01
 Type: media

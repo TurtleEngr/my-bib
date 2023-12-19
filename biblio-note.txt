@@ -750,12 +750,6 @@ gone.{margulis-02:loc1776}</blockquote> </note>
 Id: mcalevey-01
 <note>See also [conover-02]</note>
 
-Id: mcmichael-01
-<note><p>See: ver/local/project/book-humane/data/ic-podcast-paul-wheaton.txt</p>
-<p>"Make it hard to join the community and easy to leave the
-community."--Diana Leafe Christian
-https://en.wikipedia.org/wiki/Diana_Leafe_Christian</p></note>
-
 Id: mcneil-01
 <note>See also: [newcomb-01]</note>
 
@@ -1824,6 +1818,13 @@ href="http://www.youtube.com/watch?v=NMAqtjV1OdU" target="_blank">Alan
 Watt - The modern slave</a></li> <li><a
 href="http://www.youtube.com/watch?v=qFjGj77wG-4%20target=">Alan Watt
 The Truth About Sports</a></li> </ul></note>
+
+Id: wheaton-01
+# Old: mcmichael-01
+<note><p>See: ver/local/project/book-humane/data/ic-podcast-paul-wheaton.txt</p>
+<p>"Make it hard to join the community and easy to leave the
+community."--Diana Leafe Christian
+https://en.wikipedia.org/wiki/Diana_Leafe_Christian</p></note>
 
 Id: youtube-059
 <note>Just about all of the Electric Universe vidieos are here.</p>
