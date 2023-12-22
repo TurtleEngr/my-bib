@@ -8085,6 +8085,15 @@ Tags: artical, biblio
 Link: https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/
 AltLink: https://archive.vn/C3ITL
 
+Id: haidt-03
+Type: book
+Media: Ebook
+Title: The Righteous Mind: Why Good People Are Divided by Politics and Religion
+Author: Jonathan Haidt
+Date: 2012-03-13
+Publisher: Vintage
+Link: https://www.amazon.com/dp/B0052FF7YM/
+
 Id: hallsmith-01
 Type: book
 Media: Ebook
@@ -9471,6 +9480,17 @@ Media: link
 Title: jack audio connection kit
 Tags: home, a/v, link, biblio, video, link
 Link: http://jackit.sourceforge.net/
+
+Id: jacobs-01
+# Old: motherjones-01
+Type: article
+Media: link
+Title: Conservatives Live In a Different Moral Universe--and here's why it matters
+Author: Jacobs, Tom
+Tags: article, link, biblio, article, link
+Link: https://www.motherjones.com/politics/2009/04/conservatives-live-different-moral-universe8212and-heres-why-it-matters/
+AltLink: https://archive.vn/yMCq4
+Annote: See notes.
 
 Id: jakubowski-01
 Type: media
@@ -12739,15 +12759,6 @@ Media: link
 Title: How to Make Moccasins - DIY - MOTHER EARTH NEWS
 Tags: misc, exercise, health, link, biblio, link
 Link: http://www.motherearthnews.com/diy/how-to-make-moccasins-ze0z1309zcalt
-
-Id: motherjones-01
-Type: article
-Media: link
-Title: Conservatives Live In a Different Moral Universe--and here's why it matters
-Tags: article, link, biblio, article, link
-Link: https://www.motherjones.com/politics/2009/04/conservatives-live-different-moral-universe8212and-heres-why-it-matters/
-AltLink: https://archive.vn/yMCq4
-Annote: See notes.
 
 Id: mountmadonna-01
 Type: article
@@ -17815,7 +17826,7 @@ Author: Smith, Ethan Indigo
 Date: 2023-05-09
 Tags: biblio, important
 Link: https://www.opednews.com/articles/1/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html
-AltLink: https://archive.vn/icJtP https://archive.vn/wtu55
+AltLink: http://tinyurl.com/2yb56hb9 https://web.archive.org/web/20231222062548/https://www.opednews.com/articles/1/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://web.archive.org/web/20231222062822/https://www.opednews.com/articles/2/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://archive.vn/icJtP https://archive.vn/wtu55
 
 Id: smlnj-01
 Type: site
