@@ -28,7 +28,7 @@ economy and a common-sense roadmap for building a system more in sync
 with American values.</note>
 
 Id: alternet-01
-<note>Broken link, so see [motherjones-01]</note>
+<note>Broken link, so see [jacobs-01]</note>
 
 Id: ariely-01
 <note>Behavioral economist Dan Ariely, the author of Predictably
@@ -535,6 +535,9 @@ referendum, an incident that led Newark to amend its rules. And
 residents in Rehoboth Beach in 2017 beat back a proposal to allow LLCs
 to vote."</p></note>
 
+Id: jacobs-01
+<note>See also: [haidt-01]</note>
+
 Id: jakubowski-01
 <note>Alternate link: <a
 href="https://www.youtube.com/watch?v=S63Cy64p2lQ&quot;"
@@ -864,9 +867,6 @@ serious threat to society, he can be held indefinitely (eg. life). To
 summarize: The Norwegian prison system does not release inmates
 according to when society is ready to take them back, but when the
 inmates are ready to be a part of society again.</note>
-
-Id: motherjones-01
-<note>See also: [haidt-01]</note>
 
 Id: newcomb-01
 <note>See also [mcneil-01]</note>
