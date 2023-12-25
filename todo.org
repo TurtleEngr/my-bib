@@ -209,3 +209,19 @@ AltLink: https://tinyurl.com/2xkt99ms https://web.archive.org/web/20230620060350
 Annote: Added web.archive.org to AltLink
 </pre>
 #+END_EXPORT
+** Fix
+- Add city names back to Publisher: field
+- Fix one Authors to be "and First Last" or
+- Fix multiple Authors to be "First Last, First Last, and First Last"
+- Fix up the generation of the bib table. I.e. is it usable?
+  - For Id, prefix with '{', end with '} '
+  - If Author and no Authors, append ". " to Author
+  - If Author and Authors, append ", " to Author
+  - If Authors is not empty, end with '. '
+  - Put '. ' at end of Date
+  - If Title ends with ", Change " to '."', else end it with '. '
+  - If Publisher, put '. ' at end of Publisher
+  - If AltLink, then only copy the first one and prefix it with "; "
+- Fix the formatting, see etc/bib-template.xml
+  - [Id][Author][Authors][Date][Title][Publisher][Link][AltLink]
+** Done
