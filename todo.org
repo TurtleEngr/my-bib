@@ -57,10 +57,11 @@
   - AltLink urls are space separated.
 
 *** For Type: book, Fixup Date, Publisher, Link
-  1.  Lookup the book in amazon.com. If there is an amazon.com Link, use that
+  1. Lookup the book in amazon.com. If there is an amazon.com Link, use that
   2. Select Kindle, if Media is Ebook. Or select Paperback, or Hardback
   3. Add or update Link, remove "ref=" and all after that from the URL
-  4. Sroll down to find the Publisher, add that tag, removing any city and date parts.
+  4. Scroll down to find the Publisher, add to Publisher: tag, Place: tag,
+     and Edition: tag. Ignore the pages
   5. Add or update the Date. Include the full date if you see that. YYYY-MM-DD
   6. If there are multiple authors, put the first author after the Author
     tag. Put the other authors after an Authors tag. Last, First,
@@ -218,20 +219,12 @@ Annote: Added web.archive.org to AltLink
 #+END_EXPORT
 
 ** Fix
-- Add city names back to Publisher: field
-- Fix one Authors to be "and First Last" or
-- Fix multiple Authors to be "First Last, First Last, and First Last"
-- Fix up the generation of the bib table. I.e. is it usable?
-  - For Id, prefix with '{', end with '} '
-  - If Author and no Authors, append ". " to Author
-  - If Author and Authors, append ", " to Author
-  - If Authors is not empty, end with '. '
-  - Put '. ' at end of Date
-  - If Title ends with ", Change " to '."', else end it with '. '
-  - If Publisher, put '. ' at end of Publisher
-  - If AltLink, then only copy the first one and prefix it with "; "
+- Restore the Publisher: field
+- Add Place, Edition, and Subtitle
+- Fix Authors to be "& First Last" or "First Last, First Last, & First Last"
+- Fix up the generation of the bib table.
 - Fix the formatting, see etc/bib-template.xml
-  - [Id][Author][Authors][Date][Title][Publisher][Link][AltLink]
+  - [Id][Author][Date][Title][Publisher][ISBN][Link]
 ** Add tags [TBD]
 - Subtitle:
   - get this from old Title tag
