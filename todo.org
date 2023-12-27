@@ -71,6 +71,11 @@
     - Old Link: https://www.amazon.com/Lost-Cause-Cory-Doctorow-ebook/dp/B0BQGGP2XT/ref=sr_1_1?crid=33GC3LJO9WQJ&keywords=lost+cause&qid=1702359164&s=digital-text&sprefix=lost+cause%2Cdigital-text%2C245&sr=1-1
     - Short Link: https://www.amazon.com/dp/B0BQGGP2XT
 
+*** Tools
+- https://tinyurl.com/app
+- Wayback Machine Chrome Extension
+  https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US
+
 *** Example
 **** Before
 #+BEGIN_EXPORT html
@@ -171,6 +176,7 @@ Author: Little, Mat
 Date: 2012-07-13
 DateSeen:  2023-03-23
 Publisher: New Compass
+Place: Grenmarsvegen 12, 3912 Porsgrunn, Norway
 Link: http://new-compass.net/articles/lure-obedience
 AltLink: https://tinyurl.com/3mvwex8t https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience https://archive.vn/GrqpI
 Annote: See notes. AltLink web.archive.org, Added DateSeen, shortened Publisher
@@ -183,6 +189,7 @@ Author: Macy, Joanna
 Authors: Brown, Molly Young
 Date: 2014
 Publisher: New Society Publishers
+Place: Gabriola Island, BC, Canada
 Tags: biblio, important
 ISBN: 1550925806
 ASIN: B00LDYEX4Q
@@ -209,6 +216,7 @@ AltLink: https://tinyurl.com/2xkt99ms https://web.archive.org/web/20230620060350
 Annote: Added web.archive.org to AltLink
 </pre>
 #+END_EXPORT
+
 ** Fix
 - Add city names back to Publisher: field
 - Fix one Authors to be "and First Last" or
@@ -224,4 +232,104 @@ Annote: Added web.archive.org to AltLink
   - If AltLink, then only copy the first one and prefix it with "; "
 - Fix the formatting, see etc/bib-template.xml
   - [Id][Author][Authors][Date][Title][Publisher][Link][AltLink]
+** Add tags [TBD]
+- Subtitle:
+  - get this from old Title tag
+- Edition: 2nd, 3rd, Nth
+  - get this from old Publisher tag
+  - empty, if 1st, or First
+  - Revision, Revised: Rev.
+  - Reprint, Reissue: Rep.
+  - Illustrated: Ill.
+  - Extended: Ext.
+- Place: address, city, state, country
+  - get this from old Publisher tag
+- If Id is changed, append to Annote: Old: Id.
+** Format tags (TBD)
+- Bib Title:
+  - if Title: '[Title]'
+  - if Subtitle, append: ': [Subtitle]'
+  - if Edition, append: ' ([Edition] ed.)'
+  - lastly, append: '. '
+- Bib Author
+  - if Author: [Author]
+  - if Authors: append: ', [Authors]'
+  - lastly, append: '. '
+- Bib Publication
+  - if Place: '[Place]: '
+  - lastly, append: '[Publication]. '
+- Bib Date
+  - If Date: ' (Date). '
+- Bib Link
+  - If Link: ' [Link]'
+  - if AltLink, append: '; Alt: [first-AltLink]'
+** Final Format (TBD)
+- https://pitt.libguides.com/citationhelp
+- https://libguides.westsoundacademy.org/chicago-citation/edition-other-than-the-first
+*** Chicago
+**** Book
+- Author, and Authors. Title: Subtitle. Edition. Place-of-Publication:
+  Publisher, Year.
+
+- Author: last, first
+- Authors: & first-last
+- Authors: first-last, first-last, & first-last
+- title is in italic
+- Edition: if not first
+  - Rev. ed.
+  - 2nd ed.
+  - 30th ed.
+**** Newspaper Article
+- Author Surname, First Name or Initial. "Article Title." Magazine
+  Title, Month Day, Year.
+- Author Surname, First Name or Initial. "Article Title." Newspaper
+  Title, Month Day, Year. URL.
+**** Webpage
+- Author Surname, First Name or Initials. "Title of Page." Title or
+  Owner of Site. Date last modified or accessed. URL.
+- Owner of Site. "Title of Page." Date last modified or accessed. URL.
+**** Media
+- Director Surname, First Name, dir. Place of Publication: Publisher,
+  Year. Format.
+- Author Surname, First Name or Initial. Multimedia Title. Place of
+  Publication: Publisher, Year. Format, URL
+  - Shanley, John Patrick, dir. Joe Versus the Volcano. 1990; Burbank,
+    CA: Warner Home Video, 2002. DVD.
+- Author Surname, First Name or Initial. Multimedia Title. Place of
+  Publication: Publisher, Year. Format, URL
+  - Weed, A. E. At the Foot of the Flatiron. American Mutoscope and
+    Biograph Co., 1903; 35 mm film. From Library of Congress, The Life
+    of a City: Early Films of New York, 1898-1906. MPEG video,
+    2:19. https://www.loc.gov/item/00694378.
+*** APA
+**** Basic
+- Reference Each Source
+- Last name of first author (followed by their first initial)
+- The year the source was published in parentheses.
+- The title of the source. (If book: italic. If article: in quotes)
+- The journal that published the source (in italics)
+- The volume number, if applicable (in italics)
+- The issue number, if applicable.
+**** Book
+- Author. (Date). Title: Subtitle (edition). Publisher.
+- Sapolsky, R. M. (2017). Behave: The biology of humans at our best
+  and worst (Rev. ed). Penguin Books.
+- Sapolsky, R. M. (2017). Behave: The biology of humans at our best
+  and worst (3rd ed). Penguin Books.
+**** Newspaper Article, Webpage
+- Author (Date). Title: Subtitle. Publication. URL
+- Author & Authors (Date).
+- Grady, J. S., Her, M., Moreno, G., Perez, C., & Yelinek,
+  J. (2019). Emotions in storybooks: A comparison of storybooks that
+  represent ethnic and racial groups in the United States. Psychology
+  of Popular Media Culture, 8(3),
+  207–217. https://doi.org/10.1037/ppm0000185
+**** Media
+- Author Surname, First Name, dir. (Year). Place of Publication:
+  Publisher. Format. URL
+
+- Author Surname, First Name or Initial. (Date) Title. Place of
+  Publication: Publisher. Format, URL
+
+- Format: Media tag
 ** Done
