@@ -69,7 +69,8 @@ Annote: See notes.
 Id: ackoff-01
 Type: book
 Media: Hardcover
-Title: The Democratic Corporation: A Radical Prescription for Recreating Corporate America and Rediscovering Success
+Title: The Democratic Corporation
+Subtitle: A Radical Prescription for Recreating Corporate America and Rediscovering Success
 Author: Ackoff, Russell L.
 Date: 1994
 Publisher: Oxford University Press
@@ -82,7 +83,7 @@ Annote: See notes.
 Id: aclu-01
 Type: media
 Media: video
-Title: American Civil Liberties Union :
+Title: American Civil Liberties Union
 Tags: home, humor, link, biblio, link
 Link: http://www.aclu.org/pizza/index.html
 
@@ -96,7 +97,8 @@ Link: http://www.acplasticsinc.com/uv.htm
 Id: act-sf-01
 Type: site
 Media: org
-Title: American Conservatory Theater: A.C.T. San Francisco Theater
+Title: American Conservatory Theater
+Subtitle: A.C.T. San Francisco Theater
 Tags: home, buy, link, biblio, link
 Link: http://www.act-sf.org/site/PageServer
 
@@ -110,14 +112,15 @@ Link: http://www.activecollab.com/
 Id: addons-mozilla-01
 Type: site
 Media: site
-Title: Signature Switch :: Add-ons for Thunderbird
+Title: Signature Switch: Add-ons for Thunderbird
 Tags: toolsw, appinternet, thunderbird, link, biblio, link
 Link: https://addons.mozilla.org/en-US/thunderbird/addon/611
 
 Id: adichie-01
 Type: media
 Media: video
-Title: TED: Chimamanda Adichie: The danger of a single story
+Title: TED: Chimamanda Adichie
+Subtitle: The danger of a single story
 Tags: ted, biblio, video, video
 Link: http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story.html
 
@@ -131,7 +134,8 @@ Link: http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=Shock
 Id: adrienne-01
 Type: book
 Media: Ebook
-Title: The Purpose Of Your Life: Finding Your Place In The World Using Synchronicity, Intuition, And Uncommon Sense
+Title: The Purpose Of Your Life
+Subtitle: Finding Your Place In The World Using Synchronicity, Intuition, And Uncommon Sense
 Author: Adrienne, Carol
 Date: 2011
 Publisher: HarperCollins e-books
@@ -205,14 +209,16 @@ Link: http://www.akamai.com/index_flash.html
 Id: akcooltools-01
 Type: article
 Media: link
-Title: ClampTite: make your own clamps from any wire.
+Title: ClampTite
+Subtitle: make your own clamps from any wire.
 Tags: home, buy, link, biblio, link
 Link: http://www.akcooltools.com/clamptite.html
 
 Id: akullian-01
 Type: book
 Media: Ebook
-Title: Healing Through Awakening: A journey of spiritual awakening, and a comprehensive guide for healing the mind, body, and spirit.
+Title: Healing Through Awakening
+Subtitle: A journey of spiritual awakening, and a comprehensive guide for healing the mind, body, and spirit.
 Author: Akullian, Mica
 Date: 2016
 Publisher: Publisher Unknown
@@ -229,7 +235,8 @@ Link: https://www.alaskaair.com/booking/reservationlookup
 Id: aleutia-01
 Type: site
 Media: org
-Title: Aleutia: Small Fanless Energy Efficient Computers
+Title: Aleutia
+Subtitle: Small Fanless Energy Efficient Computers
 Tags: toolhw, wearable, link, biblio, link
 Link: http://www.aleutia.com/
 
@@ -246,7 +253,8 @@ Annote: See notes.
 Id: alfred-01
 Type: book
 Media: Hardcover
-Title: Mad Science: Einstein's Fridge, Dewar's Flask, Mach's Speed, and 362 Other Inventions and Discoveries that Made Our World
+Title: Mad Science
+Subtitle: Einstein's Fridge, Dewar's Flask, Mach's Speed, and 362 Other Inventions and Discoveries that Made Our World
 Author: Alfred, Randy
 Date: 2012
 Publisher: Little, Brown and Company
@@ -271,7 +279,8 @@ Link: http://www.aliexpress.com/store/803292/210613195-431619737/Free-shipping-H
 Id: alinsky-01
 Type: book
 Media: book
-Title: Rules for Radicals: A Pragmatic Primer for Realistic Radicals
+Title: Rules for Radicals
+Subtitle: A Pragmatic Primer for Realistic Radicals
 Author: Alinsky, Saul D.
 Date: 1971
 Tags: biblio, book, book
@@ -293,7 +302,7 @@ Title: Holy Hell (film)
 Author: Allen, Will
 Authors: Morgan, Polly
 Date: 2016-01-25
-Publisher: WRA Productions; CNN Films
+
 Link: https://en.wikipedia.org/wiki/Holy_Hell_(film)
 AltLink: https://tinyurl.com/m2t3m9a3 https://web.archive.org/web/20231219020700/https://en.wikipedia.org/wiki/Holy_Hell_%28film%29
 
@@ -335,7 +344,8 @@ Link: http://www.almanac.com/moon/rise/CA/Walnut%20Creek/2009-11-4
 Id: alperovitz-01
 Type: media
 Media: video
-Title: The Next American Revolution: Beyond Corporate
+Title: The Next American Revolution
+Subtitle: Beyond Corporate
 Author: Alperovitz, Gar
 Date: 2013
 Tags: biblio, video, video
@@ -359,7 +369,8 @@ Link: http://www.alternativescience.com/eric-laithwaite.htm
 Id: alternet-01
 Type: article
 Media: link
-Title: Conservatives Live In a Different Moral Universe--and here's why it matters
+Title: Conservatives Live In a Different Moral Universe
+Subtitle: and here's why it matters
 Tags: article, biblio, article
 Link: http://www.alternet.org/story/138303/conservatives_live_in_a_different_moral_universe_--_and_here's_why_it_matters/?page=entire
 Annote: See notes.
@@ -425,7 +436,7 @@ ASIN: 9144126
 Id: amazon-04
 Type: media
 Media: Blu-ray
-Title: Amazon.com: star wars blu ray
+Title: Star Wars
 Tags: current, link, biblio, link
 Link: http://www.amazon.com/s/ref=sr_kk_1
 
@@ -457,13 +468,6 @@ Title: Amazon.com: Marpac White Noise Machine Sleep Mate Sound Screen 980 Dual S
 Tags: home, per, link, biblio, link
 Link: http://www.amazon.com/Marpac-Noise-Machine-Screen-Conditioner/dp/B0007XJWYA/sr=8-1/qid=1157586096/ref=pd_bbs_1/103-4887014-3322262
 
-Id: amazon-09
-Type: site
-Media: product
-Title: Amazon.com: Basic Surveying, Fourth Edition: Books: Raymond Paul,Walter Whyte
-Tags: home, surveying, link, biblio, link
-Link: http://www.amazon.com/Basic-Surveying-Fourth-Raymond-Paul/dp/0750617713
-
 Id: amazon-10
 Type: site
 Media: site
@@ -474,7 +478,8 @@ Link: http://www.amazon.com/exec/obidos/search-handle-form/103-8538215-9335046
 Id: amazon-11
 Type: site
 Media: product
-Title: Earthing or Grounding Conductive Socks: Amazon.co.uk: Shoes &amp; Bags
+Title: Earthing or Grounding Conductive Socks
+Subtitle: Shoes &amp; Bags
 Tags: misc, exercise, health, link, biblio, link
 Link: https://www.amazon.co.uk/Earthing-or-Grounding-Conductive-Socks/dp/B00L0FNSYE
 
@@ -488,7 +493,7 @@ Link: http://www.amazon.com/89-Key-Mini-USB-Windows%C2%AE-Keyboard/dp/B0036WTWX0
 Id: ambri-01
 Type: site
 Media: site
-Title: - Technology
+Title: Technology
 Tags: science, link, biblio, link
 Link: http://www.ambri.com/technology/
 
@@ -516,7 +521,8 @@ Link: https://en.m.wikipedia.org/wiki/Anton_Wilhelm_Amo
 Id: anand-01
 Type: book
 Media: Paperback
-Title: The Art of Sexual Ecstasy: The Path of Sacred Sexuality for Western Lovers
+Title: The Art of Sexual Ecstasy
+Subtitle: The Path of Sacred Sexuality for Western Lovers
 Author: Anand, Margot
 Date: 1989
 Publisher: Jeremy P. Tarcher
@@ -576,14 +582,14 @@ Link: http://www.anewwayforward.org/demonstrations/
 Id: angel-01
 Type: site
 Media: org
-Title: Startup Database ;  AngelList
+Title: Startup Database; AngelList
 Tags: work, link, biblio, link
 Link: https://angel.co/companies
 
 Id: angel-02
 Type: site
 Media: org
-Title: Startup Jobs ;  AngelList
+Title: Startup Jobs; AngelList
 Tags: work, link, biblio, link
 Link: https://angel.co/jobs
 
@@ -648,14 +654,14 @@ Link: http://apod.nasa.gov/apod/ap090411.html
 Id: app-datadoghq-01
 Type: site
 Media: site
-Title: Setup ;  Datadog
+Title: Setup;  Datadog
 Tags: current, set2019, link, biblio, link
 Link: https://app.datadoghq.com/account/settings
 
 Id: app-datadoghq-02
 Type: site
 Media: site
-Title: Setup ;  Datadog
+Title: Setup;  Datadog
 Tags: current, set2019, link, biblio, link
 Link: https://app.datadoghq.com/account/settings#integrations
 
@@ -676,14 +682,15 @@ Link: http://appdb.winehq.org/objectManager.php
 Id: apprenticealf-wordpress-01
 Type: article
 Media: link
-Title: Ebook Formats, DRM and You - A Guide for the Perplexed ;  Apprentice Alf's Blog
+Title: Ebook Formats, DRM and You - A Guide for the Perplexed; Apprentice Alf's Blog
 Tags: tools, link, biblio, link
 Link: https://apprenticealf.wordpress.com/2011/01/13/ebooks-formats-drm-and-you-%E2%80%94-a-guide-for-the-perplexed/
 
 Id: apprenticealf-wordpress-02
 Type: article
 Media: link
-Title: DeDRM plugin for calibre: the simplest option for removing DRM from most ebooks ;  Apprentice Alf's Blog
+Title: DeDRM plugin for calibre
+Subtitle: the simplest option for removing DRM from most ebooks ;  Apprentice Alf's Blog
 Tags: tools, link, biblio, link
 Link: https://apprenticealf.wordpress.com/2012/09/10/calibre-plugins-the-simplest-option-for-removing-most-ebook-drm/
 
@@ -774,7 +781,8 @@ Link: http://www.arduino.cc/
 Id: arendt-01
 Type: book
 Media: Ebook
-Title: Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, Thoughts on Politics and Revolution
+Title: Crises of the Republic
+Subtitle: Lying in Politics, Civil Disobedience, On Violence, Thoughts on Politics and Revolution
 Author: Arendt, Hannah
 Date: 1972-05-10
 Tags: book, biblio, book
@@ -798,12 +806,14 @@ Title: Dan Ariely asks, Are we in control of our own decisions?
 Tags: ted, biblio
 Link: http://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions.html
 
-Id: arminvanbuuren-01
+Id: buuren-01
 Type: site
 Media: site
 Title: A State Of Trance - Armin van Buuren
+Author: Buuren, Armin van
 Tags: misc, music, link, biblio, link
 Link: https://www.arminvanbuuren.com/asot/
+Annote: Old: arminvanbuuren-01
 
 Id: armstrong-01
 Type: media
@@ -898,7 +908,7 @@ Annote: See notes.
 Id: ask-slashdot-01
 Type: article
 Media: link
-Title: Slashdot ;  Build a Multi-Output MP3 Server?
+Title: Slashdot; Build a Multi-Output MP3 Server?
 Tags: home, a/v, link, biblio, video, link
 Link: http://ask.slashdot.org/askslashdot/03/06/28/0110244.shtml?tid=137&amp;tid=141&amp;tid=188
 
@@ -940,7 +950,8 @@ Link: http://aspell.sourceforge.net/man-html/
 Id: associatedcontent-01
 Type: article
 Media: link
-Title: Ecosphere: Making a Community of Self Sufficient Organisms - Associated Content - associatedcontent.com
+Title: Ecosphere
+Subtitle: Making a Community of Self Sufficient Organisms - Associated Content - associatedcontent.com
 Tags: home, make, ecosphere, link, biblio, link
 Link: http://www.associatedcontent.com/article/297940/ecosphere_making_a_community_of_self.html?cat=9
 
@@ -965,7 +976,8 @@ ASIN: 2580304
 Id: atwood-01
 Type: book
 Media: Ebook
-Title: Effective Programming: More Than Writing Code
+Title: Effective Programming
+Subtitle: More Than Writing Code
 Author: Atwood (Coding Horror), Jeff
 Date: 2012
 Publisher: Hyperink - Guide to Effective Programming
@@ -975,21 +987,25 @@ ASIN: 12798344
 Id: audacity-sourceforge-01
 Type: site
 Media: org
-Title: Audacity: Free Audio Editor and Recorder
+Title: Audacity
+Subtitle: Free Audio Editor and Recorder
 Tags: home, a/v, link, biblio, video, link
 Link: http://audacity.sourceforge.net/
 
 Id: auroraseye-wordpress-01
 Type: site
 Media: site
-Title: International Sunpulse Seminar ;  Aurora's Eye
+Title: International Sunpulse Seminar
+Publisher: Aurora's Eye
 Tags: culture, link, biblio, link
 Link: https://auroraseye.wordpress.com/2015/09/14/international-sunpulse-seminar/
 
 Id: auroraseye-wordpress-02
 Type: article
 Media: link
-Title: GEN: The Global Ecovillage Network at Findhorn ;  Aurora's Eye
+Title: GEN
+Subtitle: The Global Ecovillage Network at Findhorn
+Publisher: Aurora's Eye
 Tags: culture, link, biblio, link
 Link: https://auroraseye.wordpress.com/2015/10/23/gen-the-global-ecovillage-network-at-findhorn/?blogsub=confirmed#blog_subscription-3
 
@@ -1024,7 +1040,8 @@ Link: http://www.avasolar.com/
 Id: averagemarrieddad-01
 Type: article
 Media: link
-Title: Paleo-ish Sex Talk: Part 2- Coconut Oil and Condoms, Toys | Average Married Dad
+Title: Paleo-ish Sex Talk
+Subtitle: Part 2- Coconut Oil and Condoms, Toys
 Author: Average Married Dad
 Date: 2014-01-30
 Link: https://web.archive.org/web/20180404052500/http://www.averagemarrieddad.com/2014/01/30/paleo-ish-sex-talk-part-2-coconut-oil-and-condoms-toys/
@@ -1032,7 +1049,8 @@ Link: https://web.archive.org/web/20180404052500/http://www.averagemarrieddad.co
 Id: avsforum-01
 Type: article
 Media: link
-Title: 3D visualization (using Google Earth) of OTA transmitting locations! - AVS Forum
+Title: 3D visualization (using Google Earth) of OTA transmitting locations!
+Publisher: AVS Forum
 Tags: home, a/v, dtv, link, biblio, video, link
 Link: http://www.avsforum.com/avs-vb/showthread.php?p=10127219&amp;&amp;#post10127219
 
@@ -1064,7 +1082,8 @@ Link: http://axkit.org/
 Id: azgardens-01
 Type: site
 Media: product
-Title: Aquarium Plants, Pond Plants, Freshwater Aquarium Plant &amp; Aquarium Accessories - Arizona Aquatic Gardens
+Title: Aquarium Plants, Pond Plants, Freshwater Aquarium Plant &amp; Aquarium Accessories
+Publisher: Arizona Aquatic Gardens
 Tags: home, make, aquarium, link, biblio, link
 Link: http://www.azgardens.com/shrimpfactory.php
 
@@ -1092,7 +1111,9 @@ Link: http://www.wimp.com/babyplaying/
 Id: backdoorsurvival-01
 Type: article
 Media: link
-Title: How to Raise Backyard Quail: An Alternative to Raising Chickens ;  Backdoor Survival
+Title: How to Raise Backyard Quail
+Subtitle: An Alternative to Raising Chickens
+Publisher: Backdoor Survival
 Tags: misc, link, biblio, link
 Link: https://www.backdoorsurvival.com/backyard-quail/
 
@@ -1106,14 +1127,16 @@ Link: http://www.youtube.com/watch?v=9XRPbFIN4lk
 Id: bakingamoment-01
 Type: article
 Media: link
-Title: Crusty French Baguette Recipe: perfect results &amp; so easy! -Baking a Moment
+Title: Crusty French Baguette Recipe
+Subtitle: perfect results &amp; so easy!
+Publisher: Baking a Moment
 Tags: current, link, biblio, link
 Link: https://bakingamoment.com/crusty-french-baguette-recipe/
 
 Id: balachova-01
 Type: media
 Media: VHS
-Title: Tall Blond Man With One Black Shoe (Subtitled) [VHS]
+Title: Tall Blond Man With One Black Shoe (Subtitled)
 Author: Balachova, Tania
 Date: 1990
 Publisher: Cinema 5 Distributing
@@ -1162,7 +1185,8 @@ Link: http://www.barbarasher.com/
 Id: barks-01
 Type: book
 Media: Ebook
-Title: Rumi: The Book of Love: Poems of Ecstasy and Longing
+Title: Rumi: The Book of Love
+Subtitle: Poems of Ecstasy and Longing
 Author: Barks, Coleman
 Date: 2009
 Publisher: HarperCollins
@@ -1182,7 +1206,8 @@ ASIN: 26868217
 Id: barnes-02
 Type: book
 Media: Hardcover
-Title: Capitalism 3.0: A Guide to Reclaiming the Commons
+Title: Capitalism 3.0
+Subtiitle: A Guide to Reclaiming the Commons
 Author: Barnes, Peter
 Date: 2006
 Publisher: Berrett-Koehler Publishers
@@ -1276,7 +1301,9 @@ Link: https://www.beafilmmaker.com/
 Id: bearfabrique-01
 Type: site
 Media: site
-Title: http://www.bearfabrique.org/Catastrophism/Wallsan.txt
+Title: Catastrophism/Wallsan.txt
+Author; Wallsan.txt
+Publisher: bearfabrique
 Tags: home, electricuniverse, link, biblio, link
 Link: http://www.bearfabrique.org/Catastrophism/Wallsan.txt
 
@@ -1315,7 +1342,8 @@ Link: http://www.bekkoame.ne.jp/~s_ita/port/port4000-4999.html
 Id: belili-01
 Type: article
 Media: link
-Title: Warfare in the European Neolithic: Truth or Fiction?
+Title: Warfare in the European Neolithic
+Subtitle: Truth or Fiction?
 Tags: culture, link, biblio, link
 Link: http://www.belili.org/marija/marler_article_03.html
 
@@ -1339,7 +1367,8 @@ Link: https://www.youtube.com/watch?v=CIaYpk-Ycqc
 Id: bender-01
 Type: article
 Media: link
-Title: On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+Title: On the Dangers of Stochastic Parrots
+Subtitle: Can Language Models Be Too Big?
 Author: Bender, Emily M.
 Authors: Gebru, Timnit; McMillan-Major, Angelina; Shmitchell, Shmargaret
 Date: 2021-03-03
@@ -1416,7 +1445,9 @@ Link: http://www.betterhumans.com/
 Id: bhphotovideo-01
 Type: article
 Media: link
-Title: Timecode versus Sync: How They Differ and Why it Matters ;  B&amp;H Explora
+Title: Timecode versus Sync
+Subtitle: How They Differ and Why it Matters
+Author: Explora, B&amp;H
 Tags: current, set2018, link, biblio, link
 Link: https://www.bhphotovideo.com/explora/video/tips-and-solutions/timecode-versus-sync-how-they-differ-and-why-it-matters
 
@@ -1430,7 +1461,8 @@ Link: http://www.bhphotovideo.com/c/product/421023-REG/Edirol_Roland_R09_R_09_Po
 Id: bhphotovideo-03
 Type: site
 Media: product
-Title: Camcorders With Time Lapse ;  B&amp;H Photo Video
+Title: Camcorders With Time Lapse
+Publisher: B&amp;H Photo Video
 Tags: misc, link, biblio, link
 Link: http://www.bhphotovideo.com/c/search?Ntt=Camcorders+With+Time+Lapse&amp;InitialSearch=yes&amp;N=0&amp;gclid=CjwKEAjw25SoBRCMn7Gc97Knj0ISJAC7vaMrpbX7dgsrESniBsx4TdPXPU1Ew7555NesR4dF19QEwBoCh1Hw_wcB
 
@@ -1451,7 +1483,8 @@ Link: http://www.bibliotecapleyades.net/ciencia/ciencia_dinosaurs01.htm
 Id: bickham-01
 Type: book
 Media: book
-Title: Scene & Structure (Elements of Fiction Writing)
+Title: Scene & Structure
+Subtitle: Elements of Fiction Writing
 Author: Bickham, Jack M.
 Tags: biblio, important
 ISBN: 0898799066
@@ -1459,18 +1492,20 @@ ISBN: 0898799066
 Id: bickham-02
 Type: book
 Media: Hardcover
-Title: Setting: How to Create and Sustain a Sharp Sense of Time and Place in Your Fiction (Elements of Fiction Writing)
+Title: Setting
+Subtitle: How to Create and Sustain a Sharp Sense of Time and Place in Your Fiction
 Author: Bickham, Jack
 Date: 1994
 Publisher: Writers Digest Books
 Tags: biblio
 ISBN: 0898796350
 ASIN: 290398
+Annote: Elements of Fiction Writing
 
 Id: black-01
 Type: media
 Media: Blu-ray
-Title: Goosebumps (Blu-ray DVD)
+Title: Goosebumps
 Author: Black, Jack
 Date: 2016
 Publisher: Sony Pictures Home Entertainment
@@ -1518,7 +1553,8 @@ Link: http://blog.fupps.com/2007/03/20/using-truecrypt-on-centos/
 Id: blog-onshoulders-01
 Type: article
 Media: link
-Title: On Shoulders ;  One man's research, with a whole lot of help from everyone else... - Blog - Entry Details
+Title: On Shoulders; One man's research, with a whole lot of help from everyone else
+Publisher: Blog Entry Details
 Tags: home, make, printer-3d, link, biblio, link
 Link: http://blog.onshoulders.org/BlogEntryDetails.php?blogID=tv&amp;blogEntryId=95
 
@@ -1532,7 +1568,8 @@ Link: http://blog.zenone.org/2009/03/pci-compliance-disable-sslv2-and-weak.html
 Id: bloom-01
 Type: book
 Media: Paperback
-Title: Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century
+Title: Global Brain
+Subtitle: The Evolution of Mass Mind from the Big Bang to the 21st Century
 Author: Bloom, Howard
 Date: 2001
 Publisher: Wiley
@@ -1601,7 +1638,7 @@ Link: http://www.bodybuilding.com/fun/bbmaintrain.htm
 Id: boeing-dude-tripod-01
 Type: article
 Media: link
-Title: Algae:
+Title: Algae
 Tags: home, make, aquarium, link, biblio, link
 Link: http://boeing_dude.tripod.com/id21.htm
 
@@ -1615,7 +1652,8 @@ Link: http://bofh.ntk.net/
 Id: boggs-01
 Type: book
 Media: Hardcover
-Title: The Next American Revolution: Sustainable Activism for the Twenty-First Century
+Title: The Next American Revolution
+Subtitle: Sustainable Activism for the Twenty-First Century
 Author: Boggs, Grace Lee
 Date: 2011
 Publisher: University of California Press
@@ -1626,14 +1664,16 @@ ASIN: 11096635
 Id: boilingfrogspost-01
 Type: site
 Media: site
-Title: Sibel Edmonds' Boiling Frogs Post ;  Home of the Irate Minority
+Title: Sibel Edmonds' Boiling Frogs Post; Home of the Irate Minority
 Tags: home, change, link, biblio, link
 Link: http://www.boilingfrogspost.com/
 
 Id: boingboing-01
 Type: article
 Media: link
-Title: The emerging split in modern trustbusting: Alexander Hamilton's Fully Automated Luxury Communism vs Thomas Jefferson's Redecentralization / Boing Boing
+Title: The emerging split in modern trustbusting: Alexander Hamilton's Fully Automated Luxury Communism vs Thomas Jefferson's Redecentralization
+Date: 2018-05-22
+Publisher: Boing Boing
 Tags: culture, link, biblio, link
 Link: https://boingboing.net/2018/05/22/too-big-to-fail-2.html
 
@@ -1648,7 +1688,8 @@ Annote: See notes.
 Id: bollier-01
 Type: media
 Media: video
-Title: This Land is Our Land: The Fight to Reclaim the Commons (2010)
+Title: This Land is Our Land
+Subtitle: The Fight to Reclaim the Commons
 Author: David Bollier, Jeremy Earp
 Date: 2010
 Tags: biblio, commons
@@ -1674,7 +1715,8 @@ Link: http://www.bookdarts.com/shop/pc/home.asp
 Id: books-google-01
 Type: book
 Media: Ebook
-Title: Gay Men and Anal Eroticism: Tops, Bottoms, and Versatiles - Steven Gregory Underwood - Google Books
+Title: Gay Men and Anal Eroticism
+Subtitle: Tops, Bottoms, and Versatiles
 Author: Underwood, Steven Gregory
 Date: 2003
 Publisher: Psychology Press
@@ -1694,7 +1736,7 @@ ASIN: 12196202
 Id: borel-01
 Type: site
 Media: site
-Title: Borel Private Bank &amp; Trust Company ;  Building Relationships for Building Wealth Since 1980
+Title: Borel Private Bank &amp; Trust Company; Building Relationships for Building Wealth Since 1980
 Tags: home, debt, link, biblio, link
 Link: http://www.borel.com/home
 
@@ -1729,9 +1771,11 @@ Tags: biblio, engineering
 Id: boswell-02
 Type: article
 Media: article
-Title: The Art of Readable Code: Simple and Practical Techniques for Writing Better Code (Theory in Practice)
+Title: The Art of Readable Code
+Subtitle: Simple and Practical Techniques for Writing Better Code
 Author: Boswell, Dustin
 Tags: biblio
+Annote: Theory in Practice
 
 Id: bottomupmind-01
 Type: site
@@ -1743,35 +1787,38 @@ Link: http://www.bottomupmind.com/
 Id: bottomupmind-02
 Type: article
 Media: link
-Title: Article: So I asked Bernie Sanders about Bottom-up... ;  Bottom Up Mind
+Title: Article: So I asked Bernie Sanders about Bottom-up...
 Tags: culture, link, biblio, link
+Publisher: Bottom Up Mind
 Link: http://www.bottomupmind.com/populum/page.php?f=So-I-asked-Bernie-Sanders-by-Rob-Kall-Bernie-Sanders_Bottom-up-150908-518.html
 
 Id: bottomupmind-03
 Type: site
 Media: site
-Title: Home: Main ;  Bottom Up Mind
+Title: Home: Main; Bottom Up Mind
 Tags: culture, link, biblio, link
 Link: https://www.bottomupmind.com/
 
 Id: bottomupmind-04
 Type: article
 Media: link
-Title: Podcast: Riane Eisler; Transforming from a Domination to a Partnership Society ;  Bottom Up Mind
+Title: Podcast: Riane Eisler; Transforming from a Domination to a Partnership Society
+Publisher: Bottom Up Mind
 Tags: culture, link, biblio, link
 Link: https://www.bottomupmind.com/populum/page_podcast.php?f=Riane-Eisler-Transforming-by-Rob-Kall-Civilization_Dominationist_Riane-Eisler-171117-366.html
 
 Id: bottomupmind-05
 Type: media
 Media: audio
-Title: Podcast: What To Do About the Monster Internet Platforms: Trebor Scholz on Platform Cooperativism ;  Bottom Up Mind
+Title: Podcast: What To Do About the Monster Internet Platforms: Trebor Scholz on Platform Cooperativism
+Publisher: Bottom Up Mind
 Tags: culture, link, biblio, link
 Link: https://www.bottomupmind.com/populum/page_podcast.php?f=What-To-Do-About-the-Monst-by-Rob-Kall-Cooperativism_Internet-Platforms_Internet-Shutdown-Or-Censorship_Internet-Traffic--Commerce-170901-852.html
 
 Id: boyer-01
 Type: media
 Media: VHS
-Title: Jonah Who Will Be 25 in the Year 2000 [VHS]
+Title: Jonah Who Will Be 25 in the Year 2000
 Author: Boyer, Myriam
 Date: 1998
 Publisher: New Yorker Video
@@ -1782,7 +1829,8 @@ ASIN: 8425842
 Id: brainwaving-01
 Type: article
 Media: link
-Title: Is the Universe Aware? ;  Brainwaving
+Title: Is the Universe Aware?
+Publisher: Brainwaving
 Tags: home, aom, link, biblio, link
 Link: http://www.brainwaving.com/2009/11/18/is-the-universe-self-aware/
 
@@ -1796,7 +1844,8 @@ Link: http://www.ted.com/talks/stewart_brand_proclaims_4_environmental_heresies.
 Id: brand-02
 Type: book
 Media: Paperback
-Title: How Buildings Learn: What Happens After They're Built
+Title: How Buildings Learn
+Subtitle: What Happens After They're Built
 Author: Brand, Stewart
 Date: 1995
 Publisher: Penguin Books
@@ -1807,8 +1856,9 @@ ASIN: 3636
 Id: brand-03
 Type: article
 Media: link
-Title: Stewart Brand Gives In-Depth and Personal Interview to Tim Ferriss - Blog of the Long Now
+Title: Stewart Brand Gives In-Depth and Personal Interview to Tim Ferriss
 Author: Brand, Stewart
+Date: 2018-01-16
 Publisher: Long Now
 Tags: misc, link, biblio, link
 Link: http://blog.longnow.org/02018/01/16/stewart-brand-gives-in-depth-and-personal-interview-to-tim-ferriss/
@@ -1832,7 +1882,7 @@ Link: http://www.brasschecktv.com/page/252.html
 Id: brave-01
 Type: site
 Media: site
-Title: Secure, Fast &amp; Private Web Browser with Adblocker ;  Brave Browser
+Title: Secure, Fast &amp; Private Web Browser with Adblocker; Brave Browser
 Tags: tools, link, biblio, link
 Link: https://brave.com/
 
@@ -1940,7 +1990,8 @@ ASIN: 12543803
 Id: bronson-01
 Type: book
 Media: Paperback
-Title: What Should I Do with My Life?: The True Story of People Who Answered the Ultimate Question
+Title: What Should I Do with My Life?
+Subtitle: The True Story of People Who Answered the Ultimate Question
 Author: Bronson, Po
 Date: 2003
 Publisher: Random House Trade Paperbacks
@@ -1999,7 +2050,8 @@ Link: http://www.brothersoft.com/mobile/phone/htc/htc_hero/
 Id: browne-01
 Type: media
 Media: DVD
-Title: Celtic Thunder: The Show
+Title: Celtic Thunder
+Subtitle: The Show
 Date: 2008
 Publisher: Sharon Browne
 Tags: biblio, video, video
@@ -2007,7 +2059,8 @@ Tags: biblio, video, video
 Id: bruckman-01
 Type: article
 Media: link
-Title: MOOSE Crossing: Construction, Community, and Learning in a Networked Virtual World for Kids
+Title: MOOSE Crossing
+Subtitle: Construction, Community, and Learning in a Networked Virtual World for Kids
 Author: Bruckman, Amy
 Date: 1997-05-01
 Publisher: PhD Dissertation, MIT Media Lab
@@ -2016,7 +2069,8 @@ Link: https://faculty.cc.gatech.edu/~asb/thesis/moose-crossing-entire.pdf
 Id: bryson-01
 Type: book
 Media: Hardcover
-Title: The Life and Times of the Thunderbolt Kid: A Memoir
+Title: The Life and Times of the Thunderbolt Kid
+Subtitle: A Memoir
 Author: Bryson, Bill
 Date: 2006
 Publisher: Crown
@@ -2027,7 +2081,8 @@ ASIN: 3660314
 Id: buddhistrecovery-01
 Type: article
 Media: link
-Title: Buddhist Recovery : The 'self-development' and 'self-surrender' perspectives of Buddhist practice: a contradiction?
+Title: Buddhist Recovery
+Subtitle: The 'self-development' and 'self-surrender' perspectives of Buddhist practice: a contradiction?
 Tags: home, aom, link, biblio, link
 Link: http://www.buddhistrecovery.com/perspectives.htm
 
@@ -2087,7 +2142,8 @@ Link: https://bugzilla.redhat.com/show_bug.cgi?id=196923
 Id: buhner-01
 Type: book
 Media: Ebook
-Title: The Secret Teachings of Plants: The Intelligence of the Heart in the Direct Perception of Nature
+Title: The Secret Teachings of Plants
+Subtitle: The Intelligence of the Heart in the Direct Perception of Nature
 Author: Buhner, Stephen Harrod
 Date: 2004
 Publisher: Bear & Company
@@ -2097,7 +2153,8 @@ ASIN: 326891
 Id: buhner-02
 Type: book
 Media: book
-Title: The Secret Teachings of Plants: The Intelligence of the Heart in the Direct Perception of Nature
+Title: The Secret Teachings of Plants
+Subtitle: The Intelligence of the Heart in the Direct Perception of Nature
 Author: Buhner, Stephen Harrod
 Tags: book, book, biblio, book
 Link: https://www.amazon.com/Secret-Teachings-Plants-Intelligence-Perception-ebook/dp/B003ZHVB80/
@@ -2148,7 +2205,8 @@ ASIN: 9351966
 Id: burgess-01
 Type: book
 Media: Ebook
-Title: In Search of Certainty - The Science of Our Information Infrastructure
+Title: In Search of Certainty
+Subtitle: The Science of Our Information Infrastructure
 Author: Burgess, Mark
 Date: 2013
 Publisher: XtAxis Press
@@ -2166,7 +2224,8 @@ Link: http://markburgess.org/treatise.html
 Id: burgess-03
 Type: article
 Media: link
-Title: A trap to end human employment?: Why AI is not the full story about our new class based society
+Title: A trap to end human employment?
+Subtitle:Why AI is not the full story about our new class based society
 Author: Burgess, Mark
 Date: 2023-06-13
 Link: https://mark-burgess-oslo-mb.medium.com/a-trap-to-end-human-employment-d25a2acfe744
@@ -2175,7 +2234,8 @@ AltLink: https://archive.vn/dekDR
 Id: burgess-04
 Type: article
 Media: link
-Title: Trust and Trustability: How Promise Theory tells us trust is really an economy of attention
+Title: Trust and Trustability
+Subtitle: How Promise Theory tells us trust is really an economy of attention
 Author: Burgess, Mark
 Date: 2023-05-11
 Link: https://mark-burgess-oslo-mb.medium.com/trust-and-trustability-6eeb89df1974
@@ -2184,7 +2244,8 @@ AltLink: https://archive.vn/mJdSx
 Id: burgess-05
 Type: article
 Media: link
-Title: Trust and Trustability, part 2: How future society can evaporate in a puff of autonomy
+Title: Trust and Trustability, part 2
+Subtitle: How future society can evaporate in a puff of autonomy
 Author: Burgess, Mark
 Date: 2023-05-23
 Link: https://mark-burgess-oslo-mb.medium.com/trust-and-trustability-part-2-dd1149b4423e
@@ -2193,7 +2254,8 @@ AltLink: https://archive.vn/P02Bf
 Id: burgess-06
 Type: article
 Media: link
-Title: The Failure of Knowledge Management: How a misunderstanding about logic dominates IT thinking, when we should be thinking space and time
+Title: The Failure of Knowledge Management
+Subtitle: How a misunderstanding about logic dominates IT thinking, when we should be thinking space and time
 Author: Burgess, Mark
 Date: 2023-01-02
 Link: https://mark-burgess-oslo-mb.medium.com/the-failure-of-knowledge-management-5d97bb748fc3
@@ -2255,7 +2317,8 @@ Annote: See notes.
 Id: butler-02
 Type: article
 Media: link
-Title: Darwin Among the Machines: To the editor of the press, christchurch, new zealand, 13 june, 1863
+Title: Darwin Among the Machines
+Subtitle: To the editor of the press, christchurch, new zealand, 13 june, 1863
 Author: Butler, Samuel
 Date: 1863-06-13
 DateSeen: 2023-03-06
@@ -6933,7 +6996,7 @@ Media: Paperback
 Title: Javascript for the World Wide Web (Visual QuickStart Guide)
 Author: Gesing, Ted
 Date: 1997
-Publisher: Peachpit Pr
+Publisher: Peachpit Pr (1997), 182 pages
 Tags: biblio
 ISBN: 020168814X
 ASIN: 13484
@@ -7044,7 +7107,7 @@ Media: Hardcover
 Title: The Language of the Goddess: Unearthing the Hidden Symbols of Western Civilization
 Author: Gimbutas, Marija Alseikaite
 Date: 1989
-Publisher: Harper & Row
+Publisher: Harper & Row (1989), 388 pages
 Tags: biblio
 ISBN: 0500014809
 ASIN: 51058
@@ -7299,6 +7362,7 @@ Title: The Goal 3th (third) edition Text Only
 Author: Goldratt, Eliyahu M.
 Date: 2004
 Publisher: The North River Press
+Edition: 3rd
 Tags: biblio
 ISBN: 0884271781
 ASIN: 774
@@ -7687,7 +7751,7 @@ Media: Paperback
 Title: Dear God! What's Happening to Us?: Halting Eons of Manipulation: Halting Aeons of Manipulation
 Author: Grabhorn, Lynn
 Date: 2003
-Publisher: Hampton Roads Publishing Co
+Publisher: Hampton Roads Publishing Co (2003), 192 pages
 Tags: biblio
 ISBN: 1571743847
 ASIN: 1432009
@@ -7789,7 +7853,7 @@ Media: Ebook
 Title: The Dawn of Everything: A New History of Humanity
 Author: Graeber, David
 Date: 2021-11-09
-Publisher: Farrar, Straus and Giroux
+Publisher: Farrar, Straus and Giroux (November 9, 2021)
 Tags: culture, book, important, biblio, book
 Link: https://www.amazon.com/dp/B08R2KL3VY
 Annote: See notes.
@@ -7860,6 +7924,7 @@ Title: The Fault in Our Stars
 Author: Green, John
 Date: 2014
 Publisher: Penguin Books
+Edition: Rep.
 Tags: biblio
 ISBN: 014242417X
 ASIN: 11456497
@@ -7891,7 +7956,7 @@ Media: Paperback
 Title: The Adventure of Self-Discovery: Dimensions of Consciousness and New Perspectives in Psychotherapy and Inner Exploration (SUNY Series in Transpersonal and Humanistic Psychology)
 Author: Grof, Stanislav
 Date: 1988
-Publisher: State Univ of New York Pr
+Publisher: State Univ of New York Pr (1988), 342 pages
 Tags: biblio
 ISBN: 0887065414
 ASIN: 278036
@@ -7903,6 +7968,7 @@ Title: The Holotropic Mind: The Three Levels of Human Consciousness and How They
 Author: Grof, Stanislav
 Date: 1993
 Publisher: HarperOne
+Edition: Rep.
 Tags: biblio
 ISBN: 9780062506597
 ASIN: 186253
@@ -8091,7 +8157,7 @@ Media: Ebook
 Title: The Righteous Mind: Why Good People Are Divided by Politics and Religion
 Author: Jonathan Haidt
 Date: 2012-03-13
-Publisher: Vintage
+
 Link: https://www.amazon.com/dp/B0052FF7YM/
 
 Id: hallsmith-01
@@ -8175,7 +8241,7 @@ Media: DVD
 Title: Bridge of Spies DVD
 Author: Hanks, Tom
 Date: 2016
-Publisher: Walt Disney Studios
+Publisher: Walt Disney Studios (2016)
 Tags: biblio
 ASIN: 16665129
 
@@ -8407,7 +8473,7 @@ Media: Hardcover
 Title: The Little Book of Eastern Wisdom: Sufi, Tao, Zen
 Author: Hemenway, Priya
 Date: 2003
-Publisher: Barnes & Noble
+Publisher: Barnes & Noble (2003), 152 pages
 Tags: biblio
 ISBN: 0760745048
 ASIN: 46223
@@ -8449,7 +8515,7 @@ Media: Ebook
 Title: The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous
 Author: Henrich, Joseph
 Date: 2020-09-08
-Publisher: Farrar, Straus and Giroux
+Publisher: Farrar, Straus and Giroux (September 8, 2020)
 ASIN: B07RZFCPMD
 Link: https://www.amazon.com/gp/product/B07RZFCPMD/
 
@@ -8549,7 +8615,8 @@ Media: Paperback
 Title: DARK MISSION: The Secret History of NASA
 Author: Hoagland, Richard C.
 Date: 2007
-Publisher: FERAL HOUSE
+Publisher: Feral House
+Edition: CONTR
 Tags: biblio
 ISBN: 1932595260
 ASIN: 4294102
@@ -8575,7 +8642,7 @@ Media: Paperback
 Title: Catastrophes, Chaos & Convolutions
 Author: Hogan, James P.
 Date: 2005
-Publisher: Baen
+Publisher: Baen (2005), 496 pages
 Tags: biblio, important
 ISBN: 1416509216
 ASIN: 463794
@@ -8586,7 +8653,7 @@ Media: Paperback
 Title: Echoes of an Alien Sky
 Author: Hogan, James P.
 Date: 2008
-Publisher: Baen
+Publisher: Baen (2008), 432 pages
 Tags: biblio
 ISBN: 1416555323
 ASIN: 2318312
@@ -8976,6 +9043,7 @@ Title: The Miracle Mineral Supplement of the 21st Century
 Author: Humble, Jim
 Date: 2007
 Publisher: Jim V. Humble
+Edition: 2nd
 Tags: biblio
 ISBN: 0979288444
 ASIN: 5730611
@@ -9008,7 +9076,7 @@ Media: Paperback
 Title: The Gift: Imagination and the Erotic Life of Property
 Author: Hyde, Lewis
 Date: 1983
-Publisher: Vintage
+Publisher: Vintage Books
 Tags: biblio
 ISBN: 0394715195
 ASIN: 258760
@@ -9514,7 +9582,7 @@ Media: Hardcover
 Title: A Fishkeeper's Guide to Aquarium Plants: A Superbly Illustrated Guide to Growing Healthy Aquarium Plants, Featuring over 60 Species (Fishkeeper's Guide Series)
 Author: James, Barry
 Date: 1986
-Publisher: Salamander Books Ltd
+Publisher: Salamander Books Ltd (1986), 120 pages
 Tags: biblio
 ISBN: 0861012070
 ASIN: 1135300
@@ -9679,6 +9747,7 @@ Title: Ecstasy: Understanding the Psychology of Joy
 Author: Johnson, Robert A.
 Date: 1987
 Publisher: Harper
+Edition: Ill.
 Tags: biblio
 ISBN: 0062504320
 ASIN: 102235
@@ -9719,7 +9788,8 @@ Media: Paperback
 Title: Ecstasy: Understanding the Psychology of Joy
 Author: Johnson, Robert A.
 Date: 1987
-Publisher: Harper (1989)
+Publisher: Harper
+Edition: Ill.
 Tags: book, book, biblio, book
 ISBN: 0062504320
 ASIN: 102235
@@ -9848,7 +9918,8 @@ Type: media
 Media: DVD
 Title: K-19 the widowmaker
 Date: 2002
-Publisher: Hollywood, Calif. : Paramount Pictures, c2002.
+Publisher: Paramount Pictures
+Place: Hollywood, CA
 Tags: biblio
 ISBN: 0792182065
 ASIN: 4150075
@@ -9887,6 +9958,7 @@ Title: Changing the World: One Relationship at a Time : Focused Listening for Mu
 Author: Karas, Sheryl
 Date: 1998
 Publisher: Crossing Pr
+Edition: 893rd
 Tags: biblio
 ISBN: 0895949458
 ASIN: 4863077
@@ -9921,7 +9993,7 @@ Media: Paperback
 Title: We Need Each Other: Building Gift Community
 Author: Kauth, Bill
 Date: 2011-09-09
-Publisher: Silver Light Publications
+Publisher: Silver Light Publications (2011), 166 pages
 Tags: biblio, important
 ISBN: 0974489093
 ASIN: 22562926
@@ -9962,7 +10034,7 @@ Media: DVD
 Title: Speechless
 Author: Keaton, Michael
 Date: 2001
-Publisher: MGM (Video & DVD)
+Publisher: MGM (Video & DVD) (2001)
 Tags: biblio
 ISBN: 0792851722
 ASIN: 17045985
@@ -9990,7 +10062,7 @@ Media: Ebook
 Title: Occupy Money: Creating an Economy where Everybody Wins
 Author: Kennedy, Margrit
 Date: 2012
-Publisher: New Society Publishers
+Publisher: New Society Publishers (2012), 131 pages
 Tags: biblio, important
 ASIN: 13116531
 
@@ -10044,6 +10116,7 @@ Title: The Social Justice Advocate's Handbook: A Guide to Gender
 Author: Killermann, Sam
 Date: 2013
 Publisher: Impetus Books
+Edition: 8.5.2013
 Tags: biblio
 ISBN: 0989760200
 ASIN: 14241657
@@ -10093,7 +10166,7 @@ Media: Paperback
 Title: Shapers Chronicles: The Wreckers
 Author: Kirk, Dan
 Date: 2006
-Publisher: Lulu.com
+Publisher: Lulu.com (2006), 261 pages
 Tags: biblio
 ISBN: 1411643577
 ASIN: 1353689
@@ -10278,7 +10351,7 @@ Media: Hardcover
 Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David C.
 Date: 2006
-Publisher: Berrett-Koehler
+Publisher: Berrett-Koehler (2006), 402 pages
 Tags: d, biblio, important
 ISBN: 1887208070
 ASIN: 854173
@@ -10301,6 +10374,7 @@ Title: When Corporations Rule the World
 Author: Korten, David C.
 Date: 2001
 Publisher: Kumarian Press
+Edition: 2nd
 Tags: f, biblio, important
 ISBN: 1887208046
 ASIN: 63770
@@ -10348,7 +10422,7 @@ Media: Hardcover
 Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David
 Date: 2017-02-02
-Publisher: Berrett-Koehler
+Publisher: Berrett-Koehler (2006), 402 pages
 Tags: article, greatturning, link, biblio, article, link
 ISBN: 1887208070
 ASIN: 854173
@@ -10408,7 +10482,7 @@ Media: Ebook
 Title: The Conquest of Bread
 Author: Author: Kropotkin, kniaz Petr Alekseevich
 Date: 1926
-Publisher: Vanguard Press
+Publisher: New York, Vanguard Press (1926)
 Link: https://www.gutenberg.org/ebooks/23428
 AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/the_conquest_of_bread_by_kropotkin_1892.epub
 
@@ -10418,7 +10492,8 @@ Media: DVD
 Title: The Brothers Grimm
 Author: Kruger, Ehren
 Date: 2005
-Publisher: [Burbank, CA] : Dimension Home Video : Distributed by Buena Vista Home Entertainment, [2005]
+Publisher: Dimension Home Video (Distributed by Buena Vista Home Entertainment)
+Place: Burbank, CA
 Tags: biblio, video, video
 ISBN: 0788863142
 ASIN: 2969090
@@ -10583,7 +10658,8 @@ Media: Ebook
 Title: You Are Not a Gadget
 Author: Lanier, Jaron
 Date: 2009
-Publisher: Vintage 
+Publisher: Vintage
+Edition: Rep.
 Tags: biblio, important
 ASIN: 8749061
 
@@ -10627,7 +10703,7 @@ Media: Hardcover
 Title: In Search of Stardust: Amazing Micrometeorites and Their Terrestrial Imposters
 Author: Larsen, Jon
 Date: 2017
-Publisher: Voyageur Press
+Publisher: Voyageur Press (2017), 152 pages
 Tags: biblio
 ISBN: 076035264X
 ASIN: 19780284
@@ -10780,6 +10856,7 @@ Title: Freakonomics (Revised Edition)
 Author: Levitt, Steven D
 Date: 2006
 Publisher: William Morrow
+Edition: Rev.
 Tags: biblio
 ISBN: 0061234001
 ASIN: 675
@@ -10833,7 +10910,7 @@ Media: Paperback
 Title: Temple of Love
 Author: Lichtenfels, Sabine
 Date: 2011
-Publisher: Verlag Meiga
+Publisher: Verlag Meiga (2011), 276 pages
 Tags: biblio, important
 ISBN: 3927266442
 ASIN: 26862717
@@ -11657,6 +11734,7 @@ Title: King Perry (The Lost and Founds) (Volume 1)
 Author: Manning, Edmond
 Date: 2012
 Publisher: Pickwick Ink Press
+Edition: 2nd
 Tags: biblio
 ISBN: 0997860898
 ASIN: 12527666
@@ -11702,7 +11780,8 @@ Media: Paperback
 Title: Montale : la ricerca dell'altro
 Author: Marchese, Angelo
 Date: 2000
-Publisher: Padova : Messaggero, c2000.
+Publisher: Messaggero
+Place: Padova
 Tags: biblio
 ISBN: 8825008074
 ASIN: 26862747
@@ -11783,7 +11862,7 @@ Media: DVD
 Title: Cheaper by the Dozen
 Author: Martin, Steve
 Date: 2004
-Publisher: 20th Century Fox
+Publisher: 20th Century Fox (2004)
 Tags: biblio
 ASIN: 8196936
 
@@ -11829,6 +11908,7 @@ Title: What the Bleep!? - Down the Rabbit Hole
 Author: Matlin, Marlee
 Date: 2006
 Publisher: 20th Century Fox
+Edition: Sp.
 Tags: biblio
 ASIN: 8208756
 
@@ -11907,7 +11987,7 @@ Media: Hardcover
 Title: Delete: The Virtue of Forgetting in the Digital Age
 Author: Mayer-Schu00f6nberger, Viktor
 Date: 2009
-Publisher: Princeton University Press
+Publisher: Princeton University Press (2009), 256 pages
 Tags: biblio, important
 ISBN: 0691138613
 ASIN: 8721443
@@ -11967,7 +12047,7 @@ Media: Paperback
 Title: Industrious
 Author: McCloskey, Michael
 Date: 2011
-Publisher: MichaelMcCloskey
+Publisher: MichaelMcCloskey (2011), 210 pages
 Tags: biblio
 ISBN: 0615457231
 ASIN: 12392939
@@ -11978,7 +12058,7 @@ Media: Paperback
 Title: Insidious
 Author: McCloskey, Michael
 Date: 2010
-Publisher: iUniverse
+Publisher: iUniverse (2010), 324 pages
 Tags: biblio
 ISBN: 1440192529
 ASIN: 10735086
@@ -12339,7 +12419,7 @@ Media: link
 Title: The Dilemma of Obedience
 Author: Milgram, Stanley
 Date: 1974-05
-Publisher: The Phi Delta Kappan, May, 1974, Vol. 55, No. 9
+Publisher: The Phi Delta Kappan, May, 1974, Vol. 55, No. 9 (May, 1974), pp. 603-606
 Link: https://www.jstor.org/stable/20297701
 AltLink: https://archive.vn/T9FDc
 
@@ -12359,7 +12439,7 @@ Media: Ebook
 Title: How To Bottom Like A Porn Star
 Author: Miller, Woody
 Date: 2014
-Publisher: Woodpecker Media
+Publisher: Woodpecker Media (2014), 136 pages
 Tags: biblio
 ISBN: 0989139743
 ASIN: 17874557
@@ -12370,7 +12450,7 @@ Media: Ebook
 Title: Toward a New Psychology of Women 2nd Edition
 Author: Miller, Jean Baker
 Date: 2012-02-21
-Publisher: Beacon Press
+Publisher: Beacon Press; 2nd edition (February 21, 2012)
 ASIN: B006Q1KBZ6
 Link: https://www.amazon.com/Toward-Psychology-Women-Baker-Miller-ebook/dp/B006Q1KBZ6
 
@@ -12380,7 +12460,7 @@ Media: Hardcover
 Title: Community Fishes
 Author: Mills, Dick
 Date: 1991
-Publisher: Tetra Press
+Publisher: Tetra Press (1991)
 Tags: biblio
 ISBN: 3923880529
 ASIN: 3297273
@@ -12610,7 +12690,8 @@ Media: DVD
 Title: Ocean's twelve
 Author: Moore, Michael
 Date: 2005
-Publisher: Burbank, CA : Distributed by Warner Home Video, [2005]
+Publisher: Distributed by Warner Home Video
+Place: Burbank, CA
 Tags: biblio
 ISBN: 0790795353
 ASIN: 25817620
@@ -12630,7 +12711,7 @@ Media: DVD
 Title: Roger & Me
 Author: Moore, Michael
 Date: 2003
-Publisher: Warner Home Video
+Publisher: Warner Home Video (2003)
 Tags: biblio
 ISBN: 0790780232
 ASIN: 929569
@@ -12734,7 +12815,7 @@ Media: Paperback
 Title: Shackleton's Way: Leadership Lessons from the Great Antarctic Explorer
 Author: Morrell, Margot
 Date: 2002
-Publisher: Penguin Books
+Publisher: Penguin Books (2002), 256 pages
 Tags: biblio, important
 ISBN: 9780142002360
 ASIN: 3787
@@ -12851,6 +12932,7 @@ Title: Ecstasy Through Tantra (Llewellyns Tantra and Sexual Arts Series)
 Author: Mumford, Jonn
 Date: 2002
 Publisher: Llewellyn Publications
+Edition: Ill.
 Tags: biblio
 ISBN: 0875424945
 ASIN: 65556
@@ -13140,7 +13222,7 @@ Media: Paperback
 Title: Linux Toys: 13 Cool Projects for Home, Office and Entertainment (ExtremeTech)
 Author: Negus, Christopher
 Date: 2003
-Publisher: Wiley
+Publisher: Wiley (2003), 360 pages
 Tags: biblio
 ISBN: 0764525085
 ASIN: 84491
@@ -13151,7 +13233,7 @@ Media: Paperback
 Title: Black Elk Speaks: The Complete Edition
 Author: Neihardt, John G.
 Date: 2014
-Publisher: BISON BOOKS
+Publisher: Bison Books
 Tags: biblio
 ISBN: 0803283911
 ASIN: 3251626
@@ -13177,6 +13259,7 @@ Title: Neither Wolf nor Dog: On Forgotten Roads with an Indian Elder
 Author: Nerburn, Kent
 Date: 2002
 Publisher: New World Library
+Edition: 2nd
 Tags: biblio, important
 ISBN: 1577312333
 ASIN: 371298
@@ -13288,7 +13371,7 @@ Media: DVD
 Title: Frank Herbert's Children of Dune: Sci-Fi TV Miniseries (Two-Disc DVD Set)
 Author: Newman, Alec
 Date: 2003
-Publisher: Alliance
+Publisher: Alliance (2003)
 Tags: biblio
 ASIN: 1278120
 
@@ -13507,6 +13590,7 @@ Title: Protector (Known Space)
 Author: Niven, Larry
 Date: 1987
 Publisher: Del Rey
+Edition: Reissue
 Tags: biblio
 ISBN: 0345353129
 ASIN: 18896
@@ -14512,6 +14596,18 @@ Title: FBI uses Patriot Act on 16-year-old
 Tags: video, biblio, video
 Link: http://www.wimp.com/patriotact/
 
+Id: paul-01
+Type: book
+Media: Paperback
+Title: Basic Surveying
+Author: Paul, Raymond
+Authors: & Walter Whyte
+Edition: 4th
+Tags: home, surveying, link, biblio, link
+ISBN: 0750617713
+Link: http://www.amazon.com/dp/0750617713
+Annote: Old: amazon-09
+
 Id: paulsen-01
 Type: book
 Media: Ebook
@@ -14655,6 +14751,7 @@ Title: People of the Lie: The Hope for Healing Human Evil
 Author: Peck, M. Scott
 Date: 1998
 Publisher: Touchstone
+Edition: 2nd
 Tags: biblio, important
 ISBN: 0684848597
 ASIN: 24864462
@@ -14691,7 +14788,7 @@ Media: Paperback
 Title: Gay Witchcraft: Empowering the Tribe
 Author: Penczak, Christopher
 Date: 2003
-Publisher: Red Wheel/Weiser
+Publisher: Red Wheel/Weiser (2003), 288 pages
 Tags: biblio, important
 ISBN: 1578632811
 ASIN: 470136
@@ -15144,7 +15241,7 @@ Media: Ebook
 Title: Technopoly: The Surrender of Culture to Technology
 Author: Postman, Neil
 Date: 2011
-Publisher: Vintage
+Publisher: Vintage (2011), 199 pages
 Tags: biblio, important
 ASIN: 46821
 
@@ -15171,7 +15268,7 @@ Media: Paperback
 Title: The Mote In God's Eye
 Author: Pournelle, Jerry
 Date: 1974
-Publisher: Pocket
+Publisher: Pocket 1974
 Tags: biblio
 ISBN: 0671741926
 ASIN: 16539
@@ -15420,7 +15517,8 @@ Media: DVD
 Title: Chicago
 Author: Quaid, Dennis
 Date: 2002
-Publisher: Burbank, Calif. : [MontrÂ©â­al, Que.] : Distributed by Buena Vista Home Entertainment, Alliance-Atlantis [distributor], c2002 ; [2003?].
+Publisher: Distributed by Buena Vista Home Entertainment
+Place: Burbank, CA
 Tags: biblio
 ISBN: 0788845845
 ASIN: 372476
@@ -15442,7 +15540,7 @@ Media: DVD
 Title: Far From Heaven
 Author: Quaid, Dennis
 Date: 2003
-Publisher: Innotrac - NBC Universal
+Publisher: Innotrac - NBC Universal (2003)
 Tags: biblio
 ASIN: 758733
 
@@ -15453,6 +15551,7 @@ Title: The day after tomorrow
 Author: Quaid, Dennis
 Date: 2004
 Publisher: 20th Century Fox Home Entertainment
+Place: United States
 Tags: biblio
 ASIN: 26862839
 
@@ -15462,7 +15561,8 @@ Media: DVD
 Title: The day the earth stood still
 Author: Quaid, Dennis
 Date: 2002
-Publisher: [United States] : Twentieth Century-Fox Home Entertainment, c2002, 1951.
+Publisher: Twentieth Century-Fox Home Entertainment
+Place: United States
 Tags: biblio
 ASIN: 9871370
 
@@ -15703,7 +15803,7 @@ Media: DVD
 Title: OMG Oh My God (Bollywood DVD With English Subtitles)
 Author: Rawal, Paresh
 Date: 2012
-Publisher: Viacom
+Publisher: Viacom (2012)
 Tags: biblio
 ASIN: 26864829
 
@@ -15838,7 +15938,7 @@ Media: Ebook
 Title: On Chocorua: Book 1 of the Trailblazer series
 Author: Reardon, Robin
 Date: 2019
-Publisher: IAM Books
+Publisher: IAM Books (2019), 297 pages
 Tags: biblio
 ISBN: 099884148X
 ASIN: 23635219
@@ -16069,6 +16169,7 @@ Title: Superman - The Movie
 Author: Reeve, Christopher
 Date: 2001
 Publisher: Warner Home Video
+Edition: Sp.
 Tags: biblio
 ISBN: 0790752433
 ASIN: 2439133
@@ -16079,7 +16180,7 @@ Media: DVD
 Title: Superman III
 Author: Reeve, Christopher
 Date: 2001
-Publisher: Warner Home Video
+Publisher: Warner Home Video (2001)
 Tags: biblio
 ISBN: 079075245X
 ASIN: 1791750
@@ -16090,7 +16191,7 @@ Media: DVD
 Title: Superman IV - The Quest for Peace
 Author: Reeve, Christopher
 Date: 2005
-Publisher: Warner Home Video
+Publisher: Warner Home Video (2001)
 Tags: biblio
 ISBN: 0790752468
 ASIN: 1815791
@@ -16101,7 +16202,7 @@ Media: DVD
 Title: Johnny Mnemonic
 Author: Reeves, Keanu
 Date: 1999
-Publisher: Sony Pictures Home Entertainment
+Publisher: Sony Pictures Home Entertainment (1997)
 Tags: biblio
 ISBN: 043396734791
 ASIN: 1093744
@@ -16213,7 +16314,7 @@ Media: Paperback
 Title: The Draegan Lords
 Author: Rhodes, M. L.
 Date: 2008
-Publisher: Amber Quill Press, LLC 
+Publisher: Amber Quill Press, LLC (2008), 221 pages
 Tags: biblio
 ISBN: 160272945X
 ASIN: 2919106
@@ -16402,7 +16503,7 @@ Media: Paperback
 Title: Joy of Cooking
 Author: Rombauer, Irma S.
 Date: 1985
-Publisher: Plume
+Publisher: Plume (1992), 864 pages
 Tags: biblio
 ISBN: 0452263328
 ASIN: 14958850
@@ -16541,7 +16642,7 @@ Media: Ebook
 Title: Team Human
 Author: Rushkoff, Douglas
 Date: 2019-01-22
-Publisher: W. W. Norton & Company
+Publisher: W. W. Norton & Company (January 22, 2019)
 Tags: book, biblio, important, book
 Link: https://www.amazon.com/dp/B07DP62FZB
 
@@ -16723,6 +16824,7 @@ Title: 50 First Dates / Mr.Deeds (Widescreen Edition)
 Author: Sandler, Adam
 Date: 2011
 Publisher: Sony Pictures Home Entertainment
+Edition: Sp.
 Tags: biblio
 ISBN: 1404988173
 ASIN: 29641421
@@ -16747,7 +16849,7 @@ Media: DVD
 Title: Akira (Widescreen)
 Author: Sasaki, Nozomu
 Date: 2001
-Publisher: Geneon [Pioneer]
+Publisher: Geneon [Pioneer] (2001)
 Tags: biblio
 ASIN: 11799471
 
@@ -16800,6 +16902,7 @@ Title: The Millennial Project: Colonizing the Galaxy in Eight Easy Steps
 Author: Savage, Marshall T.
 Date: 1994
 Publisher: Little Brown & Co
+Edition: Rep.
 Tags: biblio
 ISBN: 0316771635
 ASIN: 57275
@@ -16875,7 +16978,7 @@ Media: Paperback
 Title: Blood of the Goddess
 Author: Schindler, William
 Date: 2020
-Publisher: Lulu.com
+Publisher: Lulu.com (2020), 304 pages
 Tags: biblio
 ISBN: 1716885620
 ASIN: 2357464
@@ -16886,7 +16989,7 @@ Media: Paperback
 Title: Blood of the Goddess
 Author: Schindler, William
 Date: 2020
-Publisher: Lulu.com
+Publisher: Lulu.com (2020), 304 pages
 Tags: biblio
 ISBN: 1716885620
 ASIN: 2357464
@@ -16897,7 +17000,7 @@ Media: Paperback
 Title: Blood of the Goddess
 Author: Schindler, William
 Date: 2020
-Publisher: Lulu.com
+Publisher: Lulu.com (2020), 304 pages
 Tags: biblio
 ISBN: 1716885620
 ASIN: 2357464
@@ -16908,7 +17011,7 @@ Media: Paperback
 Title: Essays on Gay Tantra
 Author: Schindler, William
 Date: 2001
-Publisher: Xlibris
+Publisher: Xlibris (2001), 436 pages
 Tags: biblio
 ISBN: 073886028X
 ASIN: 2261804
@@ -17360,7 +17463,7 @@ Media: DVD
 Title: Star Trek II - The Wrath of Khan
 Author: Shatner, William
 Date: 2000
-Publisher: Paramount Home Video
+Publisher: Paramount Home Video (2000)
 Tags: biblio
 ISBN: 6305910103
 ASIN: 1029760
@@ -17397,7 +17500,7 @@ Media: Ebook
 Title: Science Set Free: 10 Paths to New Discovery
 Author: Sheldrake, Rupert
 Date: 2012
-Publisher: Deepak Chopra
+Publisher: Deepak Chopra (2012), 402 pages
 Tags: biblio, important
 ASIN: 12138997
 
@@ -18255,7 +18358,7 @@ Media: Paperback
 Title: Water Gardens (Nature Guides)
 Author: Stadelmann, Peter
 Date: 1992
-Publisher: Barrons Educational Series Inc
+Publisher: Barrons Educational Series Inc (1992), 143 pages
 Tags: biblio
 ISBN: 0812049284
 ASIN: 819804
@@ -18306,7 +18409,8 @@ Type: media
 Media: DVD
 Title: The last starfighter
 Date: 1999
-Publisher: Universal City, CA : Universal, [1999]
+Publisher: Universal
+Place: Universal City, CA
 Tags: biblio
 ISBN: 0783230567
 ASIN: 1000574
@@ -18316,7 +18420,8 @@ Type: media
 Media: DVD
 Title: Stargate
 Date: 2003
-Publisher: Santa Monica, Calif. : Artisan Home Entertainment : Lionsgate, [2003]
+Publisher: Artisan Home Entertainment: Lionsgate
+Place: Santa Monica, CA
 Tags: biblio
 ASIN: 780397
 
@@ -18363,7 +18468,7 @@ Media: Hardcover
 Title: Desktop Kornshell Graphical Programming (Addison-Wesley Professional Computing Series)
 Author: Stephen, Jr. Pendergrast J.
 Date: 1995
-Publisher: Addison-Wesley Pub
+Publisher: Addison-Wesley Pub (Sd)
 Tags: biblio
 ISBN: 0201633752
 ASIN: 3432491
@@ -18410,7 +18515,7 @@ Media: DVD
 Title: Star Trek - Nemesis (Widescreen Edition)
 Author: Stewart, Patrick
 Date: 2003
-Publisher: Paramount
+Publisher: Paramount (2003)
 Tags: biblio
 ISBN: 0792187040
 ASIN: 713721
@@ -18421,7 +18526,7 @@ Media: DVD
 Title: Star Trek VII: Generations
 Author: Stewart, Patrick
 Date: 1998
-Publisher: Paramount
+Publisher: Paramount (1998)
 Tags: biblio
 ISBN: 6305181721
 ASIN: 126861
@@ -18439,7 +18544,7 @@ Media: Hardcover
 Title: When God Was A Woman
 Author: Stone, Merlin
 Date: 1990
-Publisher: Marboro Books
+Publisher: Marboro Books (1990), 265 pages
 Tags: book, biblio, important, book
 ISBN: 0880295333
 ASIN: 112299
@@ -18450,7 +18555,7 @@ Media: Hardcover
 Title: When God Was a Woman
 Author: Stone, Merlin
 Date: 1990
-Publisher: Marboro Books
+Publisher: Marboro Books (1990), 265 pages
 Tags: book, biblio, important, book
 ISBN: 0880295333
 ASIN: 112299
@@ -18461,7 +18566,7 @@ Media: Hardcover
 Title: When God Was A Woman
 Author: Stone, Merlin
 Date: 1990
-Publisher: Marboro Books
+Publisher: Marboro Books (1990), 265 pages
 Tags: book, biblio, book
 ISBN: 0880295333
 ASIN: 112299
@@ -18560,7 +18665,7 @@ Type: media
 Media: DVD
 Title: Mamma Mia! The Movie
 Author: Streep, Meryl
-Date: 2012
+Date: 2008
 Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ASIN: 8000381
@@ -18571,7 +18676,7 @@ Media: DVD
 Title: Postcards from the Edge
 Author: Streep, Meryl
 Date: 1990
-Publisher: Sony Pictures Home Entertainment
+Publisher: Mill Creek-Sony Pictures Home Entertainment (2001)
 Tags: biblio
 ISBN: 0767859820
 ASIN: 2837896
@@ -18597,6 +18702,7 @@ Title: Sync
 Author: Strogatz, Steven
 Date: 2004
 Publisher: Hyperion- Acquired Assets
+Edition: Rep.
 Tags: biblio
 ISBN: 0786887214
 ASIN: 12264
@@ -18824,6 +18930,7 @@ Title: The Holographic Universe
 Author: Talbot, Michael
 Date: 1992
 Publisher: Harper Perennial
+Edition: Rep.
 Tags: biblio, important
 ISBN: 0060922583
 ASIN: 27785
@@ -18841,7 +18948,7 @@ Media: Paperback
 Title: Thunderbolts of the Gods
 Author: Talbott, David
 Date: 2005
-Publisher: Mikamar Publishing
+Publisher: Mikamar Publishing (2005), 107 pages
 Tags: biblio
 ISBN: 0977285103
 ASIN: 5054271
@@ -18920,7 +19027,7 @@ Media: DVD
 Title: Cleopatra - Award Series (2 Disc DVD Set)
 Author: Taylor, Elizabeth
 Date: 2006
-Publisher: Twentieth Century-Fox Film Corporation
+Publisher: Twentieth Century-Fox Film Corporation (2006)
 Tags: biblio
 ASIN: 687245
 
@@ -19422,7 +19529,7 @@ Title: Vaporized: Solid Strategies for Success in a Dematerialized World
 Author: Tercek, Robert
 Authors: Negroponte, Nicholas
 Date: 2015
-Publisher: LifeTree
+Publisher: LifeTree (2015), 336 pages
 Tags: biblio, important
 ASIN: 16693004
 
@@ -20234,6 +20341,7 @@ Title: Tao Te Ching: A New English Version (Perennial Classics)
 Author: Tzu, Lao
 Date: 2006
 Publisher: Harper Perennial Modern Classics
+Edition: Rep.
 Tags: biblio
 ISBN: 9780061142666
 ASIN: 24392
@@ -20400,7 +20508,7 @@ Media: DVD
 Title: Hanging up : Widescreen Edition
 Author: Up, Hanging
 Date: 2002
-Publisher: Alliance Entertainment
+Publisher: Alliance Entertainment (2002)
 Tags: biblio
 ASIN: 1967719
 
@@ -20561,10 +20669,11 @@ Link: http://www.uxcell.com/usb-finger-optical-mouse-for-notebook-laptop-p-6728.
 Id: vacca-01
 Type: book
 Media: Paperback
-Title: VRML Clearly Explained, Second Edition: Bringing Virtual Reality to the Internet
+Title: VRML Clearly Explained: Bringing Virtual Reality to the Internet
 Author: Vacca, John R.
 Date: 1997
 Publisher: Academic Press
+Edition: 2nd
 Tags: biblio
 ISBN: 0127100083
 ASIN: 10944715
@@ -20583,6 +20692,7 @@ Title: When Gadgets Betray Us
 Author: Vamosi, Robert
 Date: 2013
 Publisher: Basic Books
+Edition: Rep.
 Tags: biblio
 ISBN: 9780465031382
 Link: https://www.amazon.com/When-Gadgets-Betray-Infatuation-Technologies-ebook/dp/B004JN0UFE
@@ -20622,7 +20732,7 @@ Title: Talking to My Daughter About the Economy: or, How Capitalism Works--and H
 Author: Varoufakis, Yanis
 Authors: Varoufakis, Yanis; Moe, Jacob
 Date: 2018
-Publisher: Farrar, Straus and Giroux
+Publisher: Farrar, Straus and Giroux (2018), 224 pages
 Tags: biblio, important
 ISBN: 0374272360
 ASIN: 16238926
@@ -20644,6 +20754,7 @@ Title: Kamasutra (Oxford World's Classics)
 Author: Vatsyayana, Mallanaga
 Date: 2009
 Publisher: Oxford University Press
+Edition: Reissue
 Tags: biblio
 ISBN: 0199539162
 ASIN: 58987
@@ -20662,7 +20773,7 @@ Title: More Than Two: A Practical Guide to Ethical Polyamory
 Author: Veaux, Franklin
 Authors: Gill, Tatiana; Hardy, Janet
 Date: 2014
-Publisher: Thorntree Press
+Publisher: Thorntree Press (2014), 496 pages
 Tags: biblio
 ISBN: 0991399714
 ASIN: 15062936
@@ -21047,6 +21158,7 @@ Title: Cities of Light: A New Vision of the Future
 Author: Walters, Donald J.
 Date: 2005
 Publisher: Crystal Clarity Publishers
+Edition: 2nd
 Tags: biblio
 ISBN: 1565891724
 ASIN: 9768689
@@ -21328,6 +21440,7 @@ Title: Practical Programming in Tcl & Tk
 Author: Welch, Brent B.
 Date: 1997
 Publisher: Prentice Hall
+Edition: 2nd
 Tags: biblio
 ISBN: 0136168302
 ASIN: 135602
@@ -21443,6 +21556,7 @@ Title: Leaves of Grass: Authoritative Texts, Prefaces, Whitman on His Art, Criti
 Author: Whitman, Walt
 Date: 1985
 Publisher: W. W. Norton & Company
+Edition: 2nd
 Tags: biblio
 ISBN: 0393093883
 ASIN: 11081126
@@ -21461,6 +21575,7 @@ Title: The Heart Aroused: Poetry and the Preservation of the Soul in Corporate A
 Author: Whyte, David
 Date: 1996
 Publisher: Currency
+Edition: Rev.
 Tags: biblio
 ISBN: 0385484186
 ASIN: 71346
@@ -22020,6 +22135,7 @@ Title: The Secret of the Golden Flower: A Chinese Book of Life
 Author: Wilhelm, Richard
 Date: 1962
 Publisher: Harcourt Brace Jovanovich
+Edition: Rev.
 Tags: biblio
 ISBN: 0156799804
 ASIN: 204188
@@ -22118,6 +22234,7 @@ Title: Setting Foundations for a New Civilization
 Author: Winiecki, Martin
 Date: 2013
 Publisher: Verlag Meiga
+Edition: Ill.
 Tags: biblio, important
 ISBN: 3927266477
 ASIN: 26862721
@@ -22148,7 +22265,7 @@ Media: Ebook
 Title: The Powers That Be: Theology for a New Millennium
 Author: Wink, Walter
 Date: 2010
-Publisher: Harmony
+Publisher: Harmony (2010), 238 pages
 Tags: book, biblio, important, book
 ASIN: 232203
 Link: https://www.amazon.com/Powers-That-Be-Theology-Millennium-ebook/dp/B0036S4BUI/
@@ -22267,6 +22384,7 @@ Title: The Lord of the Rings: The Return of the King (Special Extended Edition)
 Author: Wood, Elijah
 Date: 2004
 Publisher: New Line Home Video
+Edition: Ext.
 Tags: biblio
 ISBN: 0780646533
 ASIN: 24986237
@@ -22278,6 +22396,7 @@ Title: The Lord of the Rings: The Two Towers (Four-Disc Special Extended Edition
 Author: Wood, Elijah
 Date: 2003
 Publisher: New Line Home Video
+Edition: Ext.
 Tags: biblio
 ISBN: 0780644042
 ASIN: 24985803
@@ -22420,6 +22539,7 @@ Title: Codes, Ciphers and Other Cryptic and Clandestine Communication: 400 Ways 
 Author: Wrixon, Fred B.
 Date: 1998
 Publisher: Black Dog & Leventhal
+Edition: Rev.
 Tags: biblio
 ISBN: 1579120407
 ASIN: 285272
@@ -22658,6 +22778,7 @@ Title: Leave Myself Behind
 Author: Yates, Bart
 Date: 2004
 Publisher: Kensington
+Edition: Rep.
 Tags: biblio
 ISBN: 0758203497
 ASIN: 385708
@@ -22751,7 +22872,7 @@ Media: Paperback
 Title: Death March: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects (Yourdon Computing Series)
 Author: Yourdon, Edward
 Date: 1999
-Publisher: Pearson P T R
+Publisher: Pearson P T R (1999), 240 pages
 Tags: biblio
 ISBN: 0130146595
 ASIN: 8382446
