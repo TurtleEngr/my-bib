@@ -302,7 +302,7 @@ Type: media
 Media: video
 Title: Holy Hell (film)
 Author: Allen, Will
-Authors: Morgan, Polly
+Authors: & Polly Morgan
 Date: 2016-01-25
 
 Link: https://en.wikipedia.org/wiki/Holy_Hell_(film)
@@ -1372,7 +1372,7 @@ Media: link
 Title: On the Dangers of Stochastic Parrots
 Subtitle: Can Language Models Be Too Big?
 Author: Bender, Emily M.
-Authors: Gebru, Timnit; McMillan-Major, Angelina; Shmitchell, Shmargaret
+Authors: Timnit Gebru, Angelina McMillan-Major, & Shmargaret Shmitchell
 Date: 2021-03-03
 Tags: article, pdf, article
 Link: https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
@@ -3773,7 +3773,7 @@ Type: article
 Media: link
 Title: Gendered Language
 Author: Dasani, Neerja
-Authors: Roy, Swati
+Authors: & Swati Roy
 Date: 2009-11-05
 Publisher: Counter Currents
 Tags: home, change, link
@@ -4231,7 +4231,7 @@ Type: article
 Media: link
 Title: ZEGG Forum Rules &amp; Guidelines for Building Polyamory Community
 Author: Devi, Kamala
-Authors: Paulman, Adam
+Authors: & Adam Paulman
 Tags: culture, link
 Link: http://www.kamaladevi.com/2998/zegg-forum-rules-guidelines-polyamory-community#.VjWdvHUViko
 
@@ -12038,7 +12038,7 @@ Type: book
 Media: Paperback
 Title: Cohousing: A Contemporary Approach to Housing Ourselves
 Author: McCamant, Kathryn M.
-Authors: Durrett, Charles; Mooore, Charles W.
+Authors: Charles Durrett, & Charles W. Mooore
 Date: 1989-01-01
 Publisher: Ten Speed Press
 ISBN: 0898153069
@@ -14533,7 +14533,7 @@ Type: article
 Media: link
 Title: How AI Puts Elections at Risk — And the Needed Safeguards
 Author: Panditharatne, Mekela
-Authors: Giansiracusa, Noah
+Authors: & Noah Giansiracusa
 Date: 2023-06-13
 Publisher: Brennan Center for Justice
 Link: https://www.brennancenter.org/our-work/analysis-opinion/how-ai-puts-elections-risk-and-needed-safeguards
@@ -16816,7 +16816,7 @@ Type: media
 Media: video
 Title: Senator Sanders and Michael Moore
 Author: Sanders, Bernie
-Authors: Moore, Michael
+Authors: & Michael Moore
 Tags: video, old:youtube-021
 Link: http://www.youtube.com/watch?v=I5rcnAWaC64&amp;feature=related
 
@@ -19530,7 +19530,7 @@ Type: book
 Media: Ebook
 Title: Vaporized: Solid Strategies for Success in a Dematerialized World
 Author: Tercek, Robert
-Authors: Negroponte, Nicholas
+Authors: & Nicholas Negroponte
 Date: 2015
 Publisher: LifeTree (2015), 336 pages
 Tags: important
@@ -20733,7 +20733,7 @@ Type: book
 Media: Ebook
 Title: Talking to My Daughter About the Economy: or, How Capitalism Works--and How It Fails
 Author: Varoufakis, Yanis
-Authors: Varoufakis, Yanis; Moe, Jacob
+Authors: & Jacob Moe
 Date: 2018
 Publisher: Farrar, Straus and Giroux (2018), 224 pages
 Tags: important
@@ -20774,7 +20774,7 @@ Type: book
 Media: Ebook
 Title: More Than Two: A Practical Guide to Ethical Polyamory
 Author: Veaux, Franklin
-Authors: Gill, Tatiana; Hardy, Janet
+Authors: Tatiana Gill, & Janet Hardy
 Date: 2014
 Publisher: Thorntree Press (2014), 496 pages
 Tags: biblio
@@ -21496,7 +21496,7 @@ Type: media
 Media: audio
 Title: Central Leader Communities with Evil Dictator Paul Wheaton
 Author: Wheaton, Paul
-Authors: Mesritz, Rebecca
+Authors: & Rebecca Mesritz
 Date: 2023-09-07
 Link: https://www.ic.org/podcast-paul-wheaton/
 Annote: See notes.
