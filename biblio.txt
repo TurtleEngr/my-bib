@@ -1580,7 +1580,8 @@ ASIN: 176608
 Id: bloom-02
 Type: article
 Media: link
-Title: Blue Eyes, Brown Eyes: On race and Jane Elliott’s famous experiment on prejudice
+Title: Blue Eyes, Brown Eyes
+Subtitle: On race and Jane Elliott’s famous experiment on prejudice
 Author: Bloom, Stephen G.
 Date: 2022-11-22
 Publisher: Skeptic
