@@ -2385,7 +2385,7 @@ ASIN: 26862841
 Id: caldwell-04
 Type: media
 Media: DVD
-Title: The Andromeda strain
+Title: The Andromeda Strain
 Author: Caldwell, Michael
 Date: 2003
 Publisher: Universal Studios
@@ -2403,7 +2403,8 @@ Link: http://calibre.kovidgoyal.net/
 Id: californiacoastline-01
 Type: site
 Media: org
-Title: California Coastal Records Project -- Aerial Photographs of the California Coastline
+Title: California Coastal Records Project
+Subtitle: Aerial Photographs of the California Coastline
 Tags: reference, link
 Link: http://www.californiacoastline.org/
 
@@ -2421,7 +2422,8 @@ Link: https://www.amazon.com/Ecotopia-Novel-Ernest-Callenbach-ebook/dp/B0030P1WN
 Id: calsci-01
 Type: site
 Media: product
-Title: California Scientific / BrainMaker Neural Network Software
+Title: BrainMaker Neural Network Software
+Publisher: California Scientific
 Tags: toolsw, appdesktop, neuralnet, link
 Link: http://www.calsci.com/BrainIndex.html
 
@@ -2436,7 +2438,8 @@ ISBN: 0937175846
 Id: campbell-01
 Type: book
 Media: Ebook
-Title: Getting Real: 10 Truth Skills You Need to Live an Authentic Life
+Title: Getting Real
+Subtitle: 10 Truth Skills You Need to Live an Authentic Life
 Author: Campbell Ph.D., Susan
 Date: 2001
 Publisher: New World Library
@@ -2492,7 +2495,8 @@ Link: http://carbon3d.com/contact
 Id: card-01
 Type: book
 Media: Ebook
-Title: Elements of Fiction Writing - Characters & Viewpoint: Proven advice and timeless techniques for creating compelling characters by an award-winning author
+Title: Elements of Fiction Writing - Characters & Viewpoint
+Subtitle: Proven advice and timeless techniques for creating compelling characters by an award-winning author
 Author: Card, Orson Scott
 Date: 2010
 Publisher: F W Media, Inc.
@@ -2509,14 +2513,16 @@ Link: http://www.care2.com/causes/civil-rights/blog/saying-not-in-our-town-to-ha
 Id: carljungdepthpsychology-blogspot-01
 Type: article
 Media: link
-Title: Carl Jung Depth Psychology: Carl Jung on the Perils of Noise in Modern Times
+Title: Carl Jung Depth Psychology
+Subtitle: Carl Jung on the Perils of Noise in Modern Times
 Tags: culture, link
 Link: http://carljungdepthpsychology.blogspot.com/2013/02/carl-jung-on-perils-of-noise-in-modern.html
 
 Id: carlson-01
 Type: book
 Media: Paperback
-Title: Don't Sweat the Small Stuff . . . and It's All Small Stuff: Simple Ways to Keep the Little Things from Taking Over Your Life (Don't Sweat the Small Stuff Series)
+Title: Don't Sweat the Small Stuff . . . and It's All Small Stuff
+Subtitle: Simple Ways to Keep the Little Things from Taking Over Your Life
 Author: Carlson, Richard
 Date: 1997
 Publisher: Hachette Books
@@ -2574,14 +2580,15 @@ Annote: See notes for original source.
 Id: cassonline-01
 Type: article
 Media: link
-Title: California Alliance to Stop the Spray (CASS) - www.CASSonline.org
+Title: California Alliance to Stop the Spray (CASS)
 Tags: home, eco, link
 Link: http://cassonline.org/Stepitup.htm
 
 Id: castaneda-01
 Type: book
 Media: Paperback
-Title: Magical Passes: The Practical Wisdom of the Shamans of Ancient Mexico
+Title: Magical Passes
+Subtitle: The Practical Wisdom of the Shamans of Ancient Mexico
 Author: Castaneda, Carlos
 Date: 1998
 Publisher: Harper Perennial
@@ -2606,7 +2613,8 @@ Link: http://www.cbcity.com/
 Id: cccsebay-01
 Type: article
 Media: link
-Title: Consolidate Debt :: Consumer Credit Counseling Services :: CCCS of the East Bay :: Money Management International
+Title: Consolidate Debt
+Subtitle: Consumer Credit Counseling Services, CCCS of the East Bay, Money Management International
 Tags: home, debt, link
 Link: http://www.cccsebay.org/index.asp
 
@@ -2698,14 +2706,14 @@ Link: http://cgi.ebay.co.uk/CITRONIC-19-AX-3-2-3-WAY-ACTIVE-CROSSOVER-170-927_W0
 Id: cgi-ebay-02
 Type: article
 Media: link
-Title: Michelangelo's David Statue Sculpture Fine Art - eBay (item 120552358983 end time May-03-10 12:30:33 PDT)
+Title: Michelangelo's David Statue Sculpture Fine Art
 Tags: home, buy, link
 Link: http://cgi.ebay.com/Michelangelos-David-Statue-Sculpture-Fine-Art_W0QQitemZ120552358983QQcmdZViewItemQQptZArt_Sculpture?hash=item1c117b0447
 
 Id: cgi-ebay-03
 Type: article
 Media: link
-Title: Sodium Chlorite Water Purification &amp; Activator, 12Kgal - eBay (item 110382288085 end time Sep-23-09 10:13:01 PDT)
+Title: Sodium Chlorite Water Purification &amp; Activator, 12Kgal
 Tags: home, buy, link
 Link: http://cgi.ebay.com/Sodium-Chlorite-Water-Purification-%26-Activator,-12Kgal_W0QQitemZ110382288085QQcmdZViewItem
 
@@ -2740,7 +2748,7 @@ Link: http://chainweavers.com/
 Id: chan-01
 Type: media
 Media: Blu-ray
-Title: Supercop / Twin Dragons [Blu-ray]
+Title: Supercop / Twin Dragons
 Author: Chan, Jackie
 Date: 2011
 Publisher: Echo Bridge Home Entertainment
@@ -2757,7 +2765,8 @@ Link: http://www.chandra.harvard.edu/photo/2011/arp147/
 Id: chandra-harvard-02
 Type: article
 Media: link
-Title: The Chandra X-ray Observatory Center :: Gateway to the Universe of X-ray Astronomy!
+Title: The Chandra X-ray Observatory Center
+Subtitle: Gateway to the Universe of X-ray Astronomy!
 Tags: home, tofile, set2, link
 Link: http://www.chandra.harvard.edu/
 
@@ -2771,7 +2780,8 @@ Link: http://www.change.org/
 Id: chaosinmotion-01
 Type: article
 Media: link
-Title: Twelve Principles of Good Software Design: An Introduction. - Development Chaos Theory
+Title: Twelve Principles of Good Software Design
+Subtitle: An Introduction. - Development Chaos Theory
 Date: 2016-08-18
 Tags: tools, link
 Link: https://chaosinmotion.com/2016/08/18/twelve-principles-of-good-software-design-an-introduction/
@@ -2789,10 +2799,11 @@ AltLink: https://archive.vn/DCxqA
 Id: chapman-01
 Type: media
 Media: DVD
-Title: Monty Python and the Holy Grail (Special Edition)
+Title: Monty Python and the Holy Grail
 Author: Chapman, Graham
 Date: 2001
 Publisher: Sony Pictures Home Entertainment
+Edition: Sp.
 Tags: biblio
 ISBN: 0767853520
 ASIN: 8015336
@@ -2800,7 +2811,8 @@ ASIN: 8015336
 Id: chapman-02
 Type: media
 Media: video
-Title: Capitalism Is Destroying Us - The New Climate Report
+Title: Capitalism Is Destroying Us
+Subtitle: The New Climate Report
 Author: Chapman, JT
 Date: 2022-08-26
 Publisher: Second Thought
@@ -2810,21 +2822,23 @@ Link: https://www.youtube.com/watch?v=pvRtNGW9Ajk
 Id: charmed-01
 Type: article
 Media: link
-Title: Charmed Technology - Catalog Page
+Title: Charmed Technology
+Subtitle: Catalog Page
 Tags: home, make, wearable, link
 Link: http://www.charmed.com/catalog/
 
 Id: chez-01
 Type: article
 Media: link
-Title: W e l c o m e _ a n d _ e n j o y _ l o n g h a i r . f l y . t o ! ! ! ! ! !
+Title: Welcome_and_enjoy_longhair.fly.to!!!!!!
 Tags: home, tofile, set2, link
 Link: http://www.chez.com/alliage2000/longhair/index.htm
 
 Id: chia-01
 Type: book
 Media: Paperback
-Title: The Multi-Orgasmic Man: Sexual Secrets Every Man Should Know
+Title: The Multi-Orgasmic Man
+Subtitle: Sexual Secrets Every Man Should Know
 Author: Chia, Mantak
 Date: 1996
 Publisher: HarperCollins
@@ -2835,7 +2849,8 @@ ASIN: 129087
 Id: chiang-01
 Type: book
 Media: Ebook
-Title: Arrival (Stories of Your Life MTI)
+Title: Arrival
+Subtitle: Stories of Your Life MTI
 Author: Chiang, Ted
 Date: 2016
 Publisher: Vintage
@@ -2857,7 +2872,7 @@ Annote: See notes.
 Id: cho-01
 Type: media
 Media: Blu-ray
-Title: A Very Harold & Kumar Christmas (Blu-ray 3D / Blu-ray)
+Title: A Very Harold & Kumar Christmas (Blu-ray 3D)
 Author: Cho, John
 Date: 2012
 Publisher: WarnerBrothers
@@ -2867,14 +2882,16 @@ ASIN: 17592848
 Id: choisser-01
 Type: article
 Media: link
-Title: Digital/HDTV Television Channel List - SF Bay Area
+Title: Digital/HDTV Television Channel List
+Subtitle: SF Bay Area
 Tags: home, a/v, dtv, link, video, link
 Link: http://www.choisser.com/sfonair.html
 
 Id: chomsky-01
 Type: article
 Media: link
-Title: Noam Chomsky: The False Promise of ChatGPT
+Title: Noam Chomsky
+Subtitle: The False Promise of ChatGPT
 Author: Chomsky, Noam
 Date: 2023-03-08
 Tags: article, article
@@ -2891,7 +2908,8 @@ Link: https://chrisagnos.com/sponsor-a-story/
 Id: christian-01
 Type: book
 Media: Paperback
-Title: Creating a Life Together: Practical Tools to Grow Ecovillages and Intentional Communities
+Title: Creating a Life Together
+Subtitle: Practical Tools to Grow Ecovillages and Intentional Communities
 Author: Christian, Diana Leafe
 Date: 2003
 Publisher: New Society Publishers
@@ -3003,7 +3021,8 @@ Link: http://clean.cs.ru.nl/
 Id: cleansofts-01
 Type: article
 Media: link
-Title: Free XML Editor Software: Download XML Editor Programs
+Title: Free XML Editor Software
+Subtitle: Download XML Editor Programs
 Tags: toolsw, other, link
 Link: http://www.cleansofts.com/find/xml_editor.html
 
@@ -3055,14 +3074,15 @@ Link: http://www.closecombattraining.com/cctraining/start.php?gclid=CKKI9Zq7k6AC
 Id: cloudonaut-01
 Type: article
 Media: link
-Title: Eat your own dog food: how AWS leverages Serverless; cloudonaut
+Title: Eat your own dog food
+Subtitle: how AWS leverages Serverless; cloudonaut
 Tags: tools, link
 Link: https://cloudonaut.io/eat-your-own-dog-food-how-aws-leverages-serverless/
 
 Id: cloudonaut-02
 Type: article
 Media: link
-Title: CloudFormation vs. Terraform; cloudonaut
+Title: CloudFormation vs. Terraform
 Tags: tools, sre, link
 Link: https://cloudonaut.io/cloudformation-vs-terraform/
 
@@ -3105,21 +3125,24 @@ Link: http://coastsider.com/index.php/site/news/4759/
 Id: code-google-01
 Type: article
 Media: link
-Title: linux-whiteboard - Google Code
+Title: linux-whiteboard
+Subtitle: Google Code
 Tags: home, make, wii, link
 Link: http://code.google.com/p/linux-whiteboard/
 
 Id: code-google-02
 Type: article
 Media: link
-Title: Introduction to Parallel Programming and MapReduce - Google Code University - Google Code
+Title: Introduction to Parallel Programming and MapReduce
+Subtitle: Google Code University - Google Code
 Tags: toolsw, other, link
 Link: http://code.google.com/edu/parallel/mapreduce-tutorial.html
 
 Id: code-google-03
 Type: article
 Media: link
-Title: flyback - Google Code
+Title: flyback
+Subtitle: Google Code
 Tags: toolsw, other, link
 Link: http://code.google.com/p/flyback/
 
@@ -3210,7 +3233,8 @@ Link: http://www.commondreams.org/
 Id: community-01
 Type: book
 Media: Paperback
-Title: Communities Directory: Guide to Cooperative Living
+Title: Communities Directory
+Subtitle: Guide to Cooperative Living
 Author: Community, Fellowship for Intentional
 Date: 2016
 Publisher: Fellowship for Intentional Community
@@ -3230,7 +3254,8 @@ AltLink: https://archive.vn/oPacR
 Id: communityandconsensus-blogspot-01
 Type: article
 Media: link
-Title: Laird's Commentary on Community and Consensus: Group Works: Balance Structure and Flexibility
+Title: Laird's Commentary on Community and Consensus
+Subtitle: Group Works: Balance Structure and Flexibility
 Tags: culture, link
 Link: http://communityandconsensus.blogspot.com/2015/05/group-works-balance-structure-and.html
 
@@ -3244,7 +3269,8 @@ Link: http://www.communitymediacenter.net/
 Id: company-01
 Type: article
 Media: article
-Title: Maven: The Definitive Guide
+Title: Maven
+Subtitle: The Definitive Guide
 Author: Company, Sonatype
 Tags: biblio
 ISBN: 0596517335
@@ -3273,14 +3299,16 @@ Link: http://www.compusol.org/ecco/
 Id: comscire-01
 Type: article
 Media: link
-Title: ComScire - The Random Number Generator Company.
+Title: ComScire
+Subtitle: The Random Number Generator Company.
 Tags: home, make, crypt, link
 Link: http://comscire.com/Home/
 
 Id: conley-01
 Type: media
 Media: video
-Title: Chip Conley: Measuring what makes life worthwhile
+Title: Chip Conley
+Subtitle: Measuring what makes life worthwhile
 Tags: ted, biblio
 Link: http://www.ted.com/talks/chip_conley_measuring_what_makes_life_worthwhile.html
 Annote: See notes.
@@ -3298,7 +3326,7 @@ Link: https://www.youtube.com/watch?v=ro130m-f_yk
 Id: conover-02
 Type: media
 Media: video
-Title: Organizing for POWER with Jane McAlevey; FACTUALLY podcast
+Title: Organizing for POWER with Jane McAlevey
 Author: Conover, Adam
 Date: 2023-03-22
 Publisher: FACTUALLY podcast
@@ -3319,7 +3347,8 @@ Annote: See notes.
 Id: conrad-01
 Type: book
 Media: Ebook
-Title: Against Equality: Queer Revolution Not Mere Inclusion
+Title: Against Equality
+Subtitle: Queer Revolution Not Mere Inclusion
 Author: Conrad, Ryan
 Date: 2014
 Publisher: AK Press
@@ -3364,7 +3393,8 @@ Link: https://consordini.com/best-weighted-midi-keyboard-controllers/
 Id: constantine-01
 Type: book
 Media: Paperback
-Title: Wraeththu: The Enchantments of Flesh and Spirit, The Bewitchments of Love and Hate, The Fulfilments of Fate and Desire
+Title: Wraeththu
+Subtitle: The Enchantments of Flesh and Spirit, The Bewitchments of Love and Hate, The Fulfilments of Fate and Desire
 Author: Constantine, Storm
 Date: 1993
 Publisher: Orb Books
@@ -3455,7 +3485,8 @@ Link: http://www.cosmotography.com/index.html
 Id: cothwinobena-nfshost-01
 Type: article
 Media: link
-Title: Tortuga: JoiningCommunity
+Title: Tortuga
+Subtitle: JoiningCommunity
 Tags: home, cohousing, link
 Link: http://cothwinobena.nfshost.com/wiki/JoiningCommunity
 
@@ -3528,7 +3559,8 @@ Link: http://www.critters.org/turkeycity.html
 Id: cross-01
 Type: media
 Media: video
-Title: Three Myths of Behavior Change - What You Think You Know That You Don't: Jeni Cross at TEDxCSU
+Title: Three Myths of Behavior Change
+Subtitle: What You Think You Know That You Don't: Jeni Cross at TEDxCSU
 Tags: ted, biblio
 Link: http://www.youtube.com/watch?v=l5d8GW6GdR0
 
@@ -3634,17 +3666,11 @@ Title: South Bay - Santa Cruz Cuddle Party Registration Website
 Tags: culture, link
 Link: http://cuddle.theplayfulcircle.com/
 
-Id: cuddle-theplayfulcircle-02
-Type: article
-Media: link
-Title: YOU ARE CONFIRMED FOR THE APRIL 19TH CUDDLE PARTY
-Tags: misc, link
-Link: http://cuddle.theplayfulcircle.com/Uploads/Parties/648/ConfirmationLetter.htm
-
 Id: cult-escape-01
 Type: article
 Media: link
-Title: How Can You Tell If It Is A Dangerous Cult?: Characteristics of Cult Groups
+Title: How Can You Tell If It Is A Dangerous Cult?
+Subtitle: Characteristics of Cult Groups
 Date: 2022-11-04
 Tags: article, article
 Link: https://archive.vn/FvNii
@@ -3677,7 +3703,7 @@ Link: http://curl-loader.sourceforge.net/
 Id: current-01
 Type: article
 Media: link
-Title: Current // Home
+Title: Current / Home
 Tags: home, political, link
 Link: http://current.com/
 
@@ -3726,7 +3752,8 @@ Link: http://cynbe.us/~cynbe/
 Id: dabuttonfactory-01
 Type: article
 Media: link
-Title: Da Button Factory: website button maker
+Title: Da Button Factory
+Subtitle: website button maker
 Tags: tools, link
 Link: http://dabuttonfactory.com/
 
@@ -3757,7 +3784,8 @@ Link: https://dailypost.wordpress.com/2015/07/22/the-socratic-method/
 Id: damonpoole-blogspot-01
 Type: article
 Media: link
-Title: Agile Development Thoughts: Frequent Releases Improve Code Quality Faster
+Title: Agile Development Thoughts
+Subtitle: Frequent Releases Improve Code Quality Faster
 Tags: work, agileprogramming, link
 Link: http://damonpoole.blogspot.com/2007/12/frequent-releases-improve-code-quality.html
 
@@ -3814,9 +3842,10 @@ ASIN: 26862774
 Id: davian-01
 Type: article
 Media: link
-Title: 8 Reasons Most Gay Men Prefer Being Sexually Submissive - Beyond Intimacy
+Title: 8 Reasons Most Gay Men Prefer Being Sexually Submissive
 Author: Davian, Mark
 Date: 2017-03-24
+Publisher: Beyond Intimacy
 Tags: culture, link
 Link: http://beyondintimacy.com/reasons-gay-men-sexually-submissive/
 AltLink: https://web.archive.org/web/20170324050857/http://beyondintimacy.com/reasons-gay-men-sexually-submissive/
@@ -3824,7 +3853,8 @@ AltLink: https://web.archive.org/web/20170324050857/http://beyondintimacy.com/re
 Id: davies-01
 Type: book
 Media: Paperback
-Title: The Frozen Shoulder Workbook (A New Harbinger Self-Help Workbook)
+Title: The Frozen Shoulder Workbook
+Subtitle: A New Harbinger Self-Help Workbook
 Author: Davies, Clair
 Date: 2006
 Publisher: New Harbinger Publications
@@ -3835,7 +3865,8 @@ ASIN: 2367927
 Id: davies-02
 Type: book
 Media: Ebook
-Title: The trigger point therapy workbook : your self-treatment guide for pain relief
+Title: The trigger point therapy workbook
+Subtitle: your self-treatment guide for pain relief
 Author: Davies, Clair
 Date: 2013
 Publisher: New Harbinger Publications
@@ -3846,7 +3877,8 @@ ASIN: 310157
 Id: davies-03
 Type: book
 Media: Paperback
-Title: Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief (A New Harbinger Self-Help Workbook)
+Title: Trigger Point Therapy Workbook
+Subtitle: Your Self-Treatment Guide for Pain Relief
 Author: Davies, Clair
 Date: 2013
 Publisher: New Harbinger Publications
@@ -3857,7 +3889,8 @@ ASIN: 310157
 Id: davis-01
 Type: article
 Media: link
-Title: TikTok is Bad For Your Brain:: Constant Social Media Streaming Narrows Collective Attention Span, Adversely Affects Mental Health
+Title: TikTok is Bad For Your Brain
+Subtitle: Constant Social Media Streaming Narrows Collective Attention Span, Adversely Affects Mental Health
 Author: Davis, Margaret
 Date: 2021-10-25
 DateSeen: 2023-03-11
@@ -3990,7 +4023,8 @@ Link: http://www.deepx.com/resources/quickref/
 Id: defoe-01
 Type: book
 Media: Ebook
-Title: Journal of the Plague Year / Written by a Citizen Who Continued All the While in London, A
+Title: A Journal of the Plague Year
+Subtitle: Written by a Citizen Who Continued All the While in London
 Author: Defoe, Daniel
 Date: 2020
 Publisher: Publisher Unknown
@@ -4025,7 +4059,8 @@ ASIN: 2579731
 Id: demarco-02
 Type: book
 Media: Paperback
-Title: The Deadline: A Novel About Project Management
+Title: The Deadline
+Subtitle: A Novel About Project Management
 Author: DeMarco, Tom
 Date: 1997
 Publisher: Dorset House
@@ -4036,7 +4071,8 @@ ASIN: 16832
 Id: demarco-03
 Type: book
 Media: Paperback
-Title: Waltzing With Bears: Managing Risk on Software Projects
+Title: Waltzing With Bears
+Subtitle: Managing Risk on Software Projects
 Author: DeMarco, Tom
 Date: 2003
 Publisher: Dorset House
@@ -4047,7 +4083,8 @@ ASIN: 188256
 Id: demeo-01
 Type: book
 Media: Paperback
-Title: Heretic's Notebook: Emotions, Protocells, Ether-Drift and Cosmic Life-Energy, with New Research Supporting Wilhelm Reich
+Title: Heretic's Notebook
+Subtitle: Emotions, Protocells, Ether-Drift and Cosmic Life-Energy, with New Research Supporting Wilhelm Reich
 Author: DeMeo, James
 Date: 2011
 Publisher: Natural Energy Works
@@ -4058,7 +4095,8 @@ ASIN: 6765908
 Id: demeo-02
 Type: book
 Media: Paperback
-Title: The Orgone Accumulator Handbook: Wilhelm Reich's Life-Energy Discoveries and Healing Tools for the 21st Century, with Construction Plans
+Title: The Orgone Accumulator Handbook
+Subtitle: Wilhelm Reich's Life-Energy Discoveries and Healing Tools for the 21st Century, with Construction Plans
 Author: DeMeo, James
 Date: 2010
 Publisher: Natural Energy Works
@@ -4085,14 +4123,16 @@ Annote: See notes.
 Id: democracynow-02
 Type: article
 Media: link
-Title: Dr. Martin Luther King in 1967: We as a Nation Must Undergo a Radical Revolution of Values; Democracy Now!
+Title: Dr. Martin Luther King in 1967
+Subtitle: We as a Nation Must Undergo a Radical Revolution of Values; Democracy Now!
 Tags: culture, link
 Link: http://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
 
 Id: democracynow-03
 Type: article
 Media: link
-Title: Move Your Money: Project Urges People to Transfer Money Out of Nation's Largest Banks Into Local Community Banks
+Title: Move Your Money
+Subtitle: Project Urges People to Transfer Money Out of Nation's Largest Banks Into Local Community Banks
 Date: 2010-01-04
 Tags: home, debt, link
 Link: http://www.democracynow.org/2010/1/4/move_your_money_project_urges_people
@@ -4254,7 +4294,8 @@ Link: https://www.3dhubs.com/
 Id: diamond-01
 Type: book
 Media: Paperback
-Title: Collapse: How Societies Choose to Fail or Succeed
+Title: Collapse
+Subtitle: How Societies Choose to Fail or Succeed
 Author: Diamond, Jared
 Date: 2005
 Publisher: Penguin Books
@@ -4293,7 +4334,8 @@ Link: https://digitalelf.net/2013/08/timeout-in-a-shell-script/
 Id: digitalfilmfarmworkshops-01
 Type: media
 Media: video
-Title: Nine Steps to Organize a Video Edit - Documentary &amp; Fiction Film
+Title: Nine Steps to Organize a Video Edit
+Subtitle: Documentary &amp; Fiction Film
 Tags: video, link
 Link: http://digitalfilmfarmworkshops.com/organizing-video-documentary-film-editing/
 
@@ -4321,7 +4363,8 @@ Link: http://directory.google.com/Top/Recreation/Aviation/Model_Aviation/Radio_C
 Id: directory-ic-01
 Type: article
 Media: link
-Title: Cohousing Directory - List of Cohousing Communities
+Title: Cohousing Directory
+Subtitle: List of Cohousing Communities
 Tags: home, cohousing, link
 Link: http://directory.ic.org/records/cohousing.php
 
@@ -4356,7 +4399,7 @@ Link: http://www.discountpc.net/Shop/Control/fp/sfv/31991/scat/88073/order/asc/o
 Id: discoworld-dk-01
 Type: article
 Media: link
-Title: DiscoWorld.dk; Citronic 170.927 ; AX-3 2/3-WAY X-OVER Professionel Sound Â» Active Crossovers
+Title: DiscoWorld.dk; Citronic 170.927; AX-3 2/3-WAY X-OVER Professionel Sound Â» Active Crossovers
 Tags: home, buy, link
 Link: http://www.discoworld.dk/shop/product_info.php?manufacturers_id=3&amp;products_id=30759&amp;language=en
 
@@ -4472,7 +4515,8 @@ ASIN: 109
 Id: doctorow-04
 Type: book
 Media: Ebook
-Title: The Great Big Beautiful Tomorrow (Outspoken Authors Book 8)
+Title: The Great Big Beautiful Tomorrow
+Subtitle: Outspoken Authors Book 8
 Author: Doctorow, Cory
 Date: 2011
 Publisher: PM Press
@@ -4512,7 +4556,8 @@ ASIN: 22788475
 Id: doctorow-08
 Type: book
 Media: Ebook
-Title: The Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations
+Title: The Rapture of the Nerds
+Subtitle: A tale of the singularity, posthumanity, and awkward social situations
 Author: Doctorow, Cory
 Date: 2012
 Publisher: Tom Doherty Associates
@@ -4537,7 +4582,8 @@ Link: https://www.amazon.com/dp/B082RS7N3X
 Id: doctorow-11
 Type: article
 Media: link
-Title: The Dawn of Everything: Pluralistic: 08 Mar 2022
+Title: The Dawn of Everything
+Subtitle: Pluralistic: 08 Mar 2022
 Author: Doctorow, Cory
 Date: 2022-02-08
 DateSeen: 2022-11-22
@@ -4612,7 +4658,8 @@ Link: http://www.wimp.com/dofaster/
 Id: doit-sourceforge-01
 Type: article
 Media: link
-Title: Doit: Simple Web Application Testing
+Title: Doit
+Subtitle: Simple Web Application Testing
 Tags: toolsw, qa, evaltool, link
 Link: http://doit.sourceforge.net/
 
@@ -4661,7 +4708,8 @@ Link: http://www.wimp.com/doublependulum/
 Id: douglas-01
 Type: book
 Media: Paperback
-Title: Sexual Secrets: The Alchemy of Ecstasy
+Title: Sexual Secrets
+Subtitle: The Alchemy of Ecstasy
 Author: Douglas, Nik
 Date: 1989
 Publisher: Inner Traditions
@@ -4672,7 +4720,8 @@ ASIN: 482028
 Id: downloads-zdnet-01
 Type: article
 Media: link
-Title: PingFu UDP Tunnel B5700 - Reviews and free Firewall Software downloads at ZDNet.co.uk
+Title: PingFu UDP Tunnel B5700
+Subtitle: Reviews and free Firewall Software downloads at ZDNet.co.uk
 Tags: toolsw, other, link
 Link: http://downloads.zdnet.co.uk/0,1000000375,39390426s,00.htm
 
@@ -4688,7 +4737,8 @@ AltLink: https://tinyurl.com/fe53apv6 https://web.archive.org/web/20231023213446
 Id: dprintingpricecheck-01
 Type: article
 Media: link
-Title: 3D Printing Price Check - compare 3D printing prices for FDM, SLS, DMLS, Polyjet, metals, and more from eight vendors (and counting)
+Title: 3D Printing Price Check
+Subtitle: compare 3D printing prices for FDM, SLS, DMLS, Polyjet, metals, and more from eight vendors (and counting)
 Tags: tools, link
 Link: http://3dprintingpricecheck.com/
 
@@ -4702,7 +4752,8 @@ Link: https://dquinton.github.io/debian-install/netinstall/kdenlive.html
 Id: drake-01
 Type: book
 Media: Ebook
-Title: Downshifting: How to Work Less and Enjoy Life More
+Title: Downshifting
+Subtitle: How to Work Less and Enjoy Life More
 Author: Drake, John D.
 Date: 2000
 Publisher: Berrett-Koehler Publishers
@@ -4733,24 +4784,11 @@ Link: http://www.dreamviews.com/community/showthread.php?t=78719
 Id: dregger-01
 Type: book
 Media: Hardcover
-Title: Tamera: A Model for the Future
+Title: Tamera
+Subtitle: A Model for the Future
 Author: Dregger, Leila
 Tags: book, book, book
 Link: http://www.amazon.com/dp/3927266272/
-
-Id: drive-google-01
-Type: article
-Media: link
-Title: New Way - Google Drive
-Tags: culture, link
-Link: https://drive.google.com/drive/folders/0B4sM3LBrqg2PbE9HMFk5NmNXRHM
-
-Id: drive-google-02
-Type: article
-Media: link
-Title: Training - Google Drive
-Tags: tools, gas, link
-Link: https://drive.google.com/drive/u/0/folders/1Xs5z8MJMW5xsyJXDbA1M5XDqCtTJOd4T
 
 Id: dronereviewsandnews-01
 Type: media
@@ -4823,7 +4861,8 @@ AltLink: https://archive.org/details/ReginaDugan_2012
 Id: duhm-01
 Type: article
 Media: link
-Title: Why love and sexuality have a key role in the research work of Tamera: Excerpt of the Project Declaration Monte Cerro
+Title: Why love and sexuality have a key role in the research work of Tamera
+Subtitle: Excerpt of the Project Declaration Monte Cerro
 Author: Duhm, Dieter
 Tags: article, article, article
 Link: http://www.tamera.org/articles/the-big-issue-of-love-sexuality-and-partnership/
@@ -4847,7 +4886,8 @@ Link: http://www.tamera.org/fileadmin/PDF/Heilung_der_Liebe_en_mail.pdf
 Id: duhm-04
 Type: book
 Media: Paperback
-Title: And They Knew Each Other: The End of Sexual Violence
+Title: And They Knew Each Other
+Subtitle: The End of Sexual Violence
 Author: Duhm, Dieter
 Date: 2019
 Publisher: Verlag Meiga
@@ -4869,7 +4909,8 @@ ASIN: 11302832
 Id: duhm-06
 Type: book
 Media: Ebook
-Title: Eros Unredeemed: The World Power of Sexuality
+Title: Eros Unredeemed
+Subtitle: The World Power of Sexuality
 Author: Duhm, Dieter
 Date: 2014
 Publisher: Verlag Meiga
@@ -4879,7 +4920,8 @@ ASIN: 11302832
 Id: duhm-07
 Type: book
 Media: Ebook
-Title: Sacred Matrix: From the Matrix of Violence to the Matrix of Life, The Foundation for a New Civilization
+Title: Sacred Matrix
+Subtitle: From the Matrix of Violence to the Matrix of Life, The Foundation for a New Civilization
 Author: Duhm, Dieter
 Date: 2014
 Publisher: Verlag Meiga
@@ -4921,7 +4963,8 @@ ASIN: 26862720
 Id: duhm-11
 Type: book
 Media: Ebook
-Title: Eros Unredeemed: The World Power of Sexuality
+Title: Eros Unredeemed
+Subtitle: The World Power of Sexuality
 Author: Duhm, Dieter
 Date: 2014
 Publisher: Verlag Meiga
@@ -4940,7 +4983,8 @@ Link: http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/
 Id: duhm-13
 Type: book
 Media: book
-Title: Towards a New Culture: From Refusal to Rcreation, Outline of an Ecological and Humane Alternative
+Title: Towards a New Culture
+Subtite: From Refusal to Rcreation, Outline of an Ecological and Humane Alternative
 Author: Duhm, Dieter
 Tags: book, book, book
 Link: http://www.amazon.com/Towards-New-Culture-Dieter-Duhm/dp/392726637X/
@@ -4955,7 +4999,8 @@ Link: http://www.dulinsbooks.com/
 Id: dumbill-01
 Type: article
 Media: article
-Title: Mono: A Developer's Notebook
+Title: Mono
+Subtitle: A Developer's Notebook
 Author: Dumbill, Edd
 Tags: biblio
 ISBN: 0596007922
@@ -5096,7 +5141,8 @@ Link: http://www.edflix.org/gatto.htm
 Id: edgar-01
 Type: book
 Media: Ebook
-Title: Grounding Therapy: Nature's Most POWERFUL Natural Health Secret Rediscovered
+Title: Grounding Therapy
+Subtitle: Nature's Most POWERFUL Natural Health Secret Rediscovered
 Author: Edgar, James
 Date: 2014
 Publisher: Wyeland Publishing
@@ -5148,7 +5194,8 @@ Link: http://www.ehow.com/how_2060473_care-coffee-plant.html
 Id: ehrenreich-01
 Type: book
 Media: Paperback
-Title: Nickel and Dimed: On (Not) Getting By in America
+Title: Nickel and Dimed
+Subtitle: On (Not) Getting By in America
 Author: Ehrenreich, Barbara
 Date: 2002
 Publisher: Holt Paperbacks
@@ -5159,7 +5206,8 @@ ASIN: 15967
 Id: eisenstein-01
 Type: book
 Media: Ebook
-Title: The Ascent of Humanity: Civilization and the Human Sense of Self
+Title: The Ascent of Humanity
+Subtitle: Civilization and the Human Sense of Self
 Author: Eisenstein, Charles
 Date: 2013
 Publisher: North Atlantic Books
@@ -5185,7 +5233,7 @@ Link: http://charleseisenstein.net/project/the-next-level-podcast-5-2016/
 Id: eisenstein-04
 Type: article
 Media: link
-Title: Rituals for Lover Earth; Charles Eisenstein
+Title: Rituals for Lover Earth
 Author: Eisenstein, Charles
 Tags: culture, link
 Link: http://charleseisenstein.net/rituals-for-lover-earth/
@@ -5193,7 +5241,7 @@ Link: http://charleseisenstein.net/rituals-for-lover-earth/
 Id: eisenstein-05
 Type: article
 Media: link
-Title: The EcoSexual Awakening; Charles Eisenstein
+Title: The EcoSexual Awakening
 Author: Eisenstein, Charles
 Tags: culture, link
 Link: http://charleseisenstein.net/the-ecosexual-awakening/
@@ -5201,7 +5249,7 @@ Link: http://charleseisenstein.net/the-ecosexual-awakening/
 Id: eisenstein-06
 Type: article
 Media: link
-Title: The Polarization Trap; Charles Eisenstein
+Title: The Polarization Trap
 Author: Eisenstein, Charles
 Tags: culture, link
 Link: http://charleseisenstein.org/essays/the-polarization-trap/?fbclid=IwAR3F-5pNeqnrnkcYea_dGGHpK2b-WcGtGE3nOK2Tzjrl2y9NvHf34Ld6ySA
@@ -5209,7 +5257,7 @@ Link: http://charleseisenstein.org/essays/the-polarization-trap/?fbclid=IwAR3F-5
 Id: eisenstein-07
 Type: article
 Media: link
-Title: Unlearning: For Change Agents; Charles Eisenstein
+Title: Unlearning: For Change Agents
 Author: Eisenstein, Charles
 Tags: culture, link
 Link: https://charleseisenstein.org/courses/unlearning-for-change-agents/
@@ -5217,7 +5265,7 @@ Link: https://charleseisenstein.org/courses/unlearning-for-change-agents/
 Id: eisenstein-08
 Type: article
 Media: link
-Title: The Coronation; Charles Eisenstein
+Title: The Coronation
 Author: Eisenstein, Charles
 Tags: culture, link
 Link: https://charleseisenstein.org/essays/the-coronation/?_page=2
@@ -5225,7 +5273,7 @@ Link: https://charleseisenstein.org/essays/the-coronation/?_page=2
 Id: eisenstein-09
 Type: article
 Media: link
-Title: The Polarization Trap; Charles Eisenstein
+Title: The Polarization Trap
 Author: Eisenstein, Charles
 Tags: essay, link
 Link: https://charleseisenstein.org/essays/the-polarization-trap/
@@ -5233,7 +5281,8 @@ Link: https://charleseisenstein.org/essays/the-polarization-trap/
 Id: eisenstein-10
 Type: book
 Media: Ebook
-Title: The More Beautiful World Our Hearts Know Is Possible (Sacred Activism Book 2)
+Title: The More Beautiful World Our Hearts Know Is Possible
+Subtitle: Sacred Activism Book 2
 Author: Eisenstein, Charles
 Date: 2013-11-05,
 Publisher: North Atlantic Books
@@ -5244,7 +5293,8 @@ Link: https://www.amazon.com/Beautiful-Hearts-Possible-Sacred-Activism-ebook/dp/
 Id: eisenstein-11
 Type: book
 Media: Ebook
-Title: Climate: A New Story
+Title: Climate
+Subtitle: A New Story
 Author: Eisenstein, Charles
 Date: 2018-09-18
 Publisher: North Atlantic Books
@@ -5255,7 +5305,8 @@ Link: https://www.amazon.com/Climate-New-Story-Charles-Eisenstein-ebook/dp/B075H
 Id: eisenstein-12
 Type: book
 Media: Ebook
-Title: Sacred Economics: Money, Gift, and Society in the Age of Transition
+Title: Sacred Economics
+Subtitle: Money, Gift, and Society in the Age of Transition
 Author: Eisenstein, Charles
 Date: 2011-07-12
 Publisher: EVOLVER EDITIONS
@@ -5294,7 +5345,8 @@ Link: http://www.youtube.com/watch?v=ldeqY6O0LV0
 Id: eisler-01
 Type: book
 Media: Ebook
-Title: The Chalice and the Blade: Our History, Our Future---Updated With a New Epilogue
+Title: The Chalice and the Blade
+Subtitle: Our History, Our Future---Updated With a New Epilogue
 Author: Eisler, Riane
 Date: 2011-11-22
 Publisher: HarperOne
@@ -5305,7 +5357,8 @@ Link: https://www.amazon.com/Chalice-Blade-History-Future-Updated-Epilogue-ebook
 Id: eisler-02
 Type: book
 Media: Hardcover
-Title: Sacred Pleasure: Sex, Myth, and the Politics of the Body
+Title: Sacred Pleasure
+Subtitle: Sex, Myth, and the Politics of the Body
 Author: Eisler, Riane
 Date: 1995
 Publisher: Harpercollins
@@ -5316,7 +5369,8 @@ ASIN: 76901
 Id: eisler-03
 Type: book
 Media: Hardcover
-Title: Sacred Pleasure: Sex, Myth, and the Politics of the Body-
+Title: Sacred Pleasure
+Subtitle: Sex, Myth, and the Politics of the Body-
 Author: Eisler, Riane
 Date: 2012
 Publisher: Harpercollins
@@ -5335,7 +5389,8 @@ Link: http://www.amazon.com/Chalice-Blade-Our-History-Future/dp/0062502891/
 Id: eisler-05
 Type: book
 Media: Ebook
-Title: Sacred Pleasures: Sex, Myth, and the Politics of the BodNew Paths to Power and Love
+Title: Sacred Pleasures
+Subtitle: Sex, Myth, and the Politics of the BodNew Paths to Power and Love
 Author: Eisler, Riane
 Date: 2012-01-03
 Publisher: HarperOne
@@ -5453,7 +5508,7 @@ ASIN: 318000
 Id: eliasacastillo-01
 Type: site
 Media: site
-Title: a cross of thorns
+Title: A Cross of Thorns
 Tags: culture, link
 Link: https://eliasacastillo.net/
 
@@ -5467,7 +5522,8 @@ Link: http://ellenbrown.com/books/the-public-bank-solution/
 Id: embeddeddatasystems-01
 Type: article
 Media: link
-Title: HA7Net - Ethernet 1-Wire Host Adapter: Embedded Data Systems
+Title: HA7Net - Ethernet 1-Wire Host Adapter
+Subtitle: Embedded Data Systems
 Tags: home, make, wearable, link
 Link: http://embeddeddatasystems.com/page/EDS/PROD/HA/HA7Net?gclid=CKvVpqqN0IgCFSi4YAodmS0nPA
 
