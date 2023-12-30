@@ -8260,7 +8260,7 @@ Author: Jonathan Haidt
 Date: 2012-03-13
 Link: https://www.amazon.com/dp/B0052FF7YM/
 
-Id: haidt-???
+Id: haidt-04
 Type: media
 Media: video
 Title: Jonathan Haidt: The Case Against Social Media; Lex Fridman Podcast #291
