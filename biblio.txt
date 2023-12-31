@@ -2653,6 +2653,13 @@ Title: Celtx - Free Scriptwriting &amp; All-In-One Production Studios
 Tags: video, link
 Link: https://www.celtx.com/index.html
 
+Id: census-01
+Title: Census Bureau Releases New Estimates on America’s Families and Living Arrangements
+Date: 2022-11-17
+Publisher: Census Bureau
+Link: https://www.census.gov/newsroom/press-releases/2022/americas-families-and-living-arrangements.html
+AltLink: http://tinyurl.com/2r9yv3t9 https://web.archive.org/web/20221117153446/https://www.census.gov/newsroom/press-releases/2022/americas-families-and-living-arrangements.html
+
 Id: centerforpartnership-01
 Type: site
 Media: org
@@ -3262,13 +3269,15 @@ Tags: article, article
 Link: https://communitywiki.org/wiki/DoOcracy
 AltLink: https://archive.vn/oPacR
 
-Id: communityandconsensus-blogspot-01
+Id: communityandconsensus-01
 Type: article
 Media: link
 Title: Laird's Commentary on Community and Consensus
 Subtitle: Group Works: Balance Structure and Flexibility
+Date: 2008-05-04
 Tags: culture, link
 Link: http://communityandconsensus.blogspot.com/2015/05/group-works-balance-structure-and.html
+AltLink: http://tinyurl.com/y2wt2f6y https://web.archive.org/web/20231122114420/https://communityandconsensus.blogspot.com/2008/05/navigating-swamp-of-plenary-discussion.html
 
 Id: communitymediacenter-01
 Type: article
@@ -10982,6 +10991,15 @@ Title: Let Him Stay
 Tags: home, tofile, set1, link
 Link: http://www.lethimstay.com/
 
+Id: levenson-91
+Type: article
+Media: link
+Title: Washington Police Officer Charged With Murdering Man Outside Grocery Store
+Author: Levenson, Michael
+Date: 2020-08-24
+Link: https://www.nytimes.com/2020/08/20/us/jeffrey-nelson-auburn-washington-police-murder-charge.html
+AltLink: http://tinyurl.com/adnvh3rh https://web.archive.org/web/20200928080404/https://www.nytimes.com/2020/08/20/us/jeffrey-nelson-auburn-washington-police-murder-charge.html
+
 Id: levine-01
 Type: article
 Media: article
@@ -12029,6 +12047,13 @@ Title: License Songs for Your YouTube Videos at $1.99 Each
 Tags: video, link
 Link: http://mashable.com/2010/06/28/rumblefish-friendly-music/#cval3zqyikql
 
+Id: masterclass-01
+Title: Holacracy: Pros and Cons of the Organizational Structure
+Author: MasterClass
+Date: 2023-01-31
+Link: https://www.masterclass.com/articles/holacracy
+AltLink: http://tinyurl.com/4weftw3t https://web.archive.org/web/20231110181215/https://www.masterclass.com/articles/holacracy
+
 Id: math-rejecta-01
 Type: site
 Media: site
@@ -12053,13 +12078,6 @@ Publisher: 20th Century Fox
 Edition: Sp.
 Tags: biblio
 ASIN: 8208756
-
-Id: matthewjmiller-01
-Type: article
-Media: link
-Title: Matthew J. Miller's HOWTOs: Backing Up Gmail with Thunderbird Using IMAP
-Tags: toolsw, appmail, gmail, link
-Link: http://www.matthewjmiller.net/howtos/backing-up-gmail-with-thunderbird-imap/
 
 Id: maughan-01
 Type: book
@@ -12482,6 +12500,16 @@ Author: Meyer, Pamela
 Tags: video, old:youtube-029
 Link: http://www.youtube.com/watch?v=P_6vDLq64gE
 
+Id: meyer-stoll-01
+Type: article
+Media: link
+Title: ZEGG Forum – a ritualized form of communication for larger groups
+Date: 2013-08-22
+Author Meyer-Stoll, Ina
+Authors: & Achim Ecker
+Link: https://geo.coop/story/zegg-forum-%E2%80%93-ritualized-form-communication-larger-groups
+AltLink: http://tinyurl.com/yc6ew4be https://web.archive.org/web/20230923013653/https://geo.coop/story/zegg-forum-%e2%80%93-ritualized-form-communication-larger-groups
+
 Id: meyers-01
 Type: article
 Media: link
@@ -12595,6 +12623,23 @@ Date: 2012-02-21
 Publisher: Beacon Press; 2nd edition (February 21, 2012)
 ASIN: B006Q1KBZ6
 Link: https://www.amazon.com/Toward-Psychology-Women-Baker-Miller-ebook/dp/B006Q1KBZ6
+
+Id: miller-04
+Type: article
+Media: link
+Title: Matthew J. Miller's HOWTOs: Backing Up Gmail with Thunderbird Using IMAP
+Author: Miller, Matthew J
+Tags: toolsw, appmail, gmail, link, old:matthewjmiller-01
+Link: http://www.matthewjmiller.net/howtos/backing-up-gmail-with-thunderbird-imap/
+
+Id: miller-05
+Type: article
+Media: link
+Title: George A. Miller
+Subtitle: American psychologist
+Publisher: Britannica
+Link: https://www.britannica.com/biography/George-A-Miller
+AltLink:
 
 Id: mills-01
 Type: book
@@ -13667,25 +13712,13 @@ Tags: current, set2018, link
 Link: https://newwaygroup.wordpress.com/2018/04/13/talkoo-a-work-project-for-everyones-benefit/
 
 Id: newwaygroup-wordpress-03
-Type: site
-Media: site
-Title: Edit Project â¹ New Way Group - WordPress
-Tags: current, set2018, link
-Link: https://newwaygroup.wordpress.com/wp-admin/post.php?post=488&amp;action=edit
-
-Id: newwaygroup-wordpress-04
 Type: article
 Media: link
 Title: Our Vision for A New Way of Living - New Way Group
+Date: 2017-04-24
 Tags: current, set2019, link
 Link: https://newwaygroup.wordpress.com/2017/03/24/vision-for-a-new-way-of-living/
-
-Id: newwaygroup-wordpress-05
-Type: site
-Media: site
-Title: Edit Post New Way Group - WordPress
-Tags: current, set2019, link
-Link: https://newwaygroup.wordpress.com/wp-admin/post.php?post=616&amp;action=edit
+AltLink: http://tinyurl.com/yj6cffaw https://web.archive.org/web/20231231221850/https://newwaygroup.wordpress.com/2017/03/24/vision-for-a-new-way-of-living/
 
 Id: nextag-01
 Type: article
@@ -14941,6 +14974,15 @@ Media: site
 Title: Peninsula Youth Orchestra
 Tags: folder, home, link
 Link: http://www.peninsulayouthorchestra.org/pyohome.htm
+
+Id: percival-01
+Type: article
+Media: link
+Title: Holacracy: A reinvisioned management style
+Author: Percival, Dan
+Date: 2017-06-20
+Link: https://medium.com/@dperciv1/holacracy-a-reinvisioned-management-style-b3c785064862
+AltLink: http://tinyurl.com/7ynzen5m https://web.archive.org/web/20231231223930/https://medium.com/@dperciv1/holacracy-a-reinvisioned-management-style-b3c785064862
 
 Id: perel-01
 Type: book
@@ -22248,6 +22290,30 @@ Title: Digital dark age
 Date: 2023-12-04
 Link: https://en.wikipedia.org/wiki/Digital_dark_age
 AltLink: https://tinyurl.com/aw3fravs https://web.archive.org/web/20231204221130/https://en.wikipedia.org/wiki/Digital_dark_age
+
+Id: wikipedia-58
+Type: article
+Media: link
+Title: Milgram experiment
+Date: 2023-12-31
+Link: https://en.wikipedia.org/wiki/Milgram_experiment
+AltLink: http://tinyurl.com/tyw89p4p https://web.archive.org/web/20231231222905/https://en.wikipedia.org/wiki/Milgram_experiment
+
+Id: wikipedia-59
+Type: article
+Media: link
+Title: The Third Wave (experiment)
+Date: 2023-12-31
+Link: https://en.wikipedia.org/wiki/The_Third_Wave_(experiment)
+AltLink: http://tinyurl.com/bdfvpnej https://web.archive.org/web/20231231223233/https://en.wikipedia.org/wiki/The_Third_Wave_%28experiment%29
+
+Id: wikipedia-60
+Type: article
+Media: link
+Title: Sociocracy
+Date: 2023-12-31
+Link: https://en.wikipedia.org/wiki/Sociocracy
+AltLink: http://tinyurl.com/yvwtz3dj https://web.archive.org/web/20231231223624/https://en.wikipedia.org/wiki/Sociocracy
 
 Id: wilburhotsprings-01
 Type: site
