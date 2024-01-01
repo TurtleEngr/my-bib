@@ -12639,7 +12639,7 @@ Title: George A. Miller
 Subtitle: American psychologist
 Publisher: Britannica
 Link: https://www.britannica.com/biography/George-A-Miller
-AltLink:
+AltLink: http://tinyurl.com/5x9k4y8y https://web.archive.org/web/20230925141142/https://www.britannica.com/biography/George-A-Miller
 
 Id: mills-01
 Type: book
