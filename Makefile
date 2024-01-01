@@ -19,13 +19,15 @@ save : clean todo.html README.html
 	-git ci -am Updated
 	git push origin develop
 
-publish release : README.html save
+publish release : save
 	git co main
 	git pull origin main
 	git merge develop
 	git push origin main
 	git co develop
-	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
+
+# README.html 
+#	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
 
 # -------------
 # Add and maintain the bibliography in a Libreoffice document
