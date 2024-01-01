@@ -1,3 +1,4 @@
+
 * bib todo
 ** AltLink: Replace archive.today links with archive.org links
 *** Job Request
@@ -219,10 +220,11 @@ Annote: Added web.archive.org to AltLink
 #+END_EXPORT
 
 ** Fix
-- Restore the Publisher: field
-- Add Place, Edition, and Subtitle
+- Reindex opednews items to be under Author's name.
+- Add Place, Edition, and Subtitle - in progress?
 - Fix Authors to be "& First Last" or "First Last, First Last, & First Last"
-- Fix up the generation of the bib table.
+
+- Fix up the generation of the bib table. (?)
 - Fix the formatting, see etc/bib-template.xml
   - [Id][Author][Date][Title][Publisher][ISBN][Link]
 ** Add tags [TBD]
@@ -326,3 +328,4 @@ Annote: Added web.archive.org to AltLink
 
 - Format: Media tag
 ** Done
+- Restore the Publisher: field - done

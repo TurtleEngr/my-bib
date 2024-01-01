@@ -14309,6 +14309,7 @@ Id: opednews-01
 Type: article
 Media: link
 Title: America's War on Food Not Bombs
+Publisher: Oped News
 Tags: article, article
 Link: http://www.opednews.com/articles/America-s-War-on-Food-Not-by-Stephen-Lendman-101009-275.html
 Annote: See notes.
@@ -14317,6 +14318,7 @@ Id: opednews-02
 Type: article
 Media: link
 Title: Are Corporations Inherently Corrupt?
+Publisher: Oped News
 Tags: article, article
 Link: http://www.opednews.com/articles/Are-Corporations-Inherentl-by-Jim-Fetzer-100124-129.html
 
@@ -14324,6 +14326,7 @@ Id: opednews-03
 Type: article
 Media: link
 Title: Let's all welcome CorPersons to the human world!
+Publisher: Oped News
 Tags: article, article
 Link: http://www.opednews.com/articles/Let-s-all-welcome-CorPerso-by-Chaz-Valenza-100125-561.html
 
@@ -14331,12 +14334,13 @@ Id: opednews-04
 Type: article
 Media: link
 Title: OpEdNews - Article: Homophobia, Religion, and The Collapse of Industrial Civilization
+Publisher: Oped News
 Tags: home, aom, link
 Link: http://www.opednews.com/articles/Homophobia-Religion-and-by-Carolyn-Baker-101003-501.html
 
 Id: opednews-05
-Type: article
-Media: link
+Type: site
+Media: org
 Title: OpEdNews.Com Progressive, Tough Liberal News and Opinion
 Tags: home, change, link
 Link: http://www.opednews.com/
@@ -14345,6 +14349,7 @@ Id: opednews-06
 Type: article
 Media: link
 Title: OpEdNews - Article: Creating a Restorative City
+Publisher: Oped News
 Tags: home, change, link
 Link: http://www.opednews.com/articles/Creating-a-Restorative-Cit-by-Sylvia-Clute-101008-398.html
 
@@ -14352,6 +14357,7 @@ Id: opednews-07
 Type: article
 Media: link
 Title: OpEdNews - Article: Consumers replaced with Creatives
+Publisher: Oped News
 Tags: home, change, local, link
 Link: http://www.opednews.com/articles/Consumers-replaced-with-Cr-by-Ann-Kramer-100714-330.html
 
@@ -14359,6 +14365,7 @@ Id: opednews-08
 Type: article
 Media: link
 Title: OpEdNews - Article: 'Soul Of A Citizen': Village Politics -- Rebuilding Engaged Communities
+Publisher: Oped News
 Tags: home, change, local, link
 Link: http://www.opednews.com/articles/Soul-Of-A-Citizen--Villa-by-Paul-Rogat-Loeb-100715-426.html
 
@@ -14366,6 +14373,7 @@ Id: opednews-09
 Type: article
 Media: link
 Title: OpEdNews - Article: Worker Cooperatives--a genuine Third Way
+Publisher: Oped News
 Tags: home, change, local, link
 Link: http://www.opednews.com/articles/Worker-Cooperatives-a-gen-by-Brian-Cooney-100714-146.html
 
@@ -14373,6 +14381,7 @@ Id: opednews-10
 Type: article
 Media: link
 Title: OpEdNews - Article: Screw you Mr. Potter... And BoA Too!
+Publisher: Oped News
 Tags: home, debt, link
 Link: http://www.opednews.com/articles/Screw-you-Mr-Potter-by-Michael-Chavers-100106-652.html
 
@@ -14380,6 +14389,7 @@ Id: opednews-11
 Type: article
 Media: link
 Title: OpEdNews Â» Monsanto bills being rushed through Congress, set to destroy organic farming.
+Publisher: Oped News
 Tags: home, political, link
 Link: http://www.opednews.com/articles/Monsanto-bills-being-rushe-by-Linn-Cohen-Cole-090217-758.html
 
@@ -14387,6 +14397,7 @@ Id: opednews-12
 Type: article
 Media: link
 Title: OpEdNews - Article: New target of rights erosions: U.S. citizens
+Publisher: Oped News
 Tags: home, political, link
 Link: http://www.opednews.com/articles/New-target-of-rights-erosi-by-Glenn-Greenwald-100515-911.html
 
@@ -16542,6 +16553,16 @@ Publisher: Lesli Richardson
 Tags: biblio
 ASIN: 22689095
 
+Id: richter-01
+Type: article
+Media: link
+Title: What is the ZEGG Forum?
+Author: Richter, Dolores
+Date: 2016-07-27
+Publisher: Network For a New Culture
+Link: http://www.nfnc.org/info-old/document_library/what_is_the_zegg_forum/
+AltLink: http://tinyurl.com/2y2n6utr https://web.archive.org/web/20160727020552/http://www.nfnc.org/info-old/document_library/what_is_the_zegg_forum/
+
 Id: rickysays-01
 Type: article
 Media: link
@@ -18114,8 +18135,9 @@ Media: Ebook
 Title: The Complete Patriots Guide to Oligarchical Collectivism: Its Theory and Practive
 Author: Smith, Ethan Indigo
 Date: 2009-07-04
-Tags: d, important
-Link: http://www.amazon.com/Complete-Patriots-Guide-Oligarchical-Collectivism/dp/161577484X
+Publisher: Progressive Pr
+Tags: important
+Link: http://www.amazon.com/dp/161577484X
 
 Id: smith-05
 Type: article
@@ -18123,8 +18145,10 @@ Media: link
 Title: English and Politics
 Author: Smith, Ethan Indigo
 Date: 2010-12-18
-Tags: e, important
+Publisher: Oped News
+Tags: important
 Link: http://www.opednews.com/articles/English-and-politics-by-Ethan-Indi-101217-819.html
+AltLink: http://tinyurl.com/mrxa4rx5 https://web.archive.org/web/20101222044543/http://www.opednews.com/articles/English-and-politics-by-Ethan-Indi-101217-819.html http://tinyurl.com/2cxzvp3w https://web.archive.org/web/20240101200841/https://www.opednews.com/articles/2/English-and-politics-by-Ethan-Indi-101217-819.html
 
 Id: smith-06
 Type: article
@@ -18132,9 +18156,20 @@ Media: link
 Title: Collectivism Versus Individuation
 Author: Smith, Ethan Indigo
 Date: 2023-05-09
+Publisher: Oped News
 Tags: important
 Link: https://www.opednews.com/articles/1/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html
 AltLink: http://tinyurl.com/2yb56hb9 https://web.archive.org/web/20231222062548/https://www.opednews.com/articles/1/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://web.archive.org/web/20231222062822/https://www.opednews.com/articles/2/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://archive.vn/icJtP https://archive.vn/wtu55
+
+Id: smith-07
+Type: article
+Media: link
+Title: A Tangible Orwellian Math Lesson
+Author: Smith, Ethan Indigo
+Date: 2011-03-27
+Publisher: Oped News
+Link: https://www.opednews.com/articles/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html
+ALtLink: http://tinyurl.com/w2m8jpd https://web.archive.org/web/20120910234111/http://www.opednews.com/articles/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html http://tinyurl.com/3ecjfew5 https://web.archive.org/web/20240101202210/https://www.opednews.com/articles/2/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html
 
 Id: smlnj-01
 Type: site
