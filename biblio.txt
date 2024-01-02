@@ -15776,13 +15776,14 @@ Title: Recent Earthquakes in California and Nevada - Index Map
 Tags: home, homelan, frequent, link
 Link: http://quake.usgs.gov/recenteqs/
 
-Id: quaker-02
+Id: quaker-01
 Type: article
 Media: link
 Title: Quaker business method
 Link: https://en.wikipedia.org/wiki/Quaker_business_method
 AltLink: http://tinyurl.com/5atu473a https://web.archive.org/web/20240101182337/https://en.wikipedia.org/wiki/Quaker_business_method
 1
+
 Id: quantumconsciousness-01
 Type: article
 Media: link
