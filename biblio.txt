@@ -8028,6 +8028,17 @@ Title: World Wildlife Federation Paid $70,000 to Activists who Set Fire to Amazo
 Tags: current, link
 Link: https://granitegrok.com/blog/2019/11/world-wildlife-federation-paid-70000-to-activists-who-set-fire-to-amazon-forest
 
+Id: grant-01
+Type: article
+Media: link
+Title: That Numbness You’re Feeling? There’s a Word for It.
+Author: Grant, Adam
+Date: 2024-01-01
+Publisher: New York Times
+Link: https://www.nytimes.com/2024/01/01/opinion/israel-war-empathy-pain.html
+AltLink: http://tinyurl.com/nceeu4e9 https://web.archive.org/web/20240101201953/https://www.nytimes.com/2024/01/01/opinion/israel-war-empathy-pain.html
+Annote: See notes.
+
 Id: graphite-wikidot-01
 Type: site
 Media: site

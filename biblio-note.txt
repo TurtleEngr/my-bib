@@ -434,10 +434,13 @@ Id: graeber-12
 employment but are pointless and unnecessary. David Graeber was
 interviewed by Cory Doctorow.</note>
 
+Id: grant-01
+<note>The word is "empathic distress:" hurting for others while
+feeling unable to help.</note>
+
 Id: graves-01
 <note>Handout prepared by Chris Cowan for Dr. Gaves's presentation in
 Boston, Mass., May 20, 1981 (PDF photocopy)</note>
-
 
 Id: gross-01
 <note>Sterling engine, and dynamic mirrors</note>
