@@ -697,6 +697,19 @@ explanations."</note>
 Id: little-02
 <note>Describes more about who disobeyed. What are the ingredients?</note>
 
+Id: liu-02
+<note><blockquote>It all started in 1995 when Liu filmed the
+Loess-plateau in China. He witnessed a local population who turned an
+area of almost the same size as The Netherlands from a dry, exhausted
+wasteland into one green oasis. This experience changed his life. From
+that moment on, Liu has been travelling all over the world to convince
+and inspire government leaders, policy-makers and farmers with his
+film material and knowledge. Liu diligently spreads the message that
+restoration of ecosystems is not only possible, but also economically
+very meaningful.  Backlight accompanies Liu on his mission in Jordan
+and shows on the basis of Liu’s own film material that a green future
+is possible worldwide.{liu-02}</blockquote></note>
+
 Id: lonsdale-01
 <note>This one has some for the same techniques: <a
 href="http://www.youtube.com/watch?v=-WLHr1_EVtQ">5 techniques to
