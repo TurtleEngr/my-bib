@@ -20337,6 +20337,15 @@ Date: 2009-02-09
 Tags: home, writing, publishing, link
 Link: http://www.toccon.com/toc2009
 
+Id: tompkins-01
+Type: article
+Media: link
+Title: Can a Big Village Full of Tiny Homes Ease Homelessness in Austin?
+Author: Tompkinsm, Lucy
+Date: 2024-01-09
+Link: https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html
+AltLink: http://tinyurl.com/mr4udhyb https://web.archive.org/web/20240109193057/https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html?unlocked_article_code=1.MU0.xwGe.9mk1FYPEpfNU&smid=url-share https://moria.whyayh.com/rel/archive/article/culture/homelessness-tiny-home-austin.pdf
+
 Id: tongaroom-01
 Type: site
 Media: site
