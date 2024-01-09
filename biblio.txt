@@ -1210,7 +1210,7 @@ Id: barnes-02
 Type: book
 Media: Hardcover
 Title: Capitalism 3.0
-Subtiitle: A Guide to Reclaiming the Commons
+Subtitle: A Guide to Reclaiming the Commons
 Author: Barnes, Peter
 Date: 2006
 Publisher: Berrett-Koehler Publishers
@@ -1300,15 +1300,6 @@ Media: video
 Title: Beafilmmaker video storytelling and editing courses
 Tags: video, link
 Link: https://www.beafilmmaker.com/
-
-Id: bearfabrique-01
-Type: site
-Media: site
-Title: Catastrophism/Wallsan.txt
-Author; Wallsan.txt
-Publisher: bearfabrique
-Tags: home, electricuniverse, link
-Link: http://www.bearfabrique.org/Catastrophism/Wallsan.txt
 
 Id: beatty-01
 Type: media
@@ -2229,7 +2220,7 @@ Id: burgess-03
 Type: article
 Media: link
 Title: A trap to end human employment?
-Subtitle:Why AI is not the full story about our new class based society
+Subtitle: Why AI is not the full story about our new class based society
 Author: Burgess, Mark
 Date: 2023-06-13
 Link: https://mark-burgess-oslo-mb.medium.com/a-trap-to-end-human-employment-d25a2acfe744
@@ -2664,6 +2655,8 @@ Tags: video, link
 Link: https://www.celtx.com/index.html
 
 Id: census-01
+Type: article
+Media: link
 Title: Census Bureau Releases New Estimates on America’s Families and Living Arrangements
 Date: 2022-11-17
 Publisher: Census Bureau
@@ -5032,7 +5025,7 @@ Id: duhm-13
 Type: book
 Media: book
 Title: Towards a New Culture
-Subtite: From Refusal to Rcreation, Outline of an Ecological and Humane Alternative
+Subtitle: From Refusal to Rcreation, Outline of an Ecological and Humane Alternative
 Author: Duhm, Dieter
 Tags: book, book, book
 Link: http://www.amazon.com/Towards-New-Culture-Dieter-Duhm/dp/392726637X/
@@ -12146,6 +12139,8 @@ Tags: video, link
 Link: http://mashable.com/2010/06/28/rumblefish-friendly-music/#cval3zqyikql
 
 Id: masterclass-01
+Type: article
+Media: link
 Title: Holacracy: Pros and Cons of the Organizational Structure
 Author: MasterClass
 Date: 2023-01-31
@@ -12603,7 +12598,7 @@ Type: article
 Media: link
 Title: ZEGG Forum – a ritualized form of communication for larger groups
 Date: 2013-08-22
-Author Meyer-Stoll, Ina
+Author: Meyer-Stoll, Ina
 Authors: & Achim Ecker
 Link: https://geo.coop/story/zegg-forum-%E2%80%93-ritualized-form-communication-larger-groups
 AltLink: http://tinyurl.com/yc6ew4be https://web.archive.org/web/20230923013653/https://geo.coop/story/zegg-forum-%e2%80%93-ritualized-form-communication-larger-groups
@@ -12696,7 +12691,7 @@ Type: article
 Media: link
 Title: Milgram experiment
 Date: 2023-12-31
-Tag: old:wikipedia-58
+Tags: old:wikipedia-58
 Link: https://en.wikipedia.org/wiki/Milgram_experiment
 AltLink: http://tinyurl.com/tyw89p4p https://web.archive.org/web/20231231222905/https://en.wikipedia.org/wiki/Milgram_experiment
 
@@ -15808,7 +15803,6 @@ Media: link
 Title: Quaker business method
 Link: https://en.wikipedia.org/wiki/Quaker_business_method
 AltLink: http://tinyurl.com/5atu473a https://web.archive.org/web/20240101182337/https://en.wikipedia.org/wiki/Quaker_business_method
-1
 
 Id: quantumconsciousness-01
 Type: article
@@ -20154,6 +20148,15 @@ Media: link
 Title: The Thom Hartmann Radio Program; Thom Hartmann
 Tags: home, change, link
 Link: http://www.thomhartmann.com/2009/03/01/the-thom-hartmann-radio-program/
+
+Id: thornhill-01
+Type: site
+Media: site
+Title: Catastrophism/Wallsan.txt
+Author: Thornhill, Wall
+Publisher: bearfabrique
+Tags: home, electricuniverse, link, old:bearfabrique-01
+Link: http://www.bearfabrique.org/Catastrophism/Wallsan.txt https://web.archive.org/web/20190417193434/http://www.bearfabrique.org/Catastrophism/Wallsan.txt
 
 Id: thrivemovement-01
 Type: site
