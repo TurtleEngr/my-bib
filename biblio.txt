@@ -24133,6 +24133,14 @@ Publisher: World Science Festival
 Tags: video
 Link: https://www.youtube.com/watch?v=tdsVRh9oKiE
 
+Id: youtube-179
+Type: media
+Media: video
+Title: How to Control a Crowd
+Date: 2023-08-23
+Publisher: Wendover Productions
+Link: https://www.youtube.com/watch?v=C_B09FZwSbA
+
 Id: yro-slashdot-01
 Type: article
 Media: link
