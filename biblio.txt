@@ -12172,6 +12172,15 @@ Edition: Sp.
 Tags: biblio
 ASIN: 8208756
 
+Id: matson-01
+Type: article
+Media: link
+Title: Strategically Placed Obstacle Near an Exit Can Speed Evacuations
+Author: Matson, John
+Date: 2009-08-28
+Link: https://www.scientificamerican.com/article/obstacle-exit-pedestrian/
+AltLink: http://tinyurl.com/2ht4y5yk https://web.archive.org/web/20160121214139/https://www.scientificamerican.com/article/obstacle-exit-pedestrian/
+
 Id: maughan-01
 Type: book
 Media: Ebook
@@ -17488,6 +17497,16 @@ Title: SD Midi Controller PCB Self Build Kit
 Tags: home, a/v, link, video, link
 Link: http://www.sdmidicontroller.com/self-assembly-pcb-kit/default.htm
 
+Id: seabrook-01
+Type: article
+Media: link
+Title: Crush Point
+Subtitle: When large crowds assemble, is there a way to keep them safe?
+Author: Seabrook, John
+Date: 2011-02-07
+Link: https://www.newyorker.com/magazine/2011/02/07/crush-point
+AltLink: http://tinyurl.com/3z2y8se5 https://web.archive.org/web/20151026033324/https://www.newyorker.com/magazine/2011/02/07/crush-point
+
 Id: search-barnesandnoble-01
 Type: article
 Media: link
@@ -21749,6 +21768,16 @@ Media: link
 Title: Wendy's Blog: Legal Tags Â» Forbidding Vistas: Windows licensing disserves the user
 Tags: work, trustedid, link
 Link: http://wendy.seltzer.org/blog/archives/2006/10/19/forbidding_vistas_windows_licensing_disserves_the_user.html
+
+Id: wertheimer-01
+Type: article
+Media: link
+Title: You and The Festival Crowd
+Author: Wertheimer, Paul
+Date: 2001
+Publisher: Crowdsafe
+Link: https://www.linkedin.com/in/paulwertheimer/details/featured/1635508384476/single-media-viewer/
+AltLink: http://tinyurl.com/5t53aetf https://web.archive.org/web/20240116215233/https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd-html/ https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd.pdf
 
 Id: whatismyipaddress-01
 Type: site
