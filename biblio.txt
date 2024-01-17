@@ -248,8 +248,10 @@ Id: alex-01
 Type: article
 Media: link
 Title: Worldwide survey kills the myth of ‘Man the Hunter’
+Subtitle: Women hunt in vast majority of foraging societies, upending old stereotypes
 Author: Alex, Bridget
 Date: 2023-06-28
+Publisher: Science (Journal)
 Link: https://www.science.org/content/article/worldwide-survey-kills-myth-man-hunter
 AltLink: https://archive.vn/nZFcP
 Annote: See notes.
@@ -12693,7 +12695,7 @@ Author: Milgram, Stanley
 Date: 1974-05
 Publisher: The Phi Delta Kappan, May, 1974, Vol. 55, No. 9 (May, 1974), pp. 603-606
 Link: https://www.jstor.org/stable/20297701
-AltLink: https://archive.vn/T9FDc
+AltLink: http://tinyurl.com/mu9dswhd https://web.archive.org/web/20240117064339/https://moria.whyayh.com/rel/archive/article/culture/Milgram-DilemmaObedience-1974.html
 
 Id: milgram-02
 Type: article
