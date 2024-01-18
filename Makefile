@@ -25,9 +25,7 @@ publish release : save
 	git merge develop
 	git push origin main
 	git co develop
-
-# README.html 
-#	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
+	rsync -a README.html biblio.txt biblio-note.txt $(mPubPath)/
 
 # -------------
 # Add and maintain the bibliography in a Libreoffice document
