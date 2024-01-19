@@ -2422,6 +2422,27 @@ Tags: biblio
 ASIN: 6853
 Link: https://www.amazon.com/Ecotopia-Novel-Ernest-Callenbach-ebook/dp/B0030P1WN6/
 
+Id: callenbach-02
+Type: book
+Media: Paperback
+Title: Ecotopia Emerging
+Author: Callenbach, Ernest
+Date: 1981-06-01
+Publisher: Banyan Tree Books
+ISBN: 0960432035
+Link: https://www.amazon.com/dp/0960432035/
+
+Id: callenbach-03
+Type: article
+Media: link
+Title: A Green-Powered Trip to Eco-Solartopia (transcript)
+Author: Callenbach, Ernest
+Authors: Harvey Wasserman
+Date: 2009-07-05
+Publisher: huffpost
+Link: https://www.huffpost.com/entry/a-green-powered-trip-to-e_b_211456
+AltLink: http://tinyurl.com/yc2t64h6 https://web.archive.org/web/20210523094457/https://www.huffpost.com/entry/a-green-powered-trip-to-e_b_211456 https://www.youtube.com/watch?v=Fsv_xmnoorA
+
 Id: calsci-01
 Type: site
 Media: product
