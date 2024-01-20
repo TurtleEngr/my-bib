@@ -22340,10 +22340,10 @@ Id: wikipedia-45
 Type: article
 Media: link
 Title: Anarcho-communism
-Date: 2023-03-02
+Date: 2024-01-20
 Tags: article, link, mutual-aid, article, link
 Link: https://en.wikipedia.org/wiki/Anarcho-communism
-AltLink: https://archive.vn/EaXx2
+AltLink: http://tinyurl.com/yvc8j7m2 https://web.archive.org/web/20240120002341/https://en.wikipedia.org/wiki/Anarchist_communism
 
 Id: wikipedia-46
 Type: article
