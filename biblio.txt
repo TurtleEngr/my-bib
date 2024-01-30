@@ -8581,6 +8581,15 @@ Title: How might Richard Feynman have answered a job interview question?
 Tags: link
 Link: http://hebig.org/blogs/archives/main/000962.php
 
+Id: hedges-01
+Type: media
+Media: video
+Title: Chris Hedges "The Death of Israel: How a Settler Colonial State Destroyed Itself"
+Author: Hedges, Chris
+Date: 2024-01-29
+Link: https://www.youtube.com/watch?v=qlcqsKvTSPw&t=4170s
+Annote: At 1h09m30s "Politics is a game of fear."
+
 Id: hedrick-01
 Type: book
 Media: Ebook
