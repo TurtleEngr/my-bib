@@ -12,6 +12,8 @@ ci checkin commit : clean
 	git commit -am "Updated"
 
 update : doc.odt
+	git co develop
+	git pull origin develop
 
 save : clean todo.html README.html
 	git co develop
@@ -39,7 +41,7 @@ publish release : save
 	-$(mTidy) $@
 
 doc.odt : 
-	ln -s $(mVerPath)/alien.odt $@
+	-ln -s $(mVerPath)/alien.odt $@
 
 bib-import : doc.odt
 	echo "Run: bib import-lo"
@@ -53,5 +55,5 @@ etc/bib-style.xml : doc.odt
 bib-ref :
 	echo "Run: bib ref-new"
 
-bib- update :
+bib-update :
 	echo "Run: bib ref-update"
