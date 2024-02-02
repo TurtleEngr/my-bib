@@ -1922,7 +1922,7 @@ Title: Why Don't You Kill Your Baby Brother? The Dynamics of Peace in Canadian I
 Author: Briggs, Jean L.
 Date: 2015
 Link: https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf
-AltLink: http://tinyurl.com/4j68u7wt https://web.archive.org/web/20220516101111/https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf
+AltLink: http://tinyurl.com/4j68u7wt https://web.archive.org/web/20220516101111/https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf https://moria.whyayh.com/rel/archive/article/culture/Briggs94.pdf
 
 Id: brighthub-01
 Type: article
@@ -21814,6 +21814,15 @@ Publisher: Crowdsafe
 Link: https://www.linkedin.com/in/paulwertheimer/details/featured/1635508384476/single-media-viewer/
 AltLink: http://tinyurl.com/5t53aetf https://web.archive.org/web/20240116215233/https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd-html/ https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd.pdf
 
+Id: west-knights-01
+Title: The Hunks Are All Right
+Subtitle: Five former shirtless Abercrombie & Fitch greeters on what it was like serving as human bait
+Author: West-Knights, Imogen
+Date: 2021-05-26
+Publisher: Slate
+Link: https://slate.com/human-interest/2021/05/abercrombie-fitch-hunks-shirtless-where-are-they-now.html
+AltLink: http://tinyurl.com/2p86pr6t https://web.archive.org/web/20210526094853/https://slate.com/human-interest/2021/05/abercrombie-fitch-hunks-shirtless-where-are-they-now.html
+
 Id: whatismyipaddress-01
 Type: site
 Media: site
@@ -24204,6 +24213,15 @@ Title: How to Control a Crowd
 Date: 2023-08-23
 Publisher: Wendover Productions
 Link: https://www.youtube.com/watch?v=C_B09FZwSbA
+
+Id: youtube-180
+Type: media
+Media: video
+Title: Abercrombie & Fitch No Shirts Prank
+Date: 2007-10-16
+Publisher: Improv Everywhere
+Link: https://www.youtube.com/watch?v=jdeBp8J0rqs
+
 
 Id: yro-slashdot-01
 Type: article
