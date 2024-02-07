@@ -15602,11 +15602,41 @@ Id: prechtel-01
 Type: book
 Media: Ebook
 Title: The Smell of Rain on Dust: Grief and Praise
-Author: Prechtel, Martu00edn
-Date: 2015
+Author: Prechtel, Martin
+Date: 2015-04-14
 Publisher: North Atlantic Books
 Tags: important
-ASIN: 16457882
+Link: https://www.amazon.com/dp/B00N6PBCLM
+
+Id: prechtel-02
+Type: book
+Media: Ebook
+Title: Stealing Benefacio's Roses
+Author: Prechtel, Martin
+Date: 2013-09-24
+Publisher: North Atlantic Books 
+Annote: formerly titled The Toe Bone and the Tooth: An Ancient Mayan Story Relived in Modern Times: Leaving Home to Come Home
+Link: https://www.amazon.com/dp/B00EKJK9EY
+
+Id: prechtel-03
+Type: book
+Media: Paperback
+Title: Long Life, Honey in the Heart
+Author: Prechtel, Martin
+Date: 2004-10-20
+Publisher: North Atlantic Books;
+Link: https://www.amazon.com/dp/155643538X/
+IDBN: 155643538X
+
+Id: prechtel-04
+Type: book
+Media: Paperback
+Title: Secrets of the Talking Jaguar: Memoirs from the Living Heart of a Mayan Village
+Author: Prechtel, Martin
+Date: 1999-08-30
+Publisher: TarcherPerigee
+Link: https://www.amazon.com/dp/0874779707/
+ISBN: 9780874779707
 
 Id: premierkites-01
 Type: article
