@@ -10029,7 +10029,7 @@ Author: LA Johnson, Karen Grigsby Bates
 Date: 2023-03-22
 Tags: audio, audio
 Link: https://www.npr.org/sections/codeswitch/2023/03/22/1161664788/the-women-behind-the-montgomery-bus-boycott
-AltLink: https://archive.vn/Oo8UA
+AltLink: https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/women-behind-the-montgomery-bus-boycott.mp3
 Annote: See notes.
 
 Id: johnson-08
