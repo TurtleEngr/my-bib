@@ -24353,6 +24353,18 @@ Title: ZEGG Forum Integrale Gemeinschaftsbildung - Transparent communication
 Tags: culture, link
 Link: http://www.zegg-forum.org/en/background-info/transparent-communication.html
 
+Id: zehr-01
+Type: book
+Media: Paperback
+Title: Changing Lenses
+Subtitle: A New Focus for Crime and Justice
+Author: Zehr, Howard
+Date: 2005-01-01
+Publisher: Herald Press
+Edition: 3rd
+ISBN: 0836135121
+Link: https://www.amazon.com/dp/0836135121
+
 Id: zeitgeist-01
 Type: site
 Media: site
