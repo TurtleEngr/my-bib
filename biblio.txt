@@ -9037,6 +9037,18 @@ Author: Horn, Sam
 Tags: misc, link, old:youtube-141
 Link: https://www.youtube.com/watch?v=Xlg8zdSVjgg
 
+Id: hosmanek-01
+Type: article
+Media: link
+Title: Cutting the Cord
+Subtitle: Ho'oponopono and Hawaiian Rest oponopono and Hawaiian Restorative Justice e Justice in the Criminal Law Context 
+Author: Hosmanek, Andrew J.
+Date: 2005-02-01
+Publisher: Pepperdine Dispute Resolution Law Journal
+Volume: Volume 5, Issue 2
+Link: https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1106&context=drlj
+AltLink: http://tinyurl.com/53ywht2n https://moria.whyayh.com/rel/archive/article/culture/Cutting_the_Cord_Hooponopono_and_Hawaiian_Restorative_Justice_i.pdf https://digitalcommons.pepperdine.edu/drlj/vol5/iss2/6/
+
 Id: hosted-webs-01
 Type: article
 Media: link
