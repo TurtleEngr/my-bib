@@ -16068,6 +16068,17 @@ Title: Net meetings, web conferencing, audio conferencing, and teleconferencing 
 Tags: home, tofile, set1, link
 Link: http://www.raindance.com/cc/wcpro/
 
+Id: ramanathan-01
+Type: article
+Media: link
+Title: Taking Responsibility with Ho'oponopono
+Author: Ramanathan, Ram
+Date: 2017-10-16
+Publisher: Coacharya
+Link: https://coacharya.com/blog/taking-responsibility-with-hooponopono/
+AltLink: http://tinyurl.com/mr2wn9yj https://web.archive.org/web/20240211051400/https://coacharya.com/blog/taking-responsibility-with-hooponopono/
+Annote: Ho'oponopono for individuals
+
 Id: random-01
 Type: site
 Media: site
