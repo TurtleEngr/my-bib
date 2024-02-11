@@ -6338,7 +6338,7 @@ Date: 2008
 Publisher: Sociological Forum, Vol. 23, No. 2, June 2008
 Tags: article, article
 Link: https://sociology.berkeley.edu/sites/default/files/faculty/fischer/Fischer_Paradoxes%20of%20Individualism_2008.pdf
-AltLink: https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
+AltLink: http://tinyurl.com/2z84rkbt https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
 
 Id: fisher-01
 Type: media
@@ -8072,7 +8072,7 @@ Title: Summary Statement: The Emergent, Cyclical, Double-Helix Model Of The Adul
 Author: Graves, Clare W.
 Date: 1981-05-20
 Link: https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf
-AltLink: https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
+AltLink: http://tinyurl.com/3n5erck3 https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
 Annote: See notes.
 
 Id: greektragedy-01
@@ -8487,7 +8487,7 @@ Date: 1968-12-13
 Publisher: American Association for the Advancement of Science
 Tags: commons
 Link: https://vdocument.in/tragedy-of-the-commons-1968-garrett-hardin.html?page=1
-AltLink: https://moria.whyayh.com/rel/archive/article/culture/tragedy-of-the-commons-1968-garrett-hardin.pdf
+AltLink: http://tinyurl.com/t8y7czxr https://moria.whyayh.com/rel/archive/article/culture/tragedy-of-the-commons-1968-garrett-hardin.pdf
 
 Id: hardware-redhat-01
 Type: article
@@ -9041,7 +9041,7 @@ Id: hosmanek-01
 Type: article
 Media: link
 Title: Cutting the Cord
-Subtitle: Ho'oponopono and Hawaiian Rest oponopono and Hawaiian Restorative Justice e Justice in the Criminal Law Context 
+Subtitle: Ho'oponopono and Hawaiian Restorative Justice in the Criminal Law Context
 Author: Hosmanek, Andrew J.
 Date: 2005-02-01
 Publisher: Pepperdine Dispute Resolution Law Journal
@@ -12649,6 +12649,18 @@ Author: Meyer, Pamela
 Tags: video, old:youtube-029
 Link: http://www.youtube.com/watch?v=P_6vDLq64gE
 
+Id: meyer-02
+Type: article
+Media: link
+Title: Ho'oponopono - To Set Right
+Subtitle: A Hawaiian Peacemaking Process
+Author: Meyer, Manu
+Date: 1994-01-17
+Publisher: Harvard Graduate School of Education
+Link: https://www2.hawaii.edu/~barkai/HO/Hooponopono.pdf
+AltLink: http://tinyurl.com/y6p453az https://moria.whyayh.com/rel/archive/article/culture/Hooponopono.pdf
+Annote: Page 7-21
+
 Id: meyer-stoll-01
 Type: article
 Media: link
@@ -15806,6 +15818,19 @@ Date: 2011
 Publisher: Publisher Unknown
 Tags: biblio
 ASIN: 10964904
+
+Id: pukui-01
+Type: article
+Media: link
+Title: Nana i ke Kumu
+Subtitle: Look to the Source
+Author: Pukui, Mary Kawena
+Authors: E.W. Haertig, M.D.; and Catherine A. Lee
+Date: 1972
+Publisher: Hui Hanai
+Link: http://www.hawaiianbar.org/uploads/1/2/0/5/120549314/nana_i_ke_kumu.pdf
+AltLink: http://tinyurl.com/yt59pk47 https://moria.whyayh.com/rel/archive/article/culture/nana_i_ke_kumu.pdf
+Annote: Ho'oponopono Page 60-77 (in PDF page 80-97)
 
 Id: puppylinux-01
 Type: site
@@ -23175,8 +23200,10 @@ Media: link
 Title: The Human-Centered Economy
 Author: Yang, Andrew
 Date: 2023-10-23
+Publisher: Forward Party
 Link: https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
 AltLink: https://tinyurl.com/5ecr2k6j https://web.archive.org/web/20231024180815/https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
+Annote: PDF copy of email
 
 Id: yankovic-01
 Type: media
