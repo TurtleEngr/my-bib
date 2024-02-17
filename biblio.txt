@@ -259,6 +259,17 @@ Link: https://www.science.org/content/article/worldwide-survey-kills-myth-man-hu
 AltLink: https://archive.vn/nZFcP
 Annote: See notes.
 
+Id: alexander-01
+Type: article
+Media: link
+Title: http://tinyurl.com/j29c4v3z
+Subtitle: 
+Author: Alexander, Scott 
+Date:  2014-07-30
+Publisher: Slate Star Codex
+Link: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+AltLink: http://tinyurl.com/j29c4v3z https://web.archive.org/web/20240214211505/https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+
 Id: alfred-01
 Type: book
 Media: Hardcover
@@ -10211,6 +10222,18 @@ Title: Healing Communication.com
 Author: Karas, Sheryl
 Tags: folder, home, link, old:healingcommunication-01
 Link: http://www.healingcommunication.com/
+
+Id: kashtan-01
+Type: book
+Media: Ebook
+Title: The Highest Common Denominator
+Subtitle: Using Convergent Facilitation to Reach Breakthrough Collaborative Decisions
+Author: Kashtan, Miki
+Date: 2020
+Publisher: Fearless Heart Publication
+Address: P.O. Box 22872, Oakland, CA 94609
+eBook ISBN:9780990007364
+Link: https://thefearlessheart.org/store/the-highest-common-denominator/
 
 Id: katerinaptrv-01
 Type: article
