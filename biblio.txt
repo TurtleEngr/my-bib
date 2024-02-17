@@ -262,9 +262,8 @@ Annote: See notes.
 Id: alexander-01
 Type: article
 Media: link
-Title: http://tinyurl.com/j29c4v3z
-Subtitle: 
-Author: Alexander, Scott 
+Title: Meditations On Moloch
+Author: Alexander, Scott
 Date:  2014-07-30
 Publisher: Slate Star Codex
 Link: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
@@ -21266,6 +21265,8 @@ Id: veritasium-01
 Type: media
 Media: video
 Title: Is Success Luck or Hard Work?
+Author: Veritasium
+Publisher: Veritasium
 Tags: culture, video
 Link: https://www.youtube.com/watch?v=3LopI4YeC4I
 Annote: See notes.
@@ -21274,6 +21275,8 @@ Id: veritasium-02
 Type: media
 Media: video
 Title: How to Slow Aging (and even reverse it)
+Author: Veritasium
+Publisher: Veritasium
 Tags: science, video
 Link: https://www.youtube.com/watch?v=QRt7LjqJ45k
 Annote: See notes.
@@ -21282,9 +21285,19 @@ Id: veritasium-03
 Type: media
 Media: video
 Title: My Video Went Viral. Here's Why
+Author: Veritasium
+Publisher: Veritasium
 Tags: video
 Link: https://www.youtube.com/watch?v=fHsa9DqmId8
 Annote: See notes.
+
+Id: veritasium-04
+Type: media
+Media: video
+Title: What Game Theory Reveals About Life, The Universe, and Everything
+Author: Veritasium
+Publisher: Veritasium
+Link: https://www.youtube.com/watch?v=mScpHTIi-kM
 
 Id: vice-01
 Type: article
