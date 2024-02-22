@@ -4202,8 +4202,11 @@ Type: article
 Media: link
 Title: Dr. Martin Luther King in 1967
 Subtitle: We as a Nation Must Undergo a Radical Revolution of Values; Democracy Now!
+Date: 2013-01-21
 Tags: culture, link
 Link: http://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
+AltLink: https://tinyurl.com/3p2ckva9 https://web.archive.org/web/20230926093520/https://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
+Annote: excerpt from Dr. King’s “Beyond Vietnam” address, given at New York City’s Riverside Church on April 4, 1967
 
 Id: democracynow-03
 Type: article
@@ -10417,6 +10420,15 @@ Media: link
 Title: Amazon Kindle: Your Highlights
 Tags: misc, link
 Link: https://kindle.amazon.com/your_highlights
+
+Id: king-01
+Type: article
+Media: link
+Title: Letter from Birmingham Jail
+Author: King, Martin Luther Jr.
+Date: 1963-04-16
+Link: https://letterfromjail.com/
+AltLink: https://tinyurl.com/2jxptych https://web.archive.org/web/20240124012600/https://letterfromjail.com/
 
 Id: kingarthurflour-01
 Type: article
