@@ -4206,7 +4206,7 @@ Date: 2013-01-21
 Tags: culture, link
 Link: http://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
 AltLink: https://tinyurl.com/3p2ckva9 https://web.archive.org/web/20230926093520/https://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
-Annote: excerpt from Dr. King’s “Beyond Vietnam” address, given at New York City’s Riverside Church on April 4, 1967
+Annote: excerpt from Dr. King’s “Beyond Vietnam” address, given at New York City’s Riverside Church on April 4, 1967. See also: king-02
 
 Id: democracynow-03
 Type: article
@@ -10441,6 +10441,7 @@ Date: 1967-04-04
 DateSeen: 2023-10-03
 Link: https://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
 AltLink: http://tinyurl.com/ye24ejry https://web.archive.org/web/20231003122239/https://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
+Annote: See also democracynow-02
 
 Id: kingarthurflour-01
 Type: article
