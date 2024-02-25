@@ -10427,8 +10427,20 @@ Media: link
 Title: Letter from Birmingham Jail
 Author: King, Martin Luther Jr.
 Date: 1963-04-16
+DateSeen: 2024-01-24
 Link: https://letterfromjail.com/
 AltLink: https://tinyurl.com/2jxptych https://web.archive.org/web/20240124012600/https://letterfromjail.com/
+
+Id: king-02
+Type: article
+Media: link
+Title: Beyond Vietnam
+Subtitle: A Time to Break Silence
+Author: King, Martin Luther Jr.
+Date: 1967-04-04
+DateSeen: 2023-10-03
+Link: https://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
+AltLink: http://tinyurl.com/ye24ejry https://web.archive.org/web/20231003122239/https://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
 
 Id: kingarthurflour-01
 Type: article
