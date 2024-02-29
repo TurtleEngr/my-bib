@@ -1511,6 +1511,19 @@ ISBN: 0898796350
 ASIN: 290398
 Annote: Elements of Fiction Writing
 
+Id: birkinshaw-01
+Type: article
+Media: link
+Title: Adhocracy for an agile age
+Author Birkinshaw, Julian 
+Authors: & Jonas Ridderstråle
+Date: 2015-12-01
+DateSeen: 2024-02-29
+Publisher: McKinsey Quarterly
+Link: https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
+AltLink: https://tinyurl.com/85keerw6
+https://web.archive.org/web/20240229201523/https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
+
 Id: black-01
 Type: media
 Media: Blu-ray
@@ -2450,7 +2463,7 @@ Type: article
 Media: link
 Title: A Green-Powered Trip to Eco-Solartopia (transcript)
 Author: Callenbach, Ernest
-Authors: Harvey Wasserman
+Authors: & Harvey Wasserman
 Date: 2009-07-05
 Publisher: huffpost
 Link: https://www.huffpost.com/entry/a-green-powered-trip-to-e_b_211456
@@ -4720,6 +4733,17 @@ Date: 2023-11-14
 Publisher: Tor Books
 Link: https://www.amazon.com/dp/B0BQGGP2XT
 AltLink: https://craphound.com/category/lostcause/
+
+Id: doctorow-17
+Type: article
+Media: link
+Title: Hypothetical AI election disinformation risks vs real AI harms
+Subtitle: And those real AI harms are priming people to believe disinformation
+Author: Doctorow, Cory
+Date: 204-02-27
+Link: https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse
+AltLink: http://tinyurl.com/bdfcfkrp https://web.archive.org/web/20240228024910/https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse https://doctorow.medium.com/https-pluralistic-net-2024-02-27-ai-conspiracies-epistemological-collapse-eabfefa6b2e8
+
 
 Id: documents-mx-01
 Type: article
