@@ -24483,11 +24483,12 @@ Media: Paperback
 Title: Changing Lenses
 Subtitle: A New Focus for Crime and Justice
 Author: Zehr, Howard
-Date: 2005-01-01
+Date: 1995
 Publisher: Herald Press
-Edition: 3rd
+Address: Scottdale, PA 15683
 ISBN: 0836135121
 Link: https://www.amazon.com/dp/0836135121
+Note: The Amazon link is to a later edition. This edition has 280 pages.
 
 Id: zeitgeist-01
 Type: site
