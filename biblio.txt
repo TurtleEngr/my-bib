@@ -15103,12 +15103,12 @@ Type: book
 Media: Paperback
 Title: People of the Lie: The Hope for Healing Human Evil
 Author: Peck, M. Scott
-Date: 1998
+Date: 1998-01-02
 Publisher: Touchstone
 Edition: 2nd
 Tags: important
 ISBN: 0684848597
-ASIN: 24864462
+https://www.amazon.com/dp/0684848597/
 
 Id: peck-03
 Type: book
@@ -15126,6 +15126,7 @@ Type: book
 Media: book
 Title: The Different Drum: Community Making and Peace
 Author: Peck, Scott
+Date: 2010-05-11
 Tags: book, book, book
 Link: https://www.amazon.com/Different-Drum-Community-Making-Peace-ebook/dp/B003LL3K5M/
 
