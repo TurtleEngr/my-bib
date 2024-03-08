@@ -11075,6 +11075,18 @@ Tags: ted, biblio
 Link: http://www.ted.com/talks/tan_le_a_headset_that_reads_your_brainwaves.html
 Annote: See notes.
 
+Id: leakey-01
+Type: book
+Media: Hardcover
+Title: The Sixth Extinction
+Subtitle: Patterns of Life and the Future of Humankind
+Author: Leakey, Richard E. 
+Authors: & Roger Lewin
+Date: 1995-09-01
+Publisher: Doubleday
+ISBN: 0385424973 
+Link: https://www.amazon.com/dp/0385424973/
+
 Id: learn-01
 Type: article
 Media: link
@@ -16418,6 +16430,16 @@ Media: video
 Title: Amazon vs. YouTube: Why the content creator is the ultimate winner - Recode
 Tags: video, link
 Link: http://www.recode.net/2016/6/9/11886568/video-platforms-amazon-youtube-content-creator-video-direct
+
+Id: reculture-01
+Type: site
+Media: org
+Title: Summit: A Cry From the Future
+Date: 2024-02-10
+Publisher: Re/Culture Media
+Link: https://thevillageoflovers.com/summit-all-access
+AltLink: https://tinyurl.com/mr4cykvc https://web.archive.org/web/20240302184731/https://thevillageoflovers.com/summit-all-access
+Annote: A 5 day summit, 8am to 3pm each day.
 
 Id: redbooks-ibm-01
 Type: article
@@ -22643,6 +22665,14 @@ Title: Sociocracy
 Date: 2023-12-31
 Link: https://en.wikipedia.org/wiki/Sociocracy
 AltLink: http://tinyurl.com/yvwtz3dj https://web.archive.org/web/20231231223624/https://en.wikipedia.org/wiki/Sociocracy
+
+Id: wikipedia-61
+Type: article
+Media: link
+Title: Holacracy
+Date: 2024-01-26
+Link: https://en.wikipedia.org/wiki/Holacracy
+AltLink: https://tinyurl.com/57ty75py https://web.archive.org/web/20240126020807/https://en.wikipedia.org/wiki/Holacracy
 
 Id: wilburhotsprings-01
 Type: site
