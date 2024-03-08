@@ -3580,6 +3580,17 @@ Subtitle: JoiningCommunity
 Tags: home, cohousing, link
 Link: http://cothwinobena.nfshost.com/wiki/JoiningCommunity
 
+Id: cousteau-01
+Type: article
+Media: link
+Title: Our Oceans Are Dying
+Author: Jacques Cousteau
+Date: 1971-11-14
+DateSeen: 2023-08-29
+Publisher: The New York Times
+Link: https://www.nytimes.com/1971/11/14/archives/our-oceans-are-dying.html
+AltLink: https://tinyurl.com/23d4nbfw https://web.archive.org/web/20230829084841/https://www.nytimes.com/1971/11/14/archives/our-oceans-are-dying.html
+
 Id: covad-01
 Type: article
 Media: link
