@@ -48,7 +48,7 @@ Title: Becoming Animal
 Author: Abram, David
 Date: 2010
 Publisher: Knopf Doubleday Publishing Group
-Tags: a, important, book, book
+Tags: a, important, book
 ASIN: 10076704
 
 Id: abram-02
@@ -58,7 +58,7 @@ Title: The Spell of the Sensuous
 Author: Abram, David
 Date: 2012
 Publisher: Knopf Doubleday Publishing Group
-Tags: b, important, book, book
+Tags: b, important, book
 ASIN: 28160
 
 Id: achbar-01
@@ -81,7 +81,7 @@ Subtitle: A Radical Prescription for Recreating Corporate America and Rediscover
 Author: Ackoff, Russell L.
 Date: 1994
 Publisher: Oxford University Press
-Tags: important, book, book
+Tags: important, book
 ISBN: 9780195087277
 ASIN: 568001
 Link: http://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275/
@@ -146,7 +146,7 @@ Subtitle: Finding Your Place In The World Using Synchronicity, Intuition, And Un
 Author: Adrienne, Carol
 Date: 2011
 Publisher: HarperCollins e-books
-Tags: book, book
+Tags: book
 ASIN: 204816
 
 Id: adrik-01
@@ -156,7 +156,7 @@ Title: Mem: A M/M Sci-fi Romance (Alien Acquisitions Book 1)
 Author: Adrik, Misha
 Date: 2020
 Publisher: Starving Artists Ink
-Tags: book, book
+Tags: book
 ASIN: 26868215
 
 Id: advancedinstaller-01
@@ -173,7 +173,7 @@ Title: Humans vs Computers
 Author: Adzic, Gojko
 Date: 2017
 Publisher: leanpub.com
-Tags: book, book
+Tags: book
 ASIN: 20184566
 
 Id: ae-truth-01
@@ -229,7 +229,7 @@ Subtitle: A journey of spiritual awakening, and a comprehensive guide for healin
 Author: Akullian, Mica
 Date: 2016
 Publisher: Publisher Unknown
-Tags: book, book
+Tags: book
 ASIN: 26868216
 
 Id: alaskaair-01
@@ -277,7 +277,7 @@ Subtitle: Einstein's Fridge, Dewar's Flask, Mach's Speed, and 362 Other Inventio
 Author: Alfred, Randy
 Date: 2012
 Publisher: Little, Brown and Company
-Tags: book, book
+Tags: book
 ISBN: 0316208191
 ASIN: 13107536
 
@@ -302,7 +302,7 @@ Title: Rules for Radicals
 Subtitle: A Pragmatic Primer for Realistic Radicals
 Author: Alinsky, Saul D.
 Date: 1971
-Tags: book, book
+Tags: book
 Link: https://www.amazon.com/gp/product/B003T0G9GM/
 
 Id: allen-01
@@ -389,7 +389,7 @@ Type: article
 Media: link
 Title: Conservatives Live In a Different Moral Universe
 Subtitle: and here's why it matters
-Tags: article, article
+Tags: article
 Link: http://www.alternet.org/story/138303/conservatives_live_in_a_different_moral_universe_--_and_here's_why_it_matters/?page=entire
 Annote: See notes.
 
@@ -803,7 +803,7 @@ Title: Crises of the Republic
 Subtitle: Lying in Politics, Civil Disobedience, On Violence, Thoughts on Politics and Revolution
 Author: Arendt, Hannah
 Date: 1972-05-10
-Tags: book, book
+Tags: book
 ISBN: 978-0-15-623200-5
 Link: https://www.amazon.com/gp/product/B004S3NVRE/
 
@@ -813,7 +813,7 @@ Media: Ebook
 Title: The Origins Of Totalitarianism
 Author: Arendt, Hannah
 Date: 1973-03-21
-Tags: book, book
+Tags: book
 ISBN: 0156701537
 Link: https://www.amazon.com/gp/product/B004Q9TLJW/
 
@@ -1541,7 +1541,7 @@ Title: Gandhi The Man
 Author: Black, Jo Anne
 Date: 1973
 Publisher: Glide Publications, San Francisco
-Tags: book, book
+Tags: book
 Annote: See notes.
 
 Id: blanchardonline-01
@@ -1624,7 +1624,7 @@ Title: Which Comes First: Smartphone Dependency or Depression?
 Author: Blue, Alexis
 Date: 2019-09-30
 DateSeen: 2023-03-08
-Tags: article, article
+Tags: article
 Link: https://news.arizona.edu/story/which-comes-first-smartphone-dependency-or-depression
 AltLink: https://archive.vn/nHn2o
 
@@ -1634,7 +1634,7 @@ Media: book
 Title: American Poetry: Wildness and Domesticity
 Author: Bly, Robert
 Date: 1990
-Tags: book, book
+Tags: book
 ISBN: 0-06-016265-1
 
 Id: boardsus-playstation-01
@@ -2179,7 +2179,7 @@ Media: book
 Title: The Secret Teachings of Plants
 Subtitle: The Intelligence of the Heart in the Direct Perception of Nature
 Author: Buhner, Stephen Harrod
-Tags: book, book, book
+Tags: book, book
 Link: https://www.amazon.com/Secret-Teachings-Plants-Intelligence-Perception-ebook/dp/B003ZHVB80/
 
 Id: bullock-01
@@ -2332,7 +2332,7 @@ Media: Ebook
 Title: Erewhon; Or, Over the Range
 Author: Butler, Samuel
 Date: 1906
-Tags: book, book
+Tags: book
 Link: https://www.gutenberg.org/ebooks/1906
 AltLink: https://www.gutenberg.org/ebooks/1906.epub3.images
 Annote: See notes.
@@ -2345,7 +2345,7 @@ Subtitle: To the editor of the press, christchurch, new zealand, 13 june, 1863
 Author: Butler, Samuel
 Date: 1863-06-13
 DateSeen: 2023-03-06
-Tags: article, article
+Tags: article
 Link: https://nzetc.victoria.ac.nz/tm/scholarly/tei-ButFir-t1-g1-t1-g1-t4-body.html
 AltLink: https://archive.vn/Pjuy
 Annote: See notes.
@@ -2531,7 +2531,7 @@ Title: Advanced Methods in Neural Networks-Based Sensitivity Analysis with their
 Author: Cao, Maosen
 Date: 2016-10-19
 DateSeen: 2022-12-07
-Tags: article, article
+Tags: article
 Link: https://www.intechopen.com/chapters/51330
 AltLink: https://archive.vn/fbv9e
 
@@ -2944,7 +2944,7 @@ Title: Transcript: Ezra Klein Interviews Ted Chiang
 Author: Chiang, Ted
 Authors: & Ezra Klein
 Date: 2021-03-30
-Tags: important, article, article, old:klein-04
+Tags: important, article, old:klein-04
 Link: https://www.nytimes.com/2021/03/30/podcasts/ezra-klein-podcast-ted-chiang-transcript.html
 AltLink: https://archive.vn/8MjFb
 
@@ -2973,7 +2973,7 @@ Title: Noam Chomsky
 Subtitle: The False Promise of ChatGPT
 Author: Chomsky, Noam
 Date: 2023-03-08
-Tags: article, article
+Tags: article
 Link: https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html
 AltLink: https://archive.vn/o6O2q
 
@@ -3037,7 +3037,7 @@ Media: link
 Title: Adults in the U.S. check their phones 352 times a day on average, 4x more often than in 2019
 Author: Cibean, Tudor
 Date: 20222-06-05
-Tags: article, article
+Tags: article
 Link: https://www.techspot.com/news/94828-adults-us-check-their-phones-352-times-day.html
 AltLink: https://archive.vn/4vCRa
 
@@ -3335,7 +3335,7 @@ Type: article
 Media: link
 Title: DoOcracy
 Date: 2022-11-26
-Tags: article, article
+Tags: article
 Link: https://communitywiki.org/wiki/DoOcracy
 AltLink: https://archive.vn/oPacR
 
@@ -3773,7 +3773,7 @@ Media: link
 Title: How Can You Tell If It Is A Dangerous Cult?
 Subtitle: Characteristics of Cult Groups
 Date: 2022-11-04
-Tags: article, article
+Tags: article
 Link: https://archive.vn/FvNii
 AltLink: https://archive.vn/FvNii
 
@@ -3783,7 +3783,7 @@ Media: link
 Title: America the Merciless
 Author: Paul, Pamela
 Date: 2022-06-26
-Tags: compassion, article, article
+Tags: compassion, article
 Link: https://www.nytimes.com/2022/06/26/opinion/america-the-merciless.html?campaign_id=9&emc=edit_nn_20220627&instance_id=65116&nl=the-morning&regi_id=94896926&segment_id=96890&te=1&user_id=984a8324d50a8dad9ddcff77e7096966
 AltLink: https://archive.vn/MoVgi
 
@@ -3995,7 +3995,7 @@ Subtitle: Constant Social Media Streaming Narrows Collective Attention Span, Adv
 Author: Davis, Margaret
 Date: 2021-10-25
 DateSeen: 2023-03-11
-Tags: article, article
+Tags: article
 Link: https://www.sciencetimes.com/articles/34138/20211025/tiktok-bad-brain-constant-social-media-streaming-narrows-collective-attention.htm
 AltLink: https://archive.vn/7gVnB
 
@@ -4602,7 +4602,7 @@ Id: doctorow-01
 Type: book
 Media: book
 Title: Homeland
-Tags: a, book, book
+Tags: a, book
 Link: http://craphound.com/homeland/
 Annote: Great sequel to Little Brother
 
@@ -4672,7 +4672,7 @@ Id: doctorow-09
 Type: article
 Media: link
 Title: How to Destroy 'Surveillance Capitalism'
-Tags: i, politics, culture, article, article
+Tags: i, politics, culture, article
 Link: https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59
 
 Id: doctorow-10
@@ -4902,7 +4902,7 @@ Media: Hardcover
 Title: Tamera
 Subtitle: A Model for the Future
 Author: Dregger, Leila
-Tags: book, book, book
+Tags: book, book
 Link: http://www.amazon.com/dp/3927266272/
 
 Id: dronereviewsandnews-01
@@ -4979,7 +4979,7 @@ Media: link
 Title: Why love and sexuality have a key role in the research work of Tamera
 Subtitle: Excerpt of the Project Declaration Monte Cerro
 Author: Duhm, Dieter
-Tags: article, article, article
+Tags: article
 Link: http://www.tamera.org/articles/the-big-issue-of-love-sexuality-and-partnership/
 
 Id: duhm-02
@@ -4987,7 +4987,7 @@ Type: article
 Media: link
 Title: What is Free Love?: We cannot generate peace in the world so long as this issue remains unresolved.
 Author: Duhm, Dieter
-Tags: article, article, article
+Tags: article
 Link: http://www.tamera.org/basic-thoughts/what-is-free-love/
 
 Id: duhm-03
@@ -4995,7 +4995,7 @@ Type: article
 Media: link
 Title: Healing of Love: Why the Issue of the Love Between the Genders had to Become the Central Focus of Our Project
 Author: Duhm, Dieter
-Tags: article, article, article
+Tags: article
 Link: http://www.tamera.org/fileadmin/PDF/Heilung_der_Liebe_en_mail.pdf
 
 Id: duhm-04
@@ -5083,7 +5083,7 @@ Subtitle: The World Power of Sexuality
 Author: Duhm, Dieter
 Date: 2014
 Publisher: Verlag Meiga
-Tags: book, book, book
+Tags: book, book
 ASIN: 11302832
 Link: https://www.amazon.com/dp/B00FVQLU6Q/
 
@@ -5092,7 +5092,7 @@ Type: book
 Media: Ebook
 Title: The Sacred Matrix
 Author: Duhm, Dieter
-Tags: book, book, book
+Tags: book, book
 Link: http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/
 
 Id: duhm-13
@@ -5101,7 +5101,7 @@ Media: book
 Title: Towards a New Culture
 Subtitle: From Refusal to Rcreation, Outline of an Ecological and Humane Alternative
 Author: Duhm, Dieter
-Tags: book, book, book
+Tags: book, book
 Link: http://www.amazon.com/Towards-New-Culture-Dieter-Duhm/dp/392726637X/
 
 Id: dulinsbooks-01
@@ -5175,7 +5175,7 @@ Media: link
 Title: Story: The Fourteen Love Relationships of the Awansa-Ta'pish
 Author: Eagleshadow, Phoenix Psyche
 Date: 2016-03-15
-Tags: link, article, article, link
+Tags: link, article
 Link: https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/
 AltLink: https://tinyurl.com/mrx2wzus https://web.archive.org/web/20231027035028/https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/ https://archive.vn/ZJ4SP
 
@@ -5242,7 +5242,7 @@ Title: Who Owns the Future?
 Author: Lanier, Jaron
 Date: 2013
 Publisher: Simon & Schuster
-Tags: book, book, book
+Tags: book, book
 ASIN: 13581455
 Link: http://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979
 
@@ -5401,7 +5401,7 @@ Subtitle: Sacred Activism Book 2
 Author: Eisenstein, Charles
 Date: 2013-11-05,
 Publisher: North Atlantic Books
-Tags: book, book
+Tags: book
 ASIN: B00CQZ5M5A
 Link: https://www.amazon.com/Beautiful-Hearts-Possible-Sacred-Activism-ebook/dp/B00CQZ5M5A/
 
@@ -5413,7 +5413,7 @@ Subtitle: A New Story
 Author: Eisenstein, Charles
 Date: 2018-09-18
 Publisher: North Atlantic Books
-Tags: book, book
+Tags: book
 ASIN: B075HY5TN8
 Link: https://www.amazon.com/Climate-New-Story-Charles-Eisenstein-ebook/dp/B075HY5TN8/
 
@@ -5425,7 +5425,7 @@ Subtitle: Money, Gift, and Society in the Age of Transition
 Author: Eisenstein, Charles
 Date: 2011-07-12
 Publisher: EVOLVER EDITIONS
-Tags: book, book
+Tags: book
 ISBN: 9781583943984
 ASIN: 11569343
 Link: https://www.amazon.com/gp/product/B004ZZNNKU/
@@ -5498,7 +5498,7 @@ Type: book
 Media: Paperback
 Title: The Chalice and the Blade
 Author: Eisler, Riane
-Tags: book, book
+Tags: book
 Link: http://www.amazon.com/Chalice-Blade-Our-History-Future/dp/0062502891/
 
 Id: eisler-05
@@ -5509,7 +5509,7 @@ Subtitle: Sex, Myth, and the Politics of the BodNew Paths to Power and Love
 Author: Eisler, Riane
 Date: 2012-01-03
 Publisher: HarperOne
-Tags: book, book
+Tags: book
 ASIN: B006NZDSNM
 Link: https://www.amazon.com/Sacred-Pleasure-Myth-Politics-Body-ebook/dp/B006NZDSNM/
 
@@ -5519,7 +5519,7 @@ Media: link
 Title: Building Cultures of Partnership and Peace
 Author: Eisler, Riane
 Date: 2021-10-12
-Tags: article, article
+Tags: article
 Link: https://rianeeisler.com/building-cultures-of-partnership-and-peace/
 AltLink: https://archive.vn/DPyMX
 
@@ -5828,7 +5828,7 @@ Title: 300 Years Ago, There Was a Brutal Murder
 Subtitle: We Could Learn From the Treaty That Followed
 Author: Eustace, Nicole
 Date: 2022-11-30
-Tags: article, article
+Tags: article
 Link: https://www.nytimes.com/2022/11/30/opinion/native-american-treaty-justice.html
 AltLink: https://archive.vn/eOete
 
@@ -5839,7 +5839,7 @@ Title: Covered with Night
 Subtitle: A Story of Murder and Indigenous Justice in Early America
 Author: Eustace, Nicole
 Date: 2021-04-27
-Tags: book, book
+Tags: book
 ASIN: B08D211XBX
 Link: https://www.amazon.com/dp/B08D211XBX/
 
@@ -6032,7 +6032,7 @@ Subtitle: A Manifesto
 Author: Lanier, Jaron
 Date: 2010
 Publisher: Knopf
-Tags: book, book, book
+Tags: book, book
 ISBN: 0307269647
 ASIN: 8749061
 Link: http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307389979/
@@ -6199,7 +6199,7 @@ Media: link
 Title: Are Corporations Inherently Corrupt?
 Author: Fetzer, Jim
 Publisher: Oped News
-Tags: article, article, old:opednews-02
+Tags: article, old:opednews-02
 Link: http://www.opednews.com/articles/Are-Corporations-Inherentl-by-Jim-Fetzer-100124-129.html
 
 Id: feynman-01
@@ -6384,7 +6384,7 @@ Title: Paradoxes of American Individualism
 Author: Fischer, Claude S.
 Date: 2008
 Publisher: Sociological Forum, Vol. 23, No. 2, June 2008
-Tags: article, article
+Tags: article
 Link: https://sociology.berkeley.edu/sites/default/files/faculty/fischer/Fischer_Paradoxes%20of%20Individualism_2008.pdf
 AltLink: http://tinyurl.com/2z84rkbt https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
 
@@ -7212,7 +7212,7 @@ Id: getpocket-01
 Type: article
 Media: link
 Title: How Non-English Speakers Learn This Crazy Grammar Rule You Know But Never Heard Of
-Tags: article, article
+Tags: article
 Link: https://getpocket.com/explore/item/how-non-english-speakers-are-taught-this-crazy-english-grammar-rule-you-know-but-have-never-heard-of?utm_source=pocket-newtab
 Annote: See notes.
 
@@ -7278,7 +7278,7 @@ Media: link
 Title: Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens
 Author: Gilens, Martin
 Date: 2014-09-18
-Tags: article, article
+Tags: article
 Link: //www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B
 AltLink: https://archive.vn/rT5sU
 Annote: See notes.
@@ -7931,7 +7931,7 @@ Id: gov-uk-01
 Type: article
 Media: link
 Title: Genetic-technology Bill Enabling Innovation to Boost Food Security
-Tags: gmo, article, article
+Tags: gmo, article
 Link: https://www.gov.uk/government/news/genetic-technology-bill-enabling-innovation-to-boost-food-security
 AltLink: https://archive.vn/pKEmU
 Annote: See notes.
@@ -7966,7 +7966,7 @@ Id: graeber-01
 Type: article
 Media: link
 Title: Occupy Wall Street rediscovers the radical imagination, by David Graeber (The Gardian)
-Tags: article, article
+Tags: article
 Link: http://www.guardian.co.uk/commentisfree/cifamerica/2011/sep/25/occupy-wall-street-protest?fb=optOut
 Annote: See notes.
 
@@ -8042,7 +8042,7 @@ Subtitle: A Theory
 Author: Graeber, David
 Date: 2018
 Publisher: Simon & Schuster
-Tags: book, book, book
+Tags: book, book
 ASIN: 21372389
 Link: https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber-ebook/dp/B075RWG7YM/
 
@@ -8054,7 +8054,7 @@ Subtitle: The First 5,000 Years
 Author: Graeber, David
 Date: 2011
 Publisher: Melville House
-Tags: book, book, book, commons
+Tags: book, book, commons
 ISBN: 978-1933633-86-2
 Link: https://www.amazon.com/Debt-Updated-Expanded-First-Years-ebook/dp/B00Q1HZMCW/
 
@@ -8598,7 +8598,7 @@ Title: Tech guru Jaron Lanier
 Subtitle: The danger isn't that AI destroys us. It's that it drives us insane
 Author: Hattenstone, Simon
 Date: 2023-03-23
-Tags: article, article
+Tags: article
 Link: https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane
 AltLink: https://archive.vn/yJaph
 
@@ -8609,7 +8609,7 @@ Title: Blessed Unrest
 Subtitle: How the Largest Social Movement in History Is Restoring Grace, Justice, and Beau ty to the World
 Author: Hawken, Paul
 Date: 2007-05-10
-Tags: book, book
+Tags: book
 Link: https://www.amazon.com/dp/B000QCSA40/
 Annote: See notes.
 
@@ -9843,7 +9843,7 @@ Type: article
 Media: link
 Title: Conservatives Live In a Different Moral Universe--and here's why it matters
 Author: Jacobs, Tom
-Tags: article, link, article, link
+Tags: article, link
 Link: https://www.motherjones.com/politics/2009/04/conservatives-live-different-moral-universe8212and-heres-why-it-matters/
 AltLink: https://archive.vn/yMCq4
 Annote: See notes.
@@ -10076,7 +10076,7 @@ Author: Johnson, Robert A.
 Date: 1987
 Publisher: Harper
 Edition: Ill.
-Tags: book, book, book
+Tags: book, book
 ISBN: 0062504320
 ASIN: 102235
 Link: http://www.amazon.com/Ecstasy-Understanding-Psychology-Robert-Johnson/dp/0062504320/
@@ -10115,7 +10115,7 @@ Media: link
 Title: How to design the commons (or, Elinor Ostrom explained)
 Author: Jones, Zanetta
 Date: 2022-08-23
-Tags: article, article
+Tags: article
 Link: https://www.shareable.net/how-to-design-the-commons-or-elinor-ostrom-explained/
 AltLink: https://archive.vn/GIYFO
 Annote: See notes.
@@ -10126,7 +10126,7 @@ Media: link
 Title: Saul Alinsky's 13 Tried-and-True Rules for Creating Meaningful Social Change
 Author: Jones, Josh
 Date: 2017-02-21
-Tags: article, article
+Tags: article
 Link: https://www.openculture.com/2017/02/13-rules-for-radicals.html
 AltLink: https://archive.vn/b6MrD
 
@@ -10572,7 +10572,7 @@ Media: link
 Title: The Great Delusion Behind Twitter
 Author: Klein, Ezra
 Date: 2022-12-11
-Tags: important, community, article, article
+Tags: important, community, article
 Link: https://www.nytimes.com/2022/12/11/opinion/what-twitter-can-learn-from-quakers.html
 AltLink: https://archive.vn/X74tc
 
@@ -10582,7 +10582,7 @@ Media: link
 Title: The Imminent Danger of A.I. Is One We're Not Talking About
 Author: Klein, Ezra
 Date: 2023-02-26
-Tags: important, article, article
+Tags: important, article
 Link: https://www.nytimes.com/2023/02/26/opinion/microsoft-bing-sydney-artificial-intelligence.html
 AltLink: https://archive.vn/gaYg2
 
@@ -10716,7 +10716,7 @@ Title: Change the Story, Change the Future: A Living Economy for a Living Earth
 Author: Korten, David C.
 Date: 2015
 Publisher: Berrett-Koehler Publishers
-Tags: g, book, book, book
+Tags: g, book, book
 ASIN: 15805678
 Link: http://www.amazon.com/Change-Story-Future-Living-Economy/dp/1626562903/
 
@@ -10725,7 +10725,7 @@ Type: book
 Media: book
 Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David C.
-Tags: h, book, book, book
+Tags: h, book, book
 Link: http://www.amazon.com/Great-Turning-Empire-Earth-Community/dp/1887208089/
 
 Id: korten-09
@@ -10753,7 +10753,7 @@ Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David
 Date: 2017-02-02
 Publisher: Berrett-Koehler (2006), 402 pages
-Tags: article, greatturning, link, article, link
+Tags: article, greatturning, link, article
 ISBN: 1887208070
 ASIN: 854173
 Link: https://gaiaeducation.medium.com/the-great-turning-from-empire-to-earth-community-6cefa89e3eec
@@ -11154,7 +11154,7 @@ Media: link
 Title: America's War on Food Not Bombs
 Author: Lendman, Stephen
 Publisher: Oped News
-Tags: article, article, old:opednews-01
+Tags: article, old:opednews-01
 Link: http://www.opednews.com/articles/America-s-War-on-Food-Not-by-Stephen-Lendman-101009-275.html
 Annote: See notes.
 
@@ -11290,7 +11290,7 @@ Type: book
 Media: book
 Title: Temple of Love: A Journey into the Age of Sensual Fulfilment
 Author: Lichtenfels, Sabine
-Tags: book, book, book
+Tags: book, book
 Link: http://www.amazon.com/gp/product/3927266442/
 
 Id: lichtenfels-03
@@ -12429,7 +12429,7 @@ Media: book
 Title: Rules to Win By: Power and Participation in Union Negotiations
 Author: McAlevey, Jane F.
 Date: 2023-03-17
-Tags: book, book
+Tags: book
 Link: https://www.amazon.com/gp/product/B0BXB8MBJR
 Annote: See notes.
 
@@ -12485,7 +12485,7 @@ Type: article
 Media: link
 Title: The Vatican is distorting history around the doctrine of discovery
 Author: McNeil, Kent
-Tags: article, article
+Tags: article
 Link: https://www.theglobeandmail.com/opinion/article-the-vatican-is-distorting-history-around-the-doctrine-of-discovery/
 AltLink: https://archive.vn/7Hz8a
 Annote: See notes.
@@ -12523,7 +12523,7 @@ Id: medium-01
 Type: article
 Media: link
 Title: The Violent History Of Dance
-Tags: article, article
+Tags: article
 Link: https://medium.com/@davidblixt_72330/the-violent-history-of-dance-9bf72f03bdb3
 Annote: See notes.
 
@@ -12531,7 +12531,7 @@ Id: medium-02
 Type: article
 Media: link
 Title: Coronavirus Act Today or People Will Die
-Tags: article, article
+Tags: article
 Link: https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 Annote: See notes.
 
@@ -12574,7 +12574,7 @@ Id: medium-08
 Type: article
 Media: link
 Title: Self-Help Advice from a Single-Celled Organism
-Tags: humor, culture, article, article
+Tags: humor, culture, article
 Link: https://medium.com/muddyum/self-help-advice-from-a-single-celled-organism-42dd6c11d936
 Annote: See notes.
 
@@ -12589,7 +12589,7 @@ Id: medium-10
 Type: article
 Media: link
 Title: It's Time For the General Strike
-Tags: politics, culture, article, article
+Tags: politics, culture, article
 Link: https://medium.com/discourse/its-time-for-the-general-strike-3cac8f049b9
 Annote: See notes.
 
@@ -13113,7 +13113,7 @@ Id: moonmagazine-01
 Type: article
 Media: link
 Title: Gordon Hempton; We save what we love
-Tags: article, article
+Tags: article
 Link: http://moonmagazine.org/gordon-hempton-we-save-what-we-love-2013-02-14/
 Annote: See notes.
 
@@ -14177,7 +14177,7 @@ Id: nytimes-01
 Type: article
 Media: link
 Title: Follow up on the Hand Sanitizer profiteer
-Tags: article, article
+Tags: article
 Link: https://www.nytimes.com/2020/03/15/technology/matt-colvin-hand-sanitizer-donation.html
 Annote: See notes.
 
@@ -14193,7 +14193,7 @@ Id: nytimes-03
 Type: article
 Media: link
 Title: Officials: Students in Alabama Threw COVID Contest Parties
-Tags: culture, article, article
+Tags: culture, article
 Link: https://www.nytimes.com/aponline/2020/07/02/us/ap-us-virus-outbreak-covid-parties-alabama-1st-ld-writethru.html
 Annote: See notes.
 
@@ -14524,7 +14524,7 @@ Id: onezero-medium-01
 Type: article
 Media: link
 Title: The Simplest Way To Spot Coronavirus Misinformation On Social Media
-Tags: article, article
+Tags: article
 Link: https://onezero.medium.com/the-simplest-way-to-spot-coronavirus-misinformation-on-social-media-4b7995448071
 Annote: See notes.
 
@@ -14532,7 +14532,7 @@ Id: onezero-medium-02
 Type: article
 Media: link
 Title: The Solution to Information Overload Can't Be More Information
-Tags: culture, article, article
+Tags: culture, article
 Link: https://onezero.medium.com/all-information-is-shit-26eb7bc8be76
 Annote: See notes.
 
@@ -15422,7 +15422,7 @@ Id: piper-01
 Type: article
 Media: link
 Title: What Destroyed All of the Major Bronze Age Cities?
-Tags: culture, article, article
+Tags: culture, article
 Link: https://medium.com/history-of-yesterday/what-destroyed-all-of-the-major-bronze-age-cities-c07cd434aeaf
 Annote: See notes.
 
@@ -15571,7 +15571,7 @@ Media: link
 Title: Darwin Among the Machines: A Victorian Visionary's Prophetic Admonition for Saving Ourselves from Enslavement by Artificial Intelligence
 Author: Popova, Maria
 Date: 2022-09-15
-Tags: link, article, article, link
+Tags: link, article
 Link: https://www.themarginalian.org/2022/09/15/samuel-butler-darwin-among-the-machines-erewhon/
 AltLink: https://archive.vn/sTzUO
 Annote: See notes.
@@ -15583,7 +15583,7 @@ Title: Hannah Arendt on Loneliness as the Common Ground for Terror and How Tyran
 Author: Popova, Maria
 Date: 2016-12-20
 DateSeen: 2023-03-07
-Tags: link, article, article, link
+Tags: link, article
 Link: https://www.themarginalian.org/2016/12/20/hannah-arendt-origins-of-totalitarianism-loneliness-isolation/
 AltLink: https://archive.vn/cstf6
 
@@ -15594,7 +15594,7 @@ Title: The Banality of Evil: Hannah Arendt on the Normalization of Human Wickedn
 Author: Popova, Maria
 Date: 2017-02-07
 DateSeen: 2023-03-07
-Tags: article, article
+Tags: article
 Link: https://www.themarginalian.org/2017/02/07/hannah-arendt-the-banality-of-evil/
 AltLink: https://archive.vn/VkGc1
 
@@ -16106,7 +16106,7 @@ Media: link
 Title: The Swarm
 Author: Rafnel, Bruce
 Date: 2008-03-09
-Tags: article, article
+Tags: article
 Link: https://moria.whyayh.com/essay/swarm.html
 AltLink: https://archive.vn/73G3H
 
@@ -16866,7 +16866,7 @@ Title: None of the world's top industries would be profitable if they paid for t
 Author: Roberts, David
 Date: 2013-04-17
 DateSeen: 2023-04-13
-Tags: article, article
+Tags: article
 Link: https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
 AltLink: https://archive.vn/viisR
 Annote: See notes.
@@ -16937,7 +16937,7 @@ Id: rodgers-01
 Type: article
 Media: link
 Title: The One and Only Factor That Will Make You a Senior Developer
-Tags: programming, article, article
+Tags: programming, article
 Link: https://medium.com/swlh/the-one-and-only-factor-that-will-make-you-a-senior-developer-4fdd9d21b8c4
 Annote: See notes.
 
@@ -17164,7 +17164,7 @@ Title: Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Rela
 Author: Ryan, Christopher
 Date: 2012
 Publisher: HarperCollins
-Tags: book, book, book
+Tags: book, book
 ASIN: 10020301
 Link: http://www.amazon.com/Sex-Dawn-Stray-Modern-Relationships/dp/0061707813/
 
@@ -17241,14 +17241,14 @@ Media: book
 Title: Facing the Climate Emergency: How to Transform Yourself with Climate Truth
 Author: Salamon, Margaret Klein
 Date: 2020-04-21
-Tags: book, book
+Tags: book
 Link: https://www.amazon.com/gp/product/B07V5D4MMT
 
 Id: salon-01
 Type: article
 Media: link
 Title: Trump's voters will never admit they were wrong - even in the face of national catastrophe
-Tags: article, article
+Tags: article
 Link: https://www.salon.com/2020/04/13/trumps-voters-will-never-admit-they-were-wrong--even-in-the-face-of-national-catastrophe/
 Annote: See notes.
 
@@ -17551,7 +17551,7 @@ Media: link
 Title: It's Time We Reclaim Our Focus
 Author: Schwartz, Casey
 Date: 2022-02-16
-Tags: article, article
+Tags: article
 Link: https://www.nytimes.com/2022/02/16/well/mind/focus-johann-hari.html
 AltLink: https://archive.vn/DCadD
 
@@ -17566,7 +17566,7 @@ Id: science-slashdot-01
 Type: article
 Media: link
 Title: Ten minute coronavirus test for 1 could be game changer
-Tags: article, article
+Tags: article
 Link: https://science.slashdot.org/story/20/03/16/2028217/ten-minute-coronavirus-test-for-1-could-be-game-changer
 Annote: See notes.
 
@@ -17991,7 +17991,7 @@ Title: Morphic Resonance: The Nature of Formative Causation
 Author: Sheldrake, Rupert
 Date: 2009
 Publisher: Inner Traditions/Bear & Company
-Tags: book, book, book
+Tags: book, book
 ASIN: 207304
 Link: http://www.amazon.com/Morphic-Resonance-Nature-Formative-Causation/dp/1594773173/
 
@@ -18378,7 +18378,7 @@ Title: Here's Why Your Phone Can't Capture California's Apocalypse Sky
 Author: Smith, Thomas
 Date: 2020-09-11
 Publisher: The Canister
-Tags: c, photography, engineering, article, article
+Tags: c, photography, engineering, article
 Link: https://onezero.medium.com/heres-why-your-phone-can-t-capture-california-s-apocalypse-sky-3c98c43b810
 AltLink: https://archive.vn/OyEKz
 Annote: See notes.
@@ -18888,7 +18888,7 @@ Type: book
 Media: book
 Title: Basic Income for the Open Minded
 Author: Standing, Guy
-Tags: book, book, book
+Tags: book, book
 Link: https://www.amazon.com/Basic-Income-Open-Minded-Guy-Standing-ebook/dp/B074SZG944/
 
 Id: standup-01
@@ -18953,7 +18953,7 @@ Type: book
 Media: book
 Title: This Thing We Call Sex
 Author: Steinberg, David
-Tags: book, book, book
+Tags: book, book
 Link: http://www.amazon.com/This-Thing-Call-Sex-Radically/dp/1620156911/
 
 Id: stephen-01
@@ -19061,7 +19061,7 @@ Title: When God Was A Woman
 Author: Stone, Merlin
 Date: 1990
 Publisher: Marboro Books (1990), 265 pages
-Tags: book, book
+Tags: book
 ISBN: 0880295333
 ASIN: 112299
 Link: http://www.amazon.com/When-God-Woman-Merlin-Stone/dp/015696158X/
@@ -19072,7 +19072,7 @@ Media: link
 Title: Commoning our way through the climate crisis
 Author: Stone, Lucy
 Date: 2022-11-09
-Tags: article, article
+Tags: article
 Link: https://www.shareable.net/commoning-our-way-through-the-climate-crisis/
 AltLink: https://archive.vn/Oodi4
 Annote: See notes.
@@ -19205,7 +19205,7 @@ Id: struggleforfreedom-blogg-no-01
 Type: article
 Media: link
 Title: The Society We Should Strive For
-Tags: article, article
+Tags: article
 Link: http://struggleforfreedom.blogg.no/1320873951_the_society_we_should.html
 Annote: See notes.
 
@@ -19466,7 +19466,7 @@ Id: tamera-02
 Type: article
 Media: link
 Title: Tamera Manifesto
-Tags: article, article, article
+Tags: article
 Link: http://www.tamera.org/manifesto/
 Annote: See notes.
 
@@ -19621,7 +19621,7 @@ Id: technologyreview-01
 Type: article
 Media: link
 Title: Internet That Never Forgets Bad For Young People Online Permanence
-Tags: article, article
+Tags: article
 Link: https://www.technologyreview.com/s/614941/internet-that-never-forgets-bad-for-young-people-online-permanence/
 Annote: See notes.
 
@@ -20733,7 +20733,7 @@ Id: tufekci-01
 Type: article
 Media: link
 Title: This Overlooked Variable Is the Key to the Pandemic
-Tags: covid, science, article, article
+Tags: covid, science, article
 Link: https://medium.com/the-atlantic/this-overlooked-variable-is-the-key-to-the-pandemic-e71fe9bcb315
 Annote: See notes.
 
@@ -20862,7 +20862,7 @@ Id: u-of-arkansas-01
 Type: article
 Media: link
 Title: Physicists build circuit that generates clean, limitless power from graphene
-Tags: science, physics, article, article
+Tags: science, physics, article
 Link: https://phys.org/news/2020-10-physicists-circuit-limitless-power-graphene.html
 Annote: See notes.
 
@@ -21203,7 +21203,7 @@ Media: link
 Title: Let's all welcome CorPersons to the human world!
 Author: Valenza, Chaz
 Publisher: Oped News
-Tags: article, article, old:opednews-03
+Tags: article, old:opednews-03
 Link: http://www.opednews.com/articles/Let-s-all-welcome-CorPerso-by-Chaz-Valenza-100125-561.html
 
 Id: vamosi-01
@@ -21241,7 +21241,7 @@ Media: link
 Title: What Nobel Laureate Elinor Ostrom's early work tells us about defunding the police
 Author: Vansintjan, Aaron
 Date: 2020-06-16
-Tags: article, article
+Tags: article
 Link: https://www.shareable.net/what-one-nobel-prize-winning-economist-can-tell-us-about-defunding-and-abolishing-the-police/
 AltLink: https://archive.vn/HpJdO
 Annote: See notes.
@@ -22541,7 +22541,7 @@ Type: article
 Media: link
 Title: Dictator
 Date: 2022-12-20
-Tags: article, link, article, link
+Tags: article, link
 Link: https://en.wikipedia.org/wiki/Dictator
 AltLink: https://tinyurl.com/2upm6y8h https://web.archive.org/web/20221220041330/https://en.wikipedia.org/wiki/Dictator
 
@@ -22550,7 +22550,7 @@ Type: article
 Media: link
 Title: Bureaucracy
 Date: 2023-11-09
-Tags: article, link, article, link
+Tags: article, link
 Link: https://en.wikipedia.org/wiki/Bureaucracy
 AltLink: https://tinyurl.com/yfe64ut3 https://web.archive.org/web/20231109214150/https://en.wikipedia.org/wiki/Bureaucracy
 
@@ -22568,7 +22568,7 @@ Type: article
 Media: link
 Title: History of Facebook
 Date: 2021-12-08
-Tags: article, link, article, link
+Tags: article, link
 Link: https://en.wikipedia.org/wiki/History_of_Facebook
 AltLink: https://archive.vn/1jdBr
 Annote: See notes.
@@ -22578,7 +22578,7 @@ Type: article
 Media: link
 Title: Turning the other cheek
 Date: 2023-04-15
-Tags: article, link, article, link
+Tags: article, link
 Link: https://en.wikipedia.org/wiki/Turning_the_other_cheek
 AltLink: https://archive.vn/chy57
 Annote: See notes.
@@ -23105,7 +23105,7 @@ Type: article
 Media: link
 Title: When Good Men Do Nothing
 Author: Wright, Jim (Stonekettle)
-Tags: link, article, article, link
+Tags: link, article
 Link: https://www.stonekettle.com/2022/06/when-good-men-do-nothing.html
 AltLink: https://archive.vn/uYzhF
 Annote: See notes.
@@ -23370,7 +23370,7 @@ Title: Effects of Short Video Addiction on the Motivation and Well-Being of Chin
 Author: Ye, Jian-Hong
 Date: 2022-05-10
 DateSeen: 2023-03-11
-Tags: article, article
+Tags: article
 Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127725/#:~:text=Because%20short%20videos%20are%20characterized,can%20gradually%20create%20addictive%20behaviors.
 AltLink: https://archive.vn/dwTrL
 
@@ -24478,7 +24478,7 @@ Media: link
 Title: 72 words for love
 Author: zadenalove
 Date: 2016-03-13
-Tags: link, article, article, link
+Tags: link, article
 Link: https://zadenalove.wordpress.com/2016/03/13/72-words-for-love/
 AltLink: https://archive.vn/PIUaM
 
