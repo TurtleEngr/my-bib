@@ -15150,8 +15150,8 @@ Media: book
 Title: The Different Drum: Community Making and Peace
 Author: Peck, Scott
 Date: 2010-05-11
-Tags: book, book, book
-Link: https://www.amazon.com/Different-Drum-Community-Making-Peace-ebook/dp/B003LL3K5M/
+Tags: important
+Link: https://www.amazon.com/dp/B003LL3K5M/
 
 Id: peck-05
 Type: article
