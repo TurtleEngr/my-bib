@@ -12769,10 +12769,11 @@ Id: meyers-01
 Type: article
 Media: link
 Title: Nonviolence and Its Violent Consquences
+Date: 2007-07-27
 Author: Meyers, William
 Tags: link, important, link
 Link: https://www.iiipublishing.com/books/nonviolence.htm
-AltLink: https://archive.vn/aN4Fj
+AltLink: https://tinyurl.com/ynxyhtvt https://web.archive.org/web/20070727103243/http://www.iiipublishing.com/books/nonviolence.htm
 Annote: See notes.
 
 Id: mi-owa-mi-01
