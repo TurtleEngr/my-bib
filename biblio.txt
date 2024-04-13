@@ -16448,10 +16448,19 @@ Type: site
 Media: org
 Title: Summit: A Cry From the Future
 Date: 2024-02-10
-Publisher: Re/Culture Media
+Publisher: Re/Culture
 Link: https://thevillageoflovers.com/summit-all-access
 AltLink: https://tinyurl.com/mr4cykvc https://web.archive.org/web/20240302184731/https://thevillageoflovers.com/summit-all-access
-Annote: A 5 day summit, 8am to 3pm each day.
+Annote: See notes.
+
+Id: reculture-02
+Type: site
+Media: org
+Title: Re/Culture Education
+Date: 2024-02-10
+Publisher: Re/Culture
+Link: https://www.skool.com/reculture-education
+Annote: See notes.
 
 Id: redbooks-ibm-01
 Type: article
