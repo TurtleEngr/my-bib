@@ -4421,6 +4421,17 @@ Title: Dice.com
 Tags: home, job, jobsite, link
 Link: http://www.dice.com/
 
+Id: dickie-01
+Type: article
+Media: link
+Title: Explainer-How is climate change driving dangerous 'wet-bulb' temperatures?
+Author: Dickie, Gloria
+Date: 2023-08-09
+Publisher: Reuters
+Link: https://news.yahoo.com/explainer-climate-change-driving-dangerous-140244151.html
+AltLink: https://tinyurl.com/2ad5nh8y https://web.archive.org/web/20230810005133/https://news.yahoo.com/explainer-climate-change-driving-dangerous-140244151.html/
+Annote: See notes.
+
 Id: digitaldreams-01
 Type: article
 Media: link
