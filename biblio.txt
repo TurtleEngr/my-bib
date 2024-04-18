@@ -22062,6 +22062,16 @@ Title: Global DNS Propagation Checker - What's My DNS?
 Tags: tools, link
 Link: https://www.whatsmydns.net/
 
+Id: wheal-01
+Type: book
+Media: Ebook
+Title: Recapture the Rapture: Rethinking God, Sex, and Death in a World That's Lost Its Mind
+Author: Wheal, Jamie
+Date: 2021-04-27
+Publisher: Harper
+Link: https://www.amazon.com/gp/product/B08DNT8B9B/
+ASIN: B08DNT8B9B
+
 Id: wheaton-01
 # Old: mcmichael-01
 Type: media
