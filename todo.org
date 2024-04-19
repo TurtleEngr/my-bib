@@ -224,6 +224,7 @@ Annote: Added web.archive.org to AltLink
   - Subtitle: use the tag or put subtitle after a ':' in the Title? Do
     one or the other, not both. Are there articles with subtitles or
     only books?
+  - grep Title: biblio.txt  | sed 's/Title:/Title/' |  grep ': '
 - Fix "Authors:" to be "& First Last" or "First Last, First Last, &
   First Last"
 - Fix up the generation of the "bib" table fields. For example
