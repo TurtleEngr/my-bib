@@ -1,4 +1,3 @@
-
 * bib todo
 ** AltLink: Replace archive.today links with archive.org links
 *** Job Request
@@ -222,22 +221,27 @@ Annote: Added web.archive.org to AltLink
 ** Fix
 - Reindex opednews items to be under Author's name.
 - Add Place, Edition, and Subtitle - in progress?
-- Fix Authors to be "& First Last" or "First Last, First Last, & First Last"
-
-- Fix up the generation of the bib table. (?)
+  - Subtitle: use the tag or put subtitle after a ':' in the Title? Do
+    one or the other, not both. Are there articles with subtitles or
+    only books?
+- Fix "Authors:" to be "& First Last" or "First Last, First Last, &
+  First Last"
+- Fix up the generation of the "bib" table fields. For example
+  Subtitles?
 - Fix the formatting, see etc/bib-template.xml
   - [Id][Author][Date][Title][Publisher][ISBN][Link]
 ** Add tags [TBD]
 - Subtitle:
   - get this from old Title tag
-- Edition: 2nd, 3rd, Nth
+- Edition use: 2nd, 3rd, Nth
   - get this from old Publisher tag
-  - empty, if 1st, or First
-  - Revision, Revised: Rev.
-  - Reprint, Reissue: Rep.
-  - Illustrated: Ill.
-  - Extended: Ext.
+  - leave empty, if 1st, or First
+  - Revision, Revised, use: Rev.
+  - Reprint, Reissue, use: Rep.
+  - Illustrated use: Ill.
+  - Extended use: Ext.
 - Place: address, city, state, country
+  - optional
   - get this from old Publisher tag
 - If Id is changed, append to Annote: Old: Id.
 ** Format tags (TBD)
