@@ -410,7 +410,7 @@ Link: http://www.alternet.org/story/14399/
 Id: altpr-01
 Type: site
 Media: org
-Title: Alternative Press Review :: Your Guide Beyond the Mainstream
+Title: Alternative Press Review: Your Guide Beyond the Mainstream
 Tags: home, eco, link
 Link: http://www.altpr.org/
 
@@ -5787,7 +5787,7 @@ Id: erma-wikidot-01
 Type: site
 Media: site
 Title: ERMA
-Subtitle:: Welcome to ERMA's Wiki
+Subtitle: Welcome to ERMA's Wiki
 Tags: toolsw, appweb, nagios, link
 Link: http://erma.wikidot.com/
 
@@ -8644,7 +8644,8 @@ Link: http://hebig.org/blogs/archives/main/000962.php
 Id: hedges-01
 Type: media
 Media: video
-Title: Chris Hedges "The Death of Israel: How a Settler Colonial State Destroyed Itself"
+Title: The Death of Israel
+Subtitle: How a Settler Colonial State Destroyed Itself
 Author: Hedges, Chris
 Date: 2024-01-29
 Link: https://www.youtube.com/watch?v=qlcqsKvTSPw&t=4170s
@@ -8951,7 +8952,7 @@ Link: http://www.holdman.com/christmas/
 Id: hollywoodcamerawork-01
 Type: media
 Media: video
-Title: Hollywood Camera Work :: Main :: Hollywood Camera Work
+Title: Hollywood Camera Work
 Tags: video, link
 Link: http://www.hollywoodcamerawork.com/
 
@@ -9793,7 +9794,8 @@ ASIN: 16059679
 Id: ipcop-01
 Type: site
 Media: product
-Title: IPCop.org :: The bad packets stop here!
+Title: IPCop.org
+Subtitle: The bad packets stop here!
 Tags: toolsw, other, link
 Link: http://www.ipcop.org/index.php
 
@@ -13258,7 +13260,7 @@ Link: http://moria.whyayh.com/cgi-bin/faq
 Id: moria-whyayh-06
 Type: site
 Media: site
-Title: :: SiteBar ::
+Title: SiteBar
 Tags: work, set2010, link
 Link: http://moria.whyayh.com/sitebar/index.php?uniq=1289329372
 
@@ -13765,7 +13767,7 @@ Link: http://www.network-tools.com/default.asp?prog=httphead&amp;Netnic=whois.ar
 Id: neuralware-01
 Type: article
 Media: link
-Title: ::: NeuralWare; Products; NeuralWorks Professional II/PLUS :::
+Title: NeuralWare; Products; NeuralWorks Professional II/PLUS
 Tags: toolsw, appdesktop, neuralnet, link
 Link: http://www.neuralware.com/products_pro2.jsp
 
@@ -21201,7 +21203,7 @@ Link: https://userbase.kde.org/Kdenlive/Manual/Effects#Using_Keyframes_in_effect
 Id: ushahidi-01
 Type: site
 Media: site
-Title: Ushahidi :: Home
+Title: Ushahidi
 Tags: toolsw, appinternet, link
 Link: http://ushahidi.com/
 
@@ -23461,7 +23463,8 @@ Link: http://www.yesmagazine.org/new-economy/trade-rule-illegal-favor-local-busi
 Id: yesmagazine-02
 Type: article
 Media: link
-Title: Be Happy Anyway :: What is the pursuit of happiness?
+Title: Be Happy Anyway
+Subtitle: What is the pursuit of happiness?
 Tags: home, tofile, set2009, link
 Link: http://www.yesmagazine.org/article.asp?id=3020
 
