@@ -20032,19 +20032,19 @@ Tags: video
 Link: http://www.ted.com/talks/dan_pallotta_the_way_we_think_about_charity_is_dead_wrong.html&quot;
 Annote: See notes.
 
-Id: ted-32
+Id: ted-09
 Type: media
 Media: video
 Title: Our story of rape and reconciliation
-Tags: culture, video
+Tags: culture, video, old:ted-32
 Link: https://www.ted.com/talks/thordis_elva_and_tom_stranger_our_story_of_rape_and_reconciliation
 Annote: See notes.
 
-Id: ted-47
+Id: ted-10
 Type: media
 Media: video
 Title: Who controls the world?
-Tags: video
+Tags: video, old:ted-47
 Link: https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world
 
 Id: teenautoclub-01
