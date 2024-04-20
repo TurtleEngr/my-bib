@@ -20721,7 +20721,15 @@ Media: video
 Title: TROM II: A Message To The Aliens
 Date: 2023
 Link: https://www.tromsite.com/documentaries/trom2/
-Annote: See notes.
+Annote: Duration: 37 parts, 14 hours. See notes.
+
+Id: trom-02
+Type: media
+Media: video
+Title: Duration: 4 parts, 5 hours
+Date: 2023
+Link: https://www.tromsite.com/
+Annote: Duration: 4 parts, 5 hours. See notes.
 
 Id: truecrypt-01
 Type: site
