@@ -219,23 +219,23 @@ Annote: Added web.archive.org to AltLink
 #+END_EXPORT
 
 ** Fix
+- Reindex ted-?? items to be under Author's name.
+  - append old Id to Tags: with: old:Id
 - Reindex opednews items to be under Author's name.
-- Add Place, Edition, and Subtitle - in progress?
-  - Subtitle: use the tag or put subtitle after a ':' in the Title? Do
-    one or the other, not both. Are there articles with subtitles or
-    only books?
-  - grep Title: biblio.txt  | sed 's/Title:/Title/' |  grep ': '
+  - append old Id to Tags: with: old:Id
 - Fix "Authors:" to be "& First Last" or "First Last, First Last, &
   First Last"
-- Fix up the generation of the "bib" table fields. For example
-  Subtitles?
+- Fix up the generation of the "bib" table fields. For example,
+  Subtitles.
 - Fix the formatting, see etc/bib-template.xml
   - [Id][Author][Date][Title][Publisher][ISBN][Link]
 ** Add tags [TBD]
+- Add Place, Edition, and Subtitle - in progress
 - Subtitle:
-  - get this from old Title tag
+  - get this from the Title tag
+  - grep Title: biblio.txt  | sed 's/Title:/Title/' |  grep ': '
 - Edition use: 2nd, 3rd, Nth
-  - get this from old Publisher tag
+  - get this from Publisher tag
   - leave empty, if 1st, or First
   - Revision, Revised, use: Rev.
   - Reprint, Reissue, use: Rep.
@@ -243,8 +243,7 @@ Annote: Added web.archive.org to AltLink
   - Extended use: Ext.
 - Place: address, city, state, country
   - optional
-  - get this from old Publisher tag
-- If Id is changed, append to Annote: Old: Id.
+  - get this from Publisher tag
 ** Format tags (TBD)
 - Bib Title:
   - if Title: '[Title]'

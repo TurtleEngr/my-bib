@@ -2,6 +2,10 @@
 Id: achbar-01
 <note>Media: DVD; Book by Joel Bakan</note>
 
+Id: achor-01
+<note>3 Gratitudes<br /> Journaling<br /> Exercise<br /> Meditation<br
+/></note>
+
 Id: ackoff-01
 <note>Russell L. Ackoff. In the Circular Organization, a democratic
 hierarchy, everyone participates directly or indirectly in decisions
@@ -13,6 +17,17 @@ Id: agnos-01
 Id: alex-01
 <note>Women hunt in vast majority of foraging societies, upending old
 stereotypes</note>
+
+Id: allen-01
+# Old: youtube-074
+<note><a
+href="http://www.yesmagazine.org/issues/food-for-everyone/growing-power-in-an-urban-food-desert"
+target="_blank">Food for Everyone, Growing Power in an Urban Food
+Desert</a> - Yes Magazine article and video</p> <p><a
+href="http://en.wikipedia.org/wiki/Will_Allen_(urban_farmer)"
+target="_blank">Wikipedia: Will Allen (urban farmer)</a></p> <p><a
+href="http://en.wikipedia.org/wiki/Growing_Power"
+target="_blank">Wikipedia: Growing Power</a></note>
 
 Id: alperovitz-01
 <note>This illustrated presentation from distinguished historian and
@@ -66,6 +81,10 @@ Gebru.</note>
 Id: benjamin-01
 <note>Fun</note>
 
+Id: berry-02
+# Old: youtube-088
+<note>Amazing!</note>
+
 Id: black-02
 <note>Compiled from the perspective of Eknath Easwaran of the Blue
 Mountain Center of Meditation</note>
@@ -84,6 +103,13 @@ leading figure in the global movement to reclaim the commons, bucks
 the rising tide of anti-government extremism and free market ideology
 to show how commercial interests are undermining our collective
 interests.</note>
+
+Id: bonar-01
+# Old: youtube-085
+<note>Really funny magician.</note>
+
+Id: brand-04
+<note>Excellent analysis.</note>
 
 Id: brin-01
 <note><p>the core essential fact about human nature.</p>
@@ -115,9 +141,6 @@ https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and<br>
 https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275</p>
 </note>
 
-Id: brand-04
-<note>Excellent analysis.</note>
-
 Id: browne-01
 <note>Media: DVD</note>
 
@@ -139,6 +162,13 @@ Popova [popova-01]</note>
 Id: butler-02
 <note>Part of "A First Year in Canterbury Settlement with Other Early
 Essays", by Samuel Butler, 1914.</note>
+
+Id: cain-01
+<note>Right on! <ol> <li>Stop the maddness for <i>constant</i> group
+work. (More privacy and autonomy is needed).</li> <li>Go to the
+wilderness--have your own revalations&lt;./li&gt;</li> <li>Look at
+what is in your suitcase, and share them, but introverts be sure to at
+least occasionsionly share what is in your suitcase.</li> </ol></note>
 
 Id: cars-mclarcom-01
 <note>Interesting. But what about rocks, bugs, or birds?<br /> Source:
@@ -170,6 +200,9 @@ goals were aligned with the public good.</p>
 becoming self-aware, but in the sense of corporations recognizing the
 consequences of their behavior. </p>
 </note>
+
+
+
 
 Id: chomsky-01
 <note>ChatGPT and similar programs are, by design, unlimited in what
@@ -214,9 +247,6 @@ values Myth #3 - People know that motivates them to take action -
 Social norms work better (example street musicians, seeding with money
 is not enough, they should have friend put money in their
 pot. </pre></note>
-
-
-
 
 Id: culture-01
 <note>'When it comes to someone fighting for his life on death row or
@@ -336,6 +366,16 @@ survived. See:[[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&sourc
 Id: feynman-01
 <note>Link to a number of interview videos.</note>
 
+Id: feynman-02
+# Old: youtube-109
+<note>"The problem with playing tricks on highly intelligent people is
+that the time it takes for them to realize what exactly has happened
+from the moment they see something wrong is too short to provide any
+pleasure." He said this after a prank he played on Teller (with
+Teller's desk drawer).</p> <p>At 5:48 Richard Feynman at Princeton
+meets great men (Richard learns that great men remember and argue
+fast)</note> 1 418 261
+
 Id: fonda-01
 <note>Patriarchy steals women's voices (at about age 15), and it
 steals men's hearts (at about age 5)</p> <p>Cindy Sheehan: We're
@@ -347,11 +387,42 @@ Fonda: Life's third act</a> - TED video</note>
 Id: fridman-01
 <note>See also Jonathan Haidt</note>
 
+Id: fried-01
+# Old: youtube-010
+<note>Why people can't seem to get work done at work.</p> <p>When
+asked, where got when you really need to get something done? Most
+people will answer with:</p> <ol> <li>A place, a location, or a
+room</li> <li>A moving object (e.g. train, plane)</li> <li>A time</li>
+</ol> <p>No one answers with "the office".</p> <p>The "day" is
+shredded in to "work moments".</p> <p>Creative people need long
+stretches of time to get work done. Duh, this has been measured by
+many consultants (see Tom DeMarco): it takes 20min to get in a
+productive "flow" mode. Good metaphor: would you say you slept well if
+you were woken up once an hour, through the night? Work is like
+that.</p> <p>The main problem: MM, Meetings and Manager.</p> <p>Some
+things to try:</p> <ul> <li>No talk Thursdays, or maybe just no talk
+Thursday afternoons.</li> <li>Use passive communication (email, IM,
+etc.) - but you can not be required to answer right away.</li>
+<li>Just cancel meetings.</li> </ul></note>
+
+Id: fromm-01
+# Old: youtube-042
+<note>Even more relevant to our current culture.</p> <p><a
+href="http://www.erich-fromm.de/data/pdf/2008a-e.pdf"
+target="_blank">2008a-e The Automaton Citizen and Human Rights</a> -
+pdf</p> <p><a href="http://www.erich-fromm.de/e/play.php?shownews=81"
+target="_blank">Other Articles by Erich Fromm</a></note>
+
 Id: games-slashdot-01
 <note><a href="http://www.webcitation.org/61C1HfUo4"
 target="_blank">Geeks Beat Jocks as Bar Fight Breaks Out Over Control
 of the TV</a></p> <p><a href="http://us.battle.net/sc2/en/"
 target="_blank">StarCraft Home</a></note>
+
+Id: gates-01
+# Old: youtube-062
+<note>We are living in the scenario he showed in the talk, 5 years
+ago!</note>
 
 Id: gatto-01
 <note>This a kindle book, from original edition 1992. The ISBN is for
@@ -362,6 +433,14 @@ Id: gatto-06
 <note>This is the 2003 paperback edition. The Link is to a 2005 online
 edition. The AltLink is to my copy of the 2003 to 2004 online
 edtion.</note>
+
+Id: gatto-09
+# Old: youtube-090
+<note>This is a remix that combines a number of separate
+postings. This is really good overview of what education should
+be.</p> <p><a href="https://www.youtube.com/watch?v=0A4CCvheAac"
+target="_blank">John Taylor Gatto: Elite Schooling - Part 2 of 2 (A
+summary of the books he has written.</a></note>
 
 Id: gene-01
 <note>by Mean Gene</p> <p>Description has the parts list.</p> <p>Also:
@@ -641,6 +720,15 @@ Id: lanier-01
 <note>This is a continuation of his book "You are not a gadget". 448
 pages</note>
 
+Id: lanier-04
+# Old: youtube-002
+<note>The Internet mistake of "give it away for free, and you will be
+rewarded"</p> <p><a
+href="http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307269647/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1277582930&amp;sr=8-1"
+target="_blank">You Are Not a Gadget: A Manifesto, by Jaron Lanier</a>
+- Read the book's Editorial Review section for a good Q&amp;A with
+Jaron, that summarizes his initial points.</note>
+
 Id: le-01
 <note>What they are doing is basic bio-feedback.</note>
 
@@ -795,6 +883,22 @@ Id: medium-10
 <note>by Lauren Martinchek. If our lawmakers won't look out for us,
 it's time to take matters in to our own hands.</note>
 
+Id: mendelssohn-01
+# Old: youtube-095
+<note>This is my own recording and edit of this talk.</p> <p><a
+href="https://www.youtube.com/watch?v=f47LGny-CiU"
+target="_blank">Tamera - Benjamin von Mendelssohn - Part 2 of
+2</a></p> <p><a
+href="http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/ref=asap_bc?ie=UTF8"
+target="_blank">"The Sacred Matrix: From the Matrix of Violence to the
+Matrix of Life, The Foundation for a New Civilization"</a> - Book by
+Dieter Duhm. This book gives a pretty complete overview of the group's
+vision.</p> <p><a href="http://www.tamera.org/"
+target="_blank">Tamera's main web site</a> - web site</p> <p><a
+href="https://www.youtube.com/channel/UCe8-23wgIRspP8paQif-6Vg"
+target="_blank">Tamera's youtube channel - Grace Media</a> -
+videos</note>
+
 Id: metaballstudios-01
 <note>Tiny ships all the way up to Ring World</p> <p>Other size
 comparisions: <a
@@ -849,6 +953,23 @@ Id: mitchell-01
 https://www.nytimes.com/2023/01/26/opinion/the-left-purity-politics.html?showTranscript=1
 The Left is Eating Itself</note>
 
+Id: molyneux-02
+# Old: youtube-051
+<note>My problem with this libertarian view (From "The ecstasy of
+influence", below at 2012-04-10): "The power of a gift economy remains
+difficult for the empiricists of our market culture to understand. In
+our times, the rhetoric of the market presumes that everything should
+be and can be appropriately bought, sold, and owned--a tide of
+alienation lapping daily at the dwindling redoubt of the
+unalienable. In free-market theory, an intervention to halt
+propertization is considered "paternalistic," because it inhibits the
+free action of the citizen, now reposited as a "potential
+entrepreneur." Of course, in the real world, we know that
+child-rearing, family life, education, socialization, sexuality,
+political life, and many other basic human activities require
+insulation from market forces. In fact, paying for many of these
+things can ruin them.</note>
+
 Id: moonmagazine-01
 <note>There are fewer than a dozen quiet places left in the United
 States. Even in our wilderness areas and national parks, the average
@@ -889,6 +1010,30 @@ serious threat to society, he can be held indefinitely (eg. life). To
 summarize: The Norwegian prison system does not release inmates
 according to when society is ready to take them back, but when the
 inmates are ready to be a part of society again.</note>
+
+Id: morieux-02
+# Old: youtube-008
+<note><a
+href="http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.webm">local
+archive</a></p> <p>Really excellent points. I think most of this can
+be used as a starting point by any New Culture type companies. It is
+better than the Democratic Corporation concept that I've read.</p>
+<p>Complexity makes jobs very stressful and unproductive for
+everyone.</p>Simple rules for Smart Simplicity <ol> <li> <p>Understand
+what your people do (what is their real work?)</p> </li> <li>
+<p>Reinforce integrators (give middle mgrs the power to make others
+cooperate, remove layers, less rules, more discretionary power to the
+mgrs)</p> </li> <li> <p>Increase the total quantity of power (empower
+everybody, enough power so they can take risks and cooperate more,
+because they have more control)</p> </li> <li> <p>Extend the shadow of
+the future (create feedback loops to show consequences to actions, for
+example have design engineers follow their product through the
+lifecycle)</p> </li> <li> <p>Increase reciprocity (remove buffers that
+make us self-sufficient, so that we will have to cooperate)</p> </li>
+<li> <p>Reward those who cooperate (blame is not for failure, blame is
+for failing to help, or failing to ask for help)</p> </li> </ol>
+<p>The real battle is not against our competitors, it is against our
+own bureaucracies.</note>
 
 Id: newcomb-01
 <note>See also [mcneil-01]</note>
@@ -938,11 +1083,33 @@ Id: nytimes-03
 organized "COVID-19" parties as a contest to see who would get the
 virus first, officials said.</note>
 
+Id: o-duinn-01
+# Old: youtube-012
+<note><pre> Release Engineers != Developers developers build
+"products" release engineers build "pipelines" operation engineers
+keep it going Single Track The release schedule is as predictable as
+your riskiest project Project branches Completed projects ship on
+schedule Late/risky projects slip to next release To support project
+branches: use the exact same servers and processes to build any
+branch. </pre></note>
+
 Id: o-keefe-01
 <note>It improves the survival of the community.</note>
 
 Id: oliver-01
 <note>Another good rant</note>
+
+Id: oliver-02
+# Old: youtube-151
+Id: youtube-151
+<note>John Oliver discusses how the histories of policing and white
+supremacy are intertwined, the roadblocks to fixing things, and some
+potential paths forward.</p> <p>Great rant! He ends with viral video
+by Kimberly Jones.</p> <p>Here Trevor Noah interviews Kimberly Jones
+on June 19: <a
+href="https://www.youtube.com/watch?v=U1k9APedIUY">Kimberly Jones -
+Speaking Out About Black Experiences in America | The Daily Social
+Distancing Show</a></note>
 
 Id: olson-01
 <note><b>Gerrymandering solution.</b></p> <p>Here's a link to Brian's
@@ -1029,6 +1196,31 @@ transcript. There is no mention of the Gaia Theory. The climate
 descriptions are all a result of inorganic
 processes. Disappointing. However the photography is stunning."</note>
 
+Id: perel-02
+<note>In long-term relationships, we often expect our beloved to be
+both best friend and erotic partner.</p> <p>So we come to one person,
+and we basically are asking them to give us what once an entire
+village used to provide. Give me belonging, give me identity, give me
+continuity, but give me transcendence and mystery and awe all in
+one. Give me comfort, give me edge. Give me novelty, give me
+familiarity. Give me predictability, give me surprise. And we think
+it's a given, and toys and lingerie are going to save us with
+that.</p> <p>So if there is a verb, for me, that comes with love, it's
+"to have." And if there is a verb that comes with desire, it is "to
+want." In love, we want to have, we want to know the beloved. We want
+to minimize the distance. We want to contract that gap. We want to
+neutralize the tensions. We want closeness. But in desire, we tend to
+not really want to go back to the places we've already gone. Forgone
+conclusion does not keep our interest. In desire, we want an Other,
+somebody on the other side that we can go visit, that we can go spend
+some time with, that we can go see what goes on in their red-light
+district. You know? In desire, we want a bridge to cross. Or in other
+words, I sometimes say, fire needs air. Desire needs space. And when
+it's said like that, it's often quite abstract.</p> <p>Book: <a
+href="https://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence-ebook/dp/B000UODXP0/"
+target="_blank">Mating in Captivity: Unlocking Erotic Intelligence, by
+Esther Perel</a></note>
+
 Id: perform-01
 <note>Beautiful</note>
 
@@ -1060,6 +1252,11 @@ Id: popova-01
 
 Id: posada-01
 <note>Delayed Gratification</note>
+
+Id: potter-01
+# Old: youtube-113
+<note>More: <a href="WillPotter.com/CMU">WillPotter.com/CMU</a> -
+notes</p> <p>The solution is transparency.</note>
 
 Id: rafnel-01
 <note>This was taken around noon Wed 2020-09-09 at Redwood City,
@@ -1120,8 +1317,35 @@ Id: roberts-01
 <note>Found because of comment by [hawks-01] on video
 [chapman-02]</note>
 
+Id: robertson-01
+# Old: youtube-026
+<note>All good:</p> <p><a
+href="http://www.youtube.com/watch?v=14msmjowzrc"
+target="_blank">Jeanne Robertson "Don't Get Frisky in a tent!" ("Don't
+sleep in a tent with Left Brain!")</a></p> <p><a
+href="http://www.youtube.com/watch?v=-YFRUSTiFUs"
+target="_blank">Jeanne Robertson "Don't send a man to the grocery
+store!"</a></p> <p><a
+href="http://www.youtube.com/watch?v=moSKtnuRnsM"
+target="_blank">Jeanne Robertson "Flight attendant deals with a bad
+potato"</a></p> <p><a
+href="http://www.youtube.com/watch?v=RE82Gt93UYc"
+target="_blank">Jeanne Robertson "Mothers vs Teenage
+Daughters"</a></p> <p><a
+href="http://www.youtube.com/watch?v=TeUdZ2VkG30"
+target="_blank">Jeanne Robertson "Don't go rafting without a Baptist
+in the boat!"</a></p> <p><a
+href="http://www.youtube.com/watch?v=uURhPZgjHfw"
+target="_blank">Jeanne Robertson at the Grand Ole Opry</a></p> <p><a
+href="http://www.youtube.com/watch?v=jICYirpMgX4"
+target="_blank">Jeanne Robertson "The Golfer's Christening"</a></note>
+
 Id: rodgers-01
 <note>by Travis Rodgers</p> <p>Answer: Time (duh)</note>
+
+Id: ronson-01
+# Old: youtube-112
+<note>Sad.</note>
 
 Id: rosen-01
 <note>US incarceration rate from 1925 to 1975 was quite "stable", 100
@@ -1142,6 +1366,10 @@ Id: rowe-01
 href="http://www.youtube.com/watch?v=IRVdiHu1VCc">Alternate link -
 YouTube</a></note>
 
+Id: russell-01
+# Old: youtube-025
+<note>Image is powerful</p> <p>Image is superficial</note>
+
 Id: salon-01
 <note>Donald Trump's approval rating has not move below 40 to 42%.</p>
 <p>...the past few years have shown us is that the already difficult
@@ -1152,6 +1380,10 @@ that liberals were right.</note>
 Id: sandel-01
 <note><a href="http://justiceharvard.org/" target="_blank">The full
 series</a></note>
+
+Id: savory-01
+# Old: youtube-111
+<note>Compact animal herds are the key, with rotation.</note>
 
 Id: science-slashdot-01
 <note>Good, but probably too late</note>
@@ -1174,6 +1406,10 @@ multiple subjects, etc.</note>
 Id: shafak-01
 <note>Very wise. Rather than "write what you know", "write what you
 feel".</note>
+
+Id: shane-01
+# Old: youtube-080
+<note>Dangerous because it is stupid.</note>
 
 Id: sheldrake-01
 <note>Videos "banned" from TED</note>
@@ -1349,42 +1585,6 @@ you can't grow, you can't possibly solve large social problems."</li>
 very much money helping other people. Interesting that we don't have a
 visceral reaction to the notion that people would make a lot of money
 NOT helping other people."</li> </ul></note>
-
-Id: ted-27
-<note>3 Gratitudes<br /> Journaling<br /> Exercise<br /> Meditation<br
-/></note>
-
-Id: ted-29
-<note>Right on! <ol> <li>Stop the maddness for <i>constant</i> group
-work. (More privacy and autonomy is needed).</li> <li>Go to the
-wilderness--have your own revalations&lt;./li&gt;</li> <li>Look at
-what is in your suitcase, and share them, but introverts be sure to at
-least occasionsionly share what is in your suitcase.</li> </ol></note>
-
-Id: ted-31
-<note>In long-term relationships, we often expect our beloved to be
-both best friend and erotic partner.</p> <p>So we come to one person,
-and we basically are asking them to give us what once an entire
-village used to provide. Give me belonging, give me identity, give me
-continuity, but give me transcendence and mystery and awe all in
-one. Give me comfort, give me edge. Give me novelty, give me
-familiarity. Give me predictability, give me surprise. And we think
-it's a given, and toys and lingerie are going to save us with
-that.</p> <p>So if there is a verb, for me, that comes with love, it's
-"to have." And if there is a verb that comes with desire, it is "to
-want." In love, we want to have, we want to know the beloved. We want
-to minimize the distance. We want to contract that gap. We want to
-neutralize the tensions. We want closeness. But in desire, we tend to
-not really want to go back to the places we've already gone. Forgone
-conclusion does not keep our interest. In desire, we want an Other,
-somebody on the other side that we can go visit, that we can go spend
-some time with, that we can go see what goes on in their red-light
-district. You know? In desire, we want a bridge to cross. Or in other
-words, I sometimes say, fire needs air. Desire needs space. And when
-it's said like that, it's often quite abstract.</p> <p>Book: <a
-href="https://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence-ebook/dp/B000UODXP0/"
-target="_blank">Mating in Captivity: Unlocking Erotic Intelligence, by
-Esther Perel</a></note>
 
 Id: ted-32
 <note>Wow, this is powerful! This took them years. Again, *time* is
@@ -1565,8 +1765,44 @@ Id: vimeo-01
 <note><a href="http://www.livingeconomies.org/" target="_blank">BALLE
 - Business Alliance for Local Living Economies</a></note>
 
+Id: watts-01
+# Old: youtube-054
+<note><a
+href="http://www.youtube.com/results?search_query=alan+watts+nothing&amp;aq=f">Alan
+Watts on YouTube</a> <ol> <li><a
+href="http://www.youtube.com/watch?v=FY50vvMjX_o"
+target="_blank">Career Advice from Alan Watts</a></li> <li><a
+href="http://www.youtube.com/watch?v=3X1OmSf4bf8" target="_blank">Alan
+Watts on schooling</a></li> <li><a
+href="http://www.youtube.com/watch?v=9mUaZxLpdOQ" target="_blank">Alan
+Watts - We are all basically nothing</a></li> <li><a
+href="http://www.youtube.com/watch?v=pxQayQH1IRw" target="_blank">Are
+you really what you imagine yourself to be? Alan Watts</a></li> <li><a
+href="http://www.youtube.com/watch?v=OxJCDXrEKpw" target="_blank">Alan
+Watts - Seeing Beyond The Game</a></li> <li><a
+href="http://www.youtube.com/watch?v=7blUYJm6i-c" target="_blank">Alan
+Watts: The Way of Waking Up</a></li> <li><a
+href="http://www.youtube.com/watch?v=V-mkia0RE6A" target="_blank">The
+illusion of the Ego - ALAN WATTS</a></li> <li><a
+href="http://www.youtube.com/watch?v=hHxUHS-3whw" target="_blank">Alan
+Watts On Who Are You</a></li> <li><a
+href="http://www.youtube.com/watch?v=ZY28PJZY5eo&amp;feature=list_related&amp;playnext=1&amp;list=AVGxdCwVVULXfPLzHd6rMa7ISrFJHIj7ZO"
+target="_blank">YouTube Mix for Alan Watts</a> - by
+elliotwitheart</li> </ol> <p>Alan Watt - (not Watts!)</p> <ul> <li><a
+href="http://www.youtube.com/watch?v=NMAqtjV1OdU" target="_blank">Alan
+Watt - The modern slave</a></li> <li><a
+href="http://www.youtube.com/watch?v=qFjGj77wG-4%20target=">Alan Watt
+The Truth About Sports</a></li> </ul></note>
+
 Id: weiner-davis-01
 <note>Good tips</note>
+
+Id: wheaton-01
+# Old: mcmichael-01
+<note><p>See: ver/local/project/book-humane/data/ic-podcast-paul-wheaton.txt</p>
+<p>"Make it hard to join the community and easy to leave the
+community."--Diana Leafe Christian
+https://en.wikipedia.org/wiki/Diana_Leafe_Christian</p></note>
 
 Id: wikipedia-46
 <note>As of October 2011, over 350 million users accessed Facebook
@@ -1627,15 +1863,6 @@ interviewed me (live) when I came out.</note>
 Id: youtu-be-02
 <note>This is so cute.</note>
 
-Id: lanier-04
-# Old: youtube-002
-<note>The Internet mistake of "give it away for free, and you will be
-rewarded"</p> <p><a
-href="http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307269647/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1277582930&amp;sr=8-1"
-target="_blank">You Are Not a Gadget: A Manifesto, by Jaron Lanier</a>
-- Read the book's Editorial Review section for a good Q&amp;A with
-Jaron, that summarizes his initial points.</note>
-
 Id: youtube-004
 <note>"Problems" are not allowed in corporations. It's a great form of
 social control.</note>
@@ -1643,58 +1870,6 @@ social control.</note>
 Id: youtube-007
 <note>In the comments, the best alternative word, that others came up
 with was: activism</note>
-
-Id: morieux-02
-# Old: youtube-008
-<note><a
-href="http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.webm">local
-archive</a></p> <p>Really excellent points. I think most of this can
-be used as a starting point by any New Culture type companies. It is
-better than the Democratic Corporation concept that I've read.</p>
-<p>Complexity makes jobs very stressful and unproductive for
-everyone.</p>Simple rules for Smart Simplicity <ol> <li> <p>Understand
-what your people do (what is their real work?)</p> </li> <li>
-<p>Reinforce integrators (give middle mgrs the power to make others
-cooperate, remove layers, less rules, more discretionary power to the
-mgrs)</p> </li> <li> <p>Increase the total quantity of power (empower
-everybody, enough power so they can take risks and cooperate more,
-because they have more control)</p> </li> <li> <p>Extend the shadow of
-the future (create feedback loops to show consequences to actions, for
-example have design engineers follow their product through the
-lifecycle)</p> </li> <li> <p>Increase reciprocity (remove buffers that
-make us self-sufficient, so that we will have to cooperate)</p> </li>
-<li> <p>Reward those who cooperate (blame is not for failure, blame is
-for failing to help, or failing to ask for help)</p> </li> </ol>
-<p>The real battle is not against our competitors, it is against our
-own bureaucracies.</note>
-
-Id: fried-01
-# Old: youtube-010
-<note>Why people can't seem to get work done at work.</p> <p>When
-asked, where got when you really need to get something done? Most
-people will answer with:</p> <ol> <li>A place, a location, or a
-room</li> <li>A moving object (e.g. train, plane)</li> <li>A time</li>
-</ol> <p>No one answers with "the office".</p> <p>The "day" is
-shredded in to "work moments".</p> <p>Creative people need long
-stretches of time to get work done. Duh, this has been measured by
-many consultants (see Tom DeMarco): it takes 20min to get in a
-productive "flow" mode. Good metaphor: would you say you slept well if
-you were woken up once an hour, through the night? Work is like
-that.</p> <p>The main problem: MM, Meetings and Manager.</p> <p>Some
-things to try:</p> <ul> <li>No talk Thursdays, or maybe just no talk
-Thursday afternoons.</li> <li>Use passive communication (email, IM,
-etc.) - but you can not be required to answer right away.</li>
-<li>Just cancel meetings.</li> </ul></note>
-
-Id: o-duinn-01
-# Old: youtube-012
-<note><pre> Release Engineers != Developers developers build
-"products" release engineers build "pipelines" operation engineers
-keep it going Single Track The release schedule is as predictable as
-your riskiest project Project branches Completed projects ship on
-schedule Late/risky projects slip to next release To support project
-branches: use the exact same servers and processes to build any
-branch. </pre></note>
 
 Id: youtube-017
 <note>The day democracy in the US ended: January 21, 2010. USA is now
@@ -1746,33 +1921,6 @@ target="_blank">Angelica Bongiovonni Roue Cyr Demo</a></li> <li><a
 href="http://www.youtube.com/watch?v=3qDg9Cr_GJA" target="_blank">Cyr
 Wheel Act - CORTEO (Cirque du Soleil)</a></li> </ol></note>
 
-Id: russell-01
-# Old: youtube-025
-<note>Image is powerful</p> <p>Image is superficial</note>
-
-Id: robertson-01
-# Old: youtube-026
-<note>All good:</p> <p><a
-href="http://www.youtube.com/watch?v=14msmjowzrc"
-target="_blank">Jeanne Robertson "Don't Get Frisky in a tent!" ("Don't
-sleep in a tent with Left Brain!")</a></p> <p><a
-href="http://www.youtube.com/watch?v=-YFRUSTiFUs"
-target="_blank">Jeanne Robertson "Don't send a man to the grocery
-store!"</a></p> <p><a
-href="http://www.youtube.com/watch?v=moSKtnuRnsM"
-target="_blank">Jeanne Robertson "Flight attendant deals with a bad
-potato"</a></p> <p><a
-href="http://www.youtube.com/watch?v=RE82Gt93UYc"
-target="_blank">Jeanne Robertson "Mothers vs Teenage
-Daughters"</a></p> <p><a
-href="http://www.youtube.com/watch?v=TeUdZ2VkG30"
-target="_blank">Jeanne Robertson "Don't go rafting without a Baptist
-in the boat!"</a></p> <p><a
-href="http://www.youtube.com/watch?v=uURhPZgjHfw"
-target="_blank">Jeanne Robertson at the Grand Ole Opry</a></p> <p><a
-href="http://www.youtube.com/watch?v=jICYirpMgX4"
-target="_blank">Jeanne Robertson "The Golfer's Christening"</a></note>
-
 Id: youtube-028
 <note>Well the first 5 min. is the summary; the actual video is almost
 2 hrs. See also: 2011-02-03 for another short summary (15min)</p>
@@ -1791,14 +1939,6 @@ target="_blank">Energy from Thorium, LFTR Technology</a> - <a
 href="http://flibe-energy.com/" target="_blank">by Flibe
 Energy</a></note>
 
-Id: fromm-01
-# Old: youtube-042
-<note>Even more relevant to our current culture.</p> <p><a
-href="http://www.erich-fromm.de/data/pdf/2008a-e.pdf"
-target="_blank">2008a-e The Automaton Citizen and Human Rights</a> -
-pdf</p> <p><a href="http://www.erich-fromm.de/e/play.php?shownews=81"
-target="_blank">Other Articles by Erich Fromm</a></note>
-
 Id: youtube-044
 <note><pre> That's interesting... ...tell me more. ...why would you
 say that? ...why would you ask me that? ...why would you do that?
@@ -1813,68 +1953,10 @@ engineering minds put together... amazing video and amazing
 creature... just fascinating... look at the optimal railway paths of
 Tokyo created by the slime mould and be amazed...</note>
 
-Id: molyneux-02
-# Old: youtube-051
-<note>My problem with this libertarian view (From "The ecstasy of
-influence", below at 2012-04-10): "The power of a gift economy remains
-difficult for the empiricists of our market culture to understand. In
-our times, the rhetoric of the market presumes that everything should
-be and can be appropriately bought, sold, and owned--a tide of
-alienation lapping daily at the dwindling redoubt of the
-unalienable. In free-market theory, an intervention to halt
-propertization is considered "paternalistic," because it inhibits the
-free action of the citizen, now reposited as a "potential
-entrepreneur." Of course, in the real world, we know that
-child-rearing, family life, education, socialization, sexuality,
-political life, and many other basic human activities require
-insulation from market forces. In fact, paying for many of these
-things can ruin them.</note>
-
-Id: watts-01
-# Old: youtube-054
-<note><a
-href="http://www.youtube.com/results?search_query=alan+watts+nothing&amp;aq=f">Alan
-Watts on YouTube</a> <ol> <li><a
-href="http://www.youtube.com/watch?v=FY50vvMjX_o"
-target="_blank">Career Advice from Alan Watts</a></li> <li><a
-href="http://www.youtube.com/watch?v=3X1OmSf4bf8" target="_blank">Alan
-Watts on schooling</a></li> <li><a
-href="http://www.youtube.com/watch?v=9mUaZxLpdOQ" target="_blank">Alan
-Watts - We are all basically nothing</a></li> <li><a
-href="http://www.youtube.com/watch?v=pxQayQH1IRw" target="_blank">Are
-you really what you imagine yourself to be? Alan Watts</a></li> <li><a
-href="http://www.youtube.com/watch?v=OxJCDXrEKpw" target="_blank">Alan
-Watts - Seeing Beyond The Game</a></li> <li><a
-href="http://www.youtube.com/watch?v=7blUYJm6i-c" target="_blank">Alan
-Watts: The Way of Waking Up</a></li> <li><a
-href="http://www.youtube.com/watch?v=V-mkia0RE6A" target="_blank">The
-illusion of the Ego - ALAN WATTS</a></li> <li><a
-href="http://www.youtube.com/watch?v=hHxUHS-3whw" target="_blank">Alan
-Watts On Who Are You</a></li> <li><a
-href="http://www.youtube.com/watch?v=ZY28PJZY5eo&amp;feature=list_related&amp;playnext=1&amp;list=AVGxdCwVVULXfPLzHd6rMa7ISrFJHIj7ZO"
-target="_blank">YouTube Mix for Alan Watts</a> - by
-elliotwitheart</li> </ol> <p>Alan Watt - (not Watts!)</p> <ul> <li><a
-href="http://www.youtube.com/watch?v=NMAqtjV1OdU" target="_blank">Alan
-Watt - The modern slave</a></li> <li><a
-href="http://www.youtube.com/watch?v=qFjGj77wG-4%20target=">Alan Watt
-The Truth About Sports</a></li> </ul></note>
-
-Id: wheaton-01
-# Old: mcmichael-01
-<note><p>See: ver/local/project/book-humane/data/ic-podcast-paul-wheaton.txt</p>
-<p>"Make it hard to join the community and easy to leave the
-community."--Diana Leafe Christian
-https://en.wikipedia.org/wiki/Diana_Leafe_Christian</p></note>
-
 Id: youtube-059
 <note>Just about all of the Electric Universe vidieos are here.</p>
 <p><a href="https://www.thunderbolts.info/wp/" target="blank">The
 Thunderbolts Project</a> - Home web site</note>
-
-Id: gates-01
-# Old: youtube-062
-<note>We are living in the scenario he showed in the talk, 5 years
-ago!</note>
 
 Id: youtube-063
 <note>Very cool. An app that will connect blind people with sited
@@ -1910,17 +1992,6 @@ href="https://www.thejuicemedia.com/honest-government-ads/">https://www.thejuice
 /> Honest Government Ads<br /> Authorized by the Department of Genuine
 Satire.<br /> Produced by the Patrons of The Juice Media.</note>
 
-Id: allen-01
-# Old: youtube-074
-<note><a
-href="http://www.yesmagazine.org/issues/food-for-everyone/growing-power-in-an-urban-food-desert"
-target="_blank">Food for Everyone, Growing Power in an Urban Food
-Desert</a> - Yes Magazine article and video</p> <p><a
-href="http://en.wikipedia.org/wiki/Will_Allen_(urban_farmer)"
-target="_blank">Wikipedia: Will Allen (urban farmer)</a></p> <p><a
-href="http://en.wikipedia.org/wiki/Growing_Power"
-target="_blank">Wikipedia: Growing Power</a></note>
-
 Id: youtube-075
 <note>Funny and sad.</note>
 
@@ -1933,10 +2004,6 @@ work to make a new "normal".</p> <p><a
 href="https://forge.medium.com/prepare-for-the-ultimate-gaslighting-6a8ce3f0a0e0"
 target="_blank">prepare-for-the-ultimate-gaslighting</a></note>
 
-Id: shane-01
-# Old: youtube-080
-<note>Dangerous because it is stupid.</note>
-
 Id: youtube-082
 <note>Another good one: <a
 href="https://www.youtube.com/watch?v=kbJcQYVtZMo"
@@ -1947,10 +2014,6 @@ should never be recorded with a vertical orientation. Americans will
 argue that vertical is OK. Really? Would you turning a video camera
 sideways?</note>
 
-Id: bonar-01
-# Old: youtube-085
-<note>Really funny magician.</note>
-
 Id: youtube-086
 <note>Basics on how cells work</note>
 
@@ -1960,40 +2023,12 @@ Id: youtube-087
 constants really are constant. Good scientists will keep
 measuring.</note>
 
-Id: berry-02
-# Old: youtube-088
-<note>Amazing!</note>
-
 Id: youtube-089
 <note>Amazing.</p> <p>local file:
 the_hidden_secret_of_the_great_pyramids_construction_uncovered.webm</note>
 
-Id: gatto-09
-# Old: youtube-090
-<note>This is a remix that combines a number of separate
-postings. This is really good overview of what education should
-be.</p> <p><a href="https://www.youtube.com/watch?v=0A4CCvheAac"
-target="_blank">John Taylor Gatto: Elite Schooling - Part 2 of 2 (A
-summary of the books he has written.</a></note>
-
 Id: youtube-091
 <note>What happened 13,000 years ago?</note>
-
-Id: mendelssohn-01
-# Old: youtube-095
-<note>This is my own recording and edit of this talk.</p> <p><a
-href="https://www.youtube.com/watch?v=f47LGny-CiU"
-target="_blank">Tamera - Benjamin von Mendelssohn - Part 2 of
-2</a></p> <p><a
-href="http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/ref=asap_bc?ie=UTF8"
-target="_blank">"The Sacred Matrix: From the Matrix of Violence to the
-Matrix of Life, The Foundation for a New Civilization"</a> - Book by
-Dieter Duhm. This book gives a pretty complete overview of the group's
-vision.</p> <p><a href="http://www.tamera.org/"
-target="_blank">Tamera's main web site</a> - web site</p> <p><a
-href="https://www.youtube.com/channel/UCe8-23wgIRspP8paQif-6Vg"
-target="_blank">Tamera's youtube channel - Grace Media</a> -
-videos</note>
 
 Id: youtube-096
 <note>Actually this is more about being a good movie director.</note>
@@ -2017,31 +2052,8 @@ share of people living alone in America has doubled. The nuclear
 family is no longer the norm-and it should no longer be the
 ideal.</note>
 
-Id: feynman-02
-# Old: youtube-109
-<note>"The problem with playing tricks on highly intelligent people is
-that the time it takes for them to realize what exactly has happened
-from the moment they see something wrong is too short to provide any
-pleasure." He said this after a prank he played on Teller (with
-Teller's desk drawer).</p> <p>At 5:48 Richard Feynman at Princeton
-meets great men (Richard learns that great men remember and argue
-fast)</note> 1 418 261
-
 Id: youtube-110
 <note>Very cool</note>
-
-Id: savory-01
-# Old: youtube-111
-<note>Compact animal herds are the key, with rotation.</note>
-
-Id: ronson-01
-# Old: youtube-112
-<note>Sad.</note>
-
-Id: potter-01
-# Old: youtube-113
-<note>More: <a href="WillPotter.com/CMU">WillPotter.com/CMU</a> -
-notes</p> <p>The solution is transparency.</note>
 
 Id: youtube-114
 <note>These are fun.</p> <p><a
@@ -2145,18 +2157,6 @@ Id: youtube-150
 brutality with military tactics, macing and more of the same violence
 that protesters are working to shut down.</p> <p>Let us not forget
 this, this time!</note>
-
-Id: oliver-02
-# Old: youtube-151
-Id: youtube-151
-<note>John Oliver discusses how the histories of policing and white
-supremacy are intertwined, the roadblocks to fixing things, and some
-potential paths forward.</p> <p>Great rant! He ends with viral video
-by Kimberly Jones.</p> <p>Here Trevor Noah interviews Kimberly Jones
-on June 19: <a
-href="https://www.youtube.com/watch?v=U1k9APedIUY">Kimberly Jones -
-Speaking Out About Black Experiences in America | The Daily Social
-Distancing Show</a></note>
 
 Id: youtube-155
 <note>This channel also has a number of video about how to use a

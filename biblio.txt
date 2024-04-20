@@ -73,6 +73,15 @@ ASIN: 25564668
 Link: https://www.amazon.com/Corporation-Milton-Friedman/dp/B0007DBJM8/
 Annote: See notes.
 
+Id: achor-01
+Type: media
+Media: video
+Title: Shawn Achor: The happy secret to better work
+Author: Achor, Shawn
+Tags: video, old:ted-27
+Link: http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html
+Annote: See notes.
+
 Id: ackoff-01
 Type: book
 Media: Hardcover
@@ -198,6 +207,14 @@ Author: Agnos, Chris
 Tags: video
 Link: https://www.youtube.com/watch?v=9NVH3Gv8yB4&amp;index=11&amp;list=PLfVmmn1uAaVKj5x07I8kYhx4eY97mFSH5
 Annote: See notes.
+
+Id: ahmad-01
+Type: media
+Media: video
+Title: Omar Ahmad; Profile on TED.com
+Author: Ahmad, Omar
+Tags: home, change, ted, link, old:ted-43
+Link: http://www.ted.com/speakers/omar_ahmad.html
 
 Id: airbnb-01
 Type: site
@@ -1233,6 +1250,14 @@ Tags: important, commons
 ISBN: 9781576753613
 ASIN: 1637377
 
+Id: barry-01
+Type: media
+Media: video
+Title: Keith Barry does brain magic
+Author: Barry, Keith
+Tags: home, ted, link, old:ted-45
+Link: http://www.ted.com/index.php/talks/keith_barry_does_brain_magic.html
+
 Id: bartesterblog-wordpress-01
 Type: site
 Media: site
@@ -1544,6 +1569,14 @@ Publisher: Glide Publications, San Francisco
 Tags: book
 Annote: See notes.
 
+Id: blackmore-01
+Type: media
+Media: video
+Title: Susan Blackmore on memes and temes
+Author: Blackmore, Susan
+Tags: home, ted, link, old:ted-46
+Link: http://www.ted.com/index.php/talks/susan_blackmore_on_memes_and_temes.html
+
 Id: blanchardonline-01
 Type: site
 Media: site
@@ -1763,6 +1796,14 @@ Media: site
 Title: Borel Private Bank &amp; Trust Company; Building Relationships for Building Wealth Since 1980
 Tags: home, debt, link
 Link: http://www.borel.com/home
+
+Id: borges-01
+Type: media
+Media: video
+Title: Phil Borges on endangered cultures
+Author: Borges, Phil
+Tags: home, change, ted, link, old:ted-39
+Link: http://www.ted.com/index.php/talks/phil_borges_on_endangered_cultures.html
 
 Id: bostwick-01
 Type: media
@@ -2001,6 +2042,14 @@ Tags: important
 Link: https://secularhumanism.org/2003/03/fascism-anyone/
 AltLink: https://archive.vn/nHoCC
 
+Id: broadbent-01
+Type: media
+Media: video
+Title: Stefana Broadbent: How the Internet enables intimacy
+Author: Broadbent, Stefana
+Tags: video, old:ted-28
+Link: http://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy.html
+
 Id: broderick-01
 Type: book
 Media: Ebook
@@ -2070,6 +2119,14 @@ Media: product
 Title: HTC Hero software applications &amp; games free download.
 Tags: toolhw, phone, link
 Link: http://www.brothersoft.com/mobile/phone/htc/htc_hero/
+
+Id: brown-01
+Type: media
+Media: video
+Title: Brene Brown: The power of vulnerability
+Author: Brown, Brene
+Tags: video, old:ted-15 
+Link: http://www.ted.com/talks/lang/en/brene_brown_on_vulnerability.html
 
 Id: browne-01
 Type: media
@@ -2380,6 +2437,15 @@ Media: site
 Title: XML 1.1 Bible
 Tags: folder, reference, xml, html, link
 Link: http://www.cafeconleche.org/books/bible3/
+
+Id: cain-01
+Type: media
+Media: video
+Title: Susan Cain: The power of introverts
+Author: Cain, Susan
+Tags: video, old:ted-29
+Link: http://www.ted.com/talks/susan_cain_the_power_of_introverts.html
+Annote: See notes.
 
 Id: caldwell-01
 Type: media
@@ -4270,6 +4336,22 @@ Title: Democratic Underground
 Tags: home, political, link
 Link: http://www.democraticunderground.com/discuss/duboard.php
 
+Id: dennett-01
+Type: media
+Media: video
+Title: Dan Dennett on dangerous memes
+Author: Dennett, Dan
+Tags: home, change, ted, link, old:ted-34
+Link: http://www.ted.com/index.php/talks/dan_dennett_on_dangerous_memes.html
+
+Id: dennett-02
+Type: media
+Media: video
+Title: Dan Dennett on our consciousness
+Author: Dennett, Dan
+Tags: home, change, ted, link, old:ted-35
+Link: http://www.ted.com/index.php/talks/dan_dennett_on_our_consciousness.html
+
 Id: desperado-theory-blogspot-01
 Type: article
 Media: link
@@ -4432,6 +4514,14 @@ Publisher: Reuters
 Link: https://news.yahoo.com/explainer-climate-change-driving-dangerous-140244151.html
 AltLink: https://tinyurl.com/2ad5nh8y https://web.archive.org/web/20230810005133/https://news.yahoo.com/explainer-climate-change-driving-dangerous-140244151.html/
 Annote: See notes.
+
+Id: dickinson-01
+Type: media
+Media: video
+Title: Michael Dickinson: How a fly flies
+Author: Dickinson, Michael
+Tags: video, old:ted-20
+Link: http://www.ted.com/talks/michael_dickinson_how_a_fly_flies.html
 
 Id: digitaldreams-01
 Type: article
@@ -4659,6 +4749,7 @@ Publisher: Tom Doherty Associates
 Tags: f, important
 ASIN: 8564124
 
+
 Id: doctorow-07
 Type: book
 Media: Ebook
@@ -4766,7 +4857,6 @@ Author: Doctorow, Cory
 Date: 204-02-27
 Link: https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse
 AltLink: http://tinyurl.com/bdfcfkrp https://web.archive.org/web/20240228024910/https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse https://doctorow.medium.com/https-pluralistic-net-2024-02-27-ai-conspiracies-epistemological-collapse-eabfefa6b2e8
-
 
 Id: documents-mx-01
 Type: article
@@ -4923,6 +5013,14 @@ Media: video
 Title: What You Need To Know When Taking Your Drone On Airplanes
 Tags: video, drone, link, video
 Link: http://dronereviewsandnews.com/need-know-taking-drone-airplanes/
+
+Id: drummond-01
+Type: media
+Media: video
+Title: Jamie Drummond: Let's crowdsource the world's goals
+Author: Drummond, Jamie
+Tags: video, old:ted-17
+Link: http://www.ted.com/talks/lang/en/jamie_drummond_how_to_set_goals_for_the_world.html
 
 Id: drupal-01
 Type: article
@@ -7279,6 +7377,14 @@ Link: https://gigaom.com/2012/12/31/airdroid-the-free-app-every-android-owner-sh
 Id: gilbert-01
 Type: media
 Media: video
+Title: Elizabeth Gilbert on nurturing creativity
+Author: Gilbert, Elizabeth
+Tags: video, old:ted-16
+Link: http://www.ted.com/talks/lang/en/elizabeth_gilbert_on_genius.html
+
+Id: gilbert-02
+Type: media
+Media: video
 Title: Dan Gilbert on our mistaken expectations
 Tags: ted, video
 Link: http://www.ted.com/talks/dan_gilbert_researches_happiness.html
@@ -7447,6 +7553,14 @@ Title: Geek 2 Geek Home Page
 Tags: home, tofile, set2010, link
 Link: http://www.gk2gk.com/
 
+Id: glattfelder-01
+Type: media
+Media: video
+Title: James B. Glattfelder: Who controls the world?
+Author: Glattfelder, James B.
+Tags: video, old:ted-14
+Link: http://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html
+
 Id: globalresearch-01
 Type: article
 Media: link
@@ -7594,6 +7708,14 @@ Publisher: North River Press
 Tags: biblio
 ISBN: 9780884271666
 ASIN: 493677
+
+Id: goleman-01
+Type: media
+Media: video
+Title: Daniel Goleman on compassion
+Author: Goleman, Daniel
+Tags: home, change, ted, link, old:ted-36
+Link: http://www.ted.com/index.php/talks/daniel_goleman_on_compassion.html
 
 Id: goodall-01
 Type: media
@@ -7918,6 +8040,14 @@ Title: Classes (ES6) Sample
 Tags: reference, javascript, link
 Link: https://googlechrome.github.io/samples/classes-es6/
 
+Id: gordon-01
+Type: media
+Media: video
+Title: Deborah Gordon digs ants
+Author: Gordon, Deborah
+Tags: home, ted, link, old:ted-44
+Link: http://www.ted.com/index.php/talks/deborah_gordon_digs_ants.html
+
 Id: gordonlesti-01
 Type: article
 Media: link
@@ -8180,6 +8310,14 @@ Author: Greenwald, Glenn
 Publisher: Oped News
 Tags: home, political, link, old:opednews-12
 Link: http://www.opednews.com/articles/New-target-of-rights-erosi-by-Glenn-Greenwald-100515-911.html
+
+Id: griffith-01
+Type: media
+Media: video
+Title: Saul Griffith on everyday inventions
+Author: Griffith, Saul
+Tags: home, change, ted, link, old:ted-42
+Link: http://www.ted.com/index.php/talks/saul_griffith_on_everyday_inventions.html
 
 Id: griscom-01
 Type: media
@@ -8853,6 +8991,14 @@ Title: Hillbarn Theatre
 Tags: home, buy, link
 Link: http://www.hillbarntheatre.org/redesign/performances_mainstage.html
 
+Id: hillis-01
+Type: media
+Media: video
+Title: Danny Hillis: Back to the future (of 1994)
+Author: Hillis, Danny
+Tags: video, old:ted-09
+Link: http://www.ted.com/talks/danny_hillis_back_to_the_future_of_1994.html
+
 Id: hines-01
 Type: book
 Media: Ebook
@@ -9383,6 +9529,14 @@ Media: link
 Title: Hylo
 Tags: culture, link
 Link: https://www.hylo.com/h/all-posts
+
+Id: hypponen-01
+Type: media
+Media: video
+Title: Mikko Hypponen: Three types of online attack
+Author: Hypponen, Mikko
+Tags: video, old:ted-22
+Link: http://www.ted.com/talks/mikko_hypponen_three_types_of_online_attack.html
 
 Id: iahf-01
 Type: article
@@ -10618,6 +10772,14 @@ DateSeen: 2023-06-20
 Link: https://www.thirteen.org/blog-post/u-s-army-units-explained-from-squads-to-brigades-to-corps/
 AltLink: https://archive.vn/WUHnz
 
+Id: knols-01
+Type: media
+Media: video
+Title: Bart Knols: Cheese, dogs, and pills to end malaria
+Author: Knols, Bart
+Tags: video, old:ted-06
+Link: http://www.ted.com/talks/bart_knols_cheese_dogs_and_pills_to_end_malaria.html
+
 Id: knopper-01
 Type: article
 Media: link
@@ -10780,6 +10942,14 @@ Title: Dreaming Beyond Capitalism: A Culture Without Fear; Kosmos Journal
 Tags: culture, link
 Link: http://www.kosmosjournal.org/news/dreaming-beyond-capitalism-a-culture-without-fear/
 
+Id: kovacs-01
+Type: media
+Media: video
+Title: Gary Kovacs: Tracking the trackers
+Author: Kovacs, Gary
+Tags: video, old:ted-12
+Link: http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html
+
 Id: kqed-01
 Type: article
 Media: link
@@ -10873,6 +11043,14 @@ Title: KulFX - Cool Effects
 Tags: toolhw, graphictablet, link
 Link: http://www.kulfx.com/index.php?section=articles&amp;item=wacom_bamboo_on_fedora
 
+Id: kumar-01
+Type: media
+Media: video
+Title: Vijay Kumar: robots that fly .. and work together
+Author: Kumar, Vijay
+Tags: link, old:ted-01
+Link: http://www.ted.com/talks/lang/fr/vijay_kumar_robots_that_fly_and_cooperate.html
+
 Id: kunstler-01
 Type: media
 Media: video
@@ -10886,6 +11064,14 @@ Media: link
 Title: Review: The Underground History of American Education ;; kuro5hin.org
 Tags: home, education, link
 Link: http://www.kuro5hin.org/story/2004/7/27/215225/986
+
+Id: kurzweil-01
+Type: media
+Media: video
+Title: Ray Kurzweil on how technology will transform us
+Author: Kurzweil, Ray
+Tags: home, change, ted, link, old:ted-40
+Link: http://www.ted.com/index.php/talks/ray_kurzweil_on_how_technology_will_transform_us.html
 
 Id: l-com-01
 Type: article
@@ -10986,6 +11172,14 @@ Title: Land Surveyors Workshops
 Tags: home, surveying, link
 Link: http://www.landsurveys.com/
 
+Id: lang-01
+Type: media
+Media: video
+Title: Robert Lang folds way-new origami
+Author: Lang, Robert
+Tags: home, change, ted, link, old:ted-41
+Link: http://www.ted.com/index.php/talks/robert_lang_folds_way_new_origami.html
+
 Id: languageofcompassion-01
 Type: site
 Media: org
@@ -11060,6 +11254,14 @@ Publisher: Voyageur Press (2017), 152 pages
 Tags: biblio
 ISBN: 076035264X
 ASIN: 19780284
+
+Id: larsson-01
+Type: media
+Media: video
+Title: Magnus Larsson: Turning dunes into architecture
+Author: Larsson, Magnus
+Tags: video, old:ted-19
+Link: http://www.ted.com/talks/magnus_larsson_turning_dunes_into_architecture.html
 
 Id: latheofdreams-01
 Type: article
@@ -11193,12 +11395,21 @@ AltLink: https://archive.vn/MruJz
 Id: lessig-01
 Type: media
 Media: video
+Title: Larry Lessig on laws that choke creativity
+Author: Lessig, Larry
+Tags: video, old:ted-18
+Link: http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html
+
+Id: lessig-02
+Type: media
+Media: video
 Title: Lawrence Lessig: Re-examining the remix
+Author: Lessig, Lawrence
 Tags: ted, biblio
 Link: http://www.ted.com/talks/lessig_nyed.html
 Annote: See notes.
 
-Id: lessig-02
+Id: lessig-03
 Type: media
 Media: video
 Title: Our democracy no longer represents the people. Here's how we fix it: TEDxMidAtlantic
@@ -13320,6 +13531,14 @@ Title: David Whyte Thresholds - Navigating the Difficult Transitions of Life
 Tags: home, eco, link
 Link: http://www.mountmadonna.org/live/WHY-1-19.html
 
+Id: mountz-01
+Type: media
+Media: video
+Title: Mick Mountz: The hidden world of box-packing
+Author: Mountz, Mick
+Tags: video, old:ted-21
+Link: http://www.ted.com/talks/mick_mountz_the_hidden_world_of_box_packing.html
+
 Id: mouser-01
 Type: site
 Media: site
@@ -13436,6 +13655,14 @@ Media: site
 Title: MusicTranscription.com
 Tags: home, tofile, set2010, link
 Link: http://www.musictranscription.com/#
+
+Id: musk-01
+Type: media
+Media: video
+Title: Elon Musk: The mind behind Tesla, SpaceX, SolarCity ...
+Author: Musk, Elon
+Tags: video, old:ted-10
+Link: http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity.html
 
 Id: my-safaribooksonline-01
 Type: article
@@ -15223,6 +15450,15 @@ Publisher: HarperCollins e-books
 Tags: important
 ASIN: 1649697
 
+Id: perel-02
+Type: media
+Media: video
+Title: Esther Perel: The secret to desire in a long-term relationship
+Author: Perel, Esther
+Tags: video, old:ted-11, old:ted-31
+Link: https://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship?language=en#t-13140
+Annote: See notes.
+
 Id: perfdynamics-01
 Type: article
 Media: link
@@ -15413,6 +15649,14 @@ Media: product
 Title: Pidgin-Encryption
 Tags: home, make, crypt, link
 Link: http://pidgin-encrypt.sourceforge.net/
+
+Id: piff-01
+Type: media
+Media: video
+Title: Paul Piff: Does money make you mean?
+Author: Piff, Paul
+Tags: video, old:ted-23
+Link: http://www.ted.com/talks/paul_piff_does_money_make_you_mean.html
 
 Id: pink-01
 Type: media
@@ -16796,6 +17040,14 @@ Title: Welcome
 Tags: toolhw, wearable, link
 Link: http://www.rfidtoys.net/
 
+Id: rheingold-01
+Type: media
+Media: video
+Title: Howard Rheingold on collaboration
+Author: Rheingold, Howard
+Tags: home, change, ted, link, old:ted-37
+Link: http://www.ted.com/index.php/talks/howard_rheingold_on_collaboration.html
+
 Id: rhn-redhat-01
 Type: site
 Media: site
@@ -16888,6 +17140,14 @@ Title: Mary Roach: 10 things you didn't know about orgasm
 Author: Roach, Mary
 Tags: video, old:youtube-013
 Link: http://www.youtube.com/watch?v=7jx0dTYUO5E
+
+Id: robbins-01
+Type: media
+Media: video
+Title: Tony Robbins asks why we do what we do
+Author: Robbins, Tony
+Tags: video, old:ted-30
+Link: http://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do.html
 
 Id: robertnz-01
 Type: article
@@ -17055,6 +17315,14 @@ Date: 2017-01-30
 Tags: culture, ted, biblio
 Link: https://www.youtube.com/watch?v=wtV5ev6813I
 Annote: See notes.
+
+Id: rothemund-01
+Type: media
+Media: video
+Title: Paul Rothemund details DNA folding
+Author: Rothemund, Paul
+Tags: video, old:ted-25
+Link: http://www.ted.com/talks/paul_rothemund_details_dna_folding.html
 
 Id: rowe-01
 Type: media
@@ -17430,6 +17698,14 @@ Author: Savory, Allan
 Tags: video, old:youtube-111
 Link: https://www.youtube.com/watch?v=vpTHi7O66pI
 Annote: See notes.
+
+Id: savory-02
+Type: media
+Media: video
+Title: Allan Savory: How to green the world's deserts and reverse climate change
+Author: Savory, Allan
+Tags: video, old:ted-05
+Link: http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html
 
 Id: savory-global-01
 Type: site
@@ -17846,6 +18122,14 @@ Media: link
 Title: Boost
 Tags: folder, home, link
 Link: https://selfcare.bcgi.net/boost/index.htm
+
+Id: seligman-01
+Type: media
+Media: video
+Title: Martin Seligman on positive psychology
+Author: Seligman, Martin
+Tags: home, change, ted, link, old:ted-38
+Link: http://www.ted.com/index.php/talks/martin_seligman_on_the_state_of_psychology.html
 
 Id: semcostyle-01
 Type: site
@@ -19075,6 +19359,14 @@ Title: American Stirling Company FAQ
 Tags: home, freeenergy, link
 Link: http://www.stirlingengine.com/faq/one?scope=public&amp;faq_id=1
 
+Id: stokes-01
+Type: media
+Media: video
+Title: Colin Stokes: How movies teach manhood
+Author: Stokes, Colin
+Tags: video, old:ted-07
+Link: http://www.ted.com/talks/colin_stokes_how_movies_teach_manhood.html
+
 Id: stone-01
 Type: book
 Media: Hardcover
@@ -19710,13 +20002,6 @@ Title: SWITCHES:
 Tags: home, make, wearable, link
 Link: http://www.tecsol.com.au/Switch2.htm
 
-Id: ted-01
-Type: media
-Media: video
-Title: Vijay Kumar: robots that fly .. and work together
-Tags: link
-Link: http://www.ted.com/talks/lang/fr/vijay_kumar_robots_that_fly_and_cooperate.html
-
 Id: ted-02
 Type: media
 Media: video
@@ -19739,197 +20024,12 @@ Tags: ted, video
 Link: http://www.youtube.com/watch?v=aAMP1Wu_M2U
 Annote: See notes.
 
-Id: ted-05
-Type: media
-Media: video
-Title: Allan Savory: How to green the world's deserts and reverse climate change
-Tags: video
-Link: http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html
-
-Id: ted-06
-Type: media
-Media: video
-Title: Bart Knols: Cheese, dogs, and pills to end malaria
-Tags: video
-Link: http://www.ted.com/talks/bart_knols_cheese_dogs_and_pills_to_end_malaria.html
-
-Id: ted-07
-Type: media
-Media: video
-Title: Colin Stokes: How movies teach manhood
-Tags: video
-Link: http://www.ted.com/talks/colin_stokes_how_movies_teach_manhood.html
-
 Id: ted-08
 Type: media
 Media: video
 Title: Dan Pallotta: The way we think about charity is dead wrong
 Tags: video
 Link: http://www.ted.com/talks/dan_pallotta_the_way_we_think_about_charity_is_dead_wrong.html&quot;
-Annote: See notes.
-
-Id: ted-09
-Type: media
-Media: video
-Title: Danny Hillis: Back to the future (of 1994)
-Tags: video
-Link: http://www.ted.com/talks/danny_hillis_back_to_the_future_of_1994.html
-
-Id: ted-10
-Type: media
-Media: video
-Title: Elon Musk: The mind behind Tesla, SpaceX, SolarCity ...
-Tags: video
-Link: http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity.html
-
-Id: ted-11
-Type: media
-Media: video
-Title: Esther Perel: The secret to desire in a long-term relationship
-Tags: video
-Link: http://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship.html
-
-Id: ted-12
-Type: media
-Media: video
-Title: Gary Kovacs: Tracking the trackers
-Tags: video
-Link: http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html
-
-Id: ted-13
-Type: media
-Media: video
-Title: iO Tillett Wright: Fifty shades of gay
-Tags: video
-Link: http://www.ted.com/talks/io_tillett_wright_fifty_shades_of_gay.html
-
-Id: ted-14
-Type: media
-Media: video
-Title: James B. Glattfelder: Who controls the world?
-Tags: video
-Link: http://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html
-
-Id: ted-15
-Type: media
-Media: video
-Title: Brene Brown: The power of vulnerability
-Tags: video
-Link: http://www.ted.com/talks/lang/en/brene_brown_on_vulnerability.html
-
-Id: ted-16
-Type: media
-Media: video
-Title: Elizabeth Gilbert on nurturing creativity
-Tags: video
-Link: http://www.ted.com/talks/lang/en/elizabeth_gilbert_on_genius.html
-
-Id: ted-17
-Type: media
-Media: video
-Title: Jamie Drummond: Let's crowdsource the world's goals
-Tags: video
-Link: http://www.ted.com/talks/lang/en/jamie_drummond_how_to_set_goals_for_the_world.html
-
-Id: ted-18
-Type: media
-Media: video
-Title: Larry Lessig on laws that choke creativity
-Tags: video
-Link: http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html
-
-Id: ted-19
-Type: media
-Media: video
-Title: Magnus Larsson: Turning dunes into architecture
-Tags: video
-Link: http://www.ted.com/talks/magnus_larsson_turning_dunes_into_architecture.html
-
-Id: ted-20
-Type: media
-Media: video
-Title: Michael Dickinson: How a fly flies
-Tags: video
-Link: http://www.ted.com/talks/michael_dickinson_how_a_fly_flies.html
-
-Id: ted-21
-Type: media
-Media: video
-Title: Mick Mountz: The hidden world of box-packing
-Tags: video
-Link: http://www.ted.com/talks/mick_mountz_the_hidden_world_of_box_packing.html
-
-Id: ted-22
-Type: media
-Media: video
-Title: Mikko Hypponen: Three types of online attack
-Tags: video
-Link: http://www.ted.com/talks/mikko_hypponen_three_types_of_online_attack.html
-
-Id: ted-23
-Type: media
-Media: video
-Title: Paul Piff: Does money make you mean?
-Tags: video
-Link: http://www.ted.com/talks/paul_piff_does_money_make_you_mean.html
-
-Id: ted-24
-Type: media
-Media: video
-Title: Paul Root Wolpe: It's time to question bio-engineering
-Tags: video
-Link: http://www.ted.com/talks/paul_root_wolpe_it_s_time_to_question_bio_engineering.html
-
-Id: ted-25
-Type: media
-Media: video
-Title: Paul Rothemund details DNA folding
-Tags: video
-Link: http://www.ted.com/talks/paul_rothemund_details_dna_folding.html
-
-Id: ted-26
-Type: media
-Media: video
-Title: Peter van Uhm: Why I chose a gun
-Tags: video
-Link: http://www.ted.com/talks/peter_van_uhm_why_i_chose_a_gun.html
-
-Id: ted-27
-Type: media
-Media: video
-Title: Shawn Achor: The happy secret to better work
-Tags: video
-Link: http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html
-Annote: See notes.
-
-Id: ted-28
-Type: media
-Media: video
-Title: Stefana Broadbent: How the Internet enables intimacy
-Tags: video
-Link: http://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy.html
-
-Id: ted-29
-Type: media
-Media: video
-Title: Susan Cain: The power of introverts
-Tags: video
-Link: http://www.ted.com/talks/susan_cain_the_power_of_introverts.html
-Annote: See notes.
-
-Id: ted-30
-Type: media
-Media: video
-Title: Tony Robbins asks why we do what we do
-Tags: video
-Link: http://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do.html
-
-Id: ted-31
-Type: media
-Media: video
-Title: Esther Perel: The secret to desire in a long-term relationship
-Tags: video
-Link: https://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship?language=en#t-13140
 Annote: See notes.
 
 Id: ted-32
@@ -19939,104 +20039,6 @@ Title: Our story of rape and reconciliation
 Tags: culture, video
 Link: https://www.ted.com/talks/thordis_elva_and_tom_stranger_our_story_of_rape_and_reconciliation
 Annote: See notes.
-
-Id: ted-33
-Type: media
-Media: video
-Title: Craig Venter is on the verge of creating synthetic life; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life.html
-
-Id: ted-34
-Type: media
-Media: video
-Title: Dan Dennett on dangerous memes; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/dan_dennett_on_dangerous_memes.html
-
-Id: ted-35
-Type: media
-Media: video
-Title: Dan Dennett on our consciousness; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/dan_dennett_on_our_consciousness.html
-
-Id: ted-36
-Type: media
-Media: video
-Title: Daniel Goleman on compassion; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/daniel_goleman_on_compassion.html
-
-Id: ted-37
-Type: media
-Media: video
-Title: Howard Rheingold on collaboration; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/howard_rheingold_on_collaboration.html
-
-Id: ted-38
-Type: media
-Media: video
-Title: Martin Seligman on positive psychology; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/martin_seligman_on_the_state_of_psychology.html
-
-Id: ted-39
-Type: media
-Media: video
-Title: Phil Borges on endangered cultures; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/phil_borges_on_endangered_cultures.html
-
-Id: ted-40
-Type: media
-Media: video
-Title: Ray Kurzweil on how technology will transform us; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/ray_kurzweil_on_how_technology_will_transform_us.html
-
-Id: ted-41
-Type: media
-Media: video
-Title: Robert Lang folds way-new origami; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/robert_lang_folds_way_new_origami.html
-
-Id: ted-42
-Type: media
-Media: video
-Title: Saul Griffith on everyday inventions; Video on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/index.php/talks/saul_griffith_on_everyday_inventions.html
-
-Id: ted-43
-Type: media
-Media: video
-Title: Omar Ahmad; Profile on TED.com
-Tags: home, change, ted, link
-Link: http://www.ted.com/speakers/omar_ahmad.html
-
-Id: ted-44
-Type: media
-Media: video
-Title: Deborah Gordon digs ants; Video on TED.com
-Tags: home, ted, link
-Link: http://www.ted.com/index.php/talks/deborah_gordon_digs_ants.html
-
-Id: ted-45
-Type: media
-Media: video
-Title: Keith Barry does brain magic; Video on TED.com
-Tags: home, ted, link
-Link: http://www.ted.com/index.php/talks/keith_barry_does_brain_magic.html
-
-Id: ted-46
-Type: media
-Media: video
-Title: Susan Blackmore on memes and temes; Video on TED.com
-Tags: home, ted, link
-Link: http://www.ted.com/index.php/talks/susan_blackmore_on_memes_and_temes.html
 
 Id: ted-47
 Type: media
@@ -20980,6 +20982,14 @@ Title: Object-oriented Programming in JavaScript; Udemy
 Tags: tools, gas, link
 Link: https://www.udemy.com/course/javascript-object-oriented-programming/learn/lecture/10019536#overview
 
+Id: uhm-01
+Type: media
+Media: video
+Title: Peter van Uhm: Why I chose a gun
+Author: Uhm, Peter van
+Tags: video, old:ted-26
+Link: http://www.ted.com/talks/peter_van_uhm_why_i_chose_a_gun.html
+
 Id: ukoln-ac-01
 Type: article
 Media: link
@@ -21379,6 +21389,14 @@ Media: site
 Title: Congresswoman Anna Eshoo -
 Tags: political, link
 Link: https://vekeo.com/repannaeshoo/#usermessagea
+
+Id: venter-01
+Type: media
+Media: video
+Title: Craig Venter is on the verge of creating synthetic life
+Author: Venter, Craig
+Tags: home, change, ted, link, old:ted-33
+Link: http://www.ted.com/index.php/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life.html
 
 Id: vention-01
 Type: article
@@ -22680,7 +22698,7 @@ Id: wikipedia-53
 Type: article
 Media: link
 Title: available
-Annote: moved to Id: gebru-01
+Annote: moved to gebru-01
 
 Id: wikipedia-54
 Type: article
@@ -22994,6 +23012,14 @@ Publisher: Perie Wolford
 Tags: biblio
 ASIN: 16413881
 
+Id: wolpe-01
+Type: media
+Media: video
+Title: Paul Root Wolpe: It's time to question bio-engineering
+Author: Wolpe, Paul Root
+Tags: video, old:ted-24
+Link: http://www.ted.com/talks/paul_root_wolpe_it_s_time_to_question_bio_engineering.html
+
 Id: wong-01
 Type: article
 Media: link
@@ -23167,6 +23193,14 @@ Tags: link, article
 Link: https://www.stonekettle.com/2022/06/when-good-men-do-nothing.html
 AltLink: https://archive.vn/uYzhF
 Annote: See notes.
+
+Id: wright-02
+Type: media
+Media: video
+Title: iO Tillett Wright: Fifty shades of gay
+Author: Wright, Tillett
+Tags: video, old:ted-13
+Link: http://www.ted.com/talks/io_tillett_wright_fifty_shades_of_gay.html
 
 Id: wrixon-01
 Type: book
