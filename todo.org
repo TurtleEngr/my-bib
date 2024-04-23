@@ -19,7 +19,7 @@
   3. Find a copy at or just after the cited Date
     - if there is more than one copy for the Date, use the one with
       the latest time.
-    - Or use the "Wayback Machine" Chrome extension (see below)
+    - Or use the "Wayback Machine" Chrome/Firefox extension (see below)
   4. Put the archive.org url in AltLink
   5. Create a tinyurl for the link
   6. Put the tinyurl in AltLink at the beginning
@@ -27,8 +27,8 @@
     otherwise put it at the end
   8. Update the Date to match the archive.org date.
 
-**** Using Chrome extension
-  1. Add "Wayback Machine" Chrome extension
+**** Using Chrome/Firefox extension
+  1. Add "Wayback Machine" Chrome/Firefox extension
     - Wayback Machine Chrome Extension
     - https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US
     - https://tinyurl.com/app
@@ -53,7 +53,7 @@
   - Problems or exceptions can be noted in the Annote: line.
 
 **** Note:
-  - All the text after a "tag" is all on one line. There are no line breaks.
+  - All the text after a "tag:" is all on one line. There are no line breaks.
   - AltLink urls are space separated.
 
 *** For Type: book, Fixup Date, Publisher, Link
@@ -142,7 +142,6 @@ AltLink: https://archive.vn/b1ora
 #+END_EXPORT
 
 **** After
-
 #+BEGIN_EXPORT html
 <pre>
 Id: demarco-03
@@ -219,12 +218,6 @@ Annote: Added web.archive.org to AltLink
 #+END_EXPORT
 
 ** Fix
-- Reindex ted-?? items to be under Author's name.
-  - append old Id to Tags: with: old:Id
-- Reindex opednews items to be under Author's name.
-  - append old Id to Tags: with: old:Id
-- Fix "Authors:" to be "& First Last" or "First Last, First Last, &
-  First Last"
 - Fix up the generation of the "bib" table fields. For example,
   Subtitles.
 - Fix the formatting, see etc/bib-template.xml
@@ -330,6 +323,10 @@ Annote: Added web.archive.org to AltLink
 
 - Format: Media tag
 ** Done
+- Reindex opednews items to be under Author's name.
+  - append old Id to Tags: with: old:Id
+- Reindex ted-?? items to be under Author's name.
+  - append old Id to Tags: with: old:Id
 - Fix Subtitle:
   - get this from the Title tag
   - grep Title: biblio.txt  | sed 's/Title:/Title/' |  grep ': '

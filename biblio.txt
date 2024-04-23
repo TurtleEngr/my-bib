@@ -3242,6 +3242,15 @@ Title: CloudFormation vs. Terraform
 Tags: tools, sre, link
 Link: https://cloudonaut.io/cloudformation-vs-terraform/
 
+Id: clute-01
+Type: article
+Media: link
+Title: OpEdNews - Article: Creating a Restorative City
+Author: Clute, Sylvia
+Publisher: Oped News
+Tags: home, change, link, old:opednews-06
+Link: http://www.opednews.com/articles/Creating-a-Restorative-Cit-by-Sylvia-Clute-101008-398.html
+
 Id: cmc-uib-no-01
 Type: article
 Media: link
@@ -3606,6 +3615,15 @@ Media: link
 Title: Lisbon Chocolate Cake Recipe - NYT Cooking
 Tags: misc, recipe, link
 Link: https://cooking.nytimes.com/recipes/1020555-lisbon-chocolate-cake
+
+Id: cooney-01
+Type: article
+Media: link
+Title: OpEdNews - Article: Worker Cooperatives--a genuine Third Way
+Author: Cooney, Brian
+Publisher: Oped News
+Tags: home, change, local, link, old:opednews-09
+Link: http://www.opednews.com/articles/Worker-Cooperatives-a-gen-by-Brian-Cooney-100714-146.html
 
 Id: coopamerica-01
 Type: article
@@ -14820,28 +14838,12 @@ Title: Home; oojie
 Tags: home, tofile, set2011, link
 Link: http://oojie.com/
 
-Id: opednews-05
+Id: opednews-01
 Type: site
 Media: org
 Title: OpEdNews.Com Progressive, Tough Liberal News and Opinion
-Tags: home, change, link
+Tags: home, change, link, old:opednews-05
 Link: http://www.opednews.com/
-
-Id: opednews-06
-Type: article
-Media: link
-Title: OpEdNews - Article: Creating a Restorative City
-Publisher: Oped News
-Tags: home, change, link
-Link: http://www.opednews.com/articles/Creating-a-Restorative-Cit-by-Sylvia-Clute-101008-398.html
-
-Id: opednews-09
-Type: article
-Media: link
-Title: OpEdNews - Article: Worker Cooperatives--a genuine Third Way
-Publisher: Oped News
-Tags: home, change, local, link
-Link: http://www.opednews.com/articles/Worker-Cooperatives-a-gen-by-Brian-Cooney-100714-146.html
 
 Id: openai-01
 Type: site
