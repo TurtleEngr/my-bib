@@ -63,11 +63,12 @@
   4. Scroll down to find the Publisher, add to Publisher: tag, Place: tag,
      and Edition: tag. Ignore the pages
   5. Add or update the Date. Include the full date if you see that. YYYY-MM-DD
-  6. If there are multiple authors, put the first author after the Author
-    tag. Put the other authors after an Authors tag. Last, First,
-    separated with a ';'
-  7. If you see ISBN, add that tag
-  8. If no ISBN, and there is an ASIN, then add ASIN
+  6. If there are multiple authors, put the first author after the
+     Author: tag. Put the other authors after an Authors: tag. First
+     Last separated with commas. (Don't put 'and' or '&' in the list
+     of names)
+  7. If you see ISBN, add the ISBN: tag
+  8. If no ISBN, and there is an ASIN, then add ASIN: tag
   9. Shorten amazon links, if they still work. For example:
     - Old Link: https://www.amazon.com/Lost-Cause-Cory-Doctorow-ebook/dp/B0BQGGP2XT/ref=sr_1_1?crid=33GC3LJO9WQJ&keywords=lost+cause&qid=1702359164&s=digital-text&sprefix=lost+cause%2Cdigital-text%2C245&sr=1-1
     - Short Link: https://www.amazon.com/dp/B0BQGGP2XT
