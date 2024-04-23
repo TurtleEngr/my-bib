@@ -336,7 +336,7 @@ Type: media
 Media: video
 Title: Holy Hell (film)
 Author: Allen, Will
-Authors: & Polly Morgan
+Authors: Polly Morgan
 Date: 2016-01-25
 Link: https://en.wikipedia.org/wiki/Holy_Hell_(film)
 AltLink: https://tinyurl.com/m2t3m9a3 https://web.archive.org/web/20231219020700/https://en.wikipedia.org/wiki/Holy_Hell_%28film%29
@@ -1404,7 +1404,7 @@ Media: link
 Title: On the Dangers of Stochastic Parrots
 Subtitle: Can Language Models Be Too Big?
 Author: Bender, Emily M.
-Authors: Timnit Gebru, Angelina McMillan-Major, & Shmargaret Shmitchell
+Authors: Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell
 Date: 2021-03-03
 Tags: article, pdf, article
 Link: https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
@@ -1541,7 +1541,7 @@ Type: article
 Media: link
 Title: Adhocracy for an agile age
 Author: Birkinshaw, Julian 
-Authors: & Jonas Ridderstråle
+Authors: Jonas Ridderstråle
 Date: 2015-12-01
 DateSeen: 2024-02-29
 Publisher: McKinsey Quarterly
@@ -1747,7 +1747,7 @@ Media: video
 Title: This Land is Our Land
 Subtitle: The Fight to Reclaim the Commons
 Author: Bollier, David
-Authors: & Jeremy Earp
+Authors: Jeremy Earp
 Date: 2010
 Tags: commons
 Link: https://www.filmsforaction.org/watch/this-land-is-our-land-the-fight-to-reclaim-the-commons/
@@ -2541,7 +2541,7 @@ Type: article
 Media: link
 Title: A Green-Powered Trip to Eco-Solartopia (transcript)
 Author: Callenbach, Ernest
-Authors: & Harvey Wasserman
+Authors: Harvey Wasserman
 Date: 2009-07-05
 Publisher: huffpost
 Link: https://www.huffpost.com/entry/a-green-powered-trip-to-e_b_211456
@@ -3019,7 +3019,7 @@ Type: article
 Media: link
 Title: Transcript: Ezra Klein Interviews Ted Chiang
 Author: Chiang, Ted
-Authors: & Ezra Klein
+Authors: Ezra Klein
 Date: 2021-03-30
 Tags: important, article, old:klein-04
 Link: https://www.nytimes.com/2021/03/30/podcasts/ezra-klein-podcast-ted-chiang-transcript.html
@@ -3979,7 +3979,7 @@ Type: article
 Media: link
 Title: Gendered Language
 Author: Dasani, Neerja
-Authors: & Swati Roy
+Authors: Swati Roy
 Date: 2009-11-05
 Publisher: Counter Currents
 Tags: home, change, link
@@ -4468,7 +4468,7 @@ Type: article
 Media: link
 Title: ZEGG Forum Rules &amp; Guidelines for Building Polyamory Community
 Author: Devi, Kamala
-Authors: & Adam Paulman
+Authors: Adam Paulman
 Tags: culture, link
 Link: http://www.kamaladevi.com/2998/zegg-forum-rules-guidelines-polyamory-community#.VjWdvHUViko
 
@@ -8569,7 +8569,7 @@ Type: media
 Media: video
 Title: Jonathan Haidt: The Case Against Social Media; Lex Fridman Podcast #291
 Author: Haidt, Jonathan
-Authors: & Lex Fridman
+Authors: Lex Fridman
 Date: 2022-06-04
 Tags: video, old:fridman-01
 Link: https://www.youtube.com/watch?v=f0un-l1L8Zw
@@ -11329,7 +11329,7 @@ Media: Hardcover
 Title: The Sixth Extinction
 Subtitle: Patterns of Life and the Future of Humankind
 Author: Leakey, Richard E. 
-Authors: & Roger Lewin
+Authors: Roger Lewin
 Date: 1995-09-01
 Publisher: Doubleday
 ISBN: 0385424973 
@@ -11844,7 +11844,7 @@ Media: video
 Title: Regreening the desert with John D. Liu
 Subtitle: VPRO Documentary 2012
 Author: Liu, John D.
-Authors: & Rob van Hattum
+Authors: Rob van Hattum
 Date: 2017-05-07
 Link: https://www.youtube.com/watch?v=IDgDWbQtlKI
 AltLink: [download-video]
@@ -12690,7 +12690,7 @@ Media: Paperback
 Title: Cohousing
 Subtitle: A Contemporary Approach to Housing Ourselves
 Author: McCamant, Kathryn M.
-Authors: Charles Durrett, & Charles W. Mooore
+Authors: Charles Durrett, Charles W. Mooore
 Date: 1989-01-01
 Publisher: Ten Speed Press
 ISBN: 0898153069
@@ -13013,7 +13013,7 @@ Media: link
 Title: ZEGG Forum – a ritualized form of communication for larger groups
 Date: 2013-08-22
 Author: Meyer-Stoll, Ina
-Authors: & Achim Ecker
+Authors: Achim Ecker
 Link: https://geo.coop/story/zegg-forum-%E2%80%93-ritualized-form-communication-larger-groups
 AltLink: http://tinyurl.com/yc6ew4be https://web.archive.org/web/20230923013653/https://geo.coop/story/zegg-forum-%e2%80%93-ritualized-form-communication-larger-groups
 
@@ -15170,7 +15170,7 @@ Type: article
 Media: link
 Title: How AI Puts Elections at Risk — And the Needed Safeguards
 Author: Panditharatne, Mekela
-Authors: & Noah Giansiracusa
+Authors: Noah Giansiracusa
 Date: 2023-06-13
 Publisher: Brennan Center for Justice
 Link: https://www.brennancenter.org/our-work/analysis-opinion/how-ai-puts-elections-risk-and-needed-safeguards
@@ -15241,7 +15241,7 @@ Type: book
 Media: Paperback
 Title: Basic Surveying
 Author: Paul, Raymond
-Authors: & Walter Whyte
+Authors: Walter Whyte
 Edition: 4th
 Tags: home, surveying, link
 ISBN: 0750617713
@@ -17592,7 +17592,7 @@ Type: media
 Media: video
 Title: Senator Sanders and Michael Moore
 Author: Sanders, Bernie
-Authors: & Michael Moore
+Authors: Michael Moore
 Tags: video, old:youtube-021
 Link: http://www.youtube.com/watch?v=I5rcnAWaC64&amp;feature=related
 
@@ -20069,7 +20069,7 @@ Type: book
 Media: Ebook
 Title: Vaporized: Solid Strategies for Success in a Dematerialized World
 Author: Tercek, Robert
-Authors: & Nicholas Negroponte
+Authors: Nicholas Negroponte
 Date: 2015
 Publisher: LifeTree (2015), 336 pages
 Tags: important
@@ -21315,7 +21315,7 @@ Type: book
 Media: Ebook
 Title: Talking to My Daughter About the Economy: or, How Capitalism Works--and How It Fails
 Author: Varoufakis, Yanis
-Authors: & Jacob Moe
+Authors: Jacob Moe
 Date: 2018
 Publisher: Farrar, Straus and Giroux (2018), 224 pages
 Tags: important
@@ -21356,7 +21356,7 @@ Type: book
 Media: Ebook
 Title: More Than Two: A Practical Guide to Ethical Polyamory
 Author: Veaux, Franklin
-Authors: Tatiana Gill, & Janet Hardy
+Authors: Tatiana Gill, Janet Hardy
 Date: 2014
 Publisher: Thorntree Press (2014), 496 pages
 Tags: biblio
@@ -22132,7 +22132,7 @@ Type: media
 Media: audio
 Title: Central Leader Communities with Evil Dictator Paul Wheaton
 Author: Wheaton, Paul
-Authors: & Rebecca Mesritz
+Authors: Rebecca Mesritz
 Date: 2023-09-07
 Link: https://www.ic.org/podcast-paul-wheaton/
 Annote: See notes.
