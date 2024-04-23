@@ -2007,7 +2007,8 @@ Link: http://www.brightidea.com/careers.asp
 Id: brin-01
 Type: article
 Media: link
-Title: Those who would be kings - Part 1. 'Neo-Monarchists’ and others who demand we drop what works, in favor of what always failed
+Title: Those who would be kings - Part 1
+Subtitle: 'Neo-Monarchists’ and others who demand we drop what works, in favor of what always failed
 Author: Brin, David
 Date: 2023-07-23
 Link: https://davidbrin.blogspot.com/2023/07/those-wo-would-be-kings-part-1-neo.html
