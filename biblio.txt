@@ -1540,14 +1540,13 @@ Id: birkinshaw-01
 Type: article
 Media: link
 Title: Adhocracy for an agile age
-Author Birkinshaw, Julian 
+Author: Birkinshaw, Julian 
 Authors: & Jonas Ridderstråle
 Date: 2015-12-01
 DateSeen: 2024-02-29
 Publisher: McKinsey Quarterly
 Link: https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
-AltLink: https://tinyurl.com/85keerw6
-https://web.archive.org/web/20240229201523/https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
+AltLink: https://tinyurl.com/85keerw6 https://web.archive.org/web/20240229201523/https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
 
 Id: black-01
 Type: media
@@ -2073,6 +2072,16 @@ Publisher: Random House Trade Paperbacks
 Tags: biblio
 ISBN: 0375758984
 ASIN: 3239
+
+Id: brooks-01
+Type: article
+Media: link
+Title: Fresh Air - All Of This Panic Could Have Been Prevented
+Subtitle: Max Brooks On COVID-19 - 3/24/2020 41min
+Author: Brooks, Max
+Tags: link
+Link: https://www.npr.org/2020/03/24/820601571/all-of-this-panic-could-have-been-prevented-author-max-brooks-on-covid-19
+Annote: See notes.
 
 Id: brosnan-01
 Type: media
@@ -8799,7 +8808,7 @@ Subtitle: How a Settler Colonial State Destroyed Itself
 Author: Hedges, Chris
 Date: 2024-01-29
 Link: https://www.youtube.com/watch?v=qlcqsKvTSPw&t=4170s
-Annote: At 1h09m30s "Politics is a game of fear."
+Annote: At 1h09m30s Politics is a game of fear.
 
 Id: hedrick-01
 Type: book
@@ -10449,7 +10458,7 @@ Author: Kashtan, Miki
 Date: 2020
 Publisher: Fearless Heart Publication
 Address: P.O. Box 22872, Oakland, CA 94609
-ISBN:9780990007364
+ISBN: 9780990007364
 Link: https://thefearlessheart.org/store/the-highest-common-denominator/
 
 Id: katerinaptrv-01
@@ -14370,14 +14379,6 @@ Title: TED: Jacqueline Novogratz: Inspiring a life of immersion
 Tags: ted, biblio
 Link: http://www.ted.com/talks/jacqueline_novogratz_inspiring_a_life_of_immersion.html
 
-Id: npr-01
-Type: article
-Media: link
-Title: Fresh Air - All Of This Panic Could Have Been Prevented': Author Max Brooks On COVID-19 - 3/24/2020 41min
-Tags: link
-Link: https://www.npr.org/2020/03/24/820601571/all-of-this-panic-could-have-been-prevented-author-max-brooks-on-covid-19
-Annote: See notes.
-
 Id: npr-02
 Type: article
 Media: link
@@ -15394,7 +15395,7 @@ Publisher: Touchstone
 Edition: 2nd
 Tags: important
 ISBN: 0684848597
-https://www.amazon.com/dp/0684848597/
+Link: https://www.amazon.com/dp/0684848597/
 
 Id: peck-03
 Type: book
@@ -16019,7 +16020,7 @@ Author: Prechtel, Martin
 Date: 2004-10-20
 Publisher: North Atlantic Books;
 Link: https://www.amazon.com/dp/155643538X/
-IDBN: 155643538X
+ISBN: 155643538X
 
 Id: prechtel-04
 Type: book
@@ -20725,7 +20726,7 @@ Date: 2023
 Link: https://www.tromsite.com/documentaries/trom2/
 Annote: Duration: 37 parts, 14 hours. See notes.
 
-Id: trom-02
+Id: trom-03
 Type: media
 Media: video
 Title: Duration: 4 parts, 5 hours
@@ -22083,6 +22084,8 @@ Link: https://www.linkedin.com/in/paulwertheimer/details/featured/1635508384476/
 AltLink: http://tinyurl.com/5t53aetf https://web.archive.org/web/20240116215233/https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd-html/ https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd.pdf
 
 Id: west-knights-01
+Type: article
+Media: link
 Title: The Hunks Are All Right
 Subtitle: Five former shirtless Abercrombie & Fitch greeters on what it was like serving as human bait
 Author: West-Knights, Imogen

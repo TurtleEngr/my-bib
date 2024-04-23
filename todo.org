@@ -230,11 +230,9 @@ Annote: Added web.archive.org to AltLink
 - Fix the formatting, see etc/bib-template.xml
   - [Id][Author][Date][Title][Publisher][ISBN][Link]
 ** Add tags [TBD]
-- Add Place, Edition, and Subtitle - in progress
-- Subtitle:
-  - get this from the Title tag
-  - grep Title: biblio.txt  | sed 's/Title:/Title/' |  grep ': '
+- Add Place and Edition - in progress
 - Edition use: 2nd, 3rd, Nth
+  - optional
   - get this from Publisher tag
   - leave empty, if 1st, or First
   - Revision, Revised, use: Rev.
@@ -244,7 +242,7 @@ Annote: Added web.archive.org to AltLink
 - Place: address, city, state, country
   - optional
   - get this from Publisher tag
-** Format tags (TBD)
+** Format tags - in bib table (TBD)
 - Bib Title:
   - if Title: '[Title]'
   - if Subtitle, append: ': [Subtitle]'
@@ -252,7 +250,7 @@ Annote: Added web.archive.org to AltLink
   - lastly, append: '. '
 - Bib Author
   - if Author: [Author]
-  - if Authors: append: ', [Authors]'
+  - if Authors: append: ' [Authors]'
   - lastly, append: '. '
 - Bib Publication
   - if Place: '[Place]: '
@@ -261,7 +259,7 @@ Annote: Added web.archive.org to AltLink
   - If Date: ' (Date). '
 - Bib Link
   - If Link: ' [Link]'
-  - if AltLink, append: '; Alt: [first-AltLink]'
+  - if AltLink, append: ', Alt: [first-AltLink]'
 ** Final Format (TBD)
 - https://pitt.libguides.com/citationhelp
 - https://libguides.westsoundacademy.org/chicago-citation/edition-other-than-the-first
@@ -272,7 +270,7 @@ Annote: Added web.archive.org to AltLink
 
 - Author: last, first
 - Authors: & first-last
-- Authors: first-last, first-last, & first-last
+- Authors: & first-last, first-last, first-last
 - title is in italic
 - Edition: if not first
   - Rev. ed.
@@ -332,4 +330,7 @@ Annote: Added web.archive.org to AltLink
 
 - Format: Media tag
 ** Done
+- Fix Subtitle:
+  - get this from the Title tag
+  - grep Title: biblio.txt  | sed 's/Title:/Title/' |  grep ': '
 - Restore the Publisher: field - done
