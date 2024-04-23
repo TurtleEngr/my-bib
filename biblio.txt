@@ -924,7 +924,7 @@ Id: ashenden-01
 Type: article
 Media: link
 Title: The Internet Archive’s troubles are bad news for book lovers
-Author: Robin Ashenden
+Author: Ashenden, Robin
 Date: 2023-04-18
 Publisher: The Spectator
 Link: https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/
@@ -1392,7 +1392,7 @@ Id: benang-01
 Type: media
 Media: video
 Title: TikTok Is DESTROYING Our Attention Span - And Nobody Cares
-Author: RickyBenangVlogs
+Author: Benang, Ricky
 Date: 2022-10
 DateSeen: 2023-03-11
 Tags: video
@@ -1747,7 +1747,8 @@ Type: media
 Media: video
 Title: This Land is Our Land
 Subtitle: The Fight to Reclaim the Commons
-Author: David Bollier, Jeremy Earp
+Author: Bollier, David
+Authors: & Jeremy Earp
 Date: 2010
 Tags: commons
 Link: https://www.filmsforaction.org/watch/this-land-is-our-land-the-fight-to-reclaim-the-commons/
@@ -2783,7 +2784,6 @@ Id: centerforpartnership-01
 Type: site
 Media: org
 Title: Home - The Center for Partnership Systems
-Date: Author:
 Link: https://centerforpartnership.org/
 AltLink: https://tinyurl.com/y39atran https://web.archive.org/web/20231210195621/https://centerforpartnership.org/
 
@@ -3651,7 +3651,7 @@ Id: cousteau-01
 Type: article
 Media: link
 Title: Our Oceans Are Dying
-Author: Jacques Cousteau
+Author: Cousteau, Jacques
 Date: 1971-11-14
 DateSeen: 2023-08-29
 Publisher: The New York Times
@@ -5344,6 +5344,17 @@ Media: link
 Title: Software Reliability
 Tags: work, agileprogramming, link
 Link: http://www.ece.cmu.edu/~koopman/des_s99/sw_reliability/
+
+Id: eck-01
+Type: site
+Media: site
+Title: The Pluralism Project
+Author: Eck, Dr. Diana L.
+Date: 2023-06-14
+Publisher: The Pluralism Project Harvard University
+Tags: old:pluralism-01
+Link: https://pluralism.org/
+AltLink: https://archive.vn/rb5wm
 
 Id: economy-01
 Type: book
@@ -8539,7 +8550,7 @@ Type: book
 Media: Ebook
 Title: The Righteous Mind
 Subtitle: Why Good People Are Divided by Politics and Religion
-Author: Jonathan Haidt
+Author: Haidt, Jonathan
 Date: 2012-03-13
 Link: https://www.amazon.com/dp/B0052FF7YM/
 
@@ -15753,16 +15764,6 @@ Title: FAQs
 Tags: misc, exercise, health, link
 Link: http://www.pluggz.com/earthing-grounding-faq-a/254.htm
 
-Id: pluralism-01
-Type: site
-Media: site
-Title: The Pluralism Project
-Author: Dr. Diana L. Eck
-Date: 2023-06-14
-Publisher: The Pluralism Project Harvard University
-Link: https://pluralism.org/
-AltLink: https://archive.vn/rb5wm
-
 Id: poclad-01
 Type: site
 Media: site
@@ -16404,7 +16405,7 @@ Id: rafnel-05
 Type: article
 Media: link
 Title: Peace: First US Love School – My Notes
-Author: Bruce Rafnel
+Author: Rafnel, Bruce
 Date: 2015-10-12
 Tags: current, set2018, link
 Link: https://freelovecommunity.wordpress.com/2015/10/12/peace-first-us-love-school-my-notes/
@@ -16414,7 +16415,7 @@ Id: rafnel-06
 Type: article
 Media: link
 Title: Community Decision Making Processes – Part II
-Author: Bruce Rafnel
+Author: Rafnel, Bruce
 Date: 2016-05-06
 Link: https://freelovecommunity.wordpress.com/2016/05/06/community-decision-making-processes-part-ii/
 AltLink: https://tinyurl.com/566bh28u https://web.archive.org/web/20231027031907/https://freelovecommunity.wordpress.com/2016/05/06/community-decision-making-processes-part-ii/
@@ -16423,7 +16424,7 @@ Id: rafnel-07
 Type: article
 Media: link
 Title: Book: Temple of Love
-Author: Bruce Rafnel
+Author: Rafnel, Bruce
 Date: 2015-03-08
 Link: https://freelovecommunity.wordpress.com/2015/03/08/book-temple-of-love/
 AltLink: https://tinyurl.com/3b2e9ymw https://web.archive.org/web/20231027054850/https://freelovecommunity.wordpress.com/2015/03/08/book-temple-of-love/
@@ -21323,7 +21324,7 @@ Id: varoufakis-02
 Type: media
 Media: video
 Title: American Big Tech Has Enslaved Us | Aaron Bastani Meets Yanis Varoufakis
-Author: Yanis Varoufakis
+Author: Varoufakis, Yanis
 Date: 2023-10-08
 Publisher: Novara Media
 Link: https://www.youtube.com/watch?v=VatYrw0uqjU
