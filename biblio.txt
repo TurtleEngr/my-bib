@@ -22,7 +22,7 @@ Link: http://www.aa-san-mateo.org/
 Id: abbott-01
 Type: media
 Media: DVD
-Title: Africa Screams / Jack & the Beanstalk,
+Title: Africa Screams / Jack & the Beanstalk
 Author: Abbott, Bud
 Tags: video
 ISBN: 0778603644
@@ -15379,12 +15379,14 @@ Link: https://pebblebee.com/
 Id: peck-01
 Type: book
 Media: Ebook
-Title: The Different Drum: Community Making and Peace
+Title: The Different Drum
+Subtitle: Community Making and Peace
 Author: Peck, M. Scott
-Date: 2010
+Date: 2010-05-11
 Publisher: Touchstone
 Tags: important
 ASIN: 55206
+Link: https://www.amazon.com/dp/B003LL3K5M/
 
 Id: peck-02
 Type: book
@@ -15415,7 +15417,7 @@ Type: book
 Media: book
 Title: The Different Drum
 Subtitle: Community Making and Peace
-Author: Peck, Scott
+Author: Peck, M. Scott
 Date: 2010-05-11
 Tags: important
 Link: https://www.amazon.com/dp/B003LL3K5M/
@@ -15423,7 +15425,7 @@ Link: https://www.amazon.com/dp/B003LL3K5M/
 Id: peck-05
 Type: article
 Media: link
-Title: Scott Peck
+Author: Peck, M. Scott
 Tags: person, important, biblio
 Link: https://en.wikipedia.org/wiki/M._Scott_Peck
 
