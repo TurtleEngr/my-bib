@@ -1,7 +1,8 @@
-# Make a concordance file for libreoffice
+# Make a concordance file for libreoffice, for author locations in a document.
 # https://help.libreoffice.org/7.6/en-US/text/swriter/01/04120250.html?&DbPAR=SHARED&System=UNIX
 # Search terms are values Id:, Author:, Title:, LastName
-
+# Usage:
+#     awk -f mk-index.awk biblio.txt | sort -iu >index.sdi
 
 function fIndex(pSearch, pAlt, pMain, pCase, pSingle) {
     print pSearch ";" pAlt ";" pMain ";;" pCase ";" pSingle
