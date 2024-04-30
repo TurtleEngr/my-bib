@@ -2354,6 +2354,17 @@ Link: https://mark-burgess-oslo-mb.medium.com/the-failure-of-knowledge-managemen
 AltLink: https://archive.vn/HISIw
 Annote: See notes.
 
+Id: burgess-07
+Type: media
+Media: video
+Title: CFEngine: The agent is in 33
+Subtitle: Celebrating 30 years w/ Mark Burgess
+Author: Mark Burgess
+Authors: Nick Anderson
+Date: 2024-01-25
+Publisher: CFEngine
+Link: https://www.youtube.com/watch?v=KrF9R11AFis
+
 Id: burke-01
 Type: article
 Media: article
