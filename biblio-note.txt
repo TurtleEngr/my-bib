@@ -155,6 +155,15 @@ a book is not the same as knowing the subject.</p>
 something. Knowledge may involve things and ideas, but its how they
 interact that matters.</p></note>
 
+Id: burgess-07
+<note><blockquote>trust is not the important thing but actually
+Mistrust is the thing that drives human
+cooperation. {burgess-07:1h:15m:44s}</blockquote> <p>That is, we pay
+attention to what others are doing because we are interested in what
+they are doing (or it could affect us), but we may not trust what they
+are doing or how they are doing it.</p> <p>Papers written with Robin
+Dunbar: burgess-08, burgess-09</p> </note>
+
 Id: butler-01
 <note>Media: epub. See also: Darwin Among the Machines, by Maria
 Popova [popova-01]</note>

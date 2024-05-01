@@ -2359,11 +2359,34 @@ Type: media
 Media: video
 Title: CFEngine: The agent is in 33
 Subtitle: Celebrating 30 years w/ Mark Burgess
-Author: Mark Burgess
+Author: Burgess, Mark
 Authors: Nick Anderson
 Date: 2024-01-25
 Publisher: CFEngine
 Link: https://www.youtube.com/watch?v=KrF9R11AFis
+Annote: See notes.
+
+Id: burgess-08
+Type: article
+Media: link
+Title: Causal evidence for social group sizes from Wikipedia editing data
+Author: Burgess, Mark
+Authors: Robin Dunbar
+Date: 2024-04-09
+Link: https://arxiv.org/html/2402.00595v2
+AltLink: https://tinyurl.com/mrxh3rjh https://web.archive.org/web/20240430223024/https://moria.whyayh.com/rel/archive/article/culture/burgess-08-2402.00595v2.pdf https://moria.whyayh.com/rel/archive/article/culture/burgess-08-2402.00595v2.pdf
+Annote: PDF copy is at AltLink
+
+Id: burgess-09
+Type: article
+Media: link
+Title: A Promise Theory Perspective on the Role of Intent in Group Dynamics
+Author: Burgess, Mark
+Authors: Robin Dunbar
+Date: 2024-02-02
+Link: https://arxiv.org/abs/2402.00598
+AltLink: https://tinyurl.com/56z84va2 https://web.archive.org/web/20240430223355/https://moria.whyayh.com/rel/archive/article/culture/burgess-09-2402.00598v1.pdf https://moria.whyayh.com/rel/archive/article/culture/burgess-09-2402.00598v1.pdf
+Annote: PDF copy is at AltLink
 
 Id: burke-01
 Type: article
