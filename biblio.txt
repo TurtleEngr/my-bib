@@ -15463,6 +15463,17 @@ Author: Peck, M. Scott
 Tags: person, important, biblio
 Link: https://en.wikipedia.org/wiki/M._Scott_Peck
 
+Id: peck-06
+Type: book
+Media: Hardcover
+Title: In Search of Stones
+Subtitle: A Pilgrimage of Faith, Reason, and Discovery
+Author: Peck, M. Scott
+Date: 1995-04-01
+Publisher:‎ Hyperion
+ISBN: 978-0786860210
+Link: https://www.amazon.com/dp/0786860219/
+
 Id: penczak-01
 Type: book
 Media: Paperback
