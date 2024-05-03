@@ -11470,26 +11470,29 @@ Type: media
 Media: video
 Title: Larry Lessig on laws that choke creativity
 Author: Lessig, Larry
+Date: 2007-03-01
 Tags: video, old:ted-18
-Link: http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html
+Link: https://www.ted.com/talks/lawrence_lessig_laws_that_choke_creativity
 
 Id: lessig-02
 Type: media
 Media: video
 Title: Lawrence Lessig: Re-examining the remix
 Author: Lessig, Lawrence
+Date: 2010-04-01
 Tags: ted, biblio
-Link: http://www.ted.com/talks/lessig_nyed.html
+Link: https://www.ted.com/talks/lawrence_lessig_re_examining_the_remix
 Annote: See notes.
 
 Id: lessig-03
 Type: media
 Media: video
-Title: Our democracy no longer represents the people. Here's how we fix it: TEDxMidAtlantic
+Title: Our democracy no longer represents the people. Here's how we fix it
+Subtitle: TEDxMidAtlantic
 Author: Lessig, Larry
 Date: 2015-10-20
 Tags: politics, culture, ted, biblio
-Link: https://www.youtube.com/watch?v=PJy8vTu66tE&amp;t=74s
+Link: https://www.youtube.com/watch?v=PJy8vTu66tE
 Annote: See notes.
 
 Id: lethimstay-01
