@@ -11157,10 +11157,11 @@ Id: lafayettemorehouse-01
 Type: article
 Media: link
 Title: One no-vote
-Date: 2022-11-18
+Date: 2008-04-30
+DateSeen: 2022-11-18
 Tags: link
 Link: http://www.lafayettemorehouse.com/one_no-vote.html
-AltLink: https://archive.vn/WO97t
+AltLink: https://tinyurl.com/rwwkn2up https://web.archive.org/web/20080430064428/http://www.lafayettemorehouse.com/one_no-vote.html
 
 Id: lafayettemorehouse-02
 Type: site
