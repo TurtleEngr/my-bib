@@ -16436,7 +16436,7 @@ Author: Rafnel, Bruce
 Date: 2008-03-09
 Tags: article
 Link: https://moria.whyayh.com/essay/swarm.html
-AltLink: https://archive.vn/73G3H
+AltLink: https://tinyurl.com/48vh7ews https://web.archive.org/web/20240511202112/https://moria.whyayh.com/essay/swarm.html
 
 Id: rafnel-03
 Type: article
