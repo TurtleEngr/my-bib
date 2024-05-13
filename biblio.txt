@@ -2037,11 +2037,12 @@ Type: article
 Media: link
 Title: Fascism Anyone?
 Author: Britt, Laurence W.
-Date: 2003
+Date: 2003-03-01
 DateSeen: 2021-12-23
+Publisher: Free Inquiry
 Tags: important
 Link: https://secularhumanism.org/2003/03/fascism-anyone/
-AltLink: https://archive.vn/nHoCC
+AltLink: https://tinyurl.com/txhnbkzw https://web.archive.org/web/20181010202121/https://secularhumanism.org/2003/03/fascism-anyone/
 
 Id: broadbent-01
 Type: media
@@ -19432,6 +19433,18 @@ Media: link
 Title: American Stirling Company FAQ
 Tags: home, freeenergy, link
 Link: http://www.stirlingengine.com/faq/one?scope=public&amp;faq_id=1
+
+Id: stockar-01
+Type: article
+Media: link
+Title: Does microbial life always feed on negative entropy? Thermodynamic analysis of microbial growth
+Author: Stockar, U. von
+Authors: J.-S. Liu
+Date: 1999-08-05
+DateSeen: 2024-05-13
+Publisher: Science Direct
+Link: https://www.sciencedirect.com/science/article/pii/S0005272899000651
+AltLink: https://tinyurl.com/2s3sx6m5 https://web.archive.org/web/20240513203200/https://moria.whyayh.com/rel/archive/article/misc/microbial-life-entropy.pdf https://moria.whyayh.com/rel/archive/article/misc/microbial-life-entropy.pdf
 
 Id: stokes-01
 Type: media
