@@ -18914,7 +18914,7 @@ Author: Solzhenitsyn
 Date: 1978-06-08
 Tags: biblio
 Link: https://www.solzhenitsyncenter.org/a-world-split-apart
-AltLink: https://archive.vn/1Vekb
+AltLink: https://tinyurl.com/3t6kp42r https://web.archive.org/web/20190703162349/https://www.solzhenitsyncenter.org/a-world-split-apart https://archive.vn/1Vekb
 
 Id: sonystyle-01
 Type: site
@@ -22854,7 +22854,7 @@ Date: 2024-01-26
 Link: https://en.wikipedia.org/wiki/Holacracy
 AltLink: https://tinyurl.com/57ty75py https://web.archive.org/web/20240126020807/https://en.wikipedia.org/wiki/Holacracy
 
-Id: wikipedia-61
+Id: wikipedia-62
 Type: article
 Media: link
 Title: Robert's Rules of Order
