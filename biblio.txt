@@ -7732,6 +7732,25 @@ Title: Official Goal Zero Site; Portable Solar Power; 30 Day Money Back Guarante
 Tags: home, tofile, set2011, link
 Link: http://www.goalzero.com/
 
+Id: godin-01
+Type: media
+Media: video
+Title: Seth Godin - How To Create a Life of Significance 
+Author: Godin, Seth
+Authors: James Brackin IV
+Date: 2023-05-31
+Link: https://www.youtube.com/watch?v=Uyn7wtpv8Ws
+
+Id: godin-02
+Type: media
+Media: video
+Title: Why You've Been Lied to About Where to Put Your Time, Energy, & Focus
+Subtitle: Seth Godin on Impact Theory
+Author: Godin, Seth
+Authors: Tom Bilyeu
+Date: 2020-12-01
+Link: https://www.youtube.com/watch?v=sB2_kKynq-4&t=389s
+
 Id: goes-noaa-01
 Type: site
 Media: site
@@ -10361,6 +10380,16 @@ Date: 2022-06-21
 Tags: ted
 Link: https://www.youtube.com/watch?v=VsOJR40M0as
 Annote: See notes.
+
+Id: johnson-09
+Type: media
+Media: audio
+Title: This Scientist Has an Antidote to Our Climate Delusions
+Author: Johnson, Dr. Ayana Elizabeth
+Authors: David Marchese
+Date: 2024-05-18
+Publisher: The New York Times
+Link: https://tinyurl.com/muurs8jw https://web.archive.org/web/20240518135055/https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
 
 Id: jolicloud-01
 Type: site
