@@ -24756,9 +24756,12 @@ Link: http://zedomax.com/blog/zedomax-diy-100-make-an-alarm-system/
 Id: zegg-forum-01
 Type: article
 Media: link
-Title: ZEGG Forum Integrale Gemeinschaftsbildung - Transparent communication
+Title: ZEGG Forum
+Subtitle: Transparent Integral Communication
+Date: 2023-12-10
 Tags: culture, link
 Link: http://www.zegg-forum.org/en/background-info/transparent-communication.html
+AltLink: https://tinyurl.com/58nwbk92 https://web.archive.org/web/20231210105957/https://www.zegg-forum.org/en/background-info/transparent-communication.html
 
 Id: zehr-01
 Type: book
