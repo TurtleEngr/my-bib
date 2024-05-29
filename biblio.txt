@@ -1410,6 +1410,18 @@ Tags: article, pdf, article
 Link: https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
 Annote: See notes.
 
+Id: bendix-01
+Type: article
+Media: link
+Title: How hot is too hot for survival?
+Subtitle: Researchers cranked up the temperature on volunteers to find out
+Author: Bendix, Aria
+Date: 2023-07-06
+Publisher: NBC News
+Link: https://www.nbcnews.com/health/health-news/hot-hot-human-body-function-optimally-rcna92346
+AltLink: https://tinyurl.com/4asxe57k https://web.archive.org/web/20230706112940/https://www.nbcnews.com/health/health-news/hot-hot-human-body-function-optimally-rcna92346
+Annote: Source for 122 degF max.
+
 Id: benjamin-01
 Type: media
 Media: video
