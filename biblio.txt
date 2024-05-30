@@ -24670,6 +24670,14 @@ Date: 2007-10-16
 Publisher: Improv Everywhere
 Link: https://www.youtube.com/watch?v=jdeBp8J0rqs
 
+Id: youtube-181
+Type: media
+Media: video
+Title: Concrete: A Ticking Time Bomb. Can We Fix It?
+Author: City, The Aesthetic
+Date: 2024-04-27
+Link: https://www.youtube.com/watch?v=MJBz66H5QIU
+Annote: See notes.
 
 Id: yro-slashdot-01
 Type: article

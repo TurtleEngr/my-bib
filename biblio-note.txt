@@ -2214,6 +2214,16 @@ Id: youtube-158
 href="https://spotthestation.nasa.gov/home.cfm" target="_blank">Spote
 The Station</a></note>
 
+Id: youtube-181
+<note><p>Problem: reinforced concrete only lasts 50 years. (100 years
+max)</p>
+<p>Solution: use an older process that emits less CO2, for making
+concrete, and don't use steel in concrete. Only build with compressive
+forces.</p>
+<p>My comment: This is a great analysis with solutions. However, to
+implement the solutions, the capitalist profit system will need to be
+overhauled to support 1,000-year developments. In the current system,
+cheaper and faster always wins over quality and longevity.</p> </note>
 Id: zeitgeist-01
 <note>Related: <a href="http://www.thevenusproject.com/"
 target="_blank">The Venus Project</a> and <a
