@@ -22272,9 +22272,21 @@ Link: http://www.wimp.com/wheeldeath/
 Id: wheredidthetowersgo-01
 Type: site
 Media: site
-Title: Where Did the Towers Go?: Evidence of Directed Free-Energy Technology on 9/11
+Title: Where Did the Towers Go?
+Subtitle: Evidence of Directed Free-Energy Technology on 9/11
 Tags: science, link
 Link: http://wheredidthetowersgo.com/
+
+Id: whippman-01
+Type: article
+Media: link
+Title: Boys Get Everything, Except the Thing That’s Most Worth Having
+Author: Whippman, Ruth
+Date: 2024-06-05
+Publisher: New York Times
+Link: https://www.nytimes.com/2024/06/05/opinion/boys-parenting-loneliness.html?unlocked_article_code=1.xU0.1C8Q.GpnQrHuiQxvj&smid=url-share
+AltLink: https://tinyurl.com/2uc4x3af https://web.archive.org/web/20240605201251/https://www.nytimes.com/2024/06/05/opinion/boys-parenting-loneliness.html?unlocked_article_code=1.xU0.1C8Q.GpnQrHuiQxvj&smid=url-share
+Annote: See notes.
 
 Id: white-01
 Type: book
@@ -23688,10 +23700,11 @@ Link: https://www.yonomi.co/blog/2019/1/25/counterintuitive-steps-to-moving-fast
 Id: yourdon-01
 Type: book
 Media: Paperback
-Title: Death March: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects (Yourdon Computing Series)
+Title: Death March
+Subtitle: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects
 Author: Yourdon, Edward
 Date: 1999
-Publisher: Pearson P T R (1999), 240 pages
+Publisher: Pearson P T R
 Tags: biblio
 ISBN: 0130146595
 ASIN: 8382446
@@ -23729,7 +23742,8 @@ Annote: See notes.
 Id: youtube-001
 Type: media
 Media: video
-Title: The Bomb in the Brain: The True Roots of Human Violence
+Title: The Bomb in the Brain
+Subtitle: The True Roots of Human Violence
 Tags: video
 Link: http://www.youtube.com/playlist?list=PLB3F2CF45EEB95C80&amp;feature=plcp
 
@@ -23875,7 +23889,8 @@ Link: http://www.youtube.com/watch?v=cKT1VGIDEd4
 Id: youtube-041
 Type: media
 Media: video
-Title: The Quantum Conspiracy: What Popularizers of QM Don't Want You to Know
+Title: The Quantum Conspiracy
+Subtitle: What Popularizers of QM Don't Want You to Know
 Tags: video
 Link: http://www.youtube.com/watch?v=dEaecUuEqfc
 
@@ -24154,7 +24169,8 @@ Annote: See notes.
 Id: youtube-094
 Type: media
 Media: video
-Title: Backyard Chickens: What Do You Do With Extra Roosters?
+Title: Backyard Chickens
+Subtitle: What Do You Do With Extra Roosters?
 Tags: video
 Link: https://www.youtube.com/watch?v=e2folxLqFGQ
 Annote: See notes.
@@ -24178,7 +24194,7 @@ Annote: See notes.
 Id: youtube-098
 Type: media
 Media: video
-Title: Dog and Cat : Obstacle Challenge
+Title: Dog and Cat: Obstacle Challenge
 Tags: video
 Link: https://www.youtube.com/watch?v=liy0afJ8Gzw
 Annote: See notes.
@@ -24233,7 +24249,8 @@ Link: https://www.youtube.com/watch?v=t4kyRyKyOpo
 Id: youtube-107
 Type: media
 Media: video
-Title: F1 Pit Stop In 2-Seconds: An In-Depth Analysis
+Title: F1 Pit Stop In 2-Seconds
+Subtitle: An In-Depth Analysis
 Tags: video
 Link: https://www.youtube.com/watch?v=tFwcq5lf0wU
 Annote: See notes.
@@ -24327,7 +24344,8 @@ Annote: See notes.
 Id: youtube-123
 Type: media
 Media: video
-Title: This Clever Device Is Found In Nearly Every American Household: How It Works And How To Fix It
+Title: This Clever Device Is Found In Nearly Every American Household
+Subtitle: How It Works And How To Fix It
 Tags: engineering, video
 Link: https://www.youtube.com/watch?v=F-jOBxn1w1I
 Annote: See notes.
@@ -24506,7 +24524,8 @@ Annote: See notes.
 Id: youtube-153
 Type: media
 Media: video
-Title: Yellowstone Caldera : The Biggest Volcanic Eruption Ever Awaits Mankind
+Title: Yellowstone Caldera
+Subtitle: The Biggest Volcanic Eruption Ever Awaits Mankind
 Tags: reference, link
 Link: https://www.youtube.com/watch?v=-iGJlYgp43s
 
@@ -24696,7 +24715,8 @@ Link: https://yro.slashdot.org/story/18/12/29/1944246/is-a-lack-of-data-holding-
 Id: yudelove-01
 Type: book
 Media: Paperback
-Title: Taoist Yoga and Sexual Energy: Transforming Your Body, Mind, and Spirit
+Title: Taoist Yoga and Sexual Energy
+Subtitle: Transforming Your Body, Mind, and Spirit
 Author: Yudelove, Eric
 Date: 2000
 Publisher: Llewellyn Publications
@@ -24735,7 +24755,8 @@ AltLink: https://archive.vn/PIUaM
 Id: zamboni-01
 Type: article
 Media: article
-Title: Learning CFEngine 3: Automated system administration for sites of any size
+Title: Learning CFEngine 3
+Subtitle: Automated system administration for sites of any size
 Author: Zamboni, Diego
 Tags: engineering
 ISBN: 1449312209

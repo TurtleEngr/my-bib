@@ -1839,6 +1839,10 @@ Id: wheaton-01
 community."--Diana Leafe Christian
 https://en.wikipedia.org/wiki/Diana_Leafe_Christian</p></note>
 
+Id: whippman-01
+<note>"Under patriarchy, boys and men get everything, except the thing
+that’s most worth having: human connection."--{whippman-01}</note>
+
 Id: wikipedia-46
 <note>As of October 2011, over 350 million users accessed Facebook
 through their mobile phones</note>
