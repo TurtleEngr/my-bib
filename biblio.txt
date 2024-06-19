@@ -5059,6 +5059,16 @@ Title: Kdenlive
 Tags: tools, link
 Link: https://dquinton.github.io/debian-install/netinstall/kdenlive.html
 
+Id: draga-01
+Type: article
+Media: link
+Title: Restrict executable SSH commands with authorized keys
+Author: Draga, Daniel
+Date: 2017-11-09
+Publisher: Virtono
+Link: https://www.virtono.com/community/tutorial-how-to/restrict-executable-ssh-commands-with-authorized-keys/
+AltLink: https://tinyurl.com/3da2fhz9 https://web.archive.org/web/20220601123000/https://www.virtono.com/community/tutorial-how-to/restrict-executable-ssh-commands-with-authorized-keys/
+
 Id: drake-01
 Type: book
 Media: Ebook
