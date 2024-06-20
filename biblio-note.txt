@@ -81,6 +81,16 @@ Gebru.</note>
 Id: benjamin-01
 <note>Fun</note>
 
+Id: benkler-01
+<note><blockquote>we are seeing the broad and deep emergence of a new,
+third mode of production in the digitally networked environment. I
+call this mode “commons-based peer production,” to distinguish it from
+the property- and contract-based modes of firms and markets.  Its
+central characteristic is that groups of individuals successfully
+collaborate on large- scale projects following a diverse cluster of
+motivational drives and social signals, rather than either market
+prices or managerial commands.{}</blockquote><note>
+
 Id: berry-02
 # Old: youtube-088
 <note>Amazing!</note>
@@ -217,6 +227,17 @@ Id: chomsky-01
 <note>ChatGPT and similar programs are, by design, unlimited in what
 they can learn" (which is to say, memorize); they are incapable of
 distinguishing the possible from the impossible.</note>
+
+Id: coase-03
+<note><blockquote>a number of transaction costs involved in using the
+market; the cost of obtaining a good or service via the market
+actually exceeds the price of the good. Other costs, including search
+and information costs, bargaining costs, keeping trade secrets, and
+policing and enforcement costs, can all potentially add to the cost of
+procuring something from another party. This suggests that firms will
+arise which can internalise the production of goods and services
+required to deliver a product, thus avoiding these
+costs.{coase-02}</blockquote</note>
 
 Id: conley-01
 <note>Talk on Gross National Happiness (King of Bhutan)</note>

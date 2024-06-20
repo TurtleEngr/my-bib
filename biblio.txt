@@ -1437,6 +1437,17 @@ Title: www.berkeleycoworking.com - Berkeley Coworking
 Tags: home, cohousing, link
 Link: http://www.berkeleycoworking.com/
 
+Id: benkler-01
+Type: article
+Media: link
+Title: Coase’s Penguin
+Subtitle: or, Linux and The Nature of the Firm
+Author: Benkler, Yochai
+Date: 2002-08-01
+Link: https://www.benkler.org/CoasesPenguin.PDF
+AltLink: https://tinyurl.com/fwhctaz5 https://web.archive.org/web/20240616075123/https://benkler.org/CoasesPenguin.PDF
+Annote: See notes.
+
 Id: berman-01
 Type: book
 Media: Hardcover
@@ -3326,6 +3337,36 @@ Title: The Center for Nonviolent Communication
 Date: 2022-11-18
 Tags: home, homelan, frequent, link
 Link: http://www.cnvc.org/
+
+Id: coase-01
+Type: article
+Media: link
+Title: The Nature of the Firm. Economica
+Author: Coase, R. H.
+Date: 1937-11-01
+Note: 4(16), 386-405.
+Link: https://doi.org/10.1111/j.1468-0335.1937.tb00002.x
+AltLink: https://tinyurl.com/y44mahy7
+Annote: Related, see: coase-02, coase-03, wikipedia-63
+
+Id: coase-02
+Type: article
+Media: link
+Title: The Nature of the Firm
+Author: Coase, Ronald
+Date: 2024-05-10
+Link: https://en.wikipedia.org/wiki/The_Nature_of_the_Firm
+AltLink: https://tinyurl.com/4pskr8fv https://web.archive.org/web/20240510102652/https://en.wikipedia.org/wiki/The_Nature_of_the_Firm
+
+Id: coase-03
+Type: article
+Media: link
+Title: Ronald Coase
+Author: Coase, Ronald
+Date: 2024-06-17
+Link: https://en.wikipedia.org/wiki/Ronald_Coase
+AltLink: https://tinyurl.com/3wbtubst https://web.archive.org/web/20240617023602/https://en.wikipedia.org/wiki/Ronald_Coase
+Annote: See notes
 
 Id: coastsider-01
 Type: article
@@ -22924,6 +22965,14 @@ Title: Robert's Rules of Order
 Date: 2024-05-09
 Link: https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order
 AltLink: https://tinyurl.com/5cyy5z5t https://web.archive.org/web/20240509214749/https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order
+
+Id: wikipedia-63
+Type: article
+Media: link
+Title: Theory of the firm
+Date: 2024-05-15
+Link: https://en.wikipedia.org/wiki/Theory_of_the_firm
+AltLink: https://tinyurl.com/2zb3b67b https://web.archive.org/web/20240515185205/https://en.wikipedia.org/wiki/Theory_of_the_firm
 
 Id: wilburhotsprings-01
 Type: site
