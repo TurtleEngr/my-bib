@@ -125,6 +125,16 @@ Title: activeCollab - Project Management and Collaboration Tool
 Tags: toolsw, appdesktop, openoffice, project, link
 Link: http://www.activecollab.com/
 
+Id: adavelli-01
+Type: article
+Media: link
+Title: 19 Surprising Linux Statistics Not Everyone Knew
+Author: Adavelli, Muninder
+Date: 2024-01-02
+Publisher: TechJury
+Link: https://techjury.net/blog/linux-statistics/
+AltLink: https://tinyurl.com/4f22dw5f https://web.archive.org/web/20240611094327/https://www.techjury.net/blog/linux-statistics/
+
 Id: addons-mozilla-01
 Type: site
 Media: site
