@@ -3731,6 +3731,18 @@ Publisher: Oped News
 Tags: home, change, local, link, old:opednews-09
 Link: http://www.opednews.com/articles/Worker-Cooperatives-a-gen-by-Brian-Cooney-100714-146.html
 
+Id: cooper-01
+Type: article
+Media: link
+Title: We’ve Hit Peak Denial. Here’s Why We Can’t Turn Away From Reality
+Author: Cooper, Marianne
+Authors: Maxim Voronov
+Date: 2024-06-18
+Publisher: Scientific American
+Link: https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
+AltLink: https://web.archive.org/web/20240625164639/https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
+Annote: See notes
+
 Id: coopamerica-01
 Type: article
 Media: link
