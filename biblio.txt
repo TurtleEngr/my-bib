@@ -3740,7 +3740,7 @@ Authors: Maxim Voronov
 Date: 2024-06-18
 Publisher: Scientific American
 Link: https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
-AltLink: https://web.archive.org/web/20240625164639/https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
+AltLink: https://tinyurl.com/2c8ajwdn https://web.archive.org/web/20240625164639/https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
 Annote: See notes
 
 Id: coopamerica-01
