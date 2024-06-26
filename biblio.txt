@@ -5311,34 +5311,35 @@ ASIN: 11302832
 Id: duhm-07
 Type: book
 Media: Ebook
-Title: Sacred Matrix
+Title: The Sacred Matrix
 Subtitle: From the Matrix of Violence to the Matrix of Life, The Foundation for a New Civilization
 Author: Duhm, Dieter
 Date: 2014
 Publisher: Verlag Meiga
 Tags: important
 ASIN: 26868222
+Link: https://www.amazon.com/dp/B00KUD7S3E/
 
 Id: duhm-08
 Type: book
 Media: Ebook
 Title: Terra Nova. Global Revolution and the Healing of Love
 Author: Duhm, Dieter
-Date: 2015
+Date: 2014-06-06
 Publisher: Verlag Meiga
 Tags: important
-ASIN: 16838054
 
 Id: duhm-09
 Type: book
 Media: Paperback
 Title: The Sacred Matrix
+Subtitle: From the Matrix of Violence to the Matrix of Life, The Foundation for a New Civilization
 Author: Duhm, Dieter
-Date: 2008
+Date: 2005
 Publisher: Verlag Meiga
 Tags: important
 ISBN: 3927266167
-ASIN: 20710322
+Link: https://www.amazon.com/dp/3927266167/
 
 Id: duhm-10
 Type: book
@@ -5359,17 +5360,9 @@ Subtitle: The World Power of Sexuality
 Author: Duhm, Dieter
 Date: 2014
 Publisher: Verlag Meiga
-Tags: book, book
+Tags: book
 ASIN: 11302832
 Link: https://www.amazon.com/dp/B00FVQLU6Q/
-
-Id: duhm-12
-Type: book
-Media: Ebook
-Title: The Sacred Matrix
-Author: Duhm, Dieter
-Tags: book, book
-Link: http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/
 
 Id: duhm-13
 Type: book
