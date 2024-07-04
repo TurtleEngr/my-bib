@@ -14603,6 +14603,18 @@ Title: Numenta - numenta.com
 Tags: home, tofile, set2010, link
 Link: http://www.numenta.com/
 
+Id: nunez-01
+Type: article
+Media: link
+Title: How many cities are there in the world?
+Author: Nunez, Pearl 
+Date: 2024-06-26
+DateSeen: 2024-06-29
+Publisher: Geographic Pedia
+Link: https://www.ncesc.com/geographic-pedia/how-many-cities-are-there-in-the-world/
+AltLink: https://tinyurl.com/yjz48cz9 https://web.archive.org/web/20240629234133/https://moria.whyayh.com/rel/archive/article/culture/How_many_cities_are_there_in_the_world.pdf https://moria.whyayh.com/rel/archive/article/culture/How_many_cities_are_there_in_the_world.pdf
+Annote: See notes.
+
 Id: nycsubwayguide-01
 Type: article
 Media: link
@@ -14931,6 +14943,7 @@ Date: 2016-06-22
 Publisher: TEDxCambridge
 Tags: politics, ted, biblio
 Link: https://www.youtube.com/watch?v=EC3L2lSSONQ
+AltLink: 
 Annote: See notes.
 
 Id: olson-02
@@ -14939,8 +14952,8 @@ Media: site
 Title: Impartial Automatic Redistricting
 Author: Olson, Brian
 Date: 2016-06-09
-Link: https://bdistricting.com/2010/
-AltLink: https://bdistricting.com/2020/
+Link: https://bdistricting.com/2020/
+AltLink: https://tinyurl.com/mr2uvyju https://bdistricting.com/2010/ https://web.archive.org/web/20110501175732/http://bdistricting.com/2010/ https://web.archive.org/web/20240602044234/https://bdistricting.com/2020/
 Annote: See notes.
 
 Id: omarahmad-01
@@ -23674,6 +23687,15 @@ Title: Perform This Way (Parody of Born This Way by Lady Gaga) - Weird Al Yankov
 Author: Yankovic, Weird Al
 Tags: video, old:youtube-052
 Link: http://www.youtube.com/watch?v=ss_BmTGv43M
+
+Id: yaqub-01
+Type: article
+Media: link
+Title: How Many Businesses are there in the World in 2023
+Author: Yaqub M.
+Date: 2023-05-17
+Link: https://www.businessdit.com/how-many-businesses-are-there-in-the-world/
+AltLink: https://tinyurl.com/4ymf4nke https://web.archive.org/web/20240329143138/https://www.businessdit.com/how-many-businesses-are-there-in-the-world/
 
 Id: yates-01
 Type: book

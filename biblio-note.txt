@@ -1136,6 +1136,10 @@ target="_blank">World War Z (Unrated) 2h 3m</a></p> <p><a
 href="https://www.amazon.com/World-War-Z-Brad-Pitt/dp/B00EL8I8IS/ref=sr_1_3?crid=36TQB36J9F9YX&amp;dchild=1&amp;keywords=world+war+z&amp;qid=1585107543&amp;sprefix=%2Cinstant-video%2C224&amp;sr=8-3"
 target="_blank">World War Z 1h 56m</a></note>
 
+Id: nunez-01
+<note>A PDF snapshot was taken because Internet Archive couldn't
+archive the page directly.</note>
+
 Id: nytimes-01
 <note>A quote from him:<br /> "I've been buying and selling things for
 10 years now. There's been hot product after hot product. But the
@@ -1204,7 +1208,7 @@ Last Week Tonight with John Oliver (HBO)</a></p> <p>Here's another
 talk on algorithmic solutions: <a
 href="https://www.youtube.com/watch?v=Mv9kscNo5Gc"
 target="_blank">Data Science Can Solve Gerrymandering | Frank Evans |
-TEDxUCO</a></note>
+TEDxUCO</a> evans-02</note>
 
 Id: olson-02
 <note>Gerrymandering solution: use algorithms. See also: olson-01, evans-02, oliver-01, brin-02</note>
