@@ -2759,8 +2759,17 @@ Type: media
 Media: audio
 Title: We can do impossible things if we paddle together!
 Author: Casey, Caroline W.
+Date: 2020-08-27
 Link: https://coyotenetworknews.com/radioshow/we-can-do-impossible-things-if-we-paddle-together/
-AltLink: https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/2020-08-27-the_visionary_activist_show_Trickster_Medicine.mp3
+AltLink: https://tinyurl.com/5n8zmauu https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/2020-08-27-the_visionary_activist_show_Trickster_Medicine.mp3
+
+Id: casey-02
+Type: media
+Media: video
+Title:  The Truth of Collaboration | Caroline Casey | IDG Summit 2023 
+Author: Casey, Caroline
+Date: 2023-10-11
+Link: https://www.youtube.com/watch?v=lJ_8aIlwt7A
 
 Id: cassella-01
 Type: article
@@ -17362,6 +17371,16 @@ Tags: article
 Link: https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
 AltLink: https://archive.vn/viisR
 Annote: See notes.
+
+Id: roberts-02
+Type: book
+Media: Paperback
+Title: My Soul Said to Me
+Subtitle: An Unlikely Journey Behind the Walls of Justice
+Author: Roberts, Robert E.
+Date: 2003-01-01
+Link: https://www.amazon.com/dp/0757300642
+ISBN:‎ 0757300642
 
 Id: robertson-01
 Type: media
