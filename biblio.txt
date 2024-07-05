@@ -17380,6 +17380,7 @@ Subtitle: An Unlikely Journey Behind the Walls of Justice
 Author: Roberts, Robert E.
 Date: 2003-01-01
 Link: https://www.amazon.com/dp/0757300642
+AltLink: https://tinyurl.com/2p9radrm https://web.archive.org/web/20030413094453/http://www.mysoulsaidtome.com/index.php
 ISBN:‎ 0757300642
 
 Id: robertson-01
