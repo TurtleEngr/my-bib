@@ -1394,8 +1394,11 @@ Id: roach-01
 <note>cute, but it's only a start</note>
 
 Id: roberts-01
-<note>Found because of comment by [hawks-01] on video
-[chapman-02]</note>
+<note>"A sobering new study finds that the world's biggest industries
+burn through $7.3 trillion worth of free natural capital a year. And
+it's the only reason they turn a profit."
+Found because of comment by [hawks-01] on video [chapman-02].
+</note>
 
 Id: robertson-01
 # Old: youtube-026

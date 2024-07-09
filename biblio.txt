@@ -16101,12 +16101,25 @@ Annote: See notes.
 Id: postman-01
 Type: book
 Media: Ebook
-Title: Technopoly: The Surrender of Culture to Technology
+Title: Technopoly
+Subtitle: The Surrender of Culture to Technology
 Author: Postman, Neil
-Date: 2011
-Publisher: Vintage (2011), 199 pages
+Date: 2011-06-01
+Publisher: Vintage
 Tags: important
-ASIN: 46821
+Link: https://www.amazon.com/dp/B004ZZJBW4/
+
+Id: postman-02
+Type: book
+Media: Ebook
+Title: Amusing Ourselves to Death
+Subtitle: Public Discourse in the Age of Show Business
+Author: Postman, Neil
+Date:  ‎ 2005-12-27
+Publisher: Penguin Books
+Edition: Anniversary edition
+Link: https://www.amazon.com/gp/product/B0023ZLLH6
+Annote: Originally published 1985.
 
 Id: potter-01
 Type: media
@@ -17369,7 +17382,7 @@ Date: 2013-04-17
 DateSeen: 2023-04-13
 Tags: article
 Link: https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
-AltLink: https://archive.vn/viisR
+AltLink: https://tinyurl.com/yc832u68 https://web.archive.org/web/20230405231623/https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
 Annote: See notes.
 
 Id: roberts-02
