@@ -70,7 +70,7 @@ Date: 2005
 Publisher: Zeitgeist Films
 Tags: important, video
 ASIN: 25564668
-Link: https://www.amazon.com/Corporation-Milton-Friedman/dp/B0007DBJM8/
+Link: https://www.amazon.com/dp/B0007DBJM8/
 Annote: See notes.
 
 Id: achor-01
@@ -93,7 +93,7 @@ Publisher: Oxford University Press
 Tags: important, book
 ISBN: 9780195087277
 ASIN: 568001
-Link: http://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275/
+Link: http://www.amazon.com/dp/0195087275/
 Annote: See notes.
 
 Id: aclu-01
@@ -533,7 +533,7 @@ Type: site
 Media: product
 Title: Amazon.com: 89-Key Mini USB Windows Keyboard: Electronics
 Tags: toolhw, wearable, link
-Link: http://www.amazon.com/89-Key-Mini-USB-Windows%C2%AE-Keyboard/dp/B0036WTWX0
+Link: http://www.amazon.com/dp/B0036WTWX0
 
 Id: ambri-01
 Type: site
@@ -2283,7 +2283,7 @@ Title: The Secret Teachings of Plants
 Subtitle: The Intelligence of the Heart in the Direct Perception of Nature
 Author: Buhner, Stephen Harrod
 Tags: book, book
-Link: https://www.amazon.com/Secret-Teachings-Plants-Intelligence-Perception-ebook/dp/B003ZHVB80/
+Link: https://www.amazon.com/dp/B003ZHVB80/
 
 Id: bullock-01
 Type: media
@@ -2592,7 +2592,7 @@ Date: 2009
 Publisher: Random House Publishing Group
 Tags: biblio
 ASIN: 6853
-Link: https://www.amazon.com/Ecotopia-Novel-Ernest-Callenbach-ebook/dp/B0030P1WN6/
+Link: https://www.amazon.com/dp/B0030P1WN6/
 
 Id: callenbach-02
 Type: book
@@ -5380,7 +5380,7 @@ Title: Towards a New Culture
 Subtitle: From Refusal to Rcreation, Outline of an Ecological and Humane Alternative
 Author: Duhm, Dieter
 Tags: book, book
-Link: http://www.amazon.com/Towards-New-Culture-Dieter-Duhm/dp/392726637X/
+Link: http://www.amazon.com/dp/392726637X/
 
 Id: dulinsbooks-01
 Type: article
@@ -5533,7 +5533,7 @@ Date: 2013
 Publisher: Simon & Schuster
 Tags: book, book
 ASIN: 13581455
-Link: http://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979
+Link: http://www.amazon.com/dp/1451654979
 
 Id: edflix-01
 Type: media
@@ -5692,7 +5692,7 @@ Date: 2013-11-05,
 Publisher: North Atlantic Books
 Tags: book
 ASIN: B00CQZ5M5A
-Link: https://www.amazon.com/Beautiful-Hearts-Possible-Sacred-Activism-ebook/dp/B00CQZ5M5A/
+Link: https://www.amazon.com/dp/B00CQZ5M5A/
 
 Id: eisenstein-11
 Type: book
@@ -5704,7 +5704,7 @@ Date: 2018-09-18
 Publisher: North Atlantic Books
 Tags: book
 ASIN: B075HY5TN8
-Link: https://www.amazon.com/Climate-New-Story-Charles-Eisenstein-ebook/dp/B075HY5TN8/
+Link: https://www.amazon.com/dp/B075HY5TN8/
 
 Id: eisenstein-12
 Type: book
@@ -5756,7 +5756,7 @@ Date: 2011-11-22
 Publisher: HarperOne
 Tags: book, important, book
 ASIN: B005Z0IX7C/
-Link: https://www.amazon.com/Chalice-Blade-History-Future-Updated-Epilogue-ebook/dp/B005Z0IX7C/
+Link: https://www.amazon.com/dp/B005Z0IX7C/
 
 Id: eisler-02
 Type: book
@@ -5788,7 +5788,7 @@ Media: Paperback
 Title: The Chalice and the Blade
 Author: Eisler, Riane
 Tags: book
-Link: http://www.amazon.com/Chalice-Blade-Our-History-Future/dp/0062502891/
+Link: http://www.amazon.com/dp/0062502891/
 
 Id: eisler-05
 Type: book
@@ -5800,7 +5800,7 @@ Date: 2012-01-03
 Publisher: HarperOne
 Tags: book
 ASIN: B006NZDSNM
-Link: https://www.amazon.com/Sacred-Pleasure-Myth-Politics-Body-ebook/dp/B006NZDSNM/
+Link: https://www.amazon.com/dp/B006NZDSNM/
 
 Id: eisler-06
 Type: article
@@ -5922,6 +5922,16 @@ Media: link
 Title: The Public Bank Solution; WEB OF DEBT BLOG
 Tags: culture, link
 Link: http://ellenbrown.com/books/the-public-bank-solution/
+
+Id: elving-01
+Type: article
+Media: link
+Title: Is America a democracy or a republic? Yes, it is
+Date: 2022-09-10
+Author: Elving, Ron
+Publisher: NPR
+Link: https://www.npr.org/2022/09/10/1122089076/is-america-a-democracy-or-a-republic-yes-it-is
+AltLink: https://tinyurl.com/ytwpcbhe https://web.archive.org/web/20240621225516/https://www.npr.org/2022/09/10/1122089076/is-america-a-democracy-or-a-republic-yes-it-is
 
 Id: embeddeddatasystems-01
 Type: article
@@ -6324,7 +6334,7 @@ Publisher: Knopf
 Tags: book, book
 ISBN: 0307269647
 ASIN: 8749061
-Link: http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307389979/
+Link: http://www.amazon.com/dp/0307389979/
 
 Id: falkvinge-01
 Type: media
@@ -7331,7 +7341,7 @@ Date: 2017-05-22
 Publisher: Valor Academy
 Tags: home, tofile, set3, link
 ISBN: 0998919101
-Link: https://www.amazon.com/Underground-History-American-Education-Investigation/dp/0998919101
+Link: https://www.amazon.com/dp/0998919101
 
 Id: gatto-09
 Type: media
@@ -8384,7 +8394,7 @@ Date: 2018
 Publisher: Simon & Schuster
 Tags: book, book
 ASIN: 21372389
-Link: https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber-ebook/dp/B075RWG7YM/
+Link: https://www.amazon.com/dp/B075RWG7YM/
 
 Id: graeber-10
 Type: book
@@ -8396,7 +8406,7 @@ Date: 2011
 Publisher: Melville House
 Tags: book, book, commons
 ISBN: 978-1933633-86-2
-Link: https://www.amazon.com/Debt-Updated-Expanded-First-Years-ebook/dp/B00Q1HZMCW/
+Link: https://www.amazon.com/dp/B00Q1HZMCW/
 
 Id: graeber-11
 Type: book
@@ -8856,7 +8866,7 @@ Title: Sapiens
 Subtitle: A Brief History of Humankind
 Author: Harari, Yuval Noah
 Tags: important
-Link: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A
+Link: https://www.amazon.com/dp/B00ICN066A
 
 Id: harari-02
 Type: media
@@ -8906,7 +8916,7 @@ Title: Stolen Focus
 Subtitle: Why You Can't Pay Attention--and How to Think Deeply Again
 Author: Hari, Johann
 Tags: biblio
-Link: https://www.amazon.com/Stolen-Focus-Attention-Think-Deeply-ebook/dp/B093G9TS91/
+Link: https://www.amazon.com/dp/B093G9TS91/
 Annote: See notes.
 
 Id: harold-01
@@ -10445,7 +10455,7 @@ Edition: Ill.
 Tags: book, book
 ISBN: 0062504320
 ASIN: 102235
-Link: http://www.amazon.com/Ecstasy-Understanding-Psychology-Robert-Johnson/dp/0062504320/
+Link: http://www.amazon.com/dp/0062504320/
 
 Id: johnson-07
 Type: media
@@ -10912,7 +10922,7 @@ Author: Klaas, Brian
 Date: 2021-11-09
 Publisher: Scribner
 ISBN: 1982154101
-Link: https://www.amazon.com/Corruptible-Who-Gets-Power-Changes-ebook/dp/B08VJNBVP9/
+Link: https://www.amazon.com/dp/B08VJNBVP9/
 
 Id: klaas-02
 Type: media
@@ -11102,7 +11112,7 @@ Date: 2015
 Publisher: Berrett-Koehler Publishers
 Tags: g, book, book
 ASIN: 15805678
-Link: http://www.amazon.com/Change-Story-Future-Living-Economy/dp/1626562903/
+Link: http://www.amazon.com/dp/1626562903/
 
 Id: korten-08
 Type: book
@@ -11110,7 +11120,7 @@ Media: book
 Title: The Great Turning: From Empire to Earth Community
 Author: Korten, David C.
 Tags: h, book, book
-Link: http://www.amazon.com/Great-Turning-Empire-Earth-Community/dp/1887208089/
+Link: http://www.amazon.com/dp/1887208089/
 
 Id: korten-09
 Type: article
@@ -11405,7 +11415,7 @@ Date: 2013
 Publisher: Simon & Schuster
 Tags: important
 ASIN: 13581455
-Link: http://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979
+Link: http://www.amazon.com/dp/1451654979
 Annote: See notes.
 
 Id: lanier-02
@@ -13330,7 +13340,7 @@ Author: Miller, Jean Baker
 Date: 2012-02-21
 Publisher: Beacon Press; 2nd edition (February 21, 2012)
 ASIN: B006Q1KBZ6
-Link: https://www.amazon.com/Toward-Psychology-Women-Baker-Miller-ebook/dp/B006Q1KBZ6
+Link: https://www.amazon.com/dp/B006Q1KBZ6
 
 Id: miller-04
 Type: article
@@ -17702,7 +17712,7 @@ Date: 2012
 Publisher: HarperCollins
 Tags: book, book
 ASIN: 10020301
-Link: http://www.amazon.com/Sex-Dawn-Stray-Modern-Relationships/dp/0061707813/
+Link: http://www.amazon.com/dp/0061707813/
 
 Id: ryan-02
 Type: book
@@ -18546,7 +18556,7 @@ Date: 2009
 Publisher: Inner Traditions/Bear & Company
 Tags: book, book
 ASIN: 207304
-Link: http://www.amazon.com/Morphic-Resonance-Nature-Formative-Causation/dp/1594773173/
+Link: http://www.amazon.com/dp/1594773173/
 
 Id: sheldrake-06
 Type: site
@@ -19445,7 +19455,7 @@ Media: book
 Title: Basic Income for the Open Minded
 Author: Standing, Guy
 Tags: book, book
-Link: https://www.amazon.com/Basic-Income-Open-Minded-Guy-Standing-ebook/dp/B074SZG944/
+Link: https://www.amazon.com/dp/B074SZG944/
 
 Id: standup-01
 Type: media
@@ -19510,7 +19520,7 @@ Media: book
 Title: This Thing We Call Sex
 Author: Steinberg, David
 Tags: book, book
-Link: http://www.amazon.com/This-Thing-Call-Sex-Radically/dp/1620156911/
+Link: http://www.amazon.com/dp/1620156911/
 
 Id: stephen-01
 Type: book
@@ -19640,7 +19650,7 @@ Publisher: Marboro Books (1990), 265 pages
 Tags: book
 ISBN: 0880295333
 ASIN: 112299
-Link: http://www.amazon.com/When-God-Woman-Merlin-Stone/dp/015696158X/
+Link: http://www.amazon.com/dp/015696158X/
 
 Id: stone-04
 Type: article
@@ -20010,7 +20020,7 @@ Type: article
 Media: link
 Title: The Saturn Myth: A Reinterpretation of Rites and Symbols Illuminating Some of the Dark Corners of Primordial Society: David N Talbott: 9780385113762: Amazon.com: Books
 Tags: amazon, science, link
-Link: http://www.amazon.com/Saturn-Myth-Reinterpretation-Illuminating-Primordial/dp/0385113765/ref=sr_1_1
+Link: http://www.amazon.com/dp/0385113765/
 
 Id: talbott-02
 Type: book
@@ -21518,7 +21528,7 @@ Publisher: Basic Books
 Edition: Rep.
 Tags: biblio
 ISBN: 9780465031382
-Link: https://www.amazon.com/When-Gadgets-Betray-Infatuation-Technologies-ebook/dp/B004JN0UFE
+Link: https://www.amazon.com/dp/B004JN0UFE
 
 Id: van-01
 Type: book
@@ -23200,7 +23210,7 @@ Date: 2010
 Publisher: Harmony (2010), 238 pages
 Tags: book, important, book
 ASIN: 232203
-Link: https://www.amazon.com/Powers-That-Be-Theology-Millennium-ebook/dp/B0036S4BUI/
+Link: https://www.amazon.com/dp/B0036S4BUI/
 Annote: See notes.
 
 Id: wink-04
