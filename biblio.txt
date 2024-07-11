@@ -16595,6 +16595,7 @@ Type: media
 Media: video
 Title: Orange Day 2020-09-09
 Author: Rafnel, Bruce
+Date: 2020-09-09
 Tags: video, smoke, fire, video
 Link: https://www.youtube.com/watch?v=MnyFxZlWjrY
 Annote: See notes.
@@ -16614,8 +16615,9 @@ Type: article
 Media: link
 Title: Photographic Evidence is Dead
 Author: Rafnel, Bruce
+Date: 2006-08-13
 Link: https://moria.whyayh.com/essay/photo-evidence.html
-AltLink: https://archive.vn/pTIMz
+AltLink: https://tinyurl.com/yz8pxrss https://web.archive.org/web/20240711201735/https://moria.whyayh.com/essay/photo-evidence.html https://archive.vn/pTIMz
 Annote: See notes.
 
 Id: rafnel-04
@@ -16625,7 +16627,7 @@ Title: Planned Obsolescence in Software
 Author: Rafnel, Bruce
 Date: 2015-07-08
 Link: https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/
-AltLink: https://archive.vn/rSIOW
+AltLink: https://tinyurl.com/2xfpjat9 https://web.archive.org/web/20240711202147/https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/ https://archive.vn/rSIOW
 
 Id: rafnel-05
 Type: article
