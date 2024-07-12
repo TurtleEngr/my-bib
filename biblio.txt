@@ -88,12 +88,11 @@ Media: Hardcover
 Title: The Democratic Corporation
 Subtitle: A Radical Prescription for Recreating Corporate America and Rediscovering Success
 Author: Ackoff, Russell L.
-Date: 1994
+Date: 1994-06-30
 Publisher: Oxford University Press
 Tags: important, book
+Link: https://www.amazon.com/dp/B00332FM7I/
 ISBN: 9780195087277
-ASIN: 568001
-Link: http://www.amazon.com/dp/0195087275/
 Annote: See notes.
 
 Id: aclu-01
