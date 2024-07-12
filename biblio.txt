@@ -3998,16 +3998,6 @@ Title: South Bay - Santa Cruz Cuddle Party Registration Website
 Tags: culture, link
 Link: http://cuddle.theplayfulcircle.com/
 
-Id: cult-escape-01
-Type: article
-Media: link
-Title: How Can You Tell If It Is A Dangerous Cult?
-Subtitle: Characteristics of Cult Groups
-Date: 2022-11-04
-Tags: article
-Link: https://archive.vn/FvNii
-AltLink: https://archive.vn/FvNii
-
 Id: culture-01
 Type: article
 Media: link
@@ -4958,9 +4948,9 @@ Subtitle: Pluralistic: 08 Mar 2022
 Author: Doctorow, Cory
 Date: 2022-02-08
 DateSeen: 2022-11-22
-Tags: k, culture, article, important, article
+Tags: culture, article, important, article
 Link: https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism
-AltLink: https://archive.vn/7yUH7/#anti-fatalism
+AltLink: https://tinyurl.com/bdcpaksa https://web.archive.org/web/20240210033729/https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism https://archive.vn/7yUH7/#anti-fatalism
 Annote: This is a great overview of The Dawn of Everything
 
 Id: doctorow-12
@@ -11333,6 +11323,18 @@ Media: video
 Title: Cat Laine: Engineering a better life for all
 Tags: ted, biblio
 Link: http://www.ted.com/talks/cat_laine_engineering_a_better_life_for_all.html
+
+Id: lalich-01
+Type: article
+Media: link
+Title: How Can You Tell If It Is A Dangerous Cult?
+Subtitle: Characteristics of Cult Groups
+Author: Lalich, Janja
+Authors: Michael D. Langone
+Date: 2022-11-04
+Tags: article, old:cult-escape-01
+Link: https://cult-escape.com/articles/is-it-a-dangerous-cult/
+AltLink: https://tinyurl.com/3hx5r624 https://web.archive.org/web/20230921182113/https://cult-escape.com/articles/is-it-a-dangerous-cult/ https://archive.vn/FvNii
 
 Id: laminarflow-01
 Type: media
