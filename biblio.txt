@@ -11175,6 +11175,15 @@ Publisher: Oped News
 Tags: home, change, local, link, old:opednews-07
 Link: http://www.opednews.com/articles/Consumers-replaced-with-Cr-by-Ann-Kramer-100714-330.html
 
+Id: kristy-01
+Type: media
+Media: video
+Title: Why Clothing Is So Much Worse Now
+Author: Kristy, Michael
+Date: 2024-06-22
+Publisher: The Iron Snail
+Link: https://www.youtube.com/watch?v=jQEBhkqw1zg
+      
 Id: kron-01
 Type: article
 Media: link
