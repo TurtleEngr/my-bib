@@ -1136,6 +1136,17 @@ Title: Translate, Yahoo! Babel Fish - Text Translation and Web Page Translation
 Tags: reference, link
 Link: http://babelfish.yahoo.com/
 
+Id: babin-01
+Type: media
+Media: video
+Title: There's a proven way to stop bike theft
+Subtitle: So why are so few cities doing it?
+Author: Babin, Tom 
+Date: 2021-05-07
+Publisher: Shifter
+Link: https://www.youtube.com/watch?v=48V9Xtpgq9I
+Annote: Bureaucracy
+
 Id: babyplaying-01
 Type: media
 Media: video
@@ -9304,7 +9315,8 @@ Link: http://www.hollywoodcamerawork.com/
 Id: holman-01
 Type: media
 Media: video
-Title: Top Hacker Shows Us How It's Done: Pablos Holman at TEDxMidwests
+Title: Top Hacker Shows Us How It's Done
+Subtitle: Pablos Holman at TEDxMidwests
 Tags: ted, biblio
 Link: http://www.youtube.com/watch?v=hqKafI7Amd8
 Annote: See notes.
@@ -9438,7 +9450,8 @@ ISBN: 0783268807
 Id: horn-01
 Type: media
 Media: video
-Title: Intrigue - How to Create Interest and Connect with Anyone: Sam Horn at TEDxBethesdaWomen
+Title: Intrigue - How to Create Interest and Connect with Anyone
+Subtitle: Sam Horn at TEDxBethesdaWomen
 Author: Horn, Sam
 Tags: misc, link, old:youtube-141
 Link: https://www.youtube.com/watch?v=Xlg8zdSVjgg
@@ -10462,7 +10475,8 @@ Annote: See notes.
 Id: johnson-08
 Type: media
 Media: video
-Title: How to Find Joy in Climate Action | Ayana Elizabeth Johnson | TED
+Title: How to Find Joy in Climate Action
+Subtitle: Ayana Elizabeth Johnson | TED
 Author: Johnson, Ayana Elizabeth
 Date: 2022-06-21
 Tags: ted
@@ -10669,7 +10683,8 @@ Link: http://www.katwallks.com/
 Id: kaufman-01
 Type: media
 Media: video
-Title: The first 20 hours -- how to learn anything: Josh Kaufman at TEDxCSU
+Title: The first 20 hours -- how to learn anything
+Subtitle: Josh Kaufman at TEDxCSU
 Tags: ted, biblio
 Link: http://www.youtube.com/watch?v=5MgBikgcWnY
 
@@ -10966,7 +10981,8 @@ AltLink: https://archive.vn/gaYg2
 Id: klett-01
 Type: media
 Media: video
-Title: Child Discipline Isn't What It Used To Be. Fred Klett - Full Special
+Title: Child Discipline Isn't What It Used To Be
+Subtitle: Fred Klett - Full Special
 Author: Klett, Fred
 Tags: video, old:youtube-060
 Link: https://www.youtube.com/watch?v=1OJPu27Bve0
