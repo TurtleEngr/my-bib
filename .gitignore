@@ -1,9 +1,10 @@
-*~
 *.html
+*~
 .cvsignore
 CVS/
 backup/
 doc.odt
+index.sdi
 my-bib.clone
 old/
 status/
