@@ -2129,6 +2129,17 @@ Tags: link
 Link: https://www.npr.org/2020/03/24/820601571/all-of-this-panic-could-have-been-prevented-author-max-brooks-on-covid-19
 Annote: See notes.
 
+id: brooks-02
+Type: media
+Media: video
+Title: World On Fire
+Subtitle: The Root Causes of Populism, Authoritarianism and The Whole Global Mess
+Author: Brooks, David
+Date: 2024-06-28
+Publisher: The Aspen Institute
+Link: https://www.youtube.com/watch?v=oDdssTQG6Vc
+Annote: See transcript file data/quotes/brooks-02.org
+
 Id: brosnan-01
 Type: media
 Media: DVD
