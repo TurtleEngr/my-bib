@@ -7330,7 +7330,7 @@ Publisher: The Oxford Village Press
 ISBN: 0945700040
 Link: https://web.archive.org/web/20050403041637/http://www.johntaylorgatto.com:80/chapters/index.htm
 AltLink: https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/
-Annote: Out of print. Link is to complete book online.
+Annote: This book is out of print, so the link is to complete book online.
 
 Id: gatto-07
 Type: article
