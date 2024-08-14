@@ -15,7 +15,7 @@ update : doc.odt
 	git co develop
 	git pull origin develop
 
-save : clean todo.html README.html
+save push : clean todo.html README.html
 	git co develop
 	git pull origin develop
 	-git ci -am Updated
