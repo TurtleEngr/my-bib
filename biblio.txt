@@ -5548,6 +5548,17 @@ Tags: book, book
 ASIN: 13581455
 Link: http://www.amazon.com/dp/1451654979
 
+Id: edelman-01
+Type: article
+Media: link
+Title: Is it time for a corporate 'death penalty'?
+Subtitle: Some strategies to counter moral bankruptcy in corporations
+Author: Edelman, Meredith
+Date: 2019-08-21
+Publisher: The Power to Persuade
+Link: https://www.powertopersuade.org.au/blog/corporate-death-penalty
+Altlink: https://tinyurl.com/43vuwjp7 https://web.archive.org/web/20190825135039/http://www.powertopersuade.org.au/blog/corporate-death-penalty
+
 Id: edflix-01
 Type: media
 Media: video
