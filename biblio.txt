@@ -10014,6 +10014,17 @@ Title: [incr Widgets] -&gt; iwidgets
 Tags: toolsw, language, tcl, link
 Link: http://incrtcl.sourceforge.net/iwidgets/iwidgets.html
 
+Id: indeed-01
+Type: article
+Media: link
+Title: Bureaucracy in Business
+Subtitle: Definition, Characteristics and How to Reduce It
+Author: Indeed Editorial Team
+Date: 2022-06-24
+Publisher: Indeed
+Link: https://www.indeed.com/career-advice/career-development/bureaucracy-in-business
+AltLink: https://tinyurl.com/7v7y9w6x https://web.archive.org/web/20240814001946/https://www.indeed.com/career-advice/career-development/bureaucracy-in-business
+
 Id: indiegogo-01
 Type: site
 Media: product
@@ -22699,9 +22710,10 @@ Id: wikipedia-08
 Type: article
 Media: link
 Title: Tragedy of the commons - Wikipedia, the free encyclopedia
+Date: 2023-08-08
 Tags: home, change, link, commons
 Link: http://en.wikipedia.org/wiki/Tragedy_of_the_commons
-AltLink: https://archive.vn/AXBKE
+AltLink: https://tinyurl.com/4fesk252 https://web.archive.org/web/20230808061520/https://en.wikipedia.org/wiki/Tragedy_of_the_commons https://archive.vn/AXBKE
 
 Id: wikipedia-09
 Type: article
@@ -22938,10 +22950,10 @@ Id: wikipedia-42
 Type: article
 Media: link
 Title: Restorative Justice
-Date: 2022-11-18
+Date: 2022-11-28
 Tags: link
 Link: https://en.wikipedia.org/wiki/Restorative_justice
-AltLink: https://archive.vn/vWOpK
+AltLink: https://tinyurl.com/4b8hctcn https://web.archive.org/web/20221128202407/https://en.wikipedia.org/wiki/Restorative_justice https://archive.vn/vWOpK
 
 Id: wikipedia-43
 Type: article
@@ -22974,20 +22986,20 @@ Id: wikipedia-46
 Type: article
 Media: link
 Title: History of Facebook
-Date: 2021-12-08
+Date: 2021-12-24
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/History_of_Facebook
-AltLink: https://archive.vn/1jdBr
+AltLink: https://tinyurl.com/3rmnf5dk https://web.archive.org/web/20211224083804/https://en.wikipedia.org/wiki/History_of_Facebook https://archive.vn/1jdBr
 Annote: See notes.
 
 Id: wikipedia-47
 Type: article
 Media: link
 Title: Turning the other cheek
-Date: 2023-04-15
+Date: 2023-03-17
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/Turning_the_other_cheek
-AltLink: https://archive.vn/chy57
+AltLink: https://tinyurl.com/85sn5a4c https://web.archive.org/web/20230317165735/https://en.wikipedia.org/wiki/Turning_the_other_cheek https://archive.vn/chy57
 Annote: See notes.
 
 Id: wikipedia-48
@@ -23003,9 +23015,9 @@ Id: wikipedia-49
 Type: article
 Media: link
 Title: The Mythical Man-Month
-Date: 2023-06-20
+Date: 2023-06-19
 Link: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
-AltLink: https://archive.vn/vdP9K
+AltLink: https://tinyurl.com/mrykhmfz https://web.archive.org/web/20230619221407/https://en.wikipedia.org/wiki/The_Mythical_Man-Month https://archive.vn/vdP9K
 
 Id: wikipedia-50
 Type: article
@@ -23348,9 +23360,10 @@ Title: Yes, there is an alternative to capitalism
 Subtitle: Mondragon shows the way
 Author: Wolff, Richard
 Date: 2012-06-24
+DateSeen: 2023-07-02
 Publisher: The Guardian
 Link: https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon
-AltLink: https://archive.vn/gTJXv
+AltLink: https://tinyurl.com/3x37pywv https://web.archive.org/web/20130825011604/https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon https://archive.vn/gTJXv
 Annote: See notes.
 
 Id: wolford-01
@@ -23376,10 +23389,11 @@ Type: article
 Media: link
 Title: The Psychology of Mob Mentality
 Author: Wong, Gayook
-Date: 2021 -01-24
+Date: 2021-01-24
+DateSeen: 2023-11-17
 Publisher: Psychology Today
 Link: https://www.psychologytoday.com/us/blog/facing-trauma-together/202101/the-psychology-mob-mentality
-AltLink: https://archive.vn/UnTFi
+AltLink: https://archive.vn/UnTFi https://moria.whyayh.com/rel/archive/article/culture/Psychology_of_Mob_Mentality.pdf
 Annote: Can not be archived at archive.org
 
 Id: wood-01
