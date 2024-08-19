@@ -23120,6 +23120,14 @@ Date: 2024-05-15
 Link: https://en.wikipedia.org/wiki/Theory_of_the_firm
 AltLink: https://tinyurl.com/2zb3b67b https://web.archive.org/web/20240515185205/https://en.wikipedia.org/wiki/Theory_of_the_firm
 
+Id: wikipedia-64
+Type: article
+Media: link
+Title: Feral child
+Date: 2024-08-19
+Link: https://en.wikipedia.org/wiki/Feral_child
+AltLink: https://tinyurl.com/yu5k6emb https://web.archive.org/web/20240819203804/https://en.wikipedia.org/wiki/Feral_child
+
 Id: wilburhotsprings-01
 Type: site
 Media: site
