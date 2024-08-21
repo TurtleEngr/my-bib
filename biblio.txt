@@ -132,7 +132,7 @@ Author: Adavelli, Muninder
 Date: 2024-01-02
 Publisher: TechJury
 Link: https://techjury.net/blog/linux-statistics/
-AltLink: https://tinyurl.com/4f22dw5f https://web.archive.org/web/20240611094327/https://www.techjury.net/blog/linux-statistics/
+AltLink: https://tinyurl.com/4f22dw5f+ https://web.archive.org/web/20240611094327/https://www.techjury.net/blog/linux-statistics/
 
 Id: addons-mozilla-01
 Type: site
@@ -293,7 +293,7 @@ Author: Alexander, Scott
 Date:  2014-07-30
 Publisher: Slate Star Codex
 Link: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
-AltLink: https://tinyurl.com/j29c4v3z https://web.archive.org/web/20240214211505/https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+AltLink: https://tinyurl.com/j29c4v3z+ https://web.archive.org/web/20240214211505/https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 
 Id: alfred-01
 Type: book
@@ -348,7 +348,7 @@ Author: Allen, Will
 Authors: Polly Morgan
 Date: 2016-01-25
 Link: https://en.wikipedia.org/wiki/Holy_Hell_(film)
-AltLink: https://tinyurl.com/m2t3m9a3 https://web.archive.org/web/20231219020700/https://en.wikipedia.org/wiki/Holy_Hell_%28film%29
+AltLink: https://tinyurl.com/m2t3m9a3+ https://web.archive.org/web/20231219020700/https://en.wikipedia.org/wiki/Holy_Hell_%28film%29
 
 Id: allende-01
 Type: media
@@ -448,7 +448,7 @@ Author: Alzoughbi, Zoughbi
 Date: 2023-07-24
 Publisher: Wi'am: The Palestinian Conflict Transformation Center
 Link: https://www.alaslah.org/sulha/
-AltLink: https://tinyurl.com/3az6syd9 https://web.archive.org/web/20230724185815/https://www.alaslah.org/sulha/
+AltLink: https://tinyurl.com/3az6syd9+ https://web.archive.org/web/20230724185815/https://www.alaslah.org/sulha/
 
 Id: amazon-01
 Type: site
@@ -937,7 +937,7 @@ Author: Ashenden, Robin
 Date: 2023-04-18
 Publisher: The Spectator
 Link: https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/
-AltLink: https://tinyurl.com/mtz2dndn https://web.archive.org/web/20231102230718/https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/
+AltLink: https://tinyurl.com/mtz2dndn+ https://web.archive.org/web/20231102230718/https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/
 Annote: See notes.
 
 Id: ask-slashdot-01
@@ -1439,7 +1439,7 @@ Author: Bendix, Aria
 Date: 2023-07-06
 Publisher: NBC News
 Link: https://www.nbcnews.com/health/health-news/hot-hot-human-body-function-optimally-rcna92346
-AltLink: https://tinyurl.com/4asxe57k https://web.archive.org/web/20230706112940/https://www.nbcnews.com/health/health-news/hot-hot-human-body-function-optimally-rcna92346
+AltLink: https://tinyurl.com/4asxe57k+ https://web.archive.org/web/20230706112940/https://www.nbcnews.com/health/health-news/hot-hot-human-body-function-optimally-rcna92346
 Annote: Source for 122 degF max.
 
 Id: benjamin-01
@@ -1465,7 +1465,7 @@ Subtitle: or, Linux and The Nature of the Firm
 Author: Benkler, Yochai
 Date: 2002-08-01
 Link: https://www.benkler.org/CoasesPenguin.PDF
-AltLink: https://tinyurl.com/fwhctaz5 https://web.archive.org/web/20240616075123/https://benkler.org/CoasesPenguin.PDF
+AltLink: https://tinyurl.com/fwhctaz5+ https://web.archive.org/web/20240616075123/https://benkler.org/CoasesPenguin.PDF
 Annote: See notes.
 
 Id: berman-01
@@ -1591,7 +1591,7 @@ Date: 2015-12-01
 DateSeen: 2024-02-29
 Publisher: McKinsey Quarterly
 Link: https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
-AltLink: https://tinyurl.com/85keerw6 https://web.archive.org/web/20240229201523/https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
+AltLink: https://tinyurl.com/85keerw6+ https://web.archive.org/web/20240229201523/https://edisciplinas.usp.br/pluginfile.php/484677/mod_resource/content/1/Adhocracy%20for%20an%20agile%20age.pdf
 
 Id: black-01
 Type: media
@@ -1685,7 +1685,7 @@ Author: Bloom, Stephen G.
 Date: 2022-11-22
 Publisher: Skeptic
 Link: https://www.skeptic.com/reading_room/blue-eyes-brown-eyes-jane-elliott-prejudice-experiment/
-AltLink: https://tinyurl.com/3ykyp3fs https://web.archive.org/web/20221122103738/https://www.skeptic.com/reading_room/blue-eyes-brown-eyes-jane-elliott-prejudice-experiment/
+AltLink: https://tinyurl.com/3ykyp3fs+ https://web.archive.org/web/20221122103738/https://www.skeptic.com/reading_room/blue-eyes-brown-eyes-jane-elliott-prejudice-experiment/
 
 Id: blowfish-01
 Type: site
@@ -2032,7 +2032,7 @@ Title: Why Don't You Kill Your Baby Brother? The Dynamics of Peace in Canadian I
 Author: Briggs, Jean L.
 Date: 2015
 Link: https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf
-AltLink: https://tinyurl.com/4j68u7wt https://web.archive.org/web/20220516101111/https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf https://moria.whyayh.com/rel/archive/article/culture/Briggs94.pdf
+AltLink: https://tinyurl.com/4j68u7wt+ https://web.archive.org/web/20220516101111/https://peacefulsocieties.uncg.edu/wp-content/uploads/2015/11/Briggs94.pdf https://moria.whyayh.com/rel/archive/article/culture/Briggs94.pdf
 
 Id: brighthub-01
 Type: article
@@ -2087,7 +2087,7 @@ DateSeen: 2021-12-23
 Publisher: Free Inquiry
 Tags: important
 Link: https://secularhumanism.org/2003/03/fascism-anyone/
-AltLink: https://tinyurl.com/txhnbkzw https://web.archive.org/web/20181010202121/https://secularhumanism.org/2003/03/fascism-anyone/
+AltLink: https://tinyurl.com/txhnbkzw+ https://web.archive.org/web/20181010202121/https://secularhumanism.org/2003/03/fascism-anyone/
 
 Id: broadbent-01
 Type: media
@@ -2431,7 +2431,7 @@ Author: Burgess, Mark
 Authors: Robin Dunbar
 Date: 2024-04-09
 Link: https://arxiv.org/html/2402.00595v2
-AltLink: https://tinyurl.com/mrxh3rjh https://web.archive.org/web/20240430223024/https://moria.whyayh.com/rel/archive/article/culture/burgess-08-2402.00595v2.pdf https://moria.whyayh.com/rel/archive/article/culture/burgess-08-2402.00595v2.pdf
+AltLink: https://tinyurl.com/mrxh3rjh+ https://web.archive.org/web/20240430223024/https://moria.whyayh.com/rel/archive/article/culture/burgess-08-2402.00595v2.pdf https://moria.whyayh.com/rel/archive/article/culture/burgess-08-2402.00595v2.pdf
 Annote: PDF copy is at AltLink
 
 Id: burgess-09
@@ -2442,7 +2442,7 @@ Author: Burgess, Mark
 Authors: Robin Dunbar
 Date: 2024-02-02
 Link: https://arxiv.org/abs/2402.00598
-AltLink: https://tinyurl.com/56z84va2 https://web.archive.org/web/20240430223355/https://moria.whyayh.com/rel/archive/article/culture/burgess-09-2402.00598v1.pdf https://moria.whyayh.com/rel/archive/article/culture/burgess-09-2402.00598v1.pdf
+AltLink: https://tinyurl.com/56z84va2+ https://web.archive.org/web/20240430223355/https://moria.whyayh.com/rel/archive/article/culture/burgess-09-2402.00598v1.pdf https://moria.whyayh.com/rel/archive/article/culture/burgess-09-2402.00598v1.pdf
 Annote: PDF copy is at AltLink
 
 Id: burke-01
@@ -2467,7 +2467,7 @@ Title: Houselessness and Homelessness
 Author: Burklo, Jim
 Date: 2014-01-17
 Link: https://tcpc.blogs.com/musings/2014/01/houselessness-and-homelessness.html
-AltLink: https://tinyurl.com/2wxtyvhr https://web.archive.org/web/20140217092353/http://tcpc.blogs.com/musings/2014/01/houselessness-and-homelessness.html
+AltLink: https://tinyurl.com/2wxtyvhr+ https://web.archive.org/web/20140217092353/http://tcpc.blogs.com/musings/2014/01/houselessness-and-homelessness.html
 
 Id: burstyn-01
 Type: media
@@ -2636,7 +2636,7 @@ Authors: Harvey Wasserman
 Date: 2009-07-05
 Publisher: huffpost
 Link: https://www.huffpost.com/entry/a-green-powered-trip-to-e_b_211456
-AltLink: https://tinyurl.com/yc2t64h6 https://web.archive.org/web/20210523094457/https://www.huffpost.com/entry/a-green-powered-trip-to-e_b_211456 https://www.youtube.com/watch?v=Fsv_xmnoorA
+AltLink: https://tinyurl.com/yc2t64h6+ https://web.archive.org/web/20210523094457/https://www.huffpost.com/entry/a-green-powered-trip-to-e_b_211456 https://www.youtube.com/watch?v=Fsv_xmnoorA
 
 Id: calsci-01
 Type: site
@@ -2784,7 +2784,7 @@ Title: We can do impossible things if we paddle together!
 Author: Casey, Caroline W.
 Date: 2020-08-27
 Link: https://coyotenetworknews.com/radioshow/we-can-do-impossible-things-if-we-paddle-together/
-AltLink: https://tinyurl.com/5n8zmauu https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/2020-08-27-the_visionary_activist_show_Trickster_Medicine.mp3
+AltLink: https://tinyurl.com/5n8zmauu+ https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/2020-08-27-the_visionary_activist_show_Trickster_Medicine.mp3
 
 Id: casey-02
 Type: media
@@ -2888,14 +2888,14 @@ Title: Census Bureau Releases New Estimates on America’s Families and Living A
 Date: 2022-11-17
 Publisher: Census Bureau
 Link: https://www.census.gov/newsroom/press-releases/2022/americas-families-and-living-arrangements.html
-AltLink: https://tinyurl.com/2r9yv3t9 https://web.archive.org/web/20221117153446/https://www.census.gov/newsroom/press-releases/2022/americas-families-and-living-arrangements.html
+AltLink: https://tinyurl.com/2r9yv3t9+ https://web.archive.org/web/20221117153446/https://www.census.gov/newsroom/press-releases/2022/americas-families-and-living-arrangements.html
 
 Id: centerforpartnership-01
 Type: site
 Media: org
 Title: Home - The Center for Partnership Systems
 Link: https://centerforpartnership.org/
-AltLink: https://tinyurl.com/y39atran https://web.archive.org/web/20231210195621/https://centerforpartnership.org/
+AltLink: https://tinyurl.com/y39atran+ https://web.archive.org/web/20231210195621/https://centerforpartnership.org/
 
 Id: centos-01
 Type: article
@@ -3388,7 +3388,7 @@ Author: Coase, R. H.
 Date: 1937-11-01
 Note: 4(16), 386-405.
 Link: https://doi.org/10.1111/j.1468-0335.1937.tb00002.x
-AltLink: https://tinyurl.com/y44mahy7
+AltLink: https://tinyurl.com/y44mahy7+
 Annote: Related, see: coase-02, coase-03, wikipedia-63
 
 Id: coase-02
@@ -3398,7 +3398,7 @@ Title: The Nature of the Firm
 Author: Coase, Ronald
 Date: 2024-05-10
 Link: https://en.wikipedia.org/wiki/The_Nature_of_the_Firm
-AltLink: https://tinyurl.com/4pskr8fv https://web.archive.org/web/20240510102652/https://en.wikipedia.org/wiki/The_Nature_of_the_Firm
+AltLink: https://tinyurl.com/4pskr8fv+ https://web.archive.org/web/20240510102652/https://en.wikipedia.org/wiki/The_Nature_of_the_Firm
 
 Id: coase-03
 Type: article
@@ -3407,7 +3407,7 @@ Title: Ronald Coase
 Author: Coase, Ronald
 Date: 2024-06-17
 Link: https://en.wikipedia.org/wiki/Ronald_Coase
-AltLink: https://tinyurl.com/3wbtubst https://web.archive.org/web/20240617023602/https://en.wikipedia.org/wiki/Ronald_Coase
+AltLink: https://tinyurl.com/3wbtubst+ https://web.archive.org/web/20240617023602/https://en.wikipedia.org/wiki/Ronald_Coase
 Annote: See notes
 
 Id: coastsider-01
@@ -3562,7 +3562,7 @@ Title: Gatekeeping Plenary Agendas
 Date: 2008-01-25
 Publisher: Laird's Commentary on Community and Consensus
 Link: https://communityandconsensus.blogspot.com/2008/01/gatekeeping-plenary-agendas.html
-AltLink: https://tinyurl.com/ywbh5983 https://web.archive.org/web/20110708032745/http://communityandconsensus.blogspot.com/2008/01/gatekeeping-plenary-agendas.html
+AltLink: https://tinyurl.com/ywbh5983+ https://web.archive.org/web/20110708032745/http://communityandconsensus.blogspot.com/2008/01/gatekeeping-plenary-agendas.html
 
 Id: communityandconsensus-02
 Type: article
@@ -3571,7 +3571,7 @@ Title: Navigating the Swamp of Plenary Discussion
 Date: 2008-05-04
 Publisher: Laird's Commentary on Community and Consensus
 Link: https://communityandconsensus.blogspot.com/2008/05/navigating-swamp-of-plenary-discussion.html
-AltLink: https://tinyurl.com/y2wt2f6y https://web.archive.org/web/20231122114420/https://communityandconsensus.blogspot.com/2008/05/navigating-swamp-of-plenary-discussion.html
+AltLink: https://tinyurl.com/y2wt2f6y+ https://web.archive.org/web/20231122114420/https://communityandconsensus.blogspot.com/2008/05/navigating-swamp-of-plenary-discussion.html
 
 Id: communityandconsensus-03
 Type: article
@@ -3581,7 +3581,7 @@ Date: 2015-05-15
 Publisher: Laird's Commentary on Community and Consensus
 Tags: culture, link
 Link: http://communityandconsensus.blogspot.com/2015/05/group-works-balance-structure-and.html
-AltLink: https://tinyurl.com/5n8d9cn3 https://web.archive.org/web/20231122121750/https://communityandconsensus.blogspot.com/2015/05/group-works-balance-structure-and.html
+AltLink: https://tinyurl.com/5n8d9cn3+ https://web.archive.org/web/20231122121750/https://communityandconsensus.blogspot.com/2015/05/group-works-balance-structure-and.html
 
 Id: communitymediacenter-01
 Type: article
@@ -3782,7 +3782,7 @@ Authors: Maxim Voronov
 Date: 2024-06-18
 Publisher: Scientific American
 Link: https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
-AltLink: https://tinyurl.com/2c8ajwdn https://web.archive.org/web/20240625164639/https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
+AltLink: https://tinyurl.com/2c8ajwdn+ https://web.archive.org/web/20240625164639/https://www.scientificamerican.com/article/weve-hit-peak-denial-heres-why-we-cant-turn-away-from-reality/
 Annote: See notes
 
 Id: coopamerica-01
@@ -3844,7 +3844,7 @@ Date: 1971-11-14
 DateSeen: 2023-08-29
 Publisher: The New York Times
 Link: https://www.nytimes.com/1971/11/14/archives/our-oceans-are-dying.html
-AltLink: https://tinyurl.com/23d4nbfw https://web.archive.org/web/20230829084841/https://www.nytimes.com/1971/11/14/archives/our-oceans-are-dying.html
+AltLink: https://tinyurl.com/23d4nbfw+ https://web.archive.org/web/20230829084841/https://www.nytimes.com/1971/11/14/archives/our-oceans-are-dying.html
 
 Id: covad-01
 Type: article
@@ -4474,7 +4474,7 @@ Subtitle: We as a Nation Must Undergo a Radical Revolution of Values; Democracy 
 Date: 2013-01-21
 Tags: culture, link
 Link: http://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
-AltLink: https://tinyurl.com/3p2ckva9 https://web.archive.org/web/20230926093520/https://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
+AltLink: https://tinyurl.com/3p2ckva9+ https://web.archive.org/web/20230926093520/https://www.democracynow.org/2013/1/21/dr_martin_luther_king_in_1967
 Annote: excerpt from Dr. King’s “Beyond Vietnam” address, given at New York City’s Riverside Church on April 4, 1967. See also: king-02
 
 Id: democracynow-03
@@ -4690,7 +4690,7 @@ Author: Dickie, Gloria
 Date: 2023-08-09
 Publisher: Reuters
 Link: https://news.yahoo.com/explainer-climate-change-driving-dangerous-140244151.html
-AltLink: https://tinyurl.com/2ad5nh8y https://web.archive.org/web/20230810005133/https://news.yahoo.com/explainer-climate-change-driving-dangerous-140244151.html/
+AltLink: https://tinyurl.com/2ad5nh8y+ https://web.archive.org/web/20230810005133/https://news.yahoo.com/explainer-climate-change-driving-dangerous-140244151.html/
 Annote: See notes.
 
 Id: dickinson-01
@@ -4974,7 +4974,7 @@ Date: 2022-02-08
 DateSeen: 2022-11-22
 Tags: culture, article, important, article
 Link: https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism
-AltLink: https://tinyurl.com/bdcpaksa https://web.archive.org/web/20240210033729/https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism https://archive.vn/7yUH7/#anti-fatalism
+AltLink: https://tinyurl.com/bdcpaksa+ https://web.archive.org/web/20240210033729/https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism https://archive.vn/7yUH7/#anti-fatalism
 Annote: This is a great overview of The Dawn of Everything
 
 Id: doctorow-12
@@ -5034,7 +5034,7 @@ Subtitle: And those real AI harms are priming people to believe disinformation
 Author: Doctorow, Cory
 Date: 204-02-27
 Link: https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse
-AltLink: https://tinyurl.com/bdfcfkrp https://web.archive.org/web/20240228024910/https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse https://doctorow.medium.com/https-pluralistic-net-2024-02-27-ai-conspiracies-epistemological-collapse-eabfefa6b2e8
+AltLink: https://tinyurl.com/bdfcfkrp+ https://web.archive.org/web/20240228024910/https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse https://doctorow.medium.com/https-pluralistic-net-2024-02-27-ai-conspiracies-epistemological-collapse-eabfefa6b2e8
 
 Id: documents-mx-01
 Type: article
@@ -5127,7 +5127,7 @@ Title: Share this with all the schools, please
 Author: Doyle, Glennon
 Date: 2014-01-30
 Link: https://momastery.com/blog/2014/01/30/share-schools/
-AltLink: https://tinyurl.com/fe53apv6 https://web.archive.org/web/20231023213446/https://momastery.com/blog/2014/01/30/share-schools/
+AltLink: https://tinyurl.com/fe53apv6+ https://web.archive.org/web/20231023213446/https://momastery.com/blog/2014/01/30/share-schools/
 
 Id: dprintingpricecheck-01
 Type: article
@@ -5152,7 +5152,7 @@ Author: Draga, Daniel
 Date: 2017-11-09
 Publisher: Virtono
 Link: https://www.virtono.com/community/tutorial-how-to/restrict-executable-ssh-commands-with-authorized-keys/
-AltLink: https://tinyurl.com/3da2fhz9 https://web.archive.org/web/20220601123000/https://www.virtono.com/community/tutorial-how-to/restrict-executable-ssh-commands-with-authorized-keys/
+AltLink: https://tinyurl.com/3da2fhz9+ https://web.archive.org/web/20220601123000/https://www.virtono.com/community/tutorial-how-to/restrict-executable-ssh-commands-with-authorized-keys/
 
 Id: drake-01
 Type: book
@@ -5468,7 +5468,7 @@ Author: Eagleshadow, Phoenix Psyche
 Date: 2016-03-15
 Tags: link, article
 Link: https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/
-AltLink: https://tinyurl.com/mrx2wzus https://web.archive.org/web/20231027035028/https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/ https://archive.vn/ZJ4SP
+AltLink: https://tinyurl.com/mrx2wzus+ https://web.archive.org/web/20231027035028/https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/ https://archive.vn/ZJ4SP
 
 Id: earth-imagico-01
 Type: article
@@ -5557,7 +5557,7 @@ Author: Edelman, Meredith
 Date: 2019-08-21
 Publisher: The Power to Persuade
 Link: https://www.powertopersuade.org.au/blog/corporate-death-penalty
-Altlink: https://tinyurl.com/43vuwjp7 https://web.archive.org/web/20190825135039/http://www.powertopersuade.org.au/blog/corporate-death-penalty
+Altlink: https://tinyurl.com/43vuwjp7+ https://web.archive.org/web/20190825135039/http://www.powertopersuade.org.au/blog/corporate-death-penalty
 
 Id: edflix-01
 Type: media
@@ -5955,7 +5955,7 @@ Date: 2022-09-10
 Author: Elving, Ron
 Publisher: NPR
 Link: https://www.npr.org/2022/09/10/1122089076/is-america-a-democracy-or-a-republic-yes-it-is
-AltLink: https://tinyurl.com/ytwpcbhe https://web.archive.org/web/20240621225516/https://www.npr.org/2022/09/10/1122089076/is-america-a-democracy-or-a-republic-yes-it-is
+AltLink: https://tinyurl.com/ytwpcbhe+ https://web.archive.org/web/20240621225516/https://www.npr.org/2022/09/10/1122089076/is-america-a-democracy-or-a-republic-yes-it-is
 
 Id: embeddeddatasystems-01
 Type: article
@@ -6709,7 +6709,7 @@ Date: 2008
 Publisher: Sociological Forum, Vol. 23, No. 2, June 2008
 Tags: article
 Link: https://sociology.berkeley.edu/sites/default/files/faculty/fischer/Fischer_Paradoxes%20of%20Individualism_2008.pdf
-AltLink: https://tinyurl.com/2z84rkbt https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
+AltLink: https://tinyurl.com/2z84rkbt+ https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
 
 Id: fisher-01
 Type: media
@@ -6976,7 +6976,7 @@ Author: Fox, Justin
 Date: 2010-04-01
 Tags: corporation, founders, purpose, article, important, article
 Link: https://hbr.org/2010/04/what-the-founding-fathers-real.html
-AltLink: https://tinyurl.com/3xfp37s5 https://web.archive.org/web/20230816165216/https://hbr.org/2010/04/what-the-founding-fathers-real.html https://archive.vn/Gjhil
+AltLink: https://tinyurl.com/3xfp37s5+ https://web.archive.org/web/20230816165216/https://hbr.org/2010/04/what-the-founding-fathers-real.html https://archive.vn/Gjhil
 
 Id: foxtorrent-01
 Type: article
@@ -7454,7 +7454,7 @@ Author: Gebru, Timnit
 Date: 2023-11-07
 Tags: link, person, link
 Link: https://en.wikipedia.org/wiki/Timnit_Gebru
-AltLink: https://tinyurl.com/4988uwa2 https://web.archive.org/web/20231108000409/https://en.wikipedia.org/wiki/Timnit_Gebru
+AltLink: https://tinyurl.com/4988uwa2+ https://web.archive.org/web/20231108000409/https://en.wikipedia.org/wiki/Timnit_Gebru
 
 Id: geekwire-01
 Type: article
@@ -8477,7 +8477,7 @@ Author: Grant, Adam
 Date: 2024-01-01
 Publisher: New York Times
 Link: https://www.nytimes.com/2024/01/01/opinion/israel-war-empathy-pain.html
-AltLink: https://tinyurl.com/nceeu4e9 https://web.archive.org/web/20240101201953/https://www.nytimes.com/2024/01/01/opinion/israel-war-empathy-pain.html
+AltLink: https://tinyurl.com/nceeu4e9+ https://web.archive.org/web/20240101201953/https://www.nytimes.com/2024/01/01/opinion/israel-war-empathy-pain.html
 Annote: See notes.
 
 Id: graphite-wikidot-01
@@ -8494,7 +8494,7 @@ Title: Summary Statement: The Emergent, Cyclical, Double-Helix Model Of The Adul
 Author: Graves, Clare W.
 Date: 1981-05-20
 Link: https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf
-AltLink: https://tinyurl.com/3n5erck3 https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
+AltLink: https://tinyurl.com/3n5erck3+ https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
 Annote: See notes.
 
 Id: greektragedy-01
@@ -8607,7 +8607,7 @@ Author: Grossman, Richard L.
 Date: 1993
 Tags: article, alien, article
 Link: https://ratical.org/corporations/TCoB.html
-AltLink: https://tinyurl.com/557rhsmy https://web.archive.org/web/20230421081258/https://ratical.org/corporations/TCoB.html https://archive.vn/UV1zW
+AltLink: https://tinyurl.com/557rhsmy+ https://web.archive.org/web/20230421081258/https://ratical.org/corporations/TCoB.html https://archive.vn/UV1zW
 
 Id: groups-google-01
 Type: article
@@ -8917,7 +8917,7 @@ Date: 1968-12-13
 Publisher: American Association for the Advancement of Science
 Tags: commons
 Link: https://vdocument.in/tragedy-of-the-commons-1968-garrett-hardin.html?page=1
-AltLink: https://tinyurl.com/t8y7czxr https://moria.whyayh.com/rel/archive/article/culture/tragedy-of-the-commons-1968-garrett-hardin.pdf
+AltLink: https://tinyurl.com/t8y7czxr+ https://moria.whyayh.com/rel/archive/article/culture/tragedy-of-the-commons-1968-garrett-hardin.pdf
 
 Id: hardware-redhat-01
 Type: article
@@ -9488,7 +9488,7 @@ Date: 2005-02-01
 Publisher: Pepperdine Dispute Resolution Law Journal
 Volume: Volume 5, Issue 2
 Link: https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1106&context=drlj
-AltLink: https://tinyurl.com/53ywht2n https://moria.whyayh.com/rel/archive/article/culture/Cutting_the_Cord_Hooponopono_and_Hawaiian_Restorative_Justice_i.pdf https://digitalcommons.pepperdine.edu/drlj/vol5/iss2/6/
+AltLink: https://tinyurl.com/53ywht2n+ https://moria.whyayh.com/rel/archive/article/culture/Cutting_the_Cord_Hooponopono_and_Hawaiian_Restorative_Justice_i.pdf https://digitalcommons.pepperdine.edu/drlj/vol5/iss2/6/
 
 Id: hosted-webs-01
 Type: article
@@ -9839,7 +9839,7 @@ Media: org
 Title: Foundation for Intentional Community
 Date: 2023-10-24
 Link: https://www.ic.org/
-AltLink: https://tinyurl.com/5d4s28vu https://web.archive.org/web/20231024182212/https://www.ic.org/
+AltLink: https://tinyurl.com/5d4s28vu+ https://web.archive.org/web/20231024182212/https://www.ic.org/
 
 Id: icecast-01
 Type: site
@@ -10023,7 +10023,7 @@ Author: Indeed Editorial Team
 Date: 2022-06-24
 Publisher: Indeed
 Link: https://www.indeed.com/career-advice/career-development/bureaucracy-in-business
-AltLink: https://tinyurl.com/7v7y9w6x https://web.archive.org/web/20240814001946/https://www.indeed.com/career-advice/career-development/bureaucracy-in-business
+AltLink: https://tinyurl.com/7v7y9w6x+ https://web.archive.org/web/20240814001946/https://www.indeed.com/career-advice/career-development/bureaucracy-in-business
 
 Id: indiegogo-01
 Type: site
@@ -10524,7 +10524,7 @@ Author: Johnson, Dr. Ayana Elizabeth
 Authors: David Marchese
 Date: 2024-05-18
 Publisher: The New York Times
-Link: https://tinyurl.com/muurs8jw https://web.archive.org/web/20240518135055/https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
+Link: https://tinyurl.com/muurs8jw+ https://web.archive.org/web/20240518135055/https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
 
 Id: jolicloud-01
 Type: site
@@ -10608,7 +10608,7 @@ Author: Junk, Dennis
 Date: 2023-12-13
 Publisher: Skeptic
 Link: https://www.skeptic.com/reading_room/kill-your-brother-game-playful-dramas-unintended-consequences-of-censorship/
-AltLink: https://tinyurl.com/45uw69k4 https://web.archive.org/web/20231214181136/https://www.skeptic.com/reading_room/kill-your-brother-game-playful-dramas-unintended-consequences-of-censorship/
+AltLink: https://tinyurl.com/45uw69k4+ https://web.archive.org/web/20231214181136/https://www.skeptic.com/reading_room/kill-your-brother-game-playful-dramas-unintended-consequences-of-censorship/
 
 Id: just-gov-01
 Type: site
@@ -10704,7 +10704,7 @@ Author: katerinaptrv
 Date: 2023-07-12
 Publisher: Medium
 Link: https://medium.com/@daniellefranca96/gpt4-all-details-leaked-48fa20f9a4a
-AltLink: https://tinyurl.com/4by57yzs https://web.archive.org/web/20231014154828/https://medium.com/@daniellefranca96/gpt4-all-details-leaked-48fa20f9a4a
+AltLink: https://tinyurl.com/4by57yzs+ https://web.archive.org/web/20231014154828/https://medium.com/@daniellefranca96/gpt4-all-details-leaked-48fa20f9a4a
 
 Id: katwallks-01
 Type: site
@@ -10889,7 +10889,7 @@ Author: King, Martin Luther Jr.
 Date: 1963-04-16
 DateSeen: 2024-01-24
 Link: https://letterfromjail.com/
-AltLink: https://tinyurl.com/2jxptych https://web.archive.org/web/20240124012600/https://letterfromjail.com/
+AltLink: https://tinyurl.com/2jxptych+ https://web.archive.org/web/20240124012600/https://letterfromjail.com/
 
 Id: king-02
 Type: article
@@ -10900,7 +10900,7 @@ Author: King, Martin Luther Jr.
 Date: 1967-04-04
 DateSeen: 2023-10-03
 Link: https://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
-AltLink: https://tinyurl.com/ye24ejry https://web.archive.org/web/20231003122239/https://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
+AltLink: https://tinyurl.com/ye24ejry+ https://web.archive.org/web/20231003122239/https://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
 Annote: See also democracynow-02
 
 Id: kingarthurflour-01
@@ -11355,7 +11355,7 @@ Date: 2008-04-30
 DateSeen: 2022-11-18
 Tags: link
 Link: http://www.lafayettemorehouse.com/one_no-vote.html
-AltLink: https://tinyurl.com/rwwkn2up https://web.archive.org/web/20080430064428/http://www.lafayettemorehouse.com/one_no-vote.html
+AltLink: https://tinyurl.com/rwwkn2up+ https://web.archive.org/web/20080430064428/http://www.lafayettemorehouse.com/one_no-vote.html
 
 Id: lafayettemorehouse-02
 Type: site
@@ -11374,7 +11374,7 @@ Author: Lafont, Emmanuel
 Date: 2022-02-24
 Publisher: BBC.com
 Link: https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships
-AltLink: https://tinyurl.com/bphcyuyv https://web.archive.org/web/20231201011454/https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships
+AltLink: https://tinyurl.com/bphcyuyv+ https://web.archive.org/web/20231201011454/https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships
 Annote: See notes.
 
 Id: laine-01
@@ -11394,7 +11394,7 @@ Authors: Michael D. Langone
 Date: 2022-11-04
 Tags: article, old:cult-escape-01
 Link: https://cult-escape.com/articles/is-it-a-dangerous-cult/
-AltLink: https://tinyurl.com/3hx5r624 https://web.archive.org/web/20230921182113/https://cult-escape.com/articles/is-it-a-dangerous-cult/ https://archive.vn/FvNii
+AltLink: https://tinyurl.com/3hx5r624+ https://web.archive.org/web/20230921182113/https://cult-escape.com/articles/is-it-a-dangerous-cult/ https://archive.vn/FvNii
 
 Id: laminarflow-01
 Type: media
@@ -11716,7 +11716,7 @@ Title: Washington Police Officer Charged With Murdering Man Outside Grocery Stor
 Author: Levenson, Michael
 Date: 2020-08-24
 Link: https://www.nytimes.com/2020/08/20/us/jeffrey-nelson-auburn-washington-police-murder-charge.html
-AltLink: https://tinyurl.com/adnvh3rh https://web.archive.org/web/20200928080404/https://www.nytimes.com/2020/08/20/us/jeffrey-nelson-auburn-washington-police-murder-charge.html
+AltLink: https://tinyurl.com/adnvh3rh+ https://web.archive.org/web/20200928080404/https://www.nytimes.com/2020/08/20/us/jeffrey-nelson-auburn-washington-police-murder-charge.html
 
 Id: levine-01
 Type: article
@@ -12075,7 +12075,7 @@ Date: 2012-07-13
 DateSeen: 2023-03-23
 Publisher: New Compass, Grenmarsvegen 12, 3912 Porsgrunn, Norway
 Link: http://new-compass.net/articles/lure-obedience
-AltLink: https://tinyurl.com/3mvwex8t https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience https://archive.vn/GrqpI
+AltLink: https://tinyurl.com/3mvwex8t+ https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience https://archive.vn/GrqpI
 Annote: See notes.
 
 Id: little-02
@@ -12328,7 +12328,7 @@ Author: Ludvigsen, Kasper Groes Albin
 Date: 2023-07-18
 Publisher: Towards Data Science
 Link: https://towardsdatascience.com/the-carbon-footprint-of-gpt-4-d6c676eb21ae
-AltLink: https://tinyurl.com/3s4vfa4x https://web.archive.org/web/20231014153932/https://towardsdatascience.com/the-carbon-footprint-of-gpt-4-d6c676eb21ae?gi=f1cf269d3028
+AltLink: https://tinyurl.com/3s4vfa4x+ https://web.archive.org/web/20231014153932/https://towardsdatascience.com/the-carbon-footprint-of-gpt-4-d6c676eb21ae?gi=f1cf269d3028
 
 Id: lufwiki-pbwiki-01
 Type: article
@@ -12714,7 +12714,7 @@ Title: Lynn Margulis Quote
 Date: 2017-08-20
 Publisher: AZQuotes.com. Wind and Fly LTD, 2023
 Link: https://www.azquotes.com/quote/1276395
-AltLink: https://tinyurl.com/2p8rde7m https://web.archive.org/web/20170820041133/http://www.azquotes.com/quote/1276395
+AltLink: https://tinyurl.com/2p8rde7m+ https://web.archive.org/web/20170820041133/http://www.azquotes.com/quote/1276395
 
 Id: margulis-02
 Type: book
@@ -12809,7 +12809,7 @@ Subtitle: Pros and Cons of the Organizational Structure
 Author: MasterClass
 Date: 2023-01-31
 Link: https://www.masterclass.com/articles/holacracy
-AltLink: https://tinyurl.com/4weftw3t https://web.archive.org/web/20231110181215/https://www.masterclass.com/articles/holacracy
+AltLink: https://tinyurl.com/4weftw3t+ https://web.archive.org/web/20231110181215/https://www.masterclass.com/articles/holacracy
 
 Id: math-rejecta-01
 Type: site
@@ -12843,7 +12843,7 @@ Title: Strategically Placed Obstacle Near an Exit Can Speed Evacuations
 Author: Matson, John
 Date: 2009-08-28
 Link: https://www.scientificamerican.com/article/obstacle-exit-pedestrian/
-AltLink: https://tinyurl.com/2ht4y5yk https://web.archive.org/web/20160121214139/https://www.scientificamerican.com/article/obstacle-exit-pedestrian/
+AltLink: https://tinyurl.com/2ht4y5yk+ https://web.archive.org/web/20160121214139/https://www.scientificamerican.com/article/obstacle-exit-pedestrian/
 
 Id: maughan-01
 Type: book
@@ -13276,7 +13276,7 @@ Author: Meyer, Manu
 Date: 1994-01-17
 Publisher: Harvard Graduate School of Education
 Link: https://www2.hawaii.edu/~barkai/HO/Hooponopono.pdf
-AltLink: https://tinyurl.com/y6p453az https://moria.whyayh.com/rel/archive/article/culture/Hooponopono.pdf
+AltLink: https://tinyurl.com/y6p453az+ https://moria.whyayh.com/rel/archive/article/culture/Hooponopono.pdf
 Annote: Page 7-21
 
 Id: meyer-stoll-01
@@ -13287,7 +13287,7 @@ Date: 2013-08-22
 Author: Meyer-Stoll, Ina
 Authors: Achim Ecker
 Link: https://geo.coop/story/zegg-forum-%E2%80%93-ritualized-form-communication-larger-groups
-AltLink: https://tinyurl.com/yc6ew4be https://web.archive.org/web/20230923013653/https://geo.coop/story/zegg-forum-%e2%80%93-ritualized-form-communication-larger-groups
+AltLink: https://tinyurl.com/yc6ew4be+ https://web.archive.org/web/20230923013653/https://geo.coop/story/zegg-forum-%e2%80%93-ritualized-form-communication-larger-groups
 
 Id: meyers-01
 Type: article
@@ -13297,7 +13297,7 @@ Date: 2007-07-27
 Author: Meyers, William
 Tags: link, important, link
 Link: https://www.iiipublishing.com/books/nonviolence.htm
-AltLink: https://tinyurl.com/ynxyhtvt https://web.archive.org/web/20070727103243/http://www.iiipublishing.com/books/nonviolence.htm
+AltLink: https://tinyurl.com/ynxyhtvt+ https://web.archive.org/web/20070727103243/http://www.iiipublishing.com/books/nonviolence.htm
 Annote: See notes.
 
 Id: mi-owa-mi-01
@@ -13371,7 +13371,7 @@ Author: Milgram, Stanley
 Date: 1974-05
 Publisher: The Phi Delta Kappan, May, 1974, Vol. 55, No. 9 (May, 1974), pp. 603-606
 Link: https://www.jstor.org/stable/20297701
-AltLink: https://tinyurl.com/mu9dswhd https://web.archive.org/web/20240117064339/https://moria.whyayh.com/rel/archive/article/culture/Milgram-DilemmaObedience-1974.html
+AltLink: https://tinyurl.com/mu9dswhd+ https://web.archive.org/web/20240117064339/https://moria.whyayh.com/rel/archive/article/culture/Milgram-DilemmaObedience-1974.html
 
 Id: milgram-02
 Type: article
@@ -13380,7 +13380,7 @@ Title: Milgram experiment
 Date: 2023-12-31
 Tags: old:wikipedia-58
 Link: https://en.wikipedia.org/wiki/Milgram_experiment
-AltLink: https://tinyurl.com/tyw89p4p https://web.archive.org/web/20231231222905/https://en.wikipedia.org/wiki/Milgram_experiment
+AltLink: https://tinyurl.com/tyw89p4p+ https://web.archive.org/web/20231231222905/https://en.wikipedia.org/wiki/Milgram_experiment
 
 Id: miller-01
 Type: media
@@ -13428,7 +13428,7 @@ Title: George A. Miller
 Subtitle: American psychologist
 Publisher: Britannica
 Link: https://www.britannica.com/biography/George-A-Miller
-AltLink: https://tinyurl.com/5x9k4y8y https://web.archive.org/web/20230925141142/https://www.britannica.com/biography/George-A-Miller
+AltLink: https://tinyurl.com/5x9k4y8y+ https://web.archive.org/web/20230925141142/https://www.britannica.com/biography/George-A-Miller
 
 Id: mills-01
 Type: book
@@ -14524,7 +14524,7 @@ Title: Our Vision for A New Way of Living - New Way Group
 Date: 2017-04-24
 Tags: current, set2019, link
 Link: https://newwaygroup.wordpress.com/2017/03/24/vision-for-a-new-way-of-living/
-AltLink: https://tinyurl.com/yj6cffaw https://web.archive.org/web/20231231221850/https://newwaygroup.wordpress.com/2017/03/24/vision-for-a-new-way-of-living/
+AltLink: https://tinyurl.com/yj6cffaw+ https://web.archive.org/web/20231231221850/https://newwaygroup.wordpress.com/2017/03/24/vision-for-a-new-way-of-living/
 
 Id: nextag-01
 Type: article
@@ -14702,7 +14702,7 @@ Date: 2024-06-26
 DateSeen: 2024-06-29
 Publisher: Geographic Pedia
 Link: https://www.ncesc.com/geographic-pedia/how-many-cities-are-there-in-the-world/
-AltLink: https://tinyurl.com/yjz48cz9 https://web.archive.org/web/20240629234133/https://moria.whyayh.com/rel/archive/article/culture/How_many_cities_are_there_in_the_world.pdf https://moria.whyayh.com/rel/archive/article/culture/How_many_cities_are_there_in_the_world.pdf
+AltLink: https://tinyurl.com/yjz48cz9+ https://web.archive.org/web/20240629234133/https://moria.whyayh.com/rel/archive/article/culture/How_many_cities_are_there_in_the_world.pdf https://moria.whyayh.com/rel/archive/article/culture/How_many_cities_are_there_in_the_world.pdf
 Annote: See notes.
 
 Id: nycsubwayguide-01
@@ -15043,7 +15043,7 @@ Title: Impartial Automatic Redistricting
 Author: Olson, Brian
 Date: 2016-06-09
 Link: https://bdistricting.com/2020/
-AltLink: https://tinyurl.com/mr2uvyju https://bdistricting.com/2010/ https://web.archive.org/web/20110501175732/http://bdistricting.com/2010/ https://web.archive.org/web/20240602044234/https://bdistricting.com/2020/
+AltLink: https://tinyurl.com/mr2uvyju+ https://bdistricting.com/2010/ https://web.archive.org/web/20110501175732/http://bdistricting.com/2010/ https://web.archive.org/web/20240602044234/https://bdistricting.com/2020/
 Annote: See notes.
 
 Id: omarahmad-01
@@ -15126,7 +15126,7 @@ Title: OpenAI
 Date: 2015-12-11
 Link: https://web.archive.org/web/20151211215507/https://openai.com/blog/introducing-openai/
 AltLink: https://tinyurl.com/3hxf4feb
-
++
 Id: openai-chat-01
 Type: article
 Media: link
@@ -15143,7 +15143,7 @@ Title: Jukebox
 Date: 2020-04-30
 Tags: misc, music, link, site, link
 Link: https://openai.com/blog/jukebox/
-AltLink: https://tinyurl.com/2p93m7m6 https://web.archive.org/web/20231107224823/https://openai.com/research/jukebox
+AltLink: https://tinyurl.com/2p93m7m6+ https://web.archive.org/web/20231107224823/https://openai.com/research/jukebox
 Annote: See notes.
 
 Id: openai-pricing-03
@@ -15152,7 +15152,7 @@ Media: link
 Title: OpenAI Pricing
 Date: 2023-11-07
 Link: https://openai.com/pricing
-AltLink: https://tinyurl.com/2b5tybxk https://web.archive.org/web/20231107222949/https://openai.com/pricing
+AltLink: https://tinyurl.com/2b5tybxk+ https://web.archive.org/web/20231107222949/https://openai.com/pricing
 
 Id: openfilm-01
 Type: media
@@ -15467,7 +15467,7 @@ Author: Parks, Rosa
 Date: 2023-10-26
 Tags: link, person, link
 Link: https://en.wikipedia.org/wiki/Rosa_Parks
-AltLink: https://tinyurl.com/5n7exntd https://web.archive.org/web/20231026164829/https://en.wikipedia.org/wiki/Rosa_Parks https://archive.vn/hiVE3
+AltLink: https://tinyurl.com/5n7exntd+ https://web.archive.org/web/20231026164829/https://en.wikipedia.org/wiki/Rosa_Parks https://archive.vn/hiVE3
 Annote: See notes.
 
 Id: partselect-01
@@ -15733,7 +15733,7 @@ Subtitle: A reinvisioned management style
 Author: Percival, Dan
 Date: 2017-06-20
 Link: https://medium.com/@dperciv1/holacracy-a-reinvisioned-management-style-b3c785064862
-AltLink: https://tinyurl.com/7ynzen5m https://web.archive.org/web/20231231223930/https://medium.com/@dperciv1/holacracy-a-reinvisioned-management-style-b3c785064862
+AltLink: https://tinyurl.com/7ynzen5m+ https://web.archive.org/web/20231231223930/https://medium.com/@dperciv1/holacracy-a-reinvisioned-management-style-b3c785064862
 
 Id: perel-01
 Type: book
@@ -16162,7 +16162,7 @@ Title: Viktor Frankl on the Human Search for Meaning
 Author: Popova, Maria
 Date: 2013-03-26
 Link: https://www.themarginalian.org/2013/03/26/viktor-frankl-mans-search-for-meaning/
-AltLink: https://tinyurl.com/3pckrkh4 https://web.archive.org/web/20231027220708/https://www.themarginalian.org/2013/03/26/viktor-frankl-mans-search-for-meaning/
+AltLink: https://tinyurl.com/3pckrkh4+ https://web.archive.org/web/20231027220708/https://www.themarginalian.org/2013/03/26/viktor-frankl-mans-search-for-meaning/
 
 Id: popularresistance-01
 Type: article
@@ -16494,7 +16494,7 @@ Authors: E.W. Haertig, M.D.; and Catherine A. Lee
 Date: 1972
 Publisher: Hui Hanai
 Link: http://www.hawaiianbar.org/uploads/1/2/0/5/120549314/nana_i_ke_kumu.pdf
-AltLink: https://tinyurl.com/yt59pk47 https://moria.whyayh.com/rel/archive/article/culture/nana_i_ke_kumu.pdf
+AltLink: https://tinyurl.com/yt59pk47+ https://moria.whyayh.com/rel/archive/article/culture/nana_i_ke_kumu.pdf
 Annote: Ho'oponopono Page 60-77 (in PDF page 80-97)
 
 Id: puppylinux-01
@@ -16578,7 +16578,7 @@ Type: article
 Media: link
 Title: Quaker business method
 Link: https://en.wikipedia.org/wiki/Quaker_business_method
-AltLink: https://tinyurl.com/5atu473a https://web.archive.org/web/20240101182337/https://en.wikipedia.org/wiki/Quaker_business_method
+AltLink: https://tinyurl.com/5atu473a+ https://web.archive.org/web/20240101182337/https://en.wikipedia.org/wiki/Quaker_business_method
 
 Id: quantumconsciousness-01
 Type: article
@@ -16652,7 +16652,7 @@ Date: 1992-10-21
 DateSeen: 2023-02-02
 Tags: link
 Link: https://www.ejnet.org/rachel/rhwn308.htm
-AltLink: https://tinyurl.com/3n9ehp6f https://web.archive.org/web/20230421024424/https://www.ejnet.org/rachel/rhwn308.htm https://archive.vn/PBT3d
+AltLink: https://tinyurl.com/3n9ehp6f+ https://web.archive.org/web/20230421024424/https://www.ejnet.org/rachel/rhwn308.htm https://archive.vn/PBT3d
 
 Id: radiationnetwork-01
 Type: site
@@ -16679,7 +16679,7 @@ Author: Rafnel, Bruce
 Date: 2008-03-09
 Tags: article
 Link: https://moria.whyayh.com/essay/swarm.html
-AltLink: https://tinyurl.com/48vh7ews https://web.archive.org/web/20240511202112/https://moria.whyayh.com/essay/swarm.html
+AltLink: https://tinyurl.com/48vh7ews+ https://web.archive.org/web/20240511202112/https://moria.whyayh.com/essay/swarm.html
 
 Id: rafnel-03
 Type: article
@@ -16688,7 +16688,7 @@ Title: Photographic Evidence is Dead
 Author: Rafnel, Bruce
 Date: 2006-08-13
 Link: https://moria.whyayh.com/essay/photo-evidence.html
-AltLink: https://tinyurl.com/yz8pxrss https://web.archive.org/web/20240711201735/https://moria.whyayh.com/essay/photo-evidence.html https://archive.vn/pTIMz
+AltLink: https://tinyurl.com/yz8pxrss+ https://web.archive.org/web/20240711201735/https://moria.whyayh.com/essay/photo-evidence.html https://archive.vn/pTIMz
 Annote: See notes.
 
 Id: rafnel-04
@@ -16698,7 +16698,7 @@ Title: Planned Obsolescence in Software
 Author: Rafnel, Bruce
 Date: 2015-07-08
 Link: https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/
-AltLink: https://tinyurl.com/2xfpjat9 https://web.archive.org/web/20240711202147/https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/ https://archive.vn/rSIOW
+AltLink: https://tinyurl.com/2xfpjat9+ https://web.archive.org/web/20240711202147/https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/ https://archive.vn/rSIOW
 
 Id: rafnel-05
 Type: article
@@ -16708,7 +16708,7 @@ Author: Rafnel, Bruce
 Date: 2015-10-12
 Tags: current, set2018, link
 Link: https://freelovecommunity.wordpress.com/2015/10/12/peace-first-us-love-school-my-notes/
-AltLink: https://tinyurl.com/55ptaepy https://web.archive.org/web/20231027032716/https://freelovecommunity.wordpress.com/2015/10/12/peace-first-us-love-school-my-notes/
+AltLink: https://tinyurl.com/55ptaepy+ https://web.archive.org/web/20231027032716/https://freelovecommunity.wordpress.com/2015/10/12/peace-first-us-love-school-my-notes/
 
 Id: rafnel-06
 Type: article
@@ -16717,7 +16717,7 @@ Title: Community Decision Making Processes – Part II
 Author: Rafnel, Bruce
 Date: 2016-05-06
 Link: https://freelovecommunity.wordpress.com/2016/05/06/community-decision-making-processes-part-ii/
-AltLink: https://tinyurl.com/566bh28u https://web.archive.org/web/20231027031907/https://freelovecommunity.wordpress.com/2016/05/06/community-decision-making-processes-part-ii/
+AltLink: https://tinyurl.com/566bh28u+ https://web.archive.org/web/20231027031907/https://freelovecommunity.wordpress.com/2016/05/06/community-decision-making-processes-part-ii/
 
 Id: rafnel-07
 Type: article
@@ -16726,7 +16726,7 @@ Title: Book: Temple of Love
 Author: Rafnel, Bruce
 Date: 2015-03-08
 Link: https://freelovecommunity.wordpress.com/2015/03/08/book-temple-of-love/
-AltLink: https://tinyurl.com/3b2e9ymw https://web.archive.org/web/20231027054850/https://freelovecommunity.wordpress.com/2015/03/08/book-temple-of-love/
+AltLink: https://tinyurl.com/3b2e9ymw+ https://web.archive.org/web/20231027054850/https://freelovecommunity.wordpress.com/2015/03/08/book-temple-of-love/
 
 Id: raindance-01
 Type: article
@@ -16743,7 +16743,7 @@ Author: Ramanathan, Ram
 Date: 2017-10-16
 Publisher: Coacharya
 Link: https://coacharya.com/blog/taking-responsibility-with-hooponopono/
-AltLink: https://tinyurl.com/mr2wn9yj https://web.archive.org/web/20240211051400/https://coacharya.com/blog/taking-responsibility-with-hooponopono/
+AltLink: https://tinyurl.com/mr2wn9yj+ https://web.archive.org/web/20240211051400/https://coacharya.com/blog/taking-responsibility-with-hooponopono/
 Annote: Ho'oponopono for individuals
 
 Id: random-01
@@ -17021,7 +17021,7 @@ Title: Summit: A Cry From the Future
 Date: 2024-02-10
 Publisher: Re/Culture
 Link: https://thevillageoflovers.com/summit-all-access
-AltLink: https://tinyurl.com/mr4cykvc https://web.archive.org/web/20240302184731/https://thevillageoflovers.com/summit-all-access
+AltLink: https://tinyurl.com/mr4cykvc+ https://web.archive.org/web/20240302184731/https://thevillageoflovers.com/summit-all-access
 Annote: See notes.
 
 Id: reculture-02
@@ -17394,7 +17394,7 @@ Author: Richter, Dolores
 Date: 2016-07-27
 Publisher: Network For a New Culture
 Link: http://www.nfnc.org/info-old/document_library/what_is_the_zegg_forum/
-AltLink: https://tinyurl.com/2y2n6utr https://web.archive.org/web/20160727020552/http://www.nfnc.org/info-old/document_library/what_is_the_zegg_forum/
+AltLink: https://tinyurl.com/2y2n6utr+ https://web.archive.org/web/20160727020552/http://www.nfnc.org/info-old/document_library/what_is_the_zegg_forum/
 
 Id: rickysays-01
 Type: article
@@ -17465,7 +17465,7 @@ Date: 2013-04-17
 DateSeen: 2023-04-13
 Tags: article
 Link: https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
-AltLink: https://tinyurl.com/yc832u68 https://web.archive.org/web/20230405231623/https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
+AltLink: https://tinyurl.com/yc832u68+ https://web.archive.org/web/20230405231623/https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/
 Annote: See notes.
 
 Id: roberts-02
@@ -17477,7 +17477,7 @@ Author: Roberts, Robert E.
 Date: 2003-01-01
 Publisher: Health Communications, Inc.
 Link: https://www.amazon.com/dp/0757300642
-AltLink: https://tinyurl.com/2p9radrm https://web.archive.org/web/20030413094453/http://www.mysoulsaidtome.com/index.php
+AltLink: https://tinyurl.com/2p9radrm+ https://web.archive.org/web/20030413094453/http://www.mysoulsaidtome.com/index.php
 ISBN:‎ 0757300642
 
 Id: robertson-01
@@ -18351,7 +18351,7 @@ Subtitle: When large crowds assemble, is there a way to keep them safe?
 Author: Seabrook, John
 Date: 2011-02-07
 Link: https://www.newyorker.com/magazine/2011/02/07/crush-point
-AltLink: https://tinyurl.com/3z2y8se5 https://web.archive.org/web/20151026033324/https://www.newyorker.com/magazine/2011/02/07/crush-point
+AltLink: https://tinyurl.com/3z2y8se5+ https://web.archive.org/web/20151026033324/https://www.newyorker.com/magazine/2011/02/07/crush-point
 
 Id: search-barnesandnoble-01
 Type: article
@@ -18459,7 +18459,7 @@ Author: Semler, Ricardo
 Date: 2014
 Tags: ted, biblio
 Link: http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life
-AltLink: https://tinyurl.com/yjwzdczv https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/ricardo_semler-radical_wisdom_for_a_company_a_school_a_life.mkv
+AltLink: https://tinyurl.com/yjwzdczv+ https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/ricardo_semler-radical_wisdom_for_a_company_a_school_a_life.mkv
 Annote: See notes.
 
 Id: semler-02
@@ -19039,7 +19039,7 @@ Date: 2010-12-18
 Publisher: Oped News
 Tags: important
 Link: http://www.opednews.com/articles/English-and-politics-by-Ethan-Indi-101217-819.html
-AltLink: https://tinyurl.com/mrxa4rx5 https://web.archive.org/web/20101222044543/http://www.opednews.com/articles/English-and-politics-by-Ethan-Indi-101217-819.html https://tinyurl.com/2cxzvp3w https://web.archive.org/web/20240101200841/https://www.opednews.com/articles/2/English-and-politics-by-Ethan-Indi-101217-819.html
+AltLink: https://tinyurl.com/mrxa4rx5+ https://web.archive.org/web/20101222044543/http://www.opednews.com/articles/English-and-politics-by-Ethan-Indi-101217-819.html https://tinyurl.com/2cxzvp3w+ https://web.archive.org/web/20240101200841/https://www.opednews.com/articles/2/English-and-politics-by-Ethan-Indi-101217-819.html
 
 Id: smith-06
 Type: article
@@ -19050,7 +19050,7 @@ Date: 2023-05-09
 Publisher: Oped News
 Tags: important
 Link: https://www.opednews.com/articles/1/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html
-AltLink: https://tinyurl.com/2yb56hb9 https://web.archive.org/web/20231222062548/https://www.opednews.com/articles/1/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://web.archive.org/web/20231222062822/https://www.opednews.com/articles/2/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://archive.vn/icJtP https://archive.vn/wtu55
+AltLink: https://tinyurl.com/2yb56hb9+ https://web.archive.org/web/20231222062548/https://www.opednews.com/articles/1/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://web.archive.org/web/20231222062822/https://www.opednews.com/articles/2/Collectivism-Versus-Indivi-China-Internet-Censorship_China-Politics_Foreign-Policy-Failure-N-Korea_Human-Rights-In-China-230509-170.html https://archive.vn/icJtP https://archive.vn/wtu55
 
 Id: smith-07
 Type: article
@@ -19060,7 +19060,7 @@ Author: Smith, Ethan Indigo
 Date: 2011-03-27
 Publisher: Oped News
 Link: https://www.opednews.com/articles/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html
-ALtLink: https://tinyurl.com/w2m8jpd https://web.archive.org/web/20120910234111/http://www.opednews.com/articles/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html https://tinyurl.com/3ecjfew5 https://web.archive.org/web/20240101202210/https://www.opednews.com/articles/2/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html
+ALtLink: https://tinyurl.com/w2m8jpd+ https://web.archive.org/web/20120910234111/http://www.opednews.com/articles/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html https://tinyurl.com/3ecjfew5+ https://web.archive.org/web/20240101202210/https://www.opednews.com/articles/2/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html
 
 Id: smlnj-01
 Type: site
@@ -19151,7 +19151,7 @@ Author: Solzhenitsyn
 Date: 1978-06-08
 Tags: biblio
 Link: https://www.solzhenitsyncenter.org/a-world-split-apart
-AltLink: https://tinyurl.com/3t6kp42r https://web.archive.org/web/20190703162349/https://www.solzhenitsyncenter.org/a-world-split-apart https://archive.vn/1Vekb
+AltLink: https://tinyurl.com/3t6kp42r+ https://web.archive.org/web/20190703162349/https://www.solzhenitsyncenter.org/a-world-split-apart https://archive.vn/1Vekb
 
 Id: sonystyle-01
 Type: site
@@ -19314,7 +19314,7 @@ Title: Mutual Aid and the movement to Stop Cop City
 Author: Spade, Dean
 Date: 2023-10-09
 Link: https://www.shareable.net/mutual-aid-and-the-movement-to-stop-cop-city/
-AltLink: https://tinyurl.com/dyadkw4a https://web.archive.org/web/20231022172921/https://www.shareable.net/mutual-aid-and-the-movement-to-stop-cop-city/
+AltLink: https://tinyurl.com/dyadkw4a+ https://web.archive.org/web/20231022172921/https://www.shareable.net/mutual-aid-and-the-movement-to-stop-cop-city/
 
 Id: sparrow-01
 Type: book
@@ -19681,7 +19681,7 @@ Date: 1999-08-05
 DateSeen: 2024-05-13
 Publisher: Science Direct
 Link: https://www.sciencedirect.com/science/article/pii/S0005272899000651
-AltLink: https://tinyurl.com/2s3sx6m5 https://web.archive.org/web/20240513203200/https://moria.whyayh.com/rel/archive/article/misc/microbial-life-entropy.pdf https://moria.whyayh.com/rel/archive/article/misc/microbial-life-entropy.pdf
+AltLink: https://tinyurl.com/2s3sx6m5+ https://web.archive.org/web/20240513203200/https://moria.whyayh.com/rel/archive/article/misc/microbial-life-entropy.pdf https://moria.whyayh.com/rel/archive/article/misc/microbial-life-entropy.pdf
 
 Id: stokes-01
 Type: media
@@ -20908,9 +20908,9 @@ Id: tinyurl-01
 Type: site
 Media: site
 Title: TinyURL.com
-Tags: folder, frequent, link
+Tags:+ folder, frequent, link
 Link: https://tinyurl.com/
-
++
 Id: tippett-01
 Type: media
 Media: video
@@ -20950,7 +20950,7 @@ Title: Can a Big Village Full of Tiny Homes Ease Homelessness in Austin?
 Author: Tompkinsm, Lucy
 Date: 2024-01-09
 Link: https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html
-AltLink: https://tinyurl.com/mr4udhyb https://web.archive.org/web/20240109193057/https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html?unlocked_article_code=1.MU0.xwGe.9mk1FYPEpfNU&smid=url-share https://moria.whyayh.com/rel/archive/article/culture/homelessness-tiny-home-austin.pdf
+AltLink: https://tinyurl.com/mr4udhyb+ https://web.archive.org/web/20240109193057/https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html?unlocked_article_code=1.MU0.xwGe.9mk1FYPEpfNU&smid=url-share https://moria.whyayh.com/rel/archive/article/culture/homelessness-tiny-home-austin.pdf
 
 Id: tongaroom-01
 Type: site
@@ -20973,7 +20973,7 @@ Title: On Nonviolent Communication
 Author: Torenberg, Erik
 Date: 2016-12-28
 Link: https://medium.com/@eriktorenberg_/on-nonviolent-communication-33ca8c7ebfcb
-AltLink: https://tinyurl.com/5n7rd5mk https://web.archive.org/web/20170512181546/https://medium.com/@eriktorenberg_/on-nonviolent-communication-33ca8c7ebfcb
+AltLink: https://tinyurl.com/5n7rd5mk+ https://web.archive.org/web/20170512181546/https://medium.com/@eriktorenberg_/on-nonviolent-communication-33ca8c7ebfcb
 
 Id: torproject-01
 Type: site
@@ -22402,7 +22402,7 @@ Author: Wertheimer, Paul
 Date: 2001
 Publisher: Crowdsafe
 Link: https://www.linkedin.com/in/paulwertheimer/details/featured/1635508384476/single-media-viewer/
-AltLink: https://tinyurl.com/5t53aetf https://web.archive.org/web/20240116215233/https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd-html/ https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd.pdf
+AltLink: https://tinyurl.com/5t53aetf+ https://web.archive.org/web/20240116215233/https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd-html/ https://moria.whyayh.com/rel/archive/article/culture/You-and-the-Festival-Crowd.pdf
 
 Id: west-knights-01
 Type: article
@@ -22413,7 +22413,7 @@ Author: West-Knights, Imogen
 Date: 2021-05-26
 Publisher: Slate
 Link: https://slate.com/human-interest/2021/05/abercrombie-fitch-hunks-shirtless-where-are-they-now.html
-AltLink: https://tinyurl.com/2p86pr6t https://web.archive.org/web/20210526094853/https://slate.com/human-interest/2021/05/abercrombie-fitch-hunks-shirtless-where-are-they-now.html
+AltLink: https://tinyurl.com/2p86pr6t+ https://web.archive.org/web/20210526094853/https://slate.com/human-interest/2021/05/abercrombie-fitch-hunks-shirtless-where-are-they-now.html
 
 Id: whatismyipaddress-01
 Type: site
@@ -22481,7 +22481,7 @@ Author: Whippman, Ruth
 Date: 2024-06-05
 Publisher: New York Times
 Link: https://www.nytimes.com/2024/06/05/opinion/boys-parenting-loneliness.html?unlocked_article_code=1.xU0.1C8Q.GpnQrHuiQxvj&smid=url-share
-AltLink: https://tinyurl.com/2uc4x3af https://web.archive.org/web/20240605201251/https://www.nytimes.com/2024/06/05/opinion/boys-parenting-loneliness.html?unlocked_article_code=1.xU0.1C8Q.GpnQrHuiQxvj&smid=url-share
+AltLink: https://tinyurl.com/2uc4x3af+ https://web.archive.org/web/20240605201251/https://www.nytimes.com/2024/06/05/opinion/boys-parenting-loneliness.html?unlocked_article_code=1.xU0.1C8Q.GpnQrHuiQxvj&smid=url-share
 Annote: See notes.
 
 Id: white-01
@@ -22713,7 +22713,7 @@ Title: Tragedy of the commons - Wikipedia, the free encyclopedia
 Date: 2023-08-08
 Tags: home, change, link, commons
 Link: http://en.wikipedia.org/wiki/Tragedy_of_the_commons
-AltLink: https://tinyurl.com/4fesk252 https://web.archive.org/web/20230808061520/https://en.wikipedia.org/wiki/Tragedy_of_the_commons https://archive.vn/AXBKE
+AltLink: https://tinyurl.com/4fesk252+ https://web.archive.org/web/20230808061520/https://en.wikipedia.org/wiki/Tragedy_of_the_commons https://archive.vn/AXBKE
 
 Id: wikipedia-09
 Type: article
@@ -22953,7 +22953,7 @@ Title: Restorative Justice
 Date: 2022-11-28
 Tags: link
 Link: https://en.wikipedia.org/wiki/Restorative_justice
-AltLink: https://tinyurl.com/4b8hctcn https://web.archive.org/web/20221128202407/https://en.wikipedia.org/wiki/Restorative_justice https://archive.vn/vWOpK
+AltLink: https://tinyurl.com/4b8hctcn+ https://web.archive.org/web/20221128202407/https://en.wikipedia.org/wiki/Restorative_justice https://archive.vn/vWOpK
 
 Id: wikipedia-43
 Type: article
@@ -22962,7 +22962,7 @@ Title: Dictator
 Date: 2022-12-20
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/Dictator
-AltLink: https://tinyurl.com/2upm6y8h https://web.archive.org/web/20221220041330/https://en.wikipedia.org/wiki/Dictator
+AltLink: https://tinyurl.com/2upm6y8h+ https://web.archive.org/web/20221220041330/https://en.wikipedia.org/wiki/Dictator
 
 Id: wikipedia-44
 Type: article
@@ -22971,7 +22971,7 @@ Title: Bureaucracy
 Date: 2023-11-09
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/Bureaucracy
-AltLink: https://tinyurl.com/yfe64ut3 https://web.archive.org/web/20231109214150/https://en.wikipedia.org/wiki/Bureaucracy
+AltLink: https://tinyurl.com/yfe64ut3+ https://web.archive.org/web/20231109214150/https://en.wikipedia.org/wiki/Bureaucracy
 
 Id: wikipedia-45
 Type: article
@@ -22980,7 +22980,7 @@ Title: Anarcho-communism
 Date: 2024-01-20
 Tags: article, link, mutual-aid, article, link
 Link: https://en.wikipedia.org/wiki/Anarcho-communism
-AltLink: https://tinyurl.com/yvc8j7m2 https://web.archive.org/web/20240120002341/https://en.wikipedia.org/wiki/Anarchist_communism
+AltLink: https://tinyurl.com/yvc8j7m2+ https://web.archive.org/web/20240120002341/https://en.wikipedia.org/wiki/Anarchist_communism
 
 Id: wikipedia-46
 Type: article
@@ -22989,7 +22989,7 @@ Title: History of Facebook
 Date: 2021-12-24
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/History_of_Facebook
-AltLink: https://tinyurl.com/3rmnf5dk https://web.archive.org/web/20211224083804/https://en.wikipedia.org/wiki/History_of_Facebook https://archive.vn/1jdBr
+AltLink: https://tinyurl.com/3rmnf5dk+ https://web.archive.org/web/20211224083804/https://en.wikipedia.org/wiki/History_of_Facebook https://archive.vn/1jdBr
 Annote: See notes.
 
 Id: wikipedia-47
@@ -22999,7 +22999,7 @@ Title: Turning the other cheek
 Date: 2023-03-17
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/Turning_the_other_cheek
-AltLink: https://tinyurl.com/85sn5a4c https://web.archive.org/web/20230317165735/https://en.wikipedia.org/wiki/Turning_the_other_cheek https://archive.vn/chy57
+AltLink: https://tinyurl.com/85sn5a4c+ https://web.archive.org/web/20230317165735/https://en.wikipedia.org/wiki/Turning_the_other_cheek https://archive.vn/chy57
 Annote: See notes.
 
 Id: wikipedia-48
@@ -23008,7 +23008,7 @@ Media: link
 Title: Dunbar's number
 Date: 2023-06-20
 Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
-AltLink: https://tinyurl.com/2xkt99ms https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number https://archive.vn/b1ora
+AltLink: https://tinyurl.com/2xkt99ms+ https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number https://archive.vn/b1ora
 Annote: See also lafont-01
 
 Id: wikipedia-49
@@ -23017,7 +23017,7 @@ Media: link
 Title: The Mythical Man-Month
 Date: 2023-06-19
 Link: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
-AltLink: https://tinyurl.com/mrykhmfz https://web.archive.org/web/20230619221407/https://en.wikipedia.org/wiki/The_Mythical_Man-Month https://archive.vn/vdP9K
+AltLink: https://tinyurl.com/mrykhmfz+ https://web.archive.org/web/20230619221407/https://en.wikipedia.org/wiki/The_Mythical_Man-Month https://archive.vn/vdP9K
 
 Id: wikipedia-50
 Type: article
@@ -23025,7 +23025,7 @@ Media: link
 Title: Stanford prison experiment
 Date: 2023-10-14
 Link: https://en.wikipedia.org/wiki/Stanford_prison_experiment
-AltLink: https://tinyurl.com/4csyp382 https://web.archive.org/web/20231014170153/https://en.wikipedia.org/wiki/Stanford_prison_experiment
+AltLink: https://tinyurl.com/4csyp382+ https://web.archive.org/web/20231014170153/https://en.wikipedia.org/wiki/Stanford_prison_experiment
 
 Id: wikipedia-51
 Type: article
@@ -23033,7 +23033,7 @@ Media: link
 Title: Old Style and New Style dates
 Date: 2023-10-16
 Link: https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates
-AltLink: https://tinyurl.com/ynt5apaw https://web.archive.org/web/20231016210931/https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates
+AltLink: https://tinyurl.com/ynt5apaw+ https://web.archive.org/web/20231016210931/https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates
 
 Id: wikipedia-52
 Type: article
@@ -23053,7 +23053,7 @@ Media: link
 Title: Symbiogenesis
 Date: 2023-11-17
 Link: https://en.wikipedia.org/wiki/Symbiogenesis
-AltLink: https://tinyurl.com/3wu9drz6 https://web.archive.org/web/20231117202508/https://en.wikipedia.org/wiki/Symbiogenesis
+AltLink: https://tinyurl.com/3wu9drz6+ https://web.archive.org/web/20231117202508/https://en.wikipedia.org/wiki/Symbiogenesis
 
 Id: wikipedia-55
 Type: article
@@ -23061,7 +23061,7 @@ Media: link
 Title: Eukaryogenesis
 Date: 2023-11-17
 Link: https://en.wikipedia.org/wiki/Eukaryogenesis
-AltLink: https://tinyurl.com/mt3xekku https://web.archive.org/web/20231117202656/https://en.wikipedia.org/wiki/Eukaryogenesis
+AltLink: https://tinyurl.com/mt3xekku+ https://web.archive.org/web/20231117202656/https://en.wikipedia.org/wiki/Eukaryogenesis
 
 Id: wikipedia-56
 Type: article
@@ -23070,7 +23070,7 @@ Title: Walter Wink
 Date: Date: 2023-11-17
 Tags: person, important, biblio
 Link: https://en.wikipedia.org/wiki/Walter_Wink
-AltLink: https://tinyurl.com/5n94msnm https://web.archive.org/web/20231118004505/https://en.wikipedia.org/wiki/Walter_Wink
+AltLink: https://tinyurl.com/5n94msnm+ https://web.archive.org/web/20231118004505/https://en.wikipedia.org/wiki/Walter_Wink
 
 Id: wikipedia-57
 Type: article
@@ -23078,7 +23078,7 @@ Media: link
 Title: Digital dark age
 Date: 2023-12-04
 Link: https://en.wikipedia.org/wiki/Digital_dark_age
-AltLink: https://tinyurl.com/aw3fravs https://web.archive.org/web/20231204221130/https://en.wikipedia.org/wiki/Digital_dark_age
+AltLink: https://tinyurl.com/aw3fravs+ https://web.archive.org/web/20231204221130/https://en.wikipedia.org/wiki/Digital_dark_age
 
 Id: wikipedia-59
 Type: article
@@ -23086,7 +23086,7 @@ Media: link
 Title: The Third Wave (experiment)
 Date: 2023-12-31
 Link: https://en.wikipedia.org/wiki/The_Third_Wave_(experiment)
-AltLink: https://tinyurl.com/bdfvpnej https://web.archive.org/web/20231231223233/https://en.wikipedia.org/wiki/The_Third_Wave_%28experiment%29
+AltLink: https://tinyurl.com/bdfvpnej+ https://web.archive.org/web/20231231223233/https://en.wikipedia.org/wiki/The_Third_Wave_%28experiment%29
 
 Id: wikipedia-60
 Type: article
@@ -23094,7 +23094,7 @@ Media: link
 Title: Sociocracy
 Date: 2023-12-31
 Link: https://en.wikipedia.org/wiki/Sociocracy
-AltLink: https://tinyurl.com/yvwtz3dj https://web.archive.org/web/20231231223624/https://en.wikipedia.org/wiki/Sociocracy
+AltLink: https://tinyurl.com/yvwtz3dj+ https://web.archive.org/web/20231231223624/https://en.wikipedia.org/wiki/Sociocracy
 
 Id: wikipedia-61
 Type: article
@@ -23102,7 +23102,7 @@ Media: link
 Title: Holacracy
 Date: 2024-01-26
 Link: https://en.wikipedia.org/wiki/Holacracy
-AltLink: https://tinyurl.com/57ty75py https://web.archive.org/web/20240126020807/https://en.wikipedia.org/wiki/Holacracy
+AltLink: https://tinyurl.com/57ty75py+ https://web.archive.org/web/20240126020807/https://en.wikipedia.org/wiki/Holacracy
 
 Id: wikipedia-62
 Type: article
@@ -23110,7 +23110,7 @@ Media: link
 Title: Robert's Rules of Order
 Date: 2024-05-09
 Link: https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order
-AltLink: https://tinyurl.com/5cyy5z5t https://web.archive.org/web/20240509214749/https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order
+AltLink: https://tinyurl.com/5cyy5z5t+ https://web.archive.org/web/20240509214749/https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order
 
 Id: wikipedia-63
 Type: article
@@ -23118,7 +23118,7 @@ Media: link
 Title: Theory of the firm
 Date: 2024-05-15
 Link: https://en.wikipedia.org/wiki/Theory_of_the_firm
-AltLink: https://tinyurl.com/2zb3b67b https://web.archive.org/web/20240515185205/https://en.wikipedia.org/wiki/Theory_of_the_firm
+AltLink: https://tinyurl.com/2zb3b67b+ https://web.archive.org/web/20240515185205/https://en.wikipedia.org/wiki/Theory_of_the_firm
 
 Id: wikipedia-64
 Type: article
@@ -23126,7 +23126,7 @@ Media: link
 Title: Feral child
 Date: 2024-08-19
 Link: https://en.wikipedia.org/wiki/Feral_child
-AltLink: https://tinyurl.com/yu5k6emb https://web.archive.org/web/20240819203804/https://en.wikipedia.org/wiki/Feral_child
+AltLink: https://tinyurl.com/yu5k6emb+ https://web.archive.org/web/20240819203804/https://en.wikipedia.org/wiki/Feral_child
 
 Id: wilburhotsprings-01
 Type: site
@@ -23371,7 +23371,7 @@ Date: 2012-06-24
 DateSeen: 2023-07-02
 Publisher: The Guardian
 Link: https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon
-AltLink: https://tinyurl.com/3x37pywv https://web.archive.org/web/20130825011604/https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon https://archive.vn/gTJXv
+AltLink: https://tinyurl.com/3x37pywv+ https://web.archive.org/web/20130825011604/https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon https://archive.vn/gTJXv
 Annote: See notes.
 
 Id: wolford-01
@@ -23805,7 +23805,7 @@ Author: Yang, Andrew
 Date: 2023-10-23
 Publisher: Forward Party
 Link: https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
-AltLink: https://tinyurl.com/5ecr2k6j https://web.archive.org/web/20231024180815/https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
+AltLink: https://tinyurl.com/5ecr2k6j+ https://web.archive.org/web/20231024180815/https://moria.whyayh.com/rel/archive/article/culture/The_Human-Centered_Economy.pdf
 Annote: PDF copy of email
 
 Id: yankovic-01
@@ -23823,7 +23823,7 @@ Title: How Many Businesses are there in the World in 2023
 Author: Yaqub M.
 Date: 2023-05-17
 Link: https://www.businessdit.com/how-many-businesses-are-there-in-the-world/
-AltLink: https://tinyurl.com/4ymf4nke https://web.archive.org/web/20240329143138/https://www.businessdit.com/how-many-businesses-are-there-in-the-world/
+AltLink: https://tinyurl.com/4ymf4nke+ https://web.archive.org/web/20240329143138/https://www.businessdit.com/how-many-businesses-are-there-in-the-world/
 
 Id: yates-01
 Type: book
@@ -25014,7 +25014,7 @@ Subtitle: Transparent Integral Communication
 Date: 2023-12-10
 Tags: culture, link
 Link: http://www.zegg-forum.org/en/background-info/transparent-communication.html
-AltLink: https://tinyurl.com/58nwbk92 https://web.archive.org/web/20231210105957/https://www.zegg-forum.org/en/background-info/transparent-communication.html
+AltLink: https://tinyurl.com/58nwbk92+ https://web.archive.org/web/20231210105957/https://www.zegg-forum.org/en/background-info/transparent-communication.html
 
 Id: zehr-01
 Type: book
