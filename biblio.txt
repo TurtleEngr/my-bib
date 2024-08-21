@@ -6709,7 +6709,7 @@ Date: 2008
 Publisher: Sociological Forum, Vol. 23, No. 2, June 2008
 Tags: article
 Link: https://sociology.berkeley.edu/sites/default/files/faculty/fischer/Fischer_Paradoxes%20of%20Individualism_2008.pdf
-AltLink: https://tinyurl.com/2z84rkbt+ https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
+AltLink: https://tinyurl.com/yt8nz49r+ https://web.archive.org/web/20240821191827/https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
 
 Id: fisher-01
 Type: media
@@ -8494,7 +8494,7 @@ Title: Summary Statement: The Emergent, Cyclical, Double-Helix Model Of The Adul
 Author: Graves, Clare W.
 Date: 1981-05-20
 Link: https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf
-AltLink: https://tinyurl.com/3n5erck3+ https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
+AltLink: https://tinyurl.com/46h2nc3v+ https://web.archive.org/web/20240104100722/https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
 Annote: See notes.
 
 Id: greektragedy-01
@@ -8745,7 +8745,7 @@ Title: Hackerspace Blueprint
 Author: Hackerspace.Gent
 Date: 2022-08-30
 Link: https://github.com/0x20/hackerspace-blueprint/releases/tag/2022-08-30
-AltLink: https://moria.whyayh.com/rel/archive/book/manual/hackerspace-blueprint.pdf
+AltLink: https://tinyurl.com/3kuwsxy3+ https://web.archive.org/web/20240821194501/https://moria.whyayh.com/rel/archive/book/manual/hackerspace-blueprint.pdf https://moria.whyayh.com/rel/archive/book/manual/hackerspace-blueprint.pdf
 
 Id: haidt-01
 Type: media
@@ -10524,7 +10524,8 @@ Author: Johnson, Dr. Ayana Elizabeth
 Authors: David Marchese
 Date: 2024-05-18
 Publisher: The New York Times
-Link: https://tinyurl.com/muurs8jw+ https://web.archive.org/web/20240518135055/https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
+Link: https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
+AltLink: https://tinyurl.com/muurs8jw+ https://web.archive.org/web/20240518135055/https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
 
 Id: jolicloud-01
 Type: site
