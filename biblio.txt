@@ -8606,6 +8606,7 @@ Media: link
 Title: Taking Care of Business
 Subtitle: Citizenship and the Charter of Incorporation
 Author: Grossman, Richard L.
+Authors: Frank T. Adams
 Date: 1993
 Tags: article, alien, article
 Link: https://ratical.org/corporations/TCoB.html
