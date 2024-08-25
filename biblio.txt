@@ -13800,6 +13800,18 @@ Tags: important
 ISBN: 9780142002360
 ASIN: 3787
 
+Id: morris-01
+Type: article
+Media: link
+Title: "Help! I've Been Colonized and Can't Get Up...
+Subtitle: #806
+Author: Morris, Jane Anne 
+Publisher: Environmental Research Foundation
+Date: 2004-12-09
+Link: http://www.rachel.org/BULLETIN/index.cfm?St=4
+AltLink: https://tinyurl.com/4jej2u7a+
+https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4 https://dgrnewsservice.org/resistance-culture/movement-building/help-ive-been-colonized-and-i-cant-get-up/ https://web.archive.org/web/20240416141937/https://dgrnewsservice.org/resistance-culture/movement-building/help-ive-been-colonized-and-i-cant-get-up/
+
 Id: motherboard-vice-01
 Type: article
 Media: link
@@ -16641,16 +16653,18 @@ Tags: toolsw, language, link
 Link: http://www.r-project.org/
 
 Id: rachel-01
-Type: article
-Media: link
-Title: Environmental Research Foundation - Rachel's Weekly
-Tags: home, homelan, frequent, link
-Link: http://www.rachel.org/bulletin/index.cfm?St=1
-
-Id: rachel-02
 Type: site
 Media: site
-Title: Rachel's Hazardous Waste NEWS #308
+Title: Rachel's Democracy & Health News
+Tags: home, homelan, frequent, link
+Link: http://www.rachel.org/bulletin/index.cfm
+AltLink: https://tinyurl.com/4jej2u7a+ https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4
+
+Id: rachel-02
+Type: article
+Media: link
+Title: Corporations are Externalizing Machines, The Way Sharks are Killing Machines
+Subtitle: Rachel's Hazardous Waste NEWS #308
 Author: Environmental Research Foundation
 Date: 1992-10-21
 DateSeen: 2023-02-02
@@ -16659,13 +16673,14 @@ Link: https://www.ejnet.org/rachel/rhwn308.htm
 AltLink: https://tinyurl.com/3n9ehp6f+ https://web.archive.org/web/20230421024424/https://www.ejnet.org/rachel/rhwn308.htm https://archive.vn/PBT3d
 
 Id: rachel-03
-Type: site
-Media: site
+Type: article
+Media: link
 Title: Rachel's Democracy & Health News #1000
+Subtitle: Last Issue
 Author: Environmental Research Foundation
 Date: 2009-02-26
-Link: https://web.archive.org/web/20090403132342/http://www.rachel.org/en/newsletters/rachels_news/1000
-AltLink: https://web.archive.org/web/20090324202638/http://www.rachel.org/ https://worldisnew.wordpress.com/ https://web.archive.org/web/20210212010107/https://worldisnew.wordpress.com/
+Link: http://www.rachel.org/en/newsletters/rachels_news/1000
+AltLink: https://tinyurl.com/2f563rnd+ https://web.archive.org/web/20090403132342/http://www.rachel.org/en/newsletters/rachels_news/1000
 Annote: Last newsletter.
 
 Id: radiationnetwork-01

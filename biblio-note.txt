@@ -1341,6 +1341,20 @@ Id: potter-01
 <note>More: <a href="WillPotter.com/CMU">WillPotter.com/CMU</a> -
 notes</p> <p>The solution is transparency.</note>
 
+Id: rachel-01
+<note>Issues 1 to 854: https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4<br>
+https://web.archive.org/web/20090411225529/http://www.rachel.org/en/newsletters/archive/rachels_news<br>
+https://www.ejnet.org/rachel/contents.htm<br>
+https://web.archive.org/web/20230421002859/https://www.ejnet.org/rachel/contents.htm<br>
+https://www.ejnet.org/rachel/index.htm<br>
+https://web.archive.org/web/20230421003542/https://www.ejnet.org/rachel/index.htm<br>
+https://web.archive.org/web/20090411225529/http://www.rachel.org/en/newsletters/archive/rachels_news<br>
+https://web.archive.org/web/20090324202638/http://www.rachel.org/<br>
+https://worldisnew.wordpress.com/<br>
+https://web.archive.org/web/20210212010107/https://worldisnew.wordpress.com/
+But is where is a complete archive of all these newsletters?
+</note>
+
 Id: rafnel-01
 <note>This was taken around noon Wed 2020-09-09 at Redwood City,
 CA.</p> <p>The air quality was "Moderate" (64) because the smoke is
