@@ -16658,6 +16658,16 @@ Tags: link
 Link: https://www.ejnet.org/rachel/rhwn308.htm
 AltLink: https://tinyurl.com/3n9ehp6f+ https://web.archive.org/web/20230421024424/https://www.ejnet.org/rachel/rhwn308.htm https://archive.vn/PBT3d
 
+Id: rachel-03
+Type: site
+Media: site
+Title: Rachel's Democracy & Health News #1000
+Author: Environmental Research Foundation
+Date: 2009-02-26
+Link: https://web.archive.org/web/20090403132342/http://www.rachel.org/en/newsletters/rachels_news/1000
+AltLink: https://web.archive.org/web/20090324202638/http://www.rachel.org/ https://worldisnew.wordpress.com/ https://web.archive.org/web/20210212010107/https://worldisnew.wordpress.com/
+Annote: Last newsletter.
+
 Id: radiationnetwork-01
 Type: site
 Media: site
