@@ -7281,8 +7281,10 @@ Subtitle: The hidden curriculum of compulsory schooling
 Author: Gatto, John Taylor
 Date: 2005
 Publisher: New Society Publishers
+Link: https://www.amazon.com/dp/B072F9VRZP
 ISBN: 0865714487
 ASIN: B00HTJMI28
+Annote: The amazon link is for a later version.
 
 Id: gatto-02
 Type: book
@@ -7339,21 +7341,21 @@ Author: Gatto, John Taylor
 Date: 2003
 Publisher: The Oxford Village Press
 ISBN: 0945700040
-Link: https://web.archive.org/web/20050403041637/http://www.johntaylorgatto.com:80/chapters/index.htm
-AltLink: https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/
+Link: https://web.archive.org/web/20050403041637/http://www.johntaylorgatto.com:80/chapters/
 Annote: This book is out of print, so the link is to complete book online.
 
 Id: gatto-07
 Type: article
 Media: link
 Title: The Underground History of American Education
-Subtitle: Chapter 17a: Three Holes In My Floor
+Subtitle: online version
 Author: Gatto, John Taylor
 Date: 2003
 Publisher: The Oxford Village Press
 ISBN: 0945700040
-Link: https://web.archive.org/web/20050205062857/http://www.johntaylorgatto.com/chapters/17a.htm
-AltLink: https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/17a.htm
+Link: https://tinyurl.com/yeffvne8+
+AltLink: https://tinyurl.com/3sywsd98+
+Annote: See notes for user/password
 
 Id: gatto-08
 Type: book

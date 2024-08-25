@@ -482,7 +482,10 @@ match the paperback book.</note>
 Id: gatto-06
 <note>This is the 2003 paperback edition. The Link is to a 2005 online
 edition. The AltLink is to my copy of the 2003 to 2004 online
-edtion.</note>
+edtion. The user/password is: guest/guest<br>
+https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/<br>
+See also gatto-07. 17a.htm: Three Holes In My Floor
+</note>
 
 Id: gatto-09
 # Old: youtube-090
