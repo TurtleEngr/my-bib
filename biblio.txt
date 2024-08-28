@@ -7,9 +7,9 @@
 # Type: site; Media: org
 # ted.com, youtube, wimp: Type: media; Media: video
 # Place: get this from Publisher (aka Address:, Location:)
-# Edition: (not first), 2nd, 3rd Nth, Ill., Rep, Rev., Sp.-special, Reissue
+# Edition: (not first), 2nd, 3rd, Nth, Ill., Rep, Rev., Sp.-special, Reissue
 # Annote: (aka: Annotate:, LongDesc:)
-# Note: (aka: Notes:, Tag:, Tags:
+# Note: (aka: Notes:, Tag:, Tags:)
 # AltLink: (aka: Altlink:, Alt:)
 
 Id: aa-san-mateo-01
