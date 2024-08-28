@@ -15142,7 +15142,7 @@ Title: OpenAI
 Date: 2015-12-11
 Link: https://web.archive.org/web/20151211215507/https://openai.com/blog/introducing-openai/
 AltLink: https://tinyurl.com/3hxf4feb
-+
+
 Id: openai-chat-01
 Type: article
 Media: link
@@ -15467,6 +15467,17 @@ Media: link
 Title: papersplease.org :: Hiibel
 Tags: home, tofile, set2, link
 Link: http://papersplease.org/hiibel/index.html
+
+Id: park-01
+Type: article
+Media: link
+Title: 10 Supreme Court Rulings—Before Hobby Lobby—That Turned Corporations Into People
+Author: Alex Park
+Date: 2014-07-10
+Publication: Mother Jones
+Link: https://www.motherjones.com/politics/2014/07/how-supreme-court-turned-corporations-people-200-year-saga/
+AltLink: https://tinyurl.com/yxnr3pjc+
+https://web.archive.org/web/20200929183437/https://www.motherjones.com/politics/2014/07/how-supreme-court-turned-corporations-people-200-year-saga/
 
 Id: parks-01
 Type: site
