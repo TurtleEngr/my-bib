@@ -843,6 +843,16 @@ Tags: book
 ISBN: 0156701537
 Link: https://www.amazon.com/gp/product/B004Q9TLJW/
 
+Id: arendt-03
+Type: article
+Media: link
+Title: Hannah Arendt
+Author: Arendt, Hannah
+Date: 2024-08-30
+Publisher: Wikipedia
+Link: https://en.wikipedia.org/wiki/Hannah_Arendt
+AltLink: https://tinyurl.com/2s3kwhfx+ https://web.archive.org/web/20240830175950/https://en.wikipedia.org/wiki/Hannah_Arendt
+
 Id: ariely-01
 Type: media
 Media: video
@@ -21836,6 +21846,15 @@ Title: What Game Theory Reveals About Life, The Universe, and Everything
 Author: Veritasium
 Publisher: Veritasium
 Link: https://www.youtube.com/watch?v=mScpHTIi-kM
+
+Id: veritasium-05
+Type: media
+Media: video
+Title:  Why Democracy Is Mathematically Impossible 
+Author: Veritasium
+Publisher: Veritasium
+Tags: culture, video
+Link: https://www.youtube.com/watch?v=qf7ws2DF-zk
 
 Id: vice-01
 Type: article
