@@ -4879,10 +4879,19 @@ Tags: toolsw, language, python, link
 Link: http://docs.python.org/
 
 Id: doctorow-01
+Type: article
+Media: link
+Title: Cory Doctorow
+Author: Doctorow, Cory
+Date: 2024-08-29
+Link: https://en.wikipedia.org/wiki/Cory_Doctorow
+AltLink: https://tinyurl.com/3w729k5m+ https://web.archive.org/web/20240829233156/https://en.wikipedia.org/wiki/Cory_Doctorow https://craphound.com/ https://tinyurl.com/3vchy483+ https://web.archive.org/web/20240829233449/https://craphound.com/ https://pluralistic.net/
+
+Id: doctorow-02
 Type: book
 Media: book
 Title: Homeland
-Tags: a, book
+Tags: a, book, old:doctorow-01
 Link: http://craphound.com/homeland/
 Annote: Great sequel to Little Brother
 
@@ -5536,17 +5545,6 @@ Publisher: The Pluralism Project Harvard University
 Tags: old:pluralism-01
 Link: https://pluralism.org/
 AltLink: https://archive.vn/rb5wm
-
-Id: economy-01
-Type: book
-Media: Ebook
-Title: Who Owns the Future?
-Author: Lanier, Jaron
-Date: 2013
-Publisher: Simon & Schuster
-Tags: book, book
-ASIN: 13581455
-Link: http://www.amazon.com/dp/1451654979
 
 Id: edelman-01
 Type: article
@@ -11514,6 +11512,28 @@ Tags: video, old:youtube-002
 Link: http://www.youtube.com/user/theRSAorg#p/a/F0BF7CBE52B52896/1/T5JZFx6rIlY
 Annote: See notes.
 
+Id: lanier-05
+Type: book
+Media: Ebook
+Title: Who Owns the Future?
+Author: Lanier, Jaron
+Date: 2013
+Publisher: Simon & Schuster
+Tags: book, book, old:economy-01
+ASIN: 13581455
+Link: http://www.amazon.com/dp/1451654979
+
+Id: lanier-06
+Type: article
+Media: link
+Title: Jaron Lanier
+Author: Lanier, Jaron
+Date: 2024-08-29
+Publisher: wikipedia.org
+Link: https://en.wikipedia.org/wiki/Jaron_Lanier
+AltLink: https://tinyurl.com/cny25pbf+
+https://web.archive.org/web/20240829232309/https://en.wikipedia.org/wiki/Jaron_Lanier
+
 Id: lanlinkup-01
 Type: article
 Media: link
@@ -15720,8 +15740,10 @@ Id: peck-05
 Type: article
 Media: link
 Author: Peck, M. Scott
+Date: 2024-08-30
 Tags: person, important, biblio
 Link: https://en.wikipedia.org/wiki/M._Scott_Peck
+AltLink: https://tinyurl.com/y8jzzv8k+ https://web.archive.org/web/20240830000956/https://en.wikipedia.org/wiki/M._Scott_Peck http://mscottpeck.com/html/archives.html https://tinyurl.com/48pky33m+ https://web.archive.org/web/20240301222441/http://mscottpeck.com/html/archives.html
 
 Id: peck-06
 Type: book
