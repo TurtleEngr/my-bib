@@ -2066,16 +2066,25 @@ Subtitle: 'Neo-Monarchists’ and others who demand we drop what works, in favor
 Author: Brin, David
 Date: 2023-07-23
 Link: https://davidbrin.blogspot.com/2023/07/those-wo-would-be-kings-part-1-neo.html
-AltLink: https://archive.vn/dxKcI
+AltLink: https://tinyurl.com/5n8jbbea+ https://web.archive.org/web/20240903182647/https://davidbrin.blogspot.com/2023/07/those-wo-would-be-kings-part-1-neo.html https://archive.vn/dxKcI
 
 Id: brin-02
+Type: article
+Media: link
+Title: Those who would be our new lords and kings - part 2. Plus a note re UFOs.
+Author: Brin, David
+Date: 2023-07-29
+Link: https://davidbrin.blogspot.com/2023/07/those-who-would-be-our-new-lords-and.html
+AltLink: https://tinyurl.com/4cjajvm9+ https://web.archive.org/web/20230730195157/https://davidbrin.blogspot.com/2023/07/those-who-would-be-our-new-lords-and.html
+
+Id: brin-03
 Type: article
 Media: link
 Title: The “Minimal Overlap” Solution to Gerrymandered Injustice
 Author: Brin, David
 Date: 2017-09-23
 Link: https://david-brin.medium.com/the-minimal-overlap-solution-to-gerrymandered-injustice-e535bbcdd6c
-AltLink: https://archive.vn/wASB1
+AltLink: https://tinyurl.com/52urakhd+ https://web.archive.org/web/20240903185008/https://david-brin.medium.com/the-minimal-overlap-solution-to-gerrymandered-injustice-e535bbcdd6c
 Annote: See notes.
 
 Id: brinkhurst-cuff-01
@@ -3450,6 +3459,15 @@ Title: flyback
 Subtitle: Google Code
 Tags: toolsw, other, link
 Link: http://code.google.com/p/flyback/
+
+Id: codeforamerica-01
+Type: site
+Media: org
+Title: Code for America
+Subtitle: About us
+Author: Code for America
+Link: https://codeforamerica.org/about-us/
+AltLink: https://tinyurl.com/3hw5t2et+ https://web.archive.org/web/20240828181242/https://codeforamerica.org/about-us/
 
 Id: codelore-01
 Type: article
