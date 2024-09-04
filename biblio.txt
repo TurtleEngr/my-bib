@@ -16069,7 +16069,7 @@ Date: 2014-10-31
 Publisher: Santa Fe Institute, Foundations & Frontiers of Complexity
 Link: https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e
 AltLink: https://tinyurl.com/bdfxetyf+ https://web.archive.org/web/20240625181953/https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e
-Annote: https://www.complexityexplorer.org/home
+Annote: Emergent Properties. See: santafe-01 and santafe-02
 
 Id: pink-01
 Type: media
@@ -18061,6 +18061,21 @@ Media: link
 Title: San Mateo Daily News
 Tags: home, political, link
 Link: http://www.sanmateodailynews.com/oped
+
+Id: santafe-01
+Type: site
+Media: org
+Title: Santa Fe Institute
+Link: https://www.santafe.edu/
+Annote: Emergent Properties
+
+Id: santafe-02
+Type: site
+Media: org
+Title: Complexity Explorer
+Publisher: Santa Fe Institute
+Link: https://www.complexityexplorer.org/home
+Annote: Emergent Properties. Free courses. See article: pines-01
 
 Id: sasaki-01
 Type: media
