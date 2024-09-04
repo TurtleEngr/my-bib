@@ -5796,6 +5796,15 @@ Publisher: Antonio Ferrera
 Tags: video, old:youtube-048
 Link: http://www.youtube.com/watch?v=ldeqY6O0LV0
 
+Id: eisenstein-16
+Type: article
+Media: link
+Title: We Don’t Know: Reflections on the New Story Summit
+Author: Eisenstein, Charles
+Date: 2014-10
+Link: https://charleseisenstein.org/essays/we-dont-know-reflections-on-the-new-story-summit/
+AltLink: https://tinyurl.com/4w9vhj9d+ https://web.archive.org/web/20240904050240/https://charleseisenstein.org/essays/we-dont-know-reflections-on-the-new-story-summit/
+
 Id: eisler-01
 Type: book
 Media: Ebook
@@ -9815,39 +9824,6 @@ Title: iTooLL: Indy Tool Lending Library; Indy Art; Media Co-op
 Tags: culture, link
 Link: https://iamcoop.org/itooll/
 
-Id: ianmack-01
-Type: site
-Media: site
-Title: Ian MacKenzie - New Paradigm Media Activist
-Tags: culture, link
-Link: http://www.ianmack.com/
-
-Id: ianmack-02
-Type: article
-Media: link
-Title: Heart of It All
-Subtitle: Tamera and the New Story of Love; Ian MacKenzie
-Tags: culture, link
-Link: http://www.ianmack.com/tamera-story-love-interview/
-Annote: broken link
-
-Id: ianmack-03
-Type: media
-Media: video
-Title: 7 Ways to Craft a Kickass Crowdfunding Video; Ian MacKenzie
-Tags: video, link
-Link: http://www.ianmack.com/7-ways-to-craft-a-kickass-crowdfunding-video/
-Annote: broken link
-
-Id: ianmack-04
-Type: media
-Media: audio
-Title: #90 | Initiation Rites: Defining the Sacred Role of Men w/ Ian MacKenzie
-Author: MacKenzie, Ian
-Date: 2017-10-14
-Publisher: Last Born in the Wilderness
-Link: https://www.lastborninthewilderness.com/episodes/ian-mackenzie-1
-
 Id: ibm-01
 Type: article
 Media: link
@@ -12507,6 +12483,60 @@ Media: video
 Title: Comments
 Tags: video, link
 Link: https://m.facebook.com/story.php?story_fbid=1419850131369808&amp;id=126207740734060&amp;_rdr
+
+Id: mackenzie-01
+Type: site
+Media: site
+Title: Ian MacKenzie - New Paradigm Media Activist
+Author: MacKenzie, Ian
+Date: 2024-09-04
+Tags: culture, link
+Link: http://www.ianmack.com/
+AltLink: https://tinyurl.com/32dp92wm+ https://web.archive.org/web/20240904042457/https://www.ianmack.com/
+
+Id: mackenzie-02
+Type: article
+Media: link
+Title: Heart of It All
+Subtitle: Tamera and the New Story of Love; Ian MacKenzie
+Author: MacKenzie, Ian
+Date: ????
+Tags: culture, link
+Link: http://www.ianmack.com/tamera-story-love-interview/
+AltLink: https://web.archive.org/web/20170620013318/http://www.ianmack.com/tamera-story-love-interview
+Annote: broken link
+
+Id: mackenzie-03
+Type: media
+Media: video
+Title: 7 Ways to Craft a Kickass Crowdfunding Video; Ian MacKenzie
+Author: MacKenzie, Ian
+Date: ????
+Tags: video, link
+Link: http://www.ianmack.com/7-ways-to-craft-a-kickass-crowdfunding-video/
+AltLink: https://web.archive.org/web/20160828135658/http://www.ianmack.com/7-ways-to-craft-a-kickass-crowdfunding-video/
+Annote: broken link
+
+Id: mackenzie-04
+Type: media
+Media: audio
+Title: #90 | Initiation Rites: Defining the Sacred Role of Men w/ Ian MacKenzie
+Author: MacKenzie, Ian
+Date: 2017-10-14
+Publisher: Last Born in the Wilderness
+Link: https://www.lastborninthewilderness.com/episodes/ian-mackenzie
+AltLink: https://tinyurl.com/nhhjv3ra+ https://web.archive.org/web/20240904043749/https://www.lastborninthewilderness.com/episodes/ian-mackenzie
+
+Id: mackenzie-05
+Type: article
+Media: link
+Title: The Wild Edge of Emergence
+Author: MacKenzie, Ian
+Date: 2018-11-28
+Publisher: Medium
+Link: https://medium.com/@ianmack/the-wild-edge-of-emergence-27ad280b8796
+AltLink: https://tinyurl.com/3zxycj68+ https://web.archive.org/web/20240904044314/https://ianmack.medium.com/the-wild-edge-of-emergence-27ad280b8796
+Annote: Audio version
 
 Id: macles-blogspot-01
 Type: article
@@ -16029,6 +16059,17 @@ Title: Paul Piff: Does money make you mean?
 Author: Piff, Paul
 Tags: video, old:ted-23
 Link: http://www.ted.com/talks/paul_piff_does_money_make_you_mean.html
+
+Id: pines-01
+Type: article
+Media: link
+Title: Emergence: A unifying theme for 21st century science
+Author: Pines, David
+Date: 2014-10-31
+Publisher: Santa Fe Institute, Foundations & Frontiers of Complexity
+Link: https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e
+AltLink: https://tinyurl.com/bdfxetyf+ https://web.archive.org/web/20240625181953/https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e
+Annote: https://www.complexityexplorer.org/home
 
 Id: pink-01
 Type: media

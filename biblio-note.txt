@@ -1,4 +1,3 @@
-
 Id: achbar-01
 <note>Media: DVD; Book by Joel Bakan</note>
 
@@ -890,6 +889,10 @@ Id: lonsdale-01
 <note>This one has some for the same techniques: <a
 href="http://www.youtube.com/watch?v=-WLHr1_EVtQ">5 techniques to
 speak any language: Sid Efromovich at TEDxUpperEastSide</a></note>
+
+Id: macKenzie-05
+<note>Audio version: https://ianmack.substack.com/p/the-wild-edge-of-emergence-essay<br>
+Date: 2024-09-02</note>
 
 Id: malidoma-01
 <note>"I offer the wisdom of the African ancestors so that Westerners
