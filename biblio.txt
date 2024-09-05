@@ -19650,13 +19650,23 @@ Tags: misc, link
 Link: http://www.staffordsuites.com/portorchard/
 
 Id: stallman-01
+Type: article
+Media: link
+Title: The GNU Manifesto
+Author: Stallman, Richard
+Date: 1985
+Publisher: Free Software Foundation
+Link: https://www.gnu.org/gnu/manifesto.html
+AltLink: https://tinyurl.com/2p8xu2kk+ https://web.archive.org/web/20240825061445/https://www.gnu.org/gnu/manifesto.html
+
+Id: stallman-02
 Type: media
 Media: video
 Title: Richard Stallman lecturing about copyright at University of Calgary
 Author: Stallman, Richard
 Date: 2009
 Tags: video, old:youtube-033
-Link: http://www.youtube.com/watch?v=SNBMdDaYhZA&amp;feature=channel
+Link: http://www.youtube.com/watch?v=SNBMdDaYhZA&amp
 
 Id: standing-01
 Type: book
