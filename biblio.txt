@@ -7011,7 +7011,7 @@ Author: Fox, Justin
 Date: 2010-04-01
 Tags: corporation, founders, purpose, article, important, article
 Link: https://hbr.org/2010/04/what-the-founding-fathers-real.html
-AltLink: https://tinyurl.com/3xfp37s5+ https://web.archive.org/web/20230816165216/https://hbr.org/2010/04/what-the-founding-fathers-real.html https://archive.vn/Gjhil
+AltLink: https://tinyurl.com/ycxpxsk3+ https://web.archive.org/save/https://moria.whyayh.com/rel/archive/article/culture/What_the_Founding_Fathers_Really_Thought_About_Corporations.pdf https://moria.whyayh.com/rel/archive/article/culture/What_the_Founding_Fathers_Really_Thought_About_Corporations.pdf
 
 Id: foxtorrent-01
 Type: article
@@ -10807,6 +10807,16 @@ Date: 2012
 Publisher: New Society Publishers (2012), 131 pages
 Tags: important
 ASIN: 13116531
+
+Id: kenton-01
+Type: article
+Media: link
+Title: Adhocracy: Meaning, Overview, Advantages and Disadvantages
+Author: Kenton, Will
+Date: 2021-06-25
+Publisher: Investopedia
+Link: https://www.investopedia.com/terms/a/adhocracy.asp
+AltLink: https://tinyurl.com/pryefh8h+ https://web.archive.org/web/20221205210720/https://www.investopedia.com/terms/a/adhocracy.asp
 
 Id: kerpoof-01
 Type: site
