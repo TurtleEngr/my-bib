@@ -23303,6 +23303,14 @@ Date: 2024-08-19
 Link: https://en.wikipedia.org/wiki/Feral_child
 AltLink: https://tinyurl.com/yu5k6emb+ https://web.archive.org/web/20240819203804/https://en.wikipedia.org/wiki/Feral_child
 
+Id: wikipedia-65
+Type: article
+Media: link
+Title: Demurrage (currency)
+Date: 2024-09-07
+Link: https://en.wikipedia.org/wiki/Demurrage_%28currency%29
+AltLink: https://tinyurl.com/526j9xua+ https://web.archive.org/web/20240907232357/https://en.wikipedia.org/wiki/Demurrage_%28currency%29
+
 Id: wilburhotsprings-01
 Type: site
 Media: site
