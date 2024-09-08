@@ -8338,6 +8338,18 @@ Title: Docker - Build, Ship, and Run Any App, Anywhere
 Tags: reference, linux, unix, link
 Link: https://goto.docker.com/0218-0608-DockerConHOL-Linux_01EntryPage.html
 
+Id: gould-01
+Type: article
+Media: link
+Title: The Courageous Internet Activism of Aaron Swartz
+Subtitle: Why copyright laws undermine the demands of justice
+Author: Gould, Rebecca Ruth
+Date: 2024-09-07
+Publisher: Medium: Policy Panorama
+Tags: copyright
+Link: https://medium.com/policy-panorama/the-courageous-internet-activism-of-aaron-swartz-37965fc93bb0
+AltLink: https://tinyurl.com/45ubzfbu+ https://web.archive.org/web/20240908155601/https://medium.com/policy-panorama/the-courageous-internet-activism-of-aaron-swartz-37965fc93bb0
+
 Id: gov-uk-01
 Type: article
 Media: link
@@ -20203,6 +20215,16 @@ Media: link
 Title: EXPOSING THE ILLUSION
 Tags: home, education, link
 Link: http://www.swaraj.org/shikshantar/exposing_the_illusion.html
+
+Id: swartz-01
+Type: article
+Media: link
+Title: Guerilla Open Access Manifesto
+Author: Swartz, Aaron
+Date: 2008-07-01
+Tags: copyright
+Link: https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt
+AltLink: https://archive.org/details/GuerillaOpenAccessManifesto
 
 Id: swi-prolog-01
 Type: site
