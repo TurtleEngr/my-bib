@@ -20327,6 +20327,16 @@ Link: https://www.tamera.org/
 AltLink: https://archive.vn/mSj3S
 Annote: See notes.
 
+Id: tan-01
+Type: article
+Media: link
+Title: Internet Archive Loses Court Appeal in Fight Over Online Lending Library
+Author: Tan, Eli
+Date: 2024-09-04
+Publisher: New York Times
+Link: https://www.nytimes.com/2024/09/04/technology/internet-archive-appeals-court-ruling.html
+AltLink: https://tinyurl.com/bdfpm25h+ https://web.archive.org/web/20240904220845/https://www.nytimes.com/2024/09/04/technology/internet-archive-appeals-court-ruling.html/
+
 Id: tantra-gaymen-01
 Type: article
 Media: link
