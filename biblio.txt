@@ -15585,8 +15585,7 @@ Author: Alex Park
 Date: 2014-07-10
 Publication: Mother Jones
 Link: https://www.motherjones.com/politics/2014/07/how-supreme-court-turned-corporations-people-200-year-saga/
-AltLink: https://tinyurl.com/yxnr3pjc+
-https://web.archive.org/web/20200929183437/https://www.motherjones.com/politics/2014/07/how-supreme-court-turned-corporations-people-200-year-saga/
+AltLink: https://tinyurl.com/yxnr3pjc+ https://web.archive.org/web/20200929183437/https://www.motherjones.com/politics/2014/07/how-supreme-court-turned-corporations-people-200-year-saga/
 
 Id: parks-01
 Type: site
