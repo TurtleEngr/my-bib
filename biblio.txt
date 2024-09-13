@@ -8951,6 +8951,15 @@ Date: 2023-11-30
 Publisher: MSNBC
 Link: https://youtu.be/nlni04mpDdg?si=DdY3wqsOJ2RrTa3D
 
+Id: harari-03
+Type: media
+Media: video
+Title: This Election Will Tear The Country Apart! AI Will Control You By 2034! 
+Author: Harari, Yuval Noah
+Date: 2024-09-05
+Publisher: The Diary Of A CEO
+Link: https://www.youtube.com/watch?v=78YN1e8UXdM
+
 Id: harbin-01
 Type: site
 Media: site
@@ -15247,7 +15256,7 @@ Id: openai-chat-01
 Type: article
 Media: link
 Title: ChatGPT
-Date: 2022-12-28
+Date: 2024-03-01
 Tags: link, site, link
 Link: https://chat.openai.com/chat
 Annote: See notes.
