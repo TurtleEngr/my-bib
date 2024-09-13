@@ -11,7 +11,7 @@ clean :
 ci checkin commit : clean
 	git commit -am "Updated"
 
-update : doc.odt
+update pull : doc.odt
 	git co develop
 	git pull origin develop
 
