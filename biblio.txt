@@ -1246,7 +1246,7 @@ Media: link
 Title: BALLE becomes Common Future
 Link: https://weall.org/balle-becomes-common-future
 AltLink: https://tinyurl.com/juuw7jnr+ https://web.archive.org/web/20210803015320/https://weall.org/balle-becomes-common-future
-Annote: Business Alliance for Local Living Economies. See also: livingeconomies-02, weall-01
+Annote: See also: commonfuture-01, livingeconomies-02, weall-01
 
 Id: barbarasher-01
 Type: site
