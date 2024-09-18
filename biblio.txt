@@ -19850,6 +19850,18 @@ Tags: biblio
 ISBN: 6305181721
 ASIN: 126861
 
+Id: still-01
+Type: media
+Media: video
+Title: The Secret of Oz
+Tags: video
+Date: 2010-08-25
+Author: Still, Bill
+Tag: old:truththeory-02
+Link: https://www.youtube.com/watch?v=Rmc8GDlyAQg
+AltLink: https://tinyurl.com/msvayerx https://web.archive.org/web/20110615192136/http://www.secretofoz.com/ https://web.archive.org/web/20120114083507/http://www.truththeory.org/the-secret-of-oz/ https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/The_Secret_of_Oz_by_Mr_Bill_Still.mp4
+Annote: See notes.
+
 Id: stirlingengine-01
 Type: article
 Media: link
@@ -21302,14 +21314,6 @@ Media: video
 Title: NO-TITLE
 Tags: video
 Link: http://www.truththeory.org/pyramids-of-waste/
-Annote: See notes.
-
-Id: truththeory-02
-Type: media
-Media: video
-Title: The Secret of Oz
-Tags: video
-Link: http://www.truththeory.org/the-secret-of-oz/#com%20ment-67
 Annote: See notes.
 
 Id: tufekci-01
