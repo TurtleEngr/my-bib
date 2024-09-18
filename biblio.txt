@@ -1240,6 +1240,14 @@ Tags: biblio
 ISBN: 0788829017
 ASIN: 11472
 
+Id: balle-01
+Type: article
+Media: link
+Title: BALLE becomes Common Future
+Link: https://weall.org/balle-becomes-common-future
+AltLink: https://tinyurl.com/juuw7jnr+ https://web.archive.org/web/20210803015320/https://weall.org/balle-becomes-common-future
+Annote: Business Alliance for Local Living Economies. See also: livingeconomies-02, weall-01
+
 Id: barbarasher-01
 Type: site
 Media: site
@@ -3561,6 +3569,14 @@ Media: link
 Title: Common Dreams; News &amp; Views
 Tags: home, political, link
 Link: http://www.commondreams.org/
+
+Id: commonfuture-01
+Type: site
+Media: org
+Title: Common Future
+Tag: old:livingeconomies-02
+Link: https://commonfuture.co/
+Annote: See also: livingeconomies-02, weall-01
 
 Id: community-01
 Type: book
@@ -12191,6 +12207,7 @@ Media: site
 Title: BALLE - BALLE - Flash Player Installation
 Tags: home, change, local, link
 Link: http://www.livingeconomies.org/
+Annote: See: https://commonfuture.co/
 
 Id: livingeconomies-02
 Type: site
@@ -12198,6 +12215,7 @@ Media: site
 Title: BALLE - Business Alliance for Local Living Economies
 Tags: home, eco, link
 Link: http://livingeconomies.org/
+Annote: See: https://weall.org/balle-becomes-common-future https://commonfuture.co/
 
 Id: localhost-01
 Type: site
@@ -22377,6 +22395,14 @@ Media: link
 Title: Logjam: PFS Deployment Guide
 Tags: tools, link
 Link: https://weakdh.org/sysadmin.html
+
+Id: weall-01
+Type: site
+Media: org
+Title: Wellbeing Economy Alliance
+Subtitle: For an economy in service of life
+Link: https://weall.org/
+Annote: See also: livingeconomies-02, commonfuture-01
 
 Id: wearables-blu-01
 Type: article
