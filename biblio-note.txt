@@ -996,6 +996,40 @@ Id: meyers-01
 Non-violence, is not a very useful basis for political discussion,
 unless you want to confuse people.</note>
 
+Id: michaels-03
+<note>
+<blockquote><p>"There once was a farmer who grew excellent quality
+corn. Every year he won the award for the best grown corn. One year a
+newspaper reporter interviewed him and learned something interesting
+about how he grew it. The reporter discovered that the farmer shared
+his seed corn with his neighbors. “How can you afford to share your
+best seed corn with your neighbors when they are entering corn in
+competition with yours each year?” the reporter asked.</p>
+<p>“Why sir,” said the farmer, “Didn’t you know? The wind picks up
+pollen from the ripening corn and swirls it from field to field. If my
+neighbors grow inferior corn, cross-pollination will steadily degrade
+the quality of my corn. If I am to grow good corn, I must help my
+neighbors grow good corn.”</p>
+<p>So it is with our lives. Those who want to live meaningfully,
+healthy, and well must help enrich the lives of others, for the value
+of a life is measured by the lives it touches. And those who choose to
+be happy must help others find happiness, for the welfare of each is
+bound up with the welfare of all.</p>
+<p>-Call it power of collectivity...<br>
+-Call it a principle of success...<br>
+-Call it a law of life.</p>
+<p>The fact is, none of us truly wins, until we all win!!"<br>
+{michaels-03}</p></blockquote>
+</note>
+
+Id: michaels-04
+<note>
+<blockquote>when many of these [early] civilizations failed, everyone
+scattered in order to survive elsewhere. There is now nowhere left to
+scatter to, so we are forced to deal with these predicaments on
+nature's terms, not ours.{michaels-04} </blockquote>
+</note>
+
 Id: milgram-01
 <note><p>
 <p>C. P. Snow, in 1961, pointed to its importance when he wrote:</p>

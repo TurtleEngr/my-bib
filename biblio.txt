@@ -7314,6 +7314,16 @@ Publisher: 20th Century Fox
 Tags: biblio
 ASIN: 690192
 
+Id: garrett-01
+Type: media
+Media: video
+Title: Jevon's Paradox: Why increasing energy efficiency will accelerate global climate change
+Author: Garrett, Tim
+Date: 2021-02-09
+Publisher: Earth and Environmental Sciences Manchester
+Link: https://www.youtube.com/watch?v=SM8pQmA7wos
+Annote: See: michaels-04
+
 Id: gates-01
 Type: media
 Media: video
@@ -13458,6 +13468,44 @@ Media: product
 Title: ArtMinds Moccasin Kit
 Tags: misc, exercise, health, link
 Link: https://www.michaels.com/artminds-moccasin-kit/M10189476.html?dwvar_M10189476_color=Brown
+
+Id: michaels-02
+Type: article
+Media: link
+Title: Change; it is OVERSHOOT
+Author: Michaels, Erik
+Date: 2024-08-14
+Link: https://medium.com/@emichaels01/the-biggest-issue-is-not-climate-change-it-is-overshoot-9d174f2f0ad2
+AltLink: https://tinyurl.com/3naj4pwp+ https://web.archive.org/web/20240910211311/https://medium.com/@emichaels01/the-biggest-issue-is-not-climate-change-it-is-overshoot-9d174f2f0ad2 https://problemspredicamentsandtechnology.blogspot.com/2024/08/the-biggest-issue-is-not-climate-change.html https://tinyurl.com/4hucvvwm+ https://web.archive.org/web/20240815100118/https://problemspredicamentsandtechnology.blogspot.com/2024/08/the-biggest-issue-is-not-climate-change.html
+
+Id: michaels-03
+Type: article
+Media: link
+Title: Why Should We "Live Now"?
+Author: Michaels, Erik
+Date: 2022-05-23
+Link: https://problemspredicamentsandtechnology.blogspot.com/p/why-should-we-live-now.html
+AltLink: https://tinyurl.com/3e4z7p27+ https://web.archive.org/web/20220523234642/https://problemspredicamentsandtechnology.blogspot.com/p/why-should-we-live-now.html
+Annote: See notes.
+
+Id: michaels-04
+Type: article
+Media: link
+Title:  What Would it Take for Humanity to Experience Radical Transformation? 
+Author: Michaels, Erik
+Date: 2021-02-24
+Link: https://problemspredicamentsandtechnology.blogspot.com/2021/02/what-would-it-take-for-humanity-to.html
+AltLink: https://tinyurl.com/5n89xjj3+ https://web.archive.org/web/20210312150344/https://problemspredicamentsandtechnology.blogspot.com/2021/02/what-would-it-take-for-humanity-to.html
+Annote: See notes. See also: garrett-01
+
+Id: michaels-05
+Type: site
+Media: org
+Title: Problems Predicaments and Technology
+Subtitle: Table of Contents
+Author: Michaels, Erik
+Link: https://problemspredicamentsandtechnology.blogspot.com/p/blog-page.html
+AltLink: https://tinyurl.com/35rdknsj+ https://web.archive.org/web/20240907191610/https://problemspredicamentsandtechnology.blogspot.com/p/blog-page.html
 
 Id: michelleholliday-01
 Type: article
