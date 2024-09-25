@@ -4,18 +4,23 @@ mPubPath = moria.whyayh.com:/rel/released/doc/own/bib
 mClone = git clone git@github.com:TurtleEngr/my-bib.git
 mTidy = tidy -m -config etc/tidyxhtml.conf
 
+build : clean gen gen/README.html gen/README.md gen/biblio-note.html gen/todo.html
+
 clean :
 	find . -name '*~' -exec rm {} \;
 	-bib clean
 
-ci checkin commit : clean
+gen :
+	mkdir $@
+
+ci checkin commit : clean build
 	git commit -am "Updated"
 
 update pull : doc.odt
 	git co develop
 	git pull origin develop
 
-save push : clean todo.html README.html
+save push : build
 	git co develop
 	git pull origin develop
 	-git ci -am Updated
@@ -32,11 +37,11 @@ publish release : save
 # -------------
 # Add and maintain the bibliography in a Libreoffice document
 
-%.html : %.org
-	org2html $< $@
+gen/%.html : %.org
+	org2html.sh $< $@
 
-%.md : %.org
-	-pandoc -f html -t markdown < $< >$@
+gen/%.md : %.org
+	-pandoc -f org -t markdown < $< >$@
 
 doc.odt : 
 	-ln -s $(mVerPath)/alien.odt $@

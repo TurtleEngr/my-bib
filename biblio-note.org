@@ -1,3 +1,44 @@
+#+BEGIN_EXPORT html
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>Bibliography Additional Notes</title>
+<link rel="stylesheet"
+      href="alien.css" />
+  <style type="text/css">
+.justify {
+    text-align: justify;
+}
+body {
+    width: 306pt;
+    margin-left: 54pt; 
+    margin-right: 72pt; 
+    font-family: Times, serif; 
+    font-size: 100%; 
+    text-align: justify;
+    background: #EED;
+    color: black;
+}
+pre {
+    font-size: 100%; 
+    line-height: 100%; 
+    font-family: Courier New, monospace; 
+    text-align: left; 
+}
+blockquote {
+    margin-left: 15%; 
+    margin-right: 0%; 
+    font-family: "Times New Roman", serif; 
+    font-style: italic; 
+    text-indent: 0px;
+    text-align: left; 
+    margin-bottom: 15px;
+}
+  </style>
+</head>
+<body>
+#+END_EXPORT
 * Bibliography Additional Notes
 
 ** Id: achbar-01
@@ -21,13 +62,14 @@ stereotypes
 ** Id: allen-01
 # Old: youtube-074
 - <a
-href="http://www.yesmagazine.org/issues/food-for-everyone/growing-power-in-an-urban-food-desert"
-target="_blank">Food for Everyone, Growing Power in an Urban Food
-Desert</a> - Yes Magazine article and video</p> <p><a
-href="http://en.wikipedia.org/wiki/Will_Allen_(urban_farmer)"
-target="_blank">Wikipedia: Will Allen (urban farmer)</a></p> <p><a
-href="http://en.wikipedia.org/wiki/Growing_Power"
-target="_blank">Wikipedia: Growing Power</a>
+  href="http://www.yesmagazine.org/issues/food-for-everyone/growing-power-in-an-urban-food-desert">Food
+  for Everyone, Growing Power in an Urban Food Desert</a> - Yes
+  Magazine article and video
+- <a
+  href="http://en.wikipedia.org/wiki/Will_Allen_(urban_farmer)">Wikipedia:
+  Will Allen (urban farmer)</a>
+- <a href="http://en.wikipedia.org/wiki/Growing_Power">Wikipedia:
+  Growing Power</a>
 
 ** Id: alperovitz-01
 - This illustrated presentation from distinguished historian and
@@ -47,29 +89,28 @@ with American values.
 
 ** Id: ariely-01
 - Behavioral economist Dan Ariely, the author of Predictably
-Irrational, uses classic visual illusions and his own counteractive
-(and sometimes shocking) research findings to show how we're not as
-rational as we think when we make decisions.</p> <p>See also:</p>
-<p>2010-01-03 - <a
-href="http://www.ted.com/talks/dan_ariely_on_our_buggy_moral_code.html"
-target="_blank">Dan Ariely on our buggy moral code</a>
-263
+  Irrational, uses classic visual illusions and his own counteractive
+  (and sometimes shocking) research findings to show how we're not as
+  rational as we think when we make decisions.
+- See also:
+- 2010-01-03 - [[http://www.ted.com/talks/dan_ariely_on_our_buggy_moral_code.html][Dan Ariely on our buggy moral code]] 263
 
 ** Id: ashenden-01
-- <p>So what is motivating these publishers in their desire to
-strike at the Archive, if not money? One can only guess, but a clue
-may lie in the recently updated versions of works by writers like Ian
-Fleming, Agatha Christie, Roald Dahl and P.G. Wodehouse. Unlike hard
-copies, digital versions are sold to libraries on a licence basis and
-must be regularly repurchased, allowing publishers to make revisions
-right across the board and remove earlier editions from circulation
-altogether.</p>
-<p>'In electronic form they can change all books in all libraries all
-at once and irreversibly without permission,' says Kahle. 'This is
-dangerous. It is not hypothetical, it is happening.'</p>
+- So what is motivating these publishers in their desire to strike at
+  the Archive, if not money? One can only guess, but a clue may lie in
+  the recently updated versions of works by writers like Ian Fleming,
+  Agatha Christie, Roald Dahl and P.G. Wodehouse. Unlike hard copies,
+  digital versions are sold to libraries on a licence basis and must
+  be regularly repurchased, allowing publishers to make revisions
+  right across the board and remove earlier editions from circulation
+  altogether.
+- 'In electronic form they can change all books in all libraries all
+  at once and irreversibly without permission,' says Kahle. 'This is
+  dangerous. It is not hypothetical, it is happening.'
 
 ** Id: baker-01
-- What does "Freedom" mean to you?</p> <p>Work less? Buy
+- What does "Freedom" mean to you?
+- Work less? Buy
 less.
 
 ** Id: bender-01
@@ -88,7 +129,7 @@ the property- and contract-based modes of firms and markets.  Its
 central characteristic is that groups of individuals successfully
 collaborate on large- scale projects following a diverse cluster of
 motivational drives and social signals, rather than either market
-prices or managerial commands.{}</blockquote>- 
+prices or managerial commands.{benkler-01}</blockquote>
 
 ** Id: berry-02
 # Old: youtube-088
@@ -121,55 +162,55 @@ interests.
 - Excellent analysis.
 
 ** Id: brin-01
-- <p>the core essential fact about human nature.</p>
-<p><i>We are all inherently delusional.</i><p>
-<p>The more intensely you believe something, the more willingly you
-should check it out, now and then. Hence we know the only truly
-effective antidote to delusion that has ever been discovered is...</p>
-<p>The criticism of others.</p>
-<p>Criticism even—especially— by your enemies.</p>
-<p>Oh, that’s not to say you’re doomed always to be wrong!  For one
-thing, science has provided many self-check tools that reduce rates
-and levels of delusion, applying experimental and experiential honesty
-to enhance the central catechism that made science so successful. A
-pair of simple sentences spoken not just by scientists, but by any
-person with an ounce of decency or maturity.</p>
-<p><i>“I might be wrong. Let’s find out.”</i></p>
+- the core essential fact about human nature.
+- <i>We are all inherently delusional.</i>
+- The more intensely you believe something, the more willingly you
+  should check it out, now and then. Hence we know the only truly
+  effective antidote to delusion that has ever been discovered is...
+- The criticism of others.
+- Criticism even—especially— by your enemies.
+- Oh, that’s not to say you’re doomed always to be wrong!  For one
+  thing, science has provided many self-check tools that reduce rates
+  and levels of delusion, applying experimental and experiential
+  honesty to enhance the central catechism that made science so
+  successful. A pair of simple sentences spoken not just by
+  scientists, but by any person with an ounce of decency or maturity.
+- <i>“I might be wrong. Let’s find out.”</i>
 
 ** Id: brin-02
 - See also: olson-01, olson-02, evans-02, oliver-01
 
 ** Id: brinkhurst-cuff-01
-- <p>Flat or tall hierarchy? That is the wrong question! The
-proper question is how are the leaders in the hierarchy selected, from
-the top or the bottom, and are they evaluated by people at the top or
-the bottom? See a proper description of democratic corporations
-at:<br> https://semcostyle.us/, <br>
-https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and<br>
-https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275</p>
+- Flat or tall hierarchy? That is the wrong question! The
+  proper question is how are the leaders in the hierarchy selected, from
+  the top or the bottom, and are they evaluated by people at the top or
+  the bottom? See a proper description of democratic corporations
+  at:<br> https://semcostyle.us/, <br>
+  https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and<br>
+  https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275
 
 ** Id: browne-01
 - Media: DVD
 
 ** Id: burgess-06
-- <p>The key to knowledge is relationship — personal
-relationship. It takes time, maybe years to really know someone, their
-strengths and weaknesses, their reliability, whether or not we can
-trust their character — so that we know how to use them to help us in
-our own struggles. It's the same with books. Parroting something from
-a book is not the same as knowing the subject.</p>
-<p>Knowledge is about <i>trust in the journey</i> we take to learn
+- The key to knowledge is relationship — personal
+  relationship. It takes time, maybe years to really know someone, their
+  strengths and weaknesses, their reliability, whether or not we can
+  trust their character — so that we know how to use them to help us in
+  our own struggles. It's the same with books. Parroting something from
+  a book is not the same as knowing the subject.
+- Knowledge is about <i>trust in the journey</i> we take to learn
 something. Knowledge may involve things and ideas, but its how they
-interact that matters.</p>
+interact that matters.
 
 ** Id: burgess-07
-- <blockquote>trust is not the important thing but actually
-Mistrust is the thing that drives human
-cooperation. {burgess-07:1h:15m:44s}</blockquote> <p>That is, we pay
-attention to what others are doing because we are interested in what
-they are doing (or it could affect us), but we may not trust what they
-are doing or how they are doing it.</p> <p>Papers written with Robin
-Dunbar: burgess-08, burgess-09</p> 
+- <blockquote>trust is not the important thing but actually Mistrust
+  is the thing that drives human cooperation.
+  {burgess-07:1h:15m:44s}</blockquote>
+- That is, we pay attention to what others are doing because we are
+  interested in what they are doing (or it could affect us), but we
+  may not trust what they are doing or how they are doing it.
+- Papers written with Robin Dunbar: burgess-08, burgess-09
 
 ** Id: butler-01
 - Media: epub. See also: Darwin Among the Machines, by Maria
@@ -192,32 +233,29 @@ least occasionsionly share what is in your suitcase.</li> </ol>
 href="https://tech.slashdot.org/story/20/03/15/2236209/new-supercar-technology-does-away-with-windshields">https://tech.slashdot.org/story/20/03/15/2236209/new-supercar-technology-does-away-with-windshields</a>
 
 ** Id: cassella-01
-- <p>See orginal source paper: sherwood-01. Also see: huber-01.
-</p>
+- See orginal source paper: sherwood-01. Also see: huber-01.
 
 ** Id: chiang-02
-- <p>"When Silicon Valley tries to imagine superintelligence, what
-it comes up with is no-holds-barred capitalism."</p>
-<p>"...we are already surrounded by machines that demonstrate a
-complete lack of insight, we just call them corporations. Corporations
-don’t operate autonomously, of course, and the humans in charge of
-them are presumably capable of insight, but capitalism doesn’t reward
-them for using it. On the contrary, capitalism actively erodes this
-capacity in people by demanding that they replace their own judgment
-of what “good” means with “whatever the market decides.”</p>
-<p>There are industry observers talking about the need for AIs to have
-a sense of ethics, and some have proposed that we ensure that any
-superintelligent AIs we create be “friendly,” meaning that their goals
-are aligned with human goals. I find these suggestions ironic given
-that we as a society have failed to teach corporations a sense of
-ethics, that we did nothing to ensure that Facebook’s and Amazon’s
-goals were aligned with the public good.</p>
-<p>We need for the machines to wake up, not in the sense of computers
-becoming self-aware, but in the sense of corporations recognizing the
-consequences of their behavior. </p>
-
-
-
+- "When Silicon Valley tries to imagine superintelligence, what it
+  comes up with is no-holds-barred capitalism."
+- "...we are already surrounded by machines that demonstrate a
+  complete lack of insight, we just call them
+  corporations. Corporations don’t operate autonomously, of course,
+  and the humans in charge of them are presumably capable of insight,
+  but capitalism doesn’t reward them for using it. On the contrary,
+  capitalism actively erodes this capacity in people by demanding that
+  they replace their own judgment of what “good” means with “whatever
+  the market decides.”
+- There are industry observers talking about the need for AIs to have
+  a sense of ethics, and some have proposed that we ensure that any
+  superintelligent AIs we create be “friendly,” meaning that their
+  goals are aligned with human goals. I find these suggestions ironic
+  given that we as a society have failed to teach corporations a sense
+  of ethics, that we did nothing to ensure that Facebook’s and
+  Amazon’s goals were aligned with the public good.
+- We need for the machines to wake up, not in the sense of computers
+  becoming self-aware, but in the sense of corporations recognizing
+  the consequences of their behavior.
 
 ** Id: chomsky-01
 - ChatGPT and similar programs are, by design, unlimited in what
@@ -242,24 +280,31 @@ costs.{coase-02}</blockquote
 - See also: [mcalevey-01]
 
 ** Id: conover-03
-- <p>Creators: Jon Cohen; Adam Conover; Jon Wolf</p> <p>Series
-Produced by:<br> Jes Anderson - producer;<br> Suzy Beck -
-co-producer;<br> James Burns - co-producer;<br> Hallie Haglund -
-executive;<br> Zachary Halley - producer;<br> Gwyn Martin-Morris -
-post producer;<br> Priya Swaminathan - executive producer;<br> Barack
-Obama - executive producer;<br> Michelle Obama - executive
-producer;<br> Jon Cohen - executive producer;<br> Adam Conover -
-executive producer;<br> Tonia Davis - producer;<br> Jon Wolf -
-executive producer; </p>
-<p>Big government moves slow because power is dispersed by design.
-Government isn't just the Federal government.  Focus on local
-government to have more immediate impact.  The US has 4% of world
-population, and 20% of the worlds prison population.  90% of people
-are held in state and local prisions.  The politician most responsible
-for those 90% is the local Distric Attorney (the ones who run on being
-tough on crime).  Success story: Reclaim Philadelphia. Formed to elect
-a progressive DA.  Their candidate won twice as much as the incombant.
-Connect with people's common interests.</p> 
+- Creators: Jon Cohen; Adam Conover; Jon Wolf
+- Series Produced by:
+  + Jes Anderson - producer;
+  + Suzy Beck - co-producer;
+  + James Burns - co-producer;
+  + Hallie Haglund - executive;
+  + Zachary Halley - producer;
+  + Gwyn Martin-Morris - post producer;
+  + Priya Swaminathan - executive producer;
+  + Barack Obama - executive producer;
+  + Michelle Obama - executive producer;
+  + Jon Cohen - executive producer;
+  + Adam Conover - executive producer;
+  + Tonia Davis - producer;
+  + Jon Wolf - executive producer;
+- Big government moves slow because power is dispersed by design.
+  Government isn't just the Federal government.  Focus on local
+  government to have more immediate impact.  The US has 4% of world
+  population, and 20% of the worlds prison population.  90% of people
+  are held in state and local prisions.  The politician most
+  responsible for those 90% is the local Distric Attorney (the ones
+  who run on being tough on crime).  Success story: Reclaim
+  Philadelphia. Formed to elect a progressive DA.  Their candidate won
+  twice as much as the incombant.  Connect with people's common
+  interests.
 
 ** Id: cooper-01
 - <blockquote>
@@ -282,17 +327,19 @@ Connect with people's common interests.</p>
 {cooper-01}</blockquote>
 
 ** Id: cross-01
-- <pre> Myth #1 - Education will change behavior - How you present
-the information:: - Make information tangible, personalized,
-interaction -Hearing what you are losing is more effective than
-hearing what you are gaining -Unique messages for different
-audiences. Myth #2 - You need to change attitudes to change behavior -
-Example: need to believe global warming to do things differently (Not)
-- Attitudes follow behavior - Set behavioral expectations - Connect to
-values Myth #3 - People know that motivates them to take action -
-Social norms work better (example street musicians, seeding with money
-is not enough, they should have friend put money in their
-pot. </pre>
+- Myth #1 - Education will change behavior. How you present the information:
+  + Make information tangible, personalized, interaction
+  + Hearing what you are losing is more effective than hearing what
+    you are gaining -Unique messages for different audiences.
+- Myth #2 - You need to change attitudes to change behavior.
+  + Need to believe global warming to do things differently (Not).
+  + Attitudes follow behavior
+    + Set behavioral expectations
+    + Connect to values
+- Myth #3 - People know what motivates them to take action
+  + Social norms work better
+  + For example, street musicians, seeding with money is not enough,
+    they should have a friend put money in their pot.
 
 ** Id: culture-01
 - 'When it comes to someone fighting for his life on death row or
@@ -304,16 +351,14 @@ goes with the least empathetic option.'
 connection."
 
 ** Id: democracynow-01
-- <ul> <li> <p>State legislatures and Corporations draft
-"template" laws</p> </li> <li> <p><a
-href="http://www.webcitation.org/60j7jJgJJ" target="_blank">Secretive
-Corporate-Legislative Group ALEC Holds Annual Meeting to Rewrite State
-Laws</a><br /> <a href="http://alecexposed.com/wiki/ALEC_Exposed"
-target="_blank">ALEC Exposed</a></p> </li> <li> <p><a
-href="http://www.webcitation.org/60j7W7SPq" target="_blank">New Expose
-Tracks ALEC-Private Prison Industry Effort to Replace Unionized
-Workers with Prison Labor</a> - The new slavery: prison workers</p>
-</li> </ul>
++ State legislatures and Corporations draft "template" laws
++ <a href="http://www.webcitation.org/60j7jJgJJ">Secretive
+  Corporate-Legislative Group ALEC Holds Annual Meeting to Rewrite
+  State Laws</a><br /> <a
+  href="http://alecexposed.com/wiki/ALEC_Exposed">ALEC Exposed</a>
++ <a href="http://www.webcitation.org/60j7W7SPq">New Expose Tracks
+  ALEC-Private Prison Industry Effort to Replace Unionized Workers
+  with Prison Labor</a> - The new slavery: prison workers</p>
 
 ** Id: dickie-01
 - A 2020 study in the Journal of Scientific Advances found that,
@@ -322,11 +367,14 @@ could persist for six or more hours by 2060 — killing anyone who can't
 take cover.
 
 ** Id: doctorow-01
-- Great sequel to "Little Brother"</p> <p><a
+- Great sequel to "Little Brother"
+- <a
 href="http://craphound.com/littlebrother/download/"
-target="_blank">Free download of "Little Brother"</a></p> <p><a
-href="http://craphound.com/homeland/download/" target="_blank">Free
-download of "Homeland"</a></p> <p>But if you like it, buy a copy,
+>Free download of "Little Brother"</a>
+- <a
+href="http://craphound.com/homeland/download/" >Free
+download of "Homeland"</a>
+- But if you like it, buy a copy,
 ebook or paperback!
 
 ** Id: doctorow-02
@@ -372,13 +420,10 @@ mandates. If you don’t exhibit the behaviors and abide by the taboos
 and rituals of the cult, you get in big trouble.</p>
 
 ** Id: ensler-01
-- <p>This is THE best direction for change that I've seen.</p> <p><a
-href="http://www.ted.com/talks/eve_ensler_embrace_your_inner_girl.html"
-target="_blank">TED: Eve Ensler: Embrace Your Inner Girl</a> - video -
-Feelings get in the way of empire building.</p> <p><a
-href="http://www.ted.com/talks/eve_ensler_on_happiness_in_body_and_soul.html"
-target="_blank">TED: Eve Ensler: On Happiness In Body And Soul</a> -
-video
+- This is THE best direction for change that I've seen.
++ [[http://www.ted.com/talks/eve_ensler_embrace_your_inner_girl.html][TED: Eve Ensler: Embrace Your Inner Girl]] - video -
+  Feelings get in the way of empire building.
++ [[http://www.ted.com/talks/eve_ensler_on_happiness_in_body_and_soul.html][TED: Eve Ensler: On Happiness In Body And Soul]] - video
 
 ** Id: evans-02
 - Another talk on algorithmic solutions for gerrymandering. See
@@ -386,8 +431,9 @@ olson-01, olson-02, oliver-01
 
 ** Id: eyck-01
 - At age 16, Carolina Eyck invented a method for reliabably
-playing the Theremin.</p> <p><a href="https://www.carolinaeyck.com/"
-target="_blank">Carolina Eyck | Theremin and Voice</a>
+playing the Theremin.
+- <a href="https://www.carolinaeyck.com/"
+>Carolina Eyck | Theremin and Voice</a>
 
 ** Id: fairly-01
 - ... aggregators such as Amazon.com-as well as proponents of free
@@ -399,15 +445,14 @@ fairly.
 - Good viewpoint on why internet freedom is so important.
 
 ** Id: fce-01
-- This is the organization that Scott Peck mentioned at the end of
-his book. Unfortunately, one of the posts, that I came across, said
-everything "dried up" when Scott stopped touring. Looking at people's
-comments, it looks like no one has responded since ???.</p> <p>This is
-their Facebook page. It looks it has some activity, but very
-minimal. https://www.facebook.com/Foundation-for-Community-Encouragement-FCE-299512419438</p>
-<p>It looks like some of FCE has
-survived. See:[[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&source=editors&ust=1657513929952760&usg=AOvVaw0RkABPyxBv4uJTxAZZlbak][
-]][[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&source=editors&ust=1657513929952861&usg=AOvVaw1kh6NRsTmgZVd1-XSYNTSk][http://movedtospeak.org/]]
+- This is the organization that Scott Peck mentioned at the end of his
+  book. Unfortunately, one of the posts, that I came across, said
+  everything "dried up" when Scott stopped touring. Looking at
+  people's comments, it looks like no one has responded since ???.
+- This is their Facebook page. It looks it has some activity, but very
+  minimal. https://www.facebook.com/Foundation-for-Community-Encouragement-FCE-299512419438</p>
+- It looks like some of FCE has survived. See:
+  [[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&source=editors&ust=1657513929952861&usg=AOvVaw1kh6NRsTmgZVd1-XSYNTSk][http://movedtospeak.org/]] ([[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&source=editors&ust=1657513929952760&usg=AOvVaw0RkABPyxBv4uJTxAZZlbak][movedtospeak.org]])
 
 ** Id: feynman-01
 - Link to a number of interview videos.
@@ -418,52 +463,62 @@ survived. See:[[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&sourc
 that the time it takes for them to realize what exactly has happened
 from the moment they see something wrong is too short to provide any
 pleasure." He said this after a prank he played on Teller (with
-Teller's desk drawer).</p> <p>At 5:48 Richard Feynman at Princeton
+Teller's desk drawer).
+- At 5:48 Richard Feynman at Princeton
 meets great men (Richard learns that great men remember and argue
 fast) 1 418 261
 
 ** Id: fonda-01
-- Patriarchy steals women's voices (at about age 15), and it
-steals men's hearts (at about age 5)</p> <p>Cindy Sheehan: We're
-preaching to the choir, but the choir's not singing.</p> <p>Related:
-<a
-href="http://www.ted.com/talks/jane_fonda_life_s_third_act.html">Jane
-Fonda: Life's third act</a> - TED video
+- Patriarchy steals women's voices (at about age 15), and it steals
+  men's hearts (at about age 5)
+- Cindy Sheehan: We're preaching to the choir, but the choir's not
+  singing.
+- Related: [[http://www.ted.com/talks/jane_fonda_life_s_third_act.html][Jane Fonda: Life's third act]] - TED video
 
 ** Id: fridman-01
 - See also Jonathan Haidt
 
 ** Id: fried-01
 # Old: youtube-010
-- Why people can't seem to get work done at work.</p> <p>When
-asked, where got when you really need to get something done? Most
-people will answer with:</p> <ol> <li>A place, a location, or a
-room</li> <li>A moving object (e.g. train, plane)</li> <li>A time</li>
-</ol> <p>No one answers with "the office".</p> <p>The "day" is
-shredded in to "work moments".</p> <p>Creative people need long
-stretches of time to get work done. Duh, this has been measured by
-many consultants (see Tom DeMarco): it takes 20min to get in a
-productive "flow" mode. Good metaphor: would you say you slept well if
-you were woken up once an hour, through the night? Work is like
-that.</p> <p>The main problem: MM, Meetings and Manager.</p> <p>Some
-things to try:</p> <ul> <li>No talk Thursdays, or maybe just no talk
-Thursday afternoons.</li> <li>Use passive communication (email, IM,
-etc.) - but you can not be required to answer right away.</li>
-<li>Just cancel meetings.</li> </ul>
+- Why people can't seem to get work done at work.
+- When
+  asked, where got when you really need to get something done? Most
+  people will answer with:
+  + A place, a location, or a
+    room
+  + A moving object (e.g. train, plane)
+  + A time
+- No one answers with "the office".
+- The "day" is
+shredded in to "work moments".
+- Creative people need long stretches of time to get work done. Duh,
+  this has been measured by many consultants (see Tom DeMarco): it
+  takes 20min to get in a productive "flow" mode. Good metaphor: would
+  you say you slept well if you were woken up once an hour, through
+  the night? Work is like that.
+- The main problem: Meetings and Manager.
+- Some things to try:
++ No talk Thursdays, or maybe just no talk Thursday afternoons.
++ Use passive communication (email, IM, etc.) - but you cannot be
+  required to answer right away.
++ Just cancel meetings.
 
 ** Id: fromm-01
 # Old: youtube-042
-- Even more relevant to our current culture.</p> <p><a
+- Even more relevant to our current culture.
+- <a
 href="http://www.erich-fromm.de/data/pdf/2008a-e.pdf"
-target="_blank">2008a-e The Automaton Citizen and Human Rights</a> -
-pdf</p> <p><a href="http://www.erich-fromm.de/e/play.php?shownews=81"
-target="_blank">Other Articles by Erich Fromm</a>
+>2008a-e The Automaton Citizen and Human Rights</a> -
+pdf
+- <a href="http://www.erich-fromm.de/e/play.php?shownews=81"
+>Other Articles by Erich Fromm</a>
 
 ** Id: games-slashdot-01
 - <a href="http://www.webcitation.org/61C1HfUo4"
-target="_blank">Geeks Beat Jocks as Bar Fight Breaks Out Over Control
-of the TV</a></p> <p><a href="http://us.battle.net/sc2/en/"
-target="_blank">StarCraft Home</a>
+>Geeks Beat Jocks as Bar Fight Breaks Out Over Control
+of the TV</a>
+- <a href="http://us.battle.net/sc2/en/"
+>StarCraft Home</a>
 
 ** Id: gates-01
 # Old: youtube-062
@@ -486,14 +541,15 @@ See also gatto-07. 17a.htm: Three Holes In My Floor
 # Old: youtube-090
 - This is a remix that combines a number of separate
 postings. This is really good overview of what education should
-be.</p> <p><a href="https://www.youtube.com/watch?v=0A4CCvheAac"
-target="_blank">John Taylor Gatto: Elite Schooling - Part 2 of 2 (A
+be.
+- <a href="https://www.youtube.com/watch?v=0A4CCvheAac"
+>John Taylor Gatto: Elite Schooling - Part 2 of 2 (A
 summary of the books he has written.</a>
 
 ** Id: gene-01
-- by Mean Gene</p> <p>Description has the parts list.</p> <p>Also:
-<a href="https://github.com/gururise/directional_speaker"
-target="_blank">gururise/directional_speaker</a>
+- by Mean Gene
+- Description has the parts list.
+- Also: [[https://github.com/gururise/directional_speaker][gururise/directional_speaker]]
 
 ** Id: getpocket-01
 - ...from a book called The Elements of Eloquence: How to Turn the
@@ -508,7 +564,8 @@ you'll sound like a maniac."
 - Dan Gilbert presents research and data from his exploration of
 happiness -- sharing some surprising tests and experiments that you
 can also try on yourself. Watch through to the end for a sparkling
-Q&amp;A with some familiar TED faces.</p> <p>Great examples of the
+Q&amp;A with some familiar TED faces.
+- Great examples of the
 errors in the philosophy of "Utility".
 
 ** Id: gilens-01
@@ -527,26 +584,13 @@ Certified Also: nongmoshopingguide.com
 - A good summary of the movement.
 
 ** Id: graeber-02
-- <a
-href="http://www.youtube.com/watch?v=nOBeHwyVKJs&amp;feature=related"
-target="_blank">NEED TO KNOW | Are we slaves to debt? The history of
-spending more than we have | PBS</a> - video</p> <p><a
-href="https://occupywallst.org/"
-target="_blank">https://occupywallst.org/</a> - (<a
-href="http://www.webcitation.org/61pYwsBo1"
-target="_blank">WebCite</a>)</p> <p><a
-href="http://mhpbooks.com/book.php?id=308" target="_blank">Book: Debt,
-The First 5,000 Years, by David Graeber</a> - (<a
-href="http://www.webcitation.org/61pY2gEMn"
-target="_blank">WebCite</a>)</p> <p><a
-href="http://www.democracynow.org/shows/2011/9/19"
-target="_blank">www.democracynow.org/2011/9/19</a> - (<a
-href="/rel/archive/video/ThirdParty/democrracy-now/Demnow-DemocracyNowMondaySeptember192011213.mp4"
-target="_blank">Local archive of video</a>)
+- [[http://www.youtube.com/watch?v=nOBeHwyVKJs&amp;feature=related][NEED TO KNOW | Are we slaves to debt? The history of spending more than we have | PBS]] - video
+- https://occupywallst.org/ - ([[http://www.webcitation.org/61pYwsBo1][WebCite]])
+- [[http://mhpbooks.com/book.php?id=308][Book: Debt, The First 5,000 Years, by David Graeber]] - ([[http://www.webcitation.org/61pY2gEMn][WebCite]])
+- http://www.democracynow.org/shows/2011/9/19 - ([[/rel/archive/video/ThirdParty/democrracy-now/Demnow-DemocracyNowMondaySeptember192011213.mp4][Local archive of video]])
 
 ** Id: graeber-03
-- <a href="http://www.youtube.com/watch?v=MQXe_xAcpAU"
-target="_blank">Part 2/2</a> - video
+- [[http://www.youtube.com/watch?v=MQXe_xAcpAU][Part 2/2]] - video
 
 ** Id: graeber-04
 - Excellent overview of the main points in his book. Funny quote:
@@ -555,12 +599,13 @@ would otherwise be psychotic is actually effective."<br /> Saved a
 local copy of this...
 
 ** Id: graeber-05
-- <a href="http://www.youtube.com/watch?v=zvhiCEEcLy4"
-target="_blank">part 2/2</a> - video
+- [[http://www.youtube.com/watch?v=zvhiCEEcLy4][part 2/2]] - video
 
 ** Id: graeber-06
-- Charlie Rose. 2006? ** Id: graeber-11 - See also
-[srslywrong-01]
+- Charlie Rose. 2006?
+
+** Id: graeber-11
+- See also [srslywrong-01]
 
 ** Id: graeber-12
 - David Graeber talked about jobs that he says qualify as
@@ -583,24 +628,19 @@ Boston, Mass., May 20, 1981 (PDF photocopy)
 Universe--and here's why it matters
 
 ** Id: hanauer-01
-- Published on May 17, 2012</p> <p><a
-href="http://www.youtube.com/watch?v=aOsZSIcU9OM" target="_blank">Nick
-Hanauer on His Banned TED Talk &amp; Why the Middle Class are the Job
-Creators</a> - Published on May 30, 2012 - From the Majority Report,
-live M-F 12 noon EST and via daily podcast at
-http://Majority.FM:
+- Published on May 17, 2012
+- [[http://www.youtube.com/watch?v=aOsZSIcU9OM][Nick Hanauer on His Banned TED Talk &amp; Why the Middle Class are
+  the Job Creators]] - Published on May 30, 2012 - From the Majority
+  Report, live M-F 12 noon EST and via daily podcast at
+  http://Majority.FM:
 
 ** Id: handcock-01
-- <a href="http://www.youtube.com/watch?v=DoG4XmEZsXc"
-target="_blank">Graham Hancock talks about his banned TED talk on the
-Lifeboat Hour with Mike Ruppert - 2013-17-03</a> - audio</p> <p><a
-href="http://www.grahamhancock.com/forum/HancockG6-TheWarOnConsciousness.php"
-target="_blank">The War On Consciousness: The Talk That Gave TED
-Indigestion, By Graham Hancock</a></p> <p><a
-href="http://www.youtube.com/watch?v=_hwLMBdnbXk" target="_blank">JRE:
-Eddie Huang TED Conference Exposed</a> - Published on Feb 28, 2013 Joe
-Rogan talks to Eddie Huang about his experience at the TED
-conference.
+- [[http://www.youtube.com/watch?v=DoG4XmEZsXc][Graham Hancock talks about his banned TED talk on the Lifeboat Hour with Mike Ruppert - 2013-17-03]] - audio
+- [[http://www.grahamhancock.com/forum/HancockG6-TheWarOnConsciousness.php][The War On Consciousness: The Talk That Gave TED Indigestion, By
+  Graham Hancock]]
+- [[http://www.youtube.com/watch?v=_hwLMBdnbXk][JRE: Eddie Huang TED Conference Exposed]] - Published on Feb 28, 2013
+  Joe Rogan talks to Eddie Huang about his experience at the TED
+  conference.
 
 ** Id: harari-02
 - Interviewed by Ari Melber
@@ -676,15 +716,17 @@ to vote."</p>
 ** Id: jakubowski-01
 - Alternate link: <a
 href="https://www.youtube.com/watch?v=S63Cy64p2lQ&quot;"
-target="_blank">Marcin Jakubowski:</a></p> <p><a
+>Marcin Jakubowski:</a>
+- <a
 href="http://www.yesmagazine.org/new-economy/20-machines-for-diy-civilization-open-source-ecology?utm_source=YTW&amp;utm_medium=Email&amp;utm_campaign=20150109"
-target="_blank">20 Machines for DIY Civilization, Open Source
-Ecology</a></p> <p><a href="http://vimeo.com/51764445"
-target="_blank">Another video</a>
+>20 Machines for DIY Civilization, Open Source
+Ecology</a>
+- <a href="http://vimeo.com/51764445"
+>Another video</a>
 
 ** Id: jakubowski-02
 - Watch <a href="http://opensourceecology.org/"
-target="_blank">Open Source Ecology</a> Founder Marcin Jakubowski
+>Open Source Ecology</a> Founder Marcin Jakubowski
 discuss the prospects for an open source, do it yourself
 civilization.
 
@@ -760,9 +802,10 @@ ship</li> <li>Some things need to be believed to be seen</li>
 
 ** Id: kickstarter-01
 - We have ordered one! The store: <a href="http://printrbot.com/"
-target="_blank">http://printrbot.com/</a></p> <p><a
+>http://printrbot.com/</a>
+- <a
 href="http://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing.html"
-target="_blank">Lisa Harouni: A primer on 3D printing</a> -
+>Lisa Harouni: A primer on 3D printing</a> -
 video
 
 ** Id: klaas-02 - <p>Book: "Corruptible: Who Gets Power and How it
@@ -795,9 +838,10 @@ pages
 ** Id: lanier-04
 # Old: youtube-002
 - The Internet mistake of "give it away for free, and you will be
-rewarded"</p> <p><a
+rewarded"
+- <a
 href="http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307269647/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1277582930&amp;sr=8-1"
-target="_blank">You Are Not a Gadget: A Manifesto, by Jaron Lanier</a>
+>You Are Not a Gadget: A Manifesto, by Jaron Lanier</a>
 - Read the book's Editorial Review section for a good Q&amp;A with
 Jaron, that summarizes his initial points.
 
@@ -818,12 +862,18 @@ on the moral roots of liberals and conservatives
 
 ** Id: lessig-03
 - "I don't care who does the <i>electing</i>, as long as I get to
-to the nominating."--"Boss" Tweed</p> <p>Solutions:</p> <p>1) Get rid
+to the nominating."--"Boss" Tweed
+- Solutions:
+- 1) Get rid
 of "private" money from the party system. I.e. neutralize
-Tweedism.</p> <p>2) Get rid of gerrymandering. (See the next link for
-a solution)</p> <p>3) Get rid of voting limits.</p> <p>True
+Tweedism.
+- 2) Get rid of gerrymandering. (See the next link for
+a solution)
+- 3) Get rid of voting limits.
+- True
 representation does not happen, ever, until <i>equal</i>
-representation is addressed <i>first</i>.</p> <p>Also by Larry Lessig
+representation is addressed <i>first</i>.
+- Also by Larry Lessig
 (Aug 10, 2017): <a
 href="https://www.youtube.com/watch?v=rHTBQCpNm5o">How the Net
 destroyed democracy | Lawrence Lessig | TEDxBerlinSalon</a> Mainly the
@@ -847,13 +897,19 @@ Athenians choose between their love of freedom and their love of
 community—and, in the end, they chose community.
 
 ** Id: linktv-01
-- Some quotes:</p> <p>Empathy is not really possible in a
-hierarchy system--Riane Eisler</p> <p>We institutionalize ignorance,
-then we go to war--Deepac Chopra</p> <p>Domination - generates
-fear--Riane Eisler</p> <p>Respect, in a hierarchy, is based on fear,
-[not admiration]. [paraphrase]--Riane Eisler</p> <p>The meaning of
+- Some quotes:
+- Empathy is not really possible in a
+hierarchy system--Riane Eisler
+- We institutionalize ignorance,
+then we go to war--Deepac Chopra
+- Domination - generates
+fear--Riane Eisler
+- Respect, in a hierarchy, is based on fear,
+[not admiration]. [paraphrase]--Riane Eisler
+- The meaning of
 life is not important. It is important to have an experience of the
-depth of life.--Joseph Campbell</p> <p>Stop looking for the right
+depth of life.--Joseph Campbell
+- Stop looking for the right
 person, become the right person.---Deepac Chopra
 
 ** Id: little-01
@@ -894,11 +950,12 @@ might find the deep healing they seek." - View Malidoma's Calendar</p>
 <p>Mind blowing: <a
 href="http://archive.constantcontact.com/fs123/1101454195791/archive/1115357337165.html">Part
 One of an interview with Malidoma, conducted by Leslee Goodman in
-2010</a></p> <p><a href="http://www.youtube.com/watch?v=MpUm6N0diwI"
-target="_blank">Malidoma SomÃ© Interview Part 1 of 6</a> - video</p>
+2010</a>
+- <a href="http://www.youtube.com/watch?v=MpUm6N0diwI"
+>Malidoma SomÃ© Interview Part 1 of 6</a> - video</p>
 <p><a
 href="http://www.motherjones.com/politics/1995/03/visions-malidoma-some"
-target="_blank">VISIONS: Malidoma Some</a> - Article, by D. Patrick
+>VISIONS: Malidoma Some</a> - Article, by D. Patrick
 Miller, Mother Jones, March/April 1995 Issue
 
 ** Id: margonelli-01
@@ -945,7 +1002,7 @@ gone.{margulis-02:loc1776}</blockquote>
 ** Id: mediaite-01
 - <a
 href="http://www.msnbc.msn.com/id/21134540/vp/44079837#44079837"
-target="_blank">Main source</a><br />
+>Main source</a><br />
 
 ** Id: medium-02
 - This is a great article, showing why we need to act sooner not
@@ -961,29 +1018,35 @@ it's time to take matters in to our own hands.
 
 ** Id: mendelssohn-01
 # Old: youtube-095
-- This is my own recording and edit of this talk.</p> <p><a
+- This is my own recording and edit of this talk.
+- <a
 href="https://www.youtube.com/watch?v=f47LGny-CiU"
-target="_blank">Tamera - Benjamin von Mendelssohn - Part 2 of
-2</a></p> <p><a
+>Tamera - Benjamin von Mendelssohn - Part 2 of
+2</a>
+- <a
 href="http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/ref=asap_bc?ie=UTF8"
-target="_blank">"The Sacred Matrix: From the Matrix of Violence to the
+>"The Sacred Matrix: From the Matrix of Violence to the
 Matrix of Life, The Foundation for a New Civilization"</a> - Book by
 Dieter Duhm. This book gives a pretty complete overview of the group's
-vision.</p> <p><a href="http://www.tamera.org/"
-target="_blank">Tamera's main web site</a> - web site</p> <p><a
+vision.
+- <a href="http://www.tamera.org/"
+>Tamera's main web site</a> - web site
+- <a
 href="https://www.youtube.com/channel/UCe8-23wgIRspP8paQif-6Vg"
-target="_blank">Tamera's youtube channel - Grace Media</a> -
+>Tamera's youtube channel - Grace Media</a> -
 videos
 
 ** Id: metaballstudios-01
-- Tiny ships all the way up to Ring World</p> <p>Other size
+- Tiny ships all the way up to Ring World
+- Other size
 comparisions: <a
 href="https://www.youtube.com/channel/UCQwFuQLnLocj5F7ZcmcuWYQ"
-target="_blank">MetaBallStudios</a>
+>MetaBallStudios</a>
 
 ** Id: metivier-01
-- * Are these thoughts useful?</p> <p>* How do these thoughts
-behave?</p> <p>The order doesn't matter.
++ Are these thoughts useful?
++ How do these thoughts behave?
++ The order doesn't matter.
 
 ** Id: meyers-01
 - Violence as a dichotomy, with the only choices being Violence or
@@ -1081,10 +1144,12 @@ things can ruin them.
 - There are fewer than a dozen quiet places left in the United
 States. Even in our wilderness areas and national parks, the average
 noise-free interval has shrunk to less than five minutes during
-daylight hours."</p> <p>"Silence is not the absence of something, but
-the presence of everything."</p> <p>Related: <a
+daylight hours."
+- "Silence is not the absence of something, but
+the presence of everything."
+- Related: <a
 href="http://www.ted.com/talks/bernie_krause_the_voice_of_the_natural_world.html"
-target="_blank">Bernie Krause: The voice of the natural world</a> -
+>Bernie Krause: The voice of the natural world</a> -
 video
 
 ** Id: moore-01
@@ -1092,14 +1157,17 @@ video
 <p>This is a typical enviro-angst show. Doom and glum with no
 reasonable solutions or a root cause. They only gave a glimpse of a
 root cause at 49:34 (https://youtu.be/Zk11vI-7czE?t=2974) our
-culture's denial of death.</p> <p>It's easier to fool the masses than
-to convince them that they are being fooled. -Mark Twain</p> <p>So
+culture's denial of death.
+- It's easier to fool the masses than
+to convince them that they are being fooled. -Mark Twain
+- So
 rather than focusing on the problem, how about solutions? For some
 examples, check out Charles Eisenstein at <a
 href="https://charleseisenstein.org/">https://charleseisenstein.org/
 "...the issue is not whether our current civilization is
 sustainable. Do we even want to sustain it? Can't we do better than
-this?"</a></p> <p><a href="https://charleseisenstein.org/">Or dig even
+this?"</a>
+- <a href="https://charleseisenstein.org/">Or dig even
 deeper with: Tamera at</a> <a
 href="https://www.tamera.org/">https://www.tamera.org/</a> We need to
 stop this "war" on the "other"; we are part of nature, and need to see
@@ -1122,7 +1190,8 @@ inmates are ready to be a part of society again.
 # Old: youtube-008
 - <a
 href="http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.webm">local
-archive</a></p> <p>Really excellent points. I think most of this can
+archive</a>
+- Really excellent points. I think most of this can
 be used as a starting point by any New Culture type companies. It is
 better than the Democratic Corporation concept that I've read.</p>
 <p>Complexity makes jobs very stressful and unproductive for
@@ -1150,22 +1219,26 @@ own bureaucracies.
 
 ** Id: npr-01
 - Wow the lack of U.S. government inaction for Covid-19 is
-criminal!</p> <p>Author Max Brooks became an expert on disaster
+criminal!
+- Author Max Brooks became an expert on disaster
 preparedness - from pandemics to nuclear war - through researching for
 his books, "World War Z," "Germ Warfare" and the forthcoming
 "Devolution." He spoke with Terry Gross about how the federal
 government is designed to respond to crises like COVID-19 - and what
 is preventing the tasks forces from being deployed. He will also
 explain why "panic is not preparation," and how to have good
-"fact-hygiene."</p> <p><a
+"fact-hygiene."
+- <a
 href="https://www.npr.org/2020/03/24/820601571/all-of-this-panic-could-have-been-prevented-author-max-brooks-on-covid-19">Transcript</a></p>
 <p><a href="https://www.youtube.com/watch?v=4S2v3DMnb10"
-target="_blank">Go home! - Mel Brooks and son Max share a comedic PSA
-on the coronavirus.</a></p> <p><a
+>Go home! - Mel Brooks and son Max share a comedic PSA
+on the coronavirus.</a>
+- <a
 href="https://www.amazon.com/World-War-Unrated-Brad-Pitt/dp/B00EMJBVAI/ref=sr_1_2?crid=36TQB36J9F9YX&amp;dchild=1&amp;keywords=world+war+z&amp;qid=1585107543&amp;sprefix=%2Cinstant-video%2C224&amp;sr=8-2"
-target="_blank">World War Z (Unrated) 2h 3m</a></p> <p><a
+>World War Z (Unrated) 2h 3m</a>
+- <a
 href="https://www.amazon.com/World-War-Z-Brad-Pitt/dp/B00EL8I8IS/ref=sr_1_3?crid=36TQB36J9F9YX&amp;dchild=1&amp;keywords=world+war+z&amp;qid=1585107543&amp;sprefix=%2Cinstant-video%2C224&amp;sr=8-3"
-target="_blank">World War Z 1h 56m</a>
+>World War Z 1h 56m</a>
 
 ** Id: nunez-01
 - A PDF snapshot was taken because Internet Archive couldn't
@@ -1176,7 +1249,8 @@ archive the page directly.
 10 years now. There's been hot product after hot product. But the
 thing is, there's always another one on the shelf," he said. "When we
 did this trip, I had no idea that these stores wouldn't be able to get
-replenished."</p> <p>I think this is a very good summary of his
+replenished."
+- I think this is a very good summary of his
 misjudgment: <a
 href='https://tech.slashdot.org/comments.pl?sid=15977978&amp;cid=59836310'>Comment</a>
 on this post: <a
@@ -1187,7 +1261,7 @@ them</a>
 ** Id: nytimes-02
 - <a
 href="http://www.dilisosfinefoods.com/stake-prune-your-beefsteaks/"
-target="_blank">Stake &amp; prune your beefsteaks</a>
+>Stake &amp; prune your beefsteaks</a>
 
 ** Id: nytimes-03
 - TUSCALOOSA, Ala. - Several college students in an Alabama city
@@ -1215,15 +1289,18 @@ branch. </pre>
 ** Id: youtube-151
 - John Oliver discusses how the histories of policing and white
 supremacy are intertwined, the roadblocks to fixing things, and some
-potential paths forward.</p> <p>Great rant! He ends with viral video
-by Kimberly Jones.</p> <p>Here Trevor Noah interviews Kimberly Jones
+potential paths forward.
+- Great rant! He ends with viral video
+by Kimberly Jones.
+- Here Trevor Noah interviews Kimberly Jones
 on June 19: <a
 href="https://www.youtube.com/watch?v=U1k9APedIUY">Kimberly Jones -
 Speaking Out About Black Experiences in America | The Daily Social
 Distancing Show</a>
 
 ** Id: olson-01
-- <b>Gerrymandering solution.</b></p> <p>Here's a link to Brian's
+- <b>Gerrymandering solution.</b>
+- Here's a link to Brian's
 site that shows how federal and state districts are drawn with his
 algorithm. Don't like his algorithm? His suggestion is that any group
 tasked with redistricting needs to use algorithms that are reviewable
@@ -1231,14 +1308,16 @@ by the public so that "special" biases can be identified. Have maybe 5
 different algorithms define 5 district maps, then have the state or
 federal legislators vote on the ones that will be used for the next 10
 years, i.e. until the next census. <a
-href="https://bdistricting.com/2010/" target="_blank">Impartial
-Automatic Redistricting</a></p> <p>Another good rant by John Oliver
+href="https://bdistricting.com/2010/" >Impartial
+Automatic Redistricting</a>
+- Another good rant by John Oliver
 (Apr 9, 2017): <a
 href="https://www.youtube.com/watch?v=A-4dIImaodQ">Gerrymandering:
-Last Week Tonight with John Oliver (HBO)</a></p> <p>Here's another
+Last Week Tonight with John Oliver (HBO)</a>
+- Here's another
 talk on algorithmic solutions: <a
 href="https://www.youtube.com/watch?v=Mv9kscNo5Gc"
-target="_blank">Data Science Can Solve Gerrymandering | Frank Evans |
+>Data Science Can Solve Gerrymandering | Frank Evans |
 TEDxUCO</a> evans-02
 
 ** Id: olson-02
@@ -1246,7 +1325,8 @@ TEDxUCO</a> evans-02
 
 ** Id: onezero-medium-02
 - by Colin Horgan. Why shutting down Twitter accounts or limiting
-Facebook groups won't solve our problem.</p> <p>My comments: Could a
+Facebook groups won't solve our problem.
+- My comments: Could a
 "voting" system such as stackoverflow.com help? Also signed text with
 authenticated key will probably be needed.
 
@@ -1258,7 +1338,8 @@ that they're turning Americans away from militarism, instead
 advocating social justice, including quality education, universal
 health care, and good living wage/essential benefits jobs - the direct
 opposite of current US policy under either dominant party, each like
-the other, only pretending to be different.</p> <p>As a result, FNB
+the other, only pretending to be different.
+- As a result, FNB
 urges volunteers to stay focused, wary that infiltrators spread fear
 and disrupt constitutionally protected activities. Especially
 post-9/11, <i>advocating peace and social justice are now crimes,</i>
@@ -1301,21 +1382,24 @@ the human personality cries out, 'I can take it no longer.'"
 
 ** Id: pbs-02
 - Paleontologist Kirk Johnson explores the dynamic history-and
-future-of ice at the poles.</p> <p>I grep'ed through the full
+future-of ice at the poles.
+- I grep'ed through the full
 transcript. There is no mention of the Gaia Theory. The climate
 descriptions are all a result of inorganic
 processes. Disappointing. However the photography is stunning."
 
 ** Id: perel-02
 - In long-term relationships, we often expect our beloved to be
-both best friend and erotic partner.</p> <p>So we come to one person,
+both best friend and erotic partner.
+- So we come to one person,
 and we basically are asking them to give us what once an entire
 village used to provide. Give me belonging, give me identity, give me
 continuity, but give me transcendence and mystery and awe all in
 one. Give me comfort, give me edge. Give me novelty, give me
 familiarity. Give me predictability, give me surprise. And we think
 it's a given, and toys and lingerie are going to save us with
-that.</p> <p>So if there is a verb, for me, that comes with love, it's
+that.
+- So if there is a verb, for me, that comes with love, it's
 "to have." And if there is a verb that comes with desire, it is "to
 want." In love, we want to have, we want to know the beloved. We want
 to minimize the distance. We want to contract that gap. We want to
@@ -1326,9 +1410,10 @@ somebody on the other side that we can go visit, that we can go spend
 some time with, that we can go see what goes on in their red-light
 district. You know? In desire, we want a bridge to cross. Or in other
 words, I sometimes say, fire needs air. Desire needs space. And when
-it's said like that, it's often quite abstract.</p> <p>Book: <a
+it's said like that, it's often quite abstract.
+- Book: <a
 href="https://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence-ebook/dp/B000UODXP0/"
-target="_blank">Mating in Captivity: Unlocking Erotic Intelligence, by
+>Mating in Captivity: Unlocking Erotic Intelligence, by
 Esther Perel</a>
 
 ** Id: perform-01
@@ -1348,13 +1433,15 @@ mental cognitive tasks. Yet businesses ignore this, tested
 fact.
 
 ** Id: pinker-01
-- Fascinating.</p> <p><a
+- Fascinating.
+- <a
 href="http://www.ted.com/talks/steven_pinker_chalks_it_up_to_the_blank_slate.html"
-target="_blank">TED: Steven Pinker: Chalks It Up To The Blank
+>TED: Steven Pinker: Chalks It Up To The Blank
 Slate</a>
 
 ** Id: piper-01
-- by Grant Piper</p> <p>A mysterious apocalypse brought down
+- by Grant Piper
+- A mysterious apocalypse brought down
 nearly all of human civilization three thousand years ago
 
 ** Id: popova-01
@@ -1366,7 +1453,8 @@ nearly all of human civilization three thousand years ago
 ** Id: potter-01
 # Old: youtube-113
 - More: <a href="WillPotter.com/CMU">WillPotter.com/CMU</a> -
-notes</p> <p>The solution is transparency.
+notes
+- The solution is transparency.
 
 ** Id: rachel-01
 - Issues 1 to 854: https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4<br>
@@ -1383,14 +1471,16 @@ But is where is a complete archive of all these newsletters?
 
 ** Id: rafnel-01
 - This was taken around noon Wed 2020-09-09 at Redwood City,
-CA.</p> <p>The air quality was "Moderate" (64) because the smoke is
+CA.
+- The air quality was "Moderate" (64) because the smoke is
 luckily trapped above an inversion layer. The temperature is only 66F
 because the sun is blocked so much. It was 105F on Monday.
 
 ** Id: rafnel-03
 -  <p>What is the PGP Web of Trust Strongset?<br>
 https://crypto.stackexchange.com/questions/80629/what-is-the-pgp-web-of-trust-strongset<br>
-https://archive.ph/CsQje</p> <p>The web of trust is no longer
+https://archive.ph/CsQje
+- The web of trust is no longer
 active. It was removed in GPG version 2.2.17.<br> June 2016 the
 keyserver network was attacked in a way that fundamentally broke the
 whole thing. See: "SKS Keyserver Network Under Attack"<br>
@@ -1402,8 +1492,10 @@ Rankin: Mind Over Medicine: Scientific Proof You Can Heal Yourself,
 Talks at Google</a> - A longer talk given at Google. - 54min</p>
 <p>Book: <a
 href="http://www.amazon.com/Mind-Over-Medicine-Scientific-Yourself/dp/1401939988/ref=tmm_hrd_title_0">Mind
-Over Medicine, by Lissa Rankin</a></p> <p>Site: <a
-href="HealHealthCareNow.com">HealHealthCareNow.com</a></p> <p>Site: <a
+Over Medicine, by Lissa Rankin</a>
+- Site: <a
+href="HealHealthCareNow.com">HealHealthCareNow.com</a>
+- Site: <a
 href="OwningPink.com">OwningPink.com</a></p> <pre> * Placebo happens
 when the body is relaxed. * The body can't heal itself on stress
 hormones. * The amygdala can't read. * No one knows your body better
@@ -1443,29 +1535,23 @@ Found because of comment by [hawks-01] on video [chapman-02].
 
 ** Id: robertson-01
 # Old: youtube-026
-- All good:</p> <p><a
-href="http://www.youtube.com/watch?v=14msmjowzrc"
-target="_blank">Jeanne Robertson "Don't Get Frisky in a tent!" ("Don't
-sleep in a tent with Left Brain!")</a></p> <p><a
-href="http://www.youtube.com/watch?v=-YFRUSTiFUs"
-target="_blank">Jeanne Robertson "Don't send a man to the grocery
-store!"</a></p> <p><a
-href="http://www.youtube.com/watch?v=moSKtnuRnsM"
-target="_blank">Jeanne Robertson "Flight attendant deals with a bad
-potato"</a></p> <p><a
-href="http://www.youtube.com/watch?v=RE82Gt93UYc"
-target="_blank">Jeanne Robertson "Mothers vs Teenage
-Daughters"</a></p> <p><a
-href="http://www.youtube.com/watch?v=TeUdZ2VkG30"
-target="_blank">Jeanne Robertson "Don't go rafting without a Baptist
-in the boat!"</a></p> <p><a
-href="http://www.youtube.com/watch?v=uURhPZgjHfw"
-target="_blank">Jeanne Robertson at the Grand Ole Opry</a></p> <p><a
-href="http://www.youtube.com/watch?v=jICYirpMgX4"
-target="_blank">Jeanne Robertson "The Golfer's Christening"</a>
+- All good:
+- <a href="http://www.youtube.com/watch?v=14msmjowzrc">Jeanne Robertson "Don't Get Frisky in a tent!" ("Don't
+  sleep in a tent with Left Brain!")</a>
+- <a href="http://www.youtube.com/watch?v=-YFRUSTiFUs">Jeanne Robertson "Don't send a man to the grocery
+  store!"</a>
+- <a href="http://www.youtube.com/watch?v=moSKtnuRnsM">Jeanne Robertson "Flight attendant deals with a bad
+potato"</a>
+- <a href="http://www.youtube.com/watch?v=RE82Gt93UYc">Jeanne Robertson "Mothers vs Teenage
+  Daughters"</a>
+- <a href="http://www.youtube.com/watch?v=TeUdZ2VkG30">Jeanne Robertson "Don't go rafting without a Baptist
+  in the boat!"</a>
+- <a href="http://www.youtube.com/watch?v=uURhPZgjHfw">Jeanne Robertson at the Grand Ole Opry</a>
+- <a href="http://www.youtube.com/watch?v=jICYirpMgX4">Jeanne Robertson "The Golfer's Christening"</a>
 
 ** Id: rodgers-01
-- by Travis Rodgers</p> <p>Answer: Time (duh)
+- by Travis Rodgers
+- Answer: Time (duh)
 
 ** Id: ronson-01
 # Old: youtube-112
@@ -1475,13 +1561,18 @@ target="_blank">Jeanne Robertson "The Golfer's Christening"</a>
 - US incarceration rate from 1925 to 1975 was quite "stable", 100
 per 100,000. After 1975 it rapidly climbs to 700 per 100,000 (over the
 last 40 years). The U.S. is 7 to 10 times higher than in European
-countries.</p> <p>Crime moves in sync with, better policing, better
-social conditions, not incarceration.</p> <p>He highlights German
-prisons. What a sane system!</p> <p><b>Article 1 of the German
+countries.
+- Crime moves in sync with, better policing, better
+social conditions, not incarceration.
+- He highlights German
+prisons. What a sane system!
+- <b>Article 1 of the German
 Constitution: "Human dignity shall be inviolable. To respect and
-protect it shall be the duty of all state authority."</b></p> <p>He
+protect it shall be the duty of all state authority."</b>
+- He
 went to Germany to "learn". How does a society go from such inhumanity
-to being humane?</p> <p>Quote from Fyodor Dostoevsky: "The degree of
+to being humane?
+- Quote from Fyodor Dostoevsky: "The degree of
 civilization in a society can be judged by entering its
 prisons."
 
@@ -1492,7 +1583,8 @@ YouTube</a>
 
 ** Id: russell-01
 # Old: youtube-025
-- Image is powerful</p> <p>Image is superficial
+- Image is powerful
+- Image is superficial
 
 ** Id: salon-01
 - Donald Trump's approval rating has not move below 40 to 42%.</p>
@@ -1502,7 +1594,7 @@ because it will also require recognizing the unthinkable possibility
 that liberals were right.
 
 ** Id: sandel-01
-- <a href="http://justiceharvard.org/" target="_blank">The full
+- <a href="http://justiceharvard.org/" >The full
 series</a>
 
 ** Id: savory-01
@@ -1541,24 +1633,30 @@ feel".
 ** Id: sheldrake-02
 - <a
 href="http://blog.ted.com/2013/03/19/the-debate-about-rupert-sheldrakes-talk/"
-target="_blank">Banned TED talk: Dr. Rupert Sheldrake</a> -
-blog.ted.com, video</p> <p><a
+>Banned TED talk: Dr. Rupert Sheldrake</a> -
+blog.ted.com, video
+- <a
 href="http://www.youtube.com/watch?v=kAuxXvNVhgA"
-target="_blank">02/04/2013 - Dr. Rupert Sheldrake talks about his
-banned TED talk on Skeptiko with Alex Tsakiris</a> - audio</p> <p><a
-href="http://www.youtube.com/watch?v=JnA8GUtXpXY" target="_blank">The
-Extended Mind: Recent Experimental Evidence</a> - video</p> <p><a
+>02/04/2013 - Dr. Rupert Sheldrake talks about his
+banned TED talk on Skeptiko with Alex Tsakiris</a> - audio
+- <a
+href="http://www.youtube.com/watch?v=JnA8GUtXpXY" >The
+Extended Mind: Recent Experimental Evidence</a> - video
+- <a
 href="http://www.youtube.com/watch?v=0waMBY3qEA4"
-target="_blank">Rupert Sheldrake at EU 2013 - "Science Set Free" (Part
-1)</a> - video</p> <p><a
+>Rupert Sheldrake at EU 2013 - "Science Set Free" (Part
+1)</a> - video
+- <a
 href="http://www.youtube.com/watch?v=VRKvvxku5So"
-target="_blank">Rupert Sheldrake at EU 2013 - "Science Set Free" (Part
-2)</a> - video</p> <p><a
+>Rupert Sheldrake at EU 2013 - "Science Set Free" (Part
+2)</a> - video
+- <a
 href="http://www.amazon.com/Science-Set-Free-Discovery-ebook/dp/B0076PGG6Y/ref=tmm_kin_title_0?ie=UTF8&amp;qid=1375421310&amp;sr=8-1"
-target="_blank">Science Set Free: 10 Paths to New Discovery</a> -
-Book</p> <p><a
+>Science Set Free: 10 Paths to New Discovery</a> -
+Book
+- <a
 href="http://www.amazon.com/Morphic-Resonance-Formative-Causation-ebook/dp/B003ZHVB6C/ref=tmm_kin_title_0?ie=UTF8&amp;qid=1375421310&amp;sr=8-2"
-target="_blank">Morphic Resonance: The Nature of Formative
+>Morphic Resonance: The Nature of Formative
 Causation</a> - Book
 
 ** Id: shellenberger-01
@@ -1567,13 +1665,15 @@ nuclear. Well, there are safer and cleaner nuclear designs. But of
 course he doesn't address those. The issue of long-term storage of
 spent fuel was not addressed. The issue of meltdowns, with "active"
 fail-safes, in the current designs were not addressed. ("Passive"
-fail-safe designs are way more reliable.)</p> <p>Also, in his
+fail-safe designs are way more reliable.)
+- Also, in his
 descriptions of the problems with "renewable", he only talked about
 "centralize" renewables, i.e. large scale projects; he quickly brushed
 aside decentralized options as being more expensive. He also
 characterized lots of smaller renewable plants as being more
 fragile. Huh?! He truly does not understand <i>redundancy</i> in
-providing fault-tolerant systems.</p> <p>Others pointed out, he didn't
+providing fault-tolerant systems.
+- Others pointed out, he didn't
 really address other storage options that are being developed. For
 example, liquid air.
 
@@ -1582,21 +1682,25 @@ example, liquid air.
 
 ** Id: shirky-01
 - Book: Here Comes Everybody: The Power of Organizing Without
-Organizations, by Clay Shirky.</p> <p>Interview by Rob Kall, Bottom Up
+Organizations, by Clay Shirky.
+- Interview by Rob Kall, Bottom Up
 Radio Show Podcast
 
 ** Id: silverman-01
-- </p> <p>Another video banned by TED. Wow, really shocking, but
-strangely honest.</p> <p><a
+- 
+- Another video banned by TED. Wow, really shocking, but
+strangely honest.
+- <a
 href="http://www.youtube.com/watch?v=u-eWgXfR3Uw"
-target="_blank">BANNED TEDx TALKS: Real Truth, Science, Consciousness,
+>BANNED TEDx TALKS: Real Truth, Science, Consciousness,
 etc.</a>
 
 ** Id: smith-03
 - by Thomas Smith. And what it says about the problems with
-trusting your smartphone camera.</p> <p><a
+trusting your smartphone camera.
+- <a
 href="https://www.youtube.com/watch?v=MnyFxZlWjrY"
-target="_blank">Redwood City, CA - video</a>
+>Redwood City, CA - video</a>
 
 ** Id: smith-06
 - Good points. His used of Institution is equivalent to the
@@ -1656,8 +1760,9 @@ what we want. Share more.
 gov. issued money. History of money in the world and the US. <p>The
 video has been removed, but you can still buy the DVD (or google for
 other sources, it is 101 min long). It is really worth it! <a
-href="http://www.secretofoz.com/" target="_blank">Buy it here.</a>
-($19.95 for 1, $60 for 5)</p> <p><a
+href="http://www.secretofoz.com/" >Buy it here.</a>
+($19.95 for 1, $60 for 5)
+- <a
 href="http://www.webcitation.org/5zvtfLx4Q">Populist Party Platform
 (1892)</a>
 
@@ -1674,11 +1779,13 @@ reduce our emissions if China won't."
 ** Id: struggleforfreedom-blogg-no-01
 - <a
 href="http://www.youtube.com/watch?feature=player_embedded&amp;v=Vu8J_UKKa-c"
-target="_blank">Direct Democracy</a> - video. This is a very good
-summary of a more humane society</p> <p><a
+>Direct Democracy</a> - video. This is a very good
+summary of a more humane society
+- <a
 href="http://www.youtube.com/watch?v=VUig0lFHDDw"
-target="_blank">Anarchists in the 1936 Spanish Civil War</a> - The
-Catalonia experiment - video</p> <p>Source: <a
+>Anarchists in the 1936 Spanish Civil War</a> - The
+Catalonia experiment - video
+- Source: <a
 href="http://occupywallst.org/article/watch-live-ows-new-years-eve-festivities/#comments">OWS
 New Year's Eve Festivities - comments</a> - see user:
 struggleforfreedom80 (saved)
@@ -1686,7 +1793,8 @@ struggleforfreedom80 (saved)
 ** Id: suzuki-01
 - <a
 href="http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/david_suzuki_an_elders_vision_for_our_sustainable_future.mp4">local
-archive</a></p> <p>See also: <a
+archive</a>
+- See also: <a
 href="http://www.youtube.com/watch?v=IwxedZG21ZE">Dr. David Suzuki -
 Message to The World_from Occupy Vancouver</a> - 25min
 
@@ -1722,7 +1830,8 @@ climate.
 - The second potential danger is more troubling: in a world where
 the past haunts the present, young people may calcify their
 identities, perspectives, and political positions at an increasingly
-young age.</p> <p>In 2017, Harvard University rescinded admission
+young age.
+- In 2017, Harvard University rescinded admission
 offers to 10 students after discovering that they had shared offensive
 memes in a private Facebook chat. In 2019, the university withdrew
 another offer-to Kyle Kashuv, an outspoken conservative survivor of
@@ -1735,7 +1844,8 @@ his peers recovered the document and shared it with the media.</p>
 <p>There are reasons to applaud Harvard for refusing to take these
 students. Such decisions offer hope that future generations will be
 held accountable for racist, sexist, and homophobic behavior. This is
-a step in the right direction. But there is a flip side.</p> <p>When
+a step in the right direction. But there is a flip side.
+- When
 Kashuv discovered he had lost his place at Harvard, he did what any
 digital native would do-he shared his reaction online. On Twitter, he
 wrote, "Throughout its history, Harvard's faculty has included slave
@@ -1761,7 +1871,8 @@ NOT helping other people."</li> </ul>
 
 ** Id: ted-09
 - Wow, this is powerful! This took them years. Again, *time* is
-needed for humane solutions.</p> <p>The Q&amp;A section is worth
+needed for humane solutions.
+- The Q&amp;A section is worth
 reading too. (link at bottom of page)
 
 ** Id: text-mindmap-01
@@ -1827,26 +1938,30 @@ languages is not supported--the assertion is that defect free software
 is impossible. Well too expensive, for the expected life of the
 software product, is the real reason when engineer's press the
 issue. Defective software is good, because you can sell fixes, if new
-features can't be convincing enough.</p> <p>A bit at the end: getting
+features can't be convincing enough.
+- A bit at the end: getting
 off the "growth cycle". There can be jobs in repair and in closing the
 loop to eliminate waste.
 
 ** Id: tufekci-01
-- by Zeynep Tufekci in The Atlantic</p> <p>It is not average
+- by Zeynep Tufekci in The Atlantic
+- It is not average
 transmition rate. It's the clusters.
 
 ** Id: tulley-01
 - Book: <a href="http://www.amazon.com/dp/0451234197/
 
 ** Id: tulley-02
-- You can change people's brains.</p> <p>Look at the brain, don't
+- You can change people's brains.
+- Look at the brain, don't
 just treat symptoms.
 
 ** Id: tulley-03
 - Repair damage.
 
 ** Id: turbotaxsucksass-01
-- TurboTax and other tax prepares hide their free sites.</p> <p>If
+- TurboTax and other tax prepares hide their free sites.
+- If
 you have Netflix, see Patriot Act: Volume 6, Why Doing Taxes Is So
 Hard
 
@@ -1854,24 +1969,29 @@ Hard
 - The idea of harvesting energy from graphene is controversial
 because it refutes physicist Richard Feynman's well-known assertion
 that the thermal motion of atoms, known as Brownian motion, cannot do
-work.</p> <p><a href="https://www.youtube.com/watch?v=KiLTEjm8zLw"
-target="_blank">Graphene Animation</a></p> <p>According to Kumar, the
+work.
+- <a href="https://www.youtube.com/watch?v=KiLTEjm8zLw"
+>Graphene Animation</a>
+- According to Kumar, the
 graphene and circuit share a symbiotic relationship. Though the
 thermal environment is performing work on the load resistor, the
 graphene and circuit are at the same temperature and heat does not
-flow between the two.</p> <p>"This means that the second law of
+flow between the two.
+- "This means that the second law of
 thermodynamics is not violated, nor is there any need to argue that
 'Maxwell's Demon' is separating hot and cold electrons," Thibado
 said.
 
 ** Id: uctv-01
-- First Aired: 3/14/2011, 58 minutes</p> <p>Bill Moyers examines
+- First Aired: 3/14/2011, 58 minutes
+- Bill Moyers examines
 the deteriorating and increasingly corrupt state of affairs that our
 government has devolved into and the accompanying divisiveness
 sweeping the country. Is there hope for things to improve? For the
-first time in his life, Moyers isn't optimistic.</p> <p><a
+first time in his life, Moyers isn't optimistic.
+- <a
 href="http://en.wikipedia.org/wiki/Arthur_Schopenhauer"
-target="_blank">Arthur Schopenhauer</a> - philosopher</p>
+>Arthur Schopenhauer</a> - philosopher</p>
 <p>Recommended books:</p> <pre> * A Paradise Built in Hell, by Rebecca
 Solnit - study of people in disasters * Spirit Level, by Richard
 G. Wilkinson * Kabuki Democracy: The System vs. Barack Obama, by Eric
@@ -1896,19 +2016,23 @@ never owned.
 - Luck plays the biggest part.
 
 ** Id: veritasium-02
-- Longer life:</p> <p>To counter this decline, we can activate the
+- Longer life:
+- To counter this decline, we can activate the
 body's own defenses against aging by stressing the body. Eat less, eat
 less protein, engage in intense exercise, experience uncomfortable
 cold [or hot]. When the body senses existential threats it triggers
 longevity genes, which attempt to maintain the body to ensure its
-survival until good times return.</p> <p>Scientists are uncovering
+survival until good times return.
+- Scientists are uncovering
 ways to mimic stresses on the body without the discomfort of
 fasting. Molecules like NMN also trigger sirtuins to monitor and
 repair the epigenome. This may slow aging.
 
 ** Id: veritasium-03
-- by Veritasium</p> <p>Watch Time (currently an average of 10 min
-is best)</p> <p>Title and Thumbnail are key - it affects CTR, click
+- by Veritasium
+- Watch Time (currently an average of 10 min
+is best)
+- Title and Thumbnail are key - it affects CTR, click
 threw rate
 
 ** Id: video-google-03
@@ -1924,7 +2048,7 @@ href="http://www.nbcsandiego.com/news/local/Ken-Kramers-About-San-Diego.html%20t
 />
 
 ** Id: vimeo-01
-- <a href="http://www.livingeconomies.org/" target="_blank">BALLE
+- <a href="http://www.livingeconomies.org/" >BALLE
 - Business Alliance for Local Living Economies</a>
 
 ** Id: watts-01
@@ -1933,25 +2057,25 @@ href="http://www.nbcsandiego.com/news/local/Ken-Kramers-About-San-Diego.html%20t
 href="http://www.youtube.com/results?search_query=alan+watts+nothing&amp;aq=f">Alan
 Watts on YouTube</a> <ol> <li><a
 href="http://www.youtube.com/watch?v=FY50vvMjX_o"
-target="_blank">Career Advice from Alan Watts</a></li> <li><a
-href="http://www.youtube.com/watch?v=3X1OmSf4bf8" target="_blank">Alan
+>Career Advice from Alan Watts</a></li> <li><a
+href="http://www.youtube.com/watch?v=3X1OmSf4bf8" >Alan
 Watts on schooling</a></li> <li><a
-href="http://www.youtube.com/watch?v=9mUaZxLpdOQ" target="_blank">Alan
+href="http://www.youtube.com/watch?v=9mUaZxLpdOQ" >Alan
 Watts - We are all basically nothing</a></li> <li><a
-href="http://www.youtube.com/watch?v=pxQayQH1IRw" target="_blank">Are
+href="http://www.youtube.com/watch?v=pxQayQH1IRw" >Are
 you really what you imagine yourself to be? Alan Watts</a></li> <li><a
-href="http://www.youtube.com/watch?v=OxJCDXrEKpw" target="_blank">Alan
+href="http://www.youtube.com/watch?v=OxJCDXrEKpw" >Alan
 Watts - Seeing Beyond The Game</a></li> <li><a
-href="http://www.youtube.com/watch?v=7blUYJm6i-c" target="_blank">Alan
+href="http://www.youtube.com/watch?v=7blUYJm6i-c" >Alan
 Watts: The Way of Waking Up</a></li> <li><a
-href="http://www.youtube.com/watch?v=V-mkia0RE6A" target="_blank">The
+href="http://www.youtube.com/watch?v=V-mkia0RE6A" >The
 illusion of the Ego - ALAN WATTS</a></li> <li><a
-href="http://www.youtube.com/watch?v=hHxUHS-3whw" target="_blank">Alan
+href="http://www.youtube.com/watch?v=hHxUHS-3whw" >Alan
 Watts On Who Are You</a></li> <li><a
 href="http://www.youtube.com/watch?v=ZY28PJZY5eo&amp;feature=list_related&amp;playnext=1&amp;list=AVGxdCwVVULXfPLzHd6rMa7ISrFJHIj7ZO"
-target="_blank">YouTube Mix for Alan Watts</a> - by
+>YouTube Mix for Alan Watts</a> - by
 elliotwitheart</li> </ol> <p>Alan Watt - (not Watts!)</p> <ul> <li><a
-href="http://www.youtube.com/watch?v=NMAqtjV1OdU" target="_blank">Alan
+href="http://www.youtube.com/watch?v=NMAqtjV1OdU" >Alan
 Watt - The modern slave</a></li> <li><a
 href="http://www.youtube.com/watch?v=qFjGj77wG-4%20target=">Alan Watt
 The Truth About Sports</a></li> </ul>
@@ -2040,69 +2164,73 @@ with was: activism
 ** Id: youtube-017
 - The day democracy in the US ended: January 21, 2010. USA is now
 UCA (United Corporate America). <p><a
-href="http://www.youtube.com/watch?v=oL-_pGYwIvU" target="_blank">The
+href="http://www.youtube.com/watch?v=oL-_pGYwIvU" >The
 New American Corporatocracy! A Special Comment - Part 2 of 2</a></p>
 <p><a href="http://www.youtube.com/watch?v=8z_UCyOyRU8&amp;NR=1"
-target="_blank">Keith Olbermann Interviews Alan Grayson About The
+>Keith Olbermann Interviews Alan Grayson About The
 Supreme Court Case of Citizens United vs. FEC</a> - "103 years of
 settled law overturned"<br /> <a href="http://savedemocracy.net"
-target="_blank">Save Democracy</a> - Petition by Alan Grayson
+>Save Democracy</a> - Petition by Alan Grayson
 
 ** Id: youtube-020
 - It would be really cool if this apparatus was added to Olympic
-gymnastics.</p> <p><b>German Wheel</b></p> <ol> <li><a
+gymnastics.
+- <b>German Wheel</b></p> <ol> <li><a
 href="http://www.youtube.com/watch?v=zdofoEl4R8U"
-target="_blank">Simon Knapp German Wheel Straight Line
+>Simon Knapp German Wheel Straight Line
 Exercise</a></li> <li><a
-href="http://www.youtube.com/watch?v=DAk_p1fjRZc" target="_blank">Roue
+href="http://www.youtube.com/watch?v=DAk_p1fjRZc" >Roue
 Allemande, German wheel, Frédéric Lemieux Cormier</a></li> <li><a
 href="http://www.youtube.com/watch?v=Xr0fYUzvxP0"
-target="_blank">Rhoenrad-WM 2011 in Arnsberg - Weltmeisterin Hoffmann
+>Rhoenrad-WM 2011 in Arnsberg - Weltmeisterin Hoffmann
 04 Juni 2010.flv</a></li> <li><a
 href="http://www.youtube.com/watch?v=hw59vHdC8pE"
-target="_blank">Wheel Act Gymmotion 2007</a></li> <li><a
+>Wheel Act Gymmotion 2007</a></li> <li><a
 href="http://www.youtube.com/watch?v=DZdTCOJhQfY"
-target="_blank">Rhönradturnen - World-Team Cup 2010 - Svenja Trepte
+>Rhönradturnen - World-Team Cup 2010 - Svenja Trepte
 (Germany) - Spirale</a></li> <li><a
 href="http://www.youtube.com/watch?v=8clnDaY98Ps"
-target="_blank">Peinture et Roue</a></li> </ol> <p><b>Cyr
+>Peinture et Roue</a></li> </ol> <p><b>Cyr
 Wheel</b></p> <ol> <li><a
-href="http://www.youtube.com/watch?v=WzGTvYTAvXc" target="_blank">Cyr
+href="http://www.youtube.com/watch?v=WzGTvYTAvXc" >Cyr
 Wheel Robert Maaser</a></li> <li><a
 href="http://www.youtube.com/watch?v=PlSCa9mNlNo"
-target="_blank">Arnsberg freut sich auf die Weltmeisterschaften im
+>Arnsberg freut sich auf die Weltmeisterschaften im
 Rhönradturnen 2011</a></li> <li><a
-href="http://www.youtube.com/watch?v=bjtQC2x6FAU" target="_blank">Cyr
+href="http://www.youtube.com/watch?v=bjtQC2x6FAU" >Cyr
 Act Gymmotion 2009 "The Ring"</a></li> <li><a
 href="http://www.youtube.com/watch?v=ZtNNwqcF_0g"
-target="_blank">World Championships Wheel Gymnastics 2011 - Final "Cyr
+>World Championships Wheel Gymnastics 2011 - Final "Cyr
 Battle"</a> - wow</li> <li><a
 href="http://www.youtube.com/watch?v=MBBypvakUdI"
-target="_blank">Circonvolution improbable... Alexandre Lane Roue Cyr -
+>Circonvolution improbable... Alexandre Lane Roue Cyr -
 Cyr wheel ImproCirque 9 juillet 2011</a> - wow</li> <li><a
-href="http://www.youtube.com/watch?v=zCRqwaZh7l0" target="_blank">Roue
+href="http://www.youtube.com/watch?v=zCRqwaZh7l0" >Roue
 Cyr Moscow</a></li> <li><a
 href="http://www.youtube.com/watch?v=XugfVuArOQg"
-target="_blank">Angelica Bongiovonni Roue Cyr Demo</a></li> <li><a
-href="http://www.youtube.com/watch?v=3qDg9Cr_GJA" target="_blank">Cyr
+>Angelica Bongiovonni Roue Cyr Demo</a></li> <li><a
+href="http://www.youtube.com/watch?v=3qDg9Cr_GJA" >Cyr
 Wheel Act - CORTEO (Cirque du Soleil)</a></li> </ol>
 
 ** Id: youtube-028
 - Well the first 5 min. is the summary; the actual video is almost
 2 hrs. See also: 2011-02-03 for another short summary (15min)</p>
 <p><a href="http://thoriumremix.com/act/"
-target="_blank">http://thoriumremix.com/act/</a> - main site, you can
+>http://thoriumremix.com/act/</a> - main site, you can
 buy the DVD of this for $1.75. Spread the word. It has a Creative
-Commons copyright so it can be copied and shared freely.</p> <p>The
+Commons copyright so it can be copied and shared freely.
+- The
 Chinese are building this technology ($1 billion for the next 8
 years). So far the US is doing nothing, mainly because this will
 destabilized the current coal, gas, oil, and water-based nuclear
-companies.</p> <p>For more links and discussions see: <a
+companies.
+- For more links and discussions see: <a
 href="http://energyfromthorium.com/"
-target="_blank">http://energyfromthorium.com/</a></p> <p><a
+>http://energyfromthorium.com/</a>
+- <a
 href="http://www.youtube.com/watch?v=WKG6wZtcVVQ"
-target="_blank">Energy from Thorium, LFTR Technology</a> - <a
-href="http://flibe-energy.com/" target="_blank">by Flibe
+>Energy from Thorium, LFTR Technology</a> - <a
+href="http://flibe-energy.com/" >by Flibe
 Energy</a>
 
 ** Id: youtube-044
@@ -2110,7 +2238,7 @@ Energy</a>
 say that? ...why would you ask me that? ...why would you do that?
 </pre> <p>More communication tips: <a
 href="http://www.youtube.com/user/PowerDiversity"
-target="_blank">PowerDiversity</a>
+>PowerDiversity</a>
 
 ** Id: youtube-049
 - Tokyo railway optimal path design and slime mould... A single
@@ -2128,7 +2256,7 @@ Thunderbolts Project</a> - Home web site
 - Very cool. An app that will connect blind people with sited
 people who can describe to them what they see with there phone.</p>
 <p>Here's the link to the app site: <a
-href="https://www.bemyeyes.com/" target="_blank">Be My Eyes</a>
+href="https://www.bemyeyes.com/" >Be My Eyes</a>
 
 ** Id: youtube-064
 - WildX Speaker Filmmaker and Hypnotist Albert Nerenberg suggests
@@ -2166,14 +2294,15 @@ Satire.<br /> Produced by the Patrons of The Juice Media.
 
 ** Id: youtube-079
 - I hope we can realize this beautiful story. It will take some
-work to make a new "normal".</p> <p><a
+work to make a new "normal".
+- <a
 href="https://forge.medium.com/prepare-for-the-ultimate-gaslighting-6a8ce3f0a0e0"
-target="_blank">prepare-for-the-ultimate-gaslighting</a>
+>prepare-for-the-ultimate-gaslighting</a>
 
 ** Id: youtube-082
 - Another good one: <a
 href="https://www.youtube.com/watch?v=kbJcQYVtZMo"
-target="_blank">Flashmob Flash Mob - Ode an die Freude (Ode to Joy)
+>Flashmob Flash Mob - Ode an die Freude (Ode to Joy)
 Beethoven Symphony No.9 classical music</a> - notice: Europeans know
 they should hold their cell phones horizontal to take videos. Videos
 should never be recorded with a vertical orientation. Americans will
@@ -2190,7 +2319,8 @@ constants really are constant. Good scientists will keep
 measuring.
 
 ** Id: youtube-089
-- Amazing.</p> <p>local file:
+- Amazing.
+- local file:
 the_hidden_secret_of_the_great_pyramids_construction_uncovered.webm
 
 ** Id: youtube-091
@@ -2222,13 +2352,15 @@ ideal.
 - Very cool
 
 ** Id: youtube-114
-- These are fun.</p> <p><a
+- These are fun.
+- <a
 href="https://www.youtube.com/watch?x-yt-cl=84503534&amp;v=jEuoDAehWvA&amp;x-yt-ts=1421914688"
-target="_blank">10 Life Hacks You Have To Try</a>
+>10 Life Hacks You Have To Try</a>
 
 ** Id: youtube-117
 - How narcissists use the double-bind to control people. It is
-often used by organizations too.</p> <p>His personal story is sad. He
+often used by organizations too.
+- His personal story is sad. He
 shows how to break double-binds.
 
 ** Id: youtube-118
@@ -2240,12 +2372,14 @@ solutions.
 ** Id: youtube-119
 - This is a good summary of his Coranation essay. ( <a
 href="https://charleseisenstein.org/essays/the-coronation/"
-target="_blank">The Coronation</a> )</p> <p>This is a good interview
+>The Coronation</a> )
+- This is a good interview
 where he covers many of the points in "The Coronation": <a
-href="https://www.youtube.com/watch?v=NK8C_rCz1yw" target="_blank">An
-Epidemic of Control, Charles Eisenstein</a></p> <p>Another related
+href="https://www.youtube.com/watch?v=NK8C_rCz1yw" >An
+Epidemic of Control, Charles Eisenstein</a>
+- Another related
 video: <a href="https://www.youtube.com/watch?v=EyWgxuRo0Ws"
-target="_blank">The Goal Of Life Is Not To Survive It</a>
+>The Goal Of Life Is Not To Survive It</a>
 
 ** Id: youtube-120
 - What a world he pictures. Beautifully described in only 4
@@ -2253,9 +2387,11 @@ minutes!.
 
 ** Id: youtube-121
 - Former cop, Paul Manning, shared a story detailing how he was
-treated when he attempted to call-out officer misconduct.</p> <p>Don't
+treated when he attempted to call-out officer misconduct.
+- Don't
 rat-out your buddies. They behave exactly like a gang. "Force"
-requires external checks and balances.</p> <p>Lots of good political
+requires external checks and balances.
+- Lots of good political
 commentary videos on this channel: The Rational National
 
 ** Id: youtube-122
@@ -2267,7 +2403,7 @@ patience for the time needed to de-escalate problems.
 <p>This is part 2 of a good discussion about Engineering
 Principles. (Unfortunately part 1 does not work in a browser
 anymore--weird.) <a href="https://www.youtube.com/watch?v=8EfZDWRHG0E"
-target="_blank">Engineering Principles for Makers Part 2; Material
+>Engineering Principles for Makers Part 2; Material
 Properties #067</a>
 
 ** Id: youtube-124
@@ -2277,7 +2413,8 @@ by the EU theory.
 
 ** Id: youtube-125
 - The answer: salt 1 hour or 1 day before cooking. Also, cook in
-oven first then shear.</p> <p>I'm definitely going to try this
+oven first then shear.
+- I'm definitely going to try this
 recipe.
 
 ** Id: youtube-136
@@ -2288,10 +2425,11 @@ relativity gravity effect is less so time is going faster than the
 surface of Earth. So the net result: GPS time is faster by about 38
 microsecond/day. See Relativity section at: <a
 href="https://en.wikipedia.org/wiki/Error_analysis_for_the_Global_Positioning_System"
-target="_blank">Error analysis for the Global Positioning
-System</a></p> <p><a
+>Error analysis for the Global Positioning
+System</a>
+- <a
 href="http://festivalofthespokennerd.com/podcast/"
-target="_blank">Festival of the Spoken Word</a> -Home: A Podcast of
+>Festival of the Spoken Word</a> -Home: A Podcast of
 Unecessary Detail
 
 ** Id: youtube-137
@@ -2301,16 +2439,18 @@ Unecessary Detail
 - Really nice, if you like bag pipes.
 
 ** Id: youtube-146
-- Those are big drums!</p> <p>You need to play this on your
+- Those are big drums!
+- You need to play this on your
 stereo, with sub-woofers.
 
 ** Id: youtube-147
 - Here is more from them: <a
 href="https://www.youtube.com/watch?v=xW1ok0CZ6CA"
-target="_blank">BookStock2020 (Fendrick &amp; Peck with Scout &amp;
-Morgan Books)</a></p> <p>And here is there web site with CD's for
+>BookStock2020 (Fendrick &amp; Peck with Scout &amp;
+Morgan Books)</a>
+- And here is there web site with CD's for
 sale: <a href="https://www.fendrickandpeck.com/"
-target="_blank">Fendrick and Peck</a>
+>Fendrick and Peck</a>
 
 ** Id: youtube-148
 - By the guy who describe the double-bind dilemma.
@@ -2321,7 +2461,8 @@ target="_blank">Fendrick and Peck</a>
 ** Id: youtube-150
 - Cops respond to protests against systemic racism and police
 brutality with military tactics, macing and more of the same violence
-that protesters are working to shut down.</p> <p>Let us not forget
+that protesters are working to shut down.
+- Let us not forget
 this, this time!
 
 ** Id: youtube-155
@@ -2334,15 +2475,16 @@ microscope.
 ** Id: youtube-157
 - This is a wonderful tour. You really get to see how they move
 around. I liked one of the comments on the video: take a drink for
-every time he says "storage".</p> <p>This is another tour done 4 years
+every time he says "storage".
+- This is another tour done 4 years
 later. The interior is more cluttered. <a
 href="https://www.youtube.com/watch?v=Snn1k_qEx20"
-target="_blank">Grand tour of the International Space Station with
+>Grand tour of the International Space Station with
 Drew and Luca | Single take - Jan 26, 2020</a>
 
 ** Id: youtube-158
 - Here's the web site link: <a
-href="https://spotthestation.nasa.gov/home.cfm" target="_blank">Spote
+href="https://spotthestation.nasa.gov/home.cfm" >Spote
 The Station</a>
 
 ** Id: youtube-181
@@ -2357,9 +2499,9 @@ overhauled to support 1,000-year developments. In the current system,
 cheaper and faster always wins over quality and longevity.</p> 
 ** Id: zeitgeist-01
 - Related: <a href="http://www.thevenusproject.com/"
-target="_blank">The Venus Project</a> and <a
+>The Venus Project</a> and <a
 href="http://sfgirl-thealiennextdoor.blogspot.com/2009/03/venus-project-bombastic-dream-or.html"
-target="_blank">The Venus Project: Bombastic Dream or Realizable
+>The Venus Project: Bombastic Dream or Realizable
 Future?</a>
 
 ** Id: zerotech-01
