@@ -1,8 +1,8 @@
 
 mVerPath = $(HOME)/ver/local/project/book-humane/draft
 mPubPath = moria.whyayh.com:/rel/released/doc/own/bib
-mTidy = tidy -m -config etc/tidyxhtml.conf
 mClone = git clone git@github.com:TurtleEngr/my-bib.git
+mTidy = tidy -m -config etc/tidyxhtml.conf
 
 clean :
 	find . -name '*~' -exec rm {} \;
@@ -33,12 +33,10 @@ publish release : save
 # Add and maintain the bibliography in a Libreoffice document
 
 %.html : %.org
-	-pandoc -f org -t html < $< >$@
-	-$(mTidy) $@
+	org2html $< $@
 
-%.html : %.md
-	-pandoc -f markdown -t html < $< >$@
-	-$(mTidy) $@
+%.md : %.org
+	-pandoc -f html -t markdown < $< >$@
 
 doc.odt : 
 	-ln -s $(mVerPath)/alien.odt $@
