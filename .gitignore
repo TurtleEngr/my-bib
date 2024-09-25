@@ -4,6 +4,7 @@
 CVS/
 backup/
 doc.odt
+gen/
 index.sdi
 my-bib.clone
 old/
