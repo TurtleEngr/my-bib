@@ -9004,6 +9004,18 @@ Tags: commons
 Link: https://vdocument.in/tragedy-of-the-commons-1968-garrett-hardin.html?page=1
 AltLink: https://tinyurl.com/t8y7czxr+ https://moria.whyayh.com/rel/archive/article/culture/tragedy-of-the-commons-1968-garrett-hardin.pdf
 
+Id: hardin-02
+Type: article
+Media: link
+Title: Garrett Hardin
+Author: Hardin, Garrett
+Date: 2015-09-08
+DateSeen: 2019-04-02
+Publisher: Southern Poverty Law Center
+Tags: commons, old:splc-01
+Link: https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin
+AltLink: https://tinyurl.com/5n6jspbr+ https://web.archive.org/web/20150908003649/https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin https://archive.vn/H70jg
+
 Id: hardware-redhat-01
 Type: article
 Media: link
@@ -13472,11 +13484,11 @@ Link: https://www.michaels.com/artminds-moccasin-kit/M10189476.html?dwvar_M10189
 Id: michaels-02
 Type: article
 Media: link
-Title: Change; it is OVERSHOOT
+Title: The Biggest Issue is NOT Climate Change; it is OVERSHOOT
 Author: Michaels, Erik
 Date: 2024-08-14
-Link: https://medium.com/@emichaels01/the-biggest-issue-is-not-climate-change-it-is-overshoot-9d174f2f0ad2
-AltLink: https://tinyurl.com/3naj4pwp+ https://web.archive.org/web/20240910211311/https://medium.com/@emichaels01/the-biggest-issue-is-not-climate-change-it-is-overshoot-9d174f2f0ad2 https://problemspredicamentsandtechnology.blogspot.com/2024/08/the-biggest-issue-is-not-climate-change.html https://tinyurl.com/4hucvvwm+ https://web.archive.org/web/20240815100118/https://problemspredicamentsandtechnology.blogspot.com/2024/08/the-biggest-issue-is-not-climate-change.html
+Link: https://problemspredicamentsandtechnology.blogspot.com/2024/08/the-biggest-issue-is-not-climate-change.html
+AltLink: https://tinyurl.com/4hucvvwm+ https://web.archive.org/web/20240815100118/https://problemspredicamentsandtechnology.blogspot.com/2024/08/the-biggest-issue-is-not-climate-change.html https://tinyurl.com/3naj4pwp+ https://web.archive.org/web/20240910211311/https://medium.com/@emichaels01/the-biggest-issue-is-not-climate-change-it-is-overshoot-9d174f2f0ad2 https://medium.com/@emichaels01/the-biggest-issue-is-not-climate-change-it-is-overshoot-9d174f2f0ad2
 
 Id: michaels-03
 Type: article
@@ -19648,17 +19660,6 @@ Media: site
 Title: Network of Spiritual Progressives
 Tags: home, political, link
 Link: http://www.spiritualprogressives.org/
-
-Id: splc-01
-Type: article
-Media: link
-Title: Garrett Hardin
-Author: Southern Poverty Law Center
-Date: 2019-04-02
-Publisher: Southern Poverty Law Center
-Tags: commons
-Link: https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin
-AltLink: https://archive.vn/H70jg
 
 Id: spoke-01
 Type: site
