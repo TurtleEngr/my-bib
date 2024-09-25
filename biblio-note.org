@@ -68,7 +68,6 @@ altogether.</p>
 at once and irreversibly without permission,' says Kahle. 'This is
 dangerous. It is not hypothetical, it is happening.'</p>
 
-
 ** Id: baker-01
 - What does "Freedom" mean to you?</p> <p>Work less? Buy
 less.
@@ -140,7 +139,6 @@ person with an ounce of decency or maturity.</p>
 ** Id: brin-02
 - See also: olson-01, olson-02, evans-02, oliver-01
 
-
 ** Id: brinkhurst-cuff-01
 - <p>Flat or tall hierarchy? That is the wrong question! The
 proper question is how are the leaders in the hierarchy selected, from
@@ -149,7 +147,6 @@ the bottom? See a proper description of democratic corporations
 at:<br> https://semcostyle.us/, <br>
 https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and<br>
 https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275</p>
-
 
 ** Id: browne-01
 - Media: DVD
@@ -218,7 +215,6 @@ goals were aligned with the public good.</p>
 <p>We need for the machines to wake up, not in the sense of computers
 becoming self-aware, but in the sense of corporations recognizing the
 consequences of their behavior. </p>
-
 
 
 
@@ -486,7 +482,6 @@ edtion. The user/password is: guest/guest<br>
 https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/<br>
 See also gatto-07. 17a.htm: Three Holes In My Floor
 
-
 ** Id: gatto-09
 # Old: youtube-090
 - This is a remix that combines a number of separate
@@ -616,7 +611,6 @@ numbers.{harari-02:2173s}</blockquote>
 <p>Then he added: 50 people will cooperate as part of a community. And
 they will make much bigger changes than 500 isolated individuals.</p>
 <p>History is not the study of the past, it is the study of change.</p>
-
 
 ** Id: hari-01
 - We think our inability to focus is a personal failure to exert
@@ -751,7 +745,6 @@ those games with them. They stopped tormenting them. The children had
 learned to keep their own relationships smoother—to keep out of
 trouble, so to speak— and in doing so, they had learned to do their
 part in smoothing the relationships of others.{junk-01}</blockquote>
-
 
 ** Id: kawasaki-01
 - <ol> <li>"Experts" are clueless</li> <li>Customers can not tell
@@ -1022,14 +1015,12 @@ bound up with the welfare of all.</p>
 <p>The fact is, none of us truly wins, until we all win!!"<br>
 {michaels-03}</p></blockquote>
 
-
 ** Id: michaels-04
 - 
 <blockquote>when many of these [early] civilizations failed, everyone
 scattered in order to survive elsewhere. There is now nowhere left to
 scatter to, so we are forced to deal with these predicaments on
 nature's terms, not ours.{michaels-04} </blockquote>
-
 
 ** Id: milgram-01
 - <p>
@@ -1056,7 +1047,6 @@ AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/Milgram-DilemmaOb
 AltLink: https://archive.ph/T9FDc<br>
 Converted with: https://cloudconvert.com/pdf-to-html
 </p>
-
 
 ** Id: mindmup-01
 - This is a simple mindmap tool. Storyboards, assign
@@ -1301,7 +1291,6 @@ humanity.
   {ostrom-01:63s}
 </blockquote>
 
-
 ** Id: parks-02
 - King wrote in his 1958 book Stride Toward Freedom that Parks's
 arrest was the catalyst rather than the cause of the protest: "The
@@ -1392,7 +1381,6 @@ https://worldisnew.wordpress.com/<br>
 https://web.archive.org/web/20210212010107/https://worldisnew.wordpress.com/
 But is where is a complete archive of all these newsletters?
 
-
 ** Id: rafnel-01
 - This was taken around noon Wed 2020-09-09 at Redwood City,
 CA.</p> <p>The air quality was "Moderate" (64) because the smoke is
@@ -1407,7 +1395,6 @@ active. It was removed in GPG version 2.2.17.<br> June 2016 the
 keyserver network was attacked in a way that fundamentally broke the
 whole thing. See: "SKS Keyserver Network Under Attack"<br>
 https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f</p>
-
 
 ** Id: rankin-01
 - <a href="https://www.youtube.com/watch?v=gcai0i2tJt0">Dr. Lissa
@@ -1453,7 +1440,6 @@ patterns...
 burn through $7.3 trillion worth of free natural capital a year. And
 it's the only reason they turn a profit."
 Found because of comment by [hawks-01] on video [chapman-02].
-
 
 ** Id: robertson-01
 # Old: youtube-026
@@ -1617,7 +1603,6 @@ target="_blank">Redwood City, CA - video</a>
 Powers.  How much a power limits an individual is certainly a valid
 point, and it would be part of evaluating the Institution for "evil."
 
-
 ** Id: smith-08
 - 
 - Outline:
@@ -1657,7 +1642,6 @@ point, and it would be part of evaluating the Institution for "evil."
   + Chapter 4: Why Civilizations Die (23:36)
   + Chapter 5: Ecological Overshoot (33:57)
 - https://bsidneysmith.com/ - home website
-
 
 ** Id: srslywrong-01
 - See also [graeber-11]
@@ -1795,7 +1779,6 @@ matter.
 ** Id: trom-01
 - 
 <p>Home: 2021-10-19: https://archive.ph/3NxNL</p>
-
 
 ** Id: trom-02
 - <p>2023: Duration: 37 parts, 14 hours</p>
