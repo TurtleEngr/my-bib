@@ -1617,6 +1617,46 @@ Powers.  How much a power limits an individual is certainly a valid
 point, and it would be part of evaluating the Institution for "evil."
 </note>
 
+Id: smith-08
+<note>
+- Outline:
+  + Introduction
+  + The Problem
+  + Complexity
+  + Cells
+  + Patterns
+  + Succession
+  + EROI - Energy Return On Investment
+  + Empires
+  + Rome
+  + Energy Use
+  + Social Complexity
+  + EROI
+  + Energy Exploitation
+  + Increasing Efficiency
+  + Making the Economy Less Energey Intensive
+  + Our Achilles Heel
+  + Financialization
+  + World Hunger
+  + Economic Decline
+  + Debt
+  + Jenga
+  + Ecosysstem Collapse
+  + Climate Change
+  + Collapse
+  + The New Human Future
+  + The Adaptive Cycle.
+- Play list with more details: How to enjoy the end of the world.
+  - https://www.youtube.com/playlist?list=PLNcGo6a-yKuIubvDb6mIyd0KHQ-7UasJH
+  + Prologue: Why You Shouldn't Let Collapse Get You Down. (12:01)
+  + Introduction: Whaddya Mean Collapse? (6:56)
+  + Chapter 1: Energy. (12:12)
+  + Chapter 2: Complexity (14:45)
+  + Chapter 3: Energy, Complexity, and Civilization (20:15)
+  + Chapter 4: Why Civilizations Die (23:36)
+  + Chapter 5: Ecological Overshoot (33:57)
+</note>
+
 Id: srslywrong-01
 <note>See also [graeber-11]</note>
 

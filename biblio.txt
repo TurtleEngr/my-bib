@@ -19316,6 +19316,14 @@ Publisher: Oped News
 Link: https://www.opednews.com/articles/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html
 ALtLink: https://tinyurl.com/w2m8jpd+ https://web.archive.org/web/20120910234111/http://www.opednews.com/articles/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html https://tinyurl.com/3ecjfew5+ https://web.archive.org/web/20240101202210/https://www.opednews.com/articles/2/A-Tangible-Orwellian-Math-by-Ethan-Indi-110325-293.html
 
+Id: smith-08
+Type: media
+Media: video
+Title: How to Enjoy the End of the World
+Author: Smith, Dr. Becker Sidney
+Date: 2019-03-26
+Link: https://www.youtube.com/watch?v=5WPB2u8EzL8
+Annote: See notes.
 Id: smlnj-01
 Type: site
 Media: site
