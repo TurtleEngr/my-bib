@@ -16934,6 +16934,7 @@ Id: rafnel-04
 Type: article
 Media: link
 Title: Planned Obsolescence in Software
+Subtitle: Fast, Cheap, Good--pick two!
 Author: Rafnel, Bruce
 Date: 2015-07-08
 Link: https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/
