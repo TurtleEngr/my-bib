@@ -17573,6 +17573,19 @@ Title: Dev-vs.-Ops_The-State-of-Accountability.pdf.pdf
 Tags: tools, sre, link
 Link: http://resources.overops.com/wp-content/uploads/2018/12/Dev-vs.-Ops_The-State-of-Accountability.pdf.pdf
 
+Id: rettner-01
+Type: article
+Media: link
+Title: Meet Your Interstitium, a Newfound "Organ"
+Subtitle: These fluid-filled spaces were found in the body’s connective tissue
+Author: Rettner, Rachael
+Authors: LiveScience
+Date: 2018-03-27
+Publisher: Scientific American
+Link: https://www.scientificamerican.com/article/meet-your-interstitium-a-newfound-organ/
+AltLink: https://tinyurl.com/3utkyxjw+ https://web.archive.org/web/20180327230107/https://www.scientificamerican.com/article/meet-your-interstitium-a-newfound-organ/
+Annote: See Notes.
+
 Id: rfidtoys-01
 Type: site
 Media: site
@@ -19949,9 +19962,10 @@ Link: http://www.stirlingengine.com/faq/one?scope=public&amp;faq_id=1
 Id: stockar-01
 Type: article
 Media: link
-Title: Does microbial life always feed on negative entropy? Thermodynamic analysis of microbial growth
+Title: Does microbial life always feed on negative entropy?
+Subtitle: Thermodynamic analysis of microbial growth
 Author: Stockar, U. von
-Authors: J.-S. Liu
+Authors: J. S. Liu
 Date: 1999-08-05
 DateSeen: 2024-05-13
 Publisher: Science Direct

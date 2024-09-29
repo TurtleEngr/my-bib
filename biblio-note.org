@@ -1520,6 +1520,20 @@ Classrooms.
         The Opening with Jon Marro
 </pre>
 
+** Id: rettner-01
+- <blockquote>
+  - [the] fluid-filled spaces had been missed for decades because they
+    don’t show up on the standard microscopic slides [because the]
+    fixing process drains away fluid and causes the newfound
+    fluid-filled spaces to collapse.
+
+  - the researchers discovered these fluid-filled spaces by using a
+    new imaging technique that allows them to examine living tissues
+    on a microscopic level.
+  </blockquote>
+- The new process freezes the samples before the slicing process. Also
+  the fluid-filled spaces collapse soon after deaths, so they won't be
+  seen with cadaver studies.
 ** Id: ridley-01
 - "Trade" and idea transfer is the substrate for
 patterns...
