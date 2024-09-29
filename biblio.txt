@@ -8385,6 +8385,15 @@ Link: https://www.gov.uk/government/news/genetic-technology-bill-enabling-innova
 AltLink: https://archive.vn/pKEmU
 Annote: See notes.
 
+Id: govtrack-01
+Type: article
+Media: link
+Title: Illinois Senators, Representatives, and Congressional District Maps - GovTrack.us
+Author: GovTrack.us
+Date: 2024-09-29
+Link: https://www.govtrack.us/congress/members/IL#map
+AltLink:
+
 Id: gpg-win-01
 Type: article
 Media: link
