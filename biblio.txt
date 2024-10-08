@@ -1627,7 +1627,8 @@ Media: book
 Title: Gandhi The Man
 Author: Black, Jo Anne
 Date: 1973
-Publisher: Glide Publications, San Francisco
+Publisher: Glide Publications
+Place: San Francisco
 Tags: book
 Annote: See notes.
 
