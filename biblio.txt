@@ -15222,6 +15222,15 @@ Title: OldVersion.com
 Tags: toolsw, qa, link
 Link: http://www.oldversion.com/
 
+Id: olito-01
+Type: article
+Media: link
+Title: 20 words that are spelled the same but have different meanings
+Author: Olito, Frank
+Date: 2019-01-08
+Link: https://www.businessinsider.com/words-spelled-same-different-meanings-2019-1?op=1#contract-19
+Annote: see notes
+
 Id: oliver-01
 Type: media
 Media: video

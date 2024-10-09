@@ -1281,6 +1281,19 @@ branch. </pre>
 ** Id: o-keefe-01
 - It improves the survival of the community.
 
+** Id: olito-01
+- "When words are spelled the same and sound the same but have
+  different meanings, then they are called homonyms. When they are
+  just spelled the same but sound different and have different
+  meanings, then they are homographs."
+- "Homographs may be pronounced the same (homophones), or they may be
+  pronounced differently (heteronyms, also known as heterophones)."
+- bat, compact, desert, fair, lie, lead, minute, refuse, project,
+  second, fine, entrance, clip, overlook, consult, row, discount,
+  wind, contract, object,
+- Also: read, tear, content
+- https://en.wikipedia.org/wiki/List_of_English_homographs
+
 ** Id: oliver-01
 - Another good rant
 
