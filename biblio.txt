@@ -16999,6 +16999,15 @@ Date: 2015-03-08
 Link: https://freelovecommunity.wordpress.com/2015/03/08/book-temple-of-love/
 AltLink: https://tinyurl.com/3b2e9ymw+ https://web.archive.org/web/20231027054850/https://freelovecommunity.wordpress.com/2015/03/08/book-temple-of-love/
 
+Id: rafnel-08
+Title: A Three Dimensional Graphics Package
+Subtitle: Senior Project
+Author: Rafnel, Bruce A
+Date: 1981
+Link: https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&context=L&vid=01CALS_PSU:01CALS_PSU&lang=en%2F&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,senior%20project%20Bruce%20Rafnel&offset=0
+AltLink: https://tinyurl.com/bdek3svn+
+Annote: Available in person on micofiche
+
 Id: raindance-01
 Type: article
 Media: link
