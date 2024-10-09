@@ -2573,9 +2573,21 @@ Type: media
 Media: video
 Title: Susan Cain: The power of introverts
 Author: Cain, Susan
+Date: 2012-02-01
 Tags: video, old:ted-29
-Link: http://www.ted.com/talks/susan_cain_the_power_of_introverts.html
+Link: https://www.ted.com/talks/susan_cain_the_power_of_introverts?subtitle=en
+AltLink: http://www.ted.com/talks/susan_cain_the_power_of_introverts.html
 Annote: See notes.
+
+Id: cain-02
+Type: article
+Media: link
+Title: Do you have a "nerdy dopamine pathway"?
+Subtitle: On the phenomenon of the "Wild Introvert"
+Author: Cain, Susan
+Date: 2024-10-08
+Link: https://thequietlife.net/p/do-you-have-a-nerdy-dopamine-pathway
+AltLink: https://tinyurl.com/y7d3wrxx+ https://web.archive.org/web/20241009014516/https://thequietlife.net/p/do-you-have-a-nerdy-dopamine-pathway?triedRedirect=true
 
 Id: caldwell-01
 Type: media
