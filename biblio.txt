@@ -22479,6 +22479,15 @@ Publisher: Henry Holt and Co.
 Tags: biblio
 ASIN: 19361389
 
+Id: washington-01
+Type: article
+Media: link
+Title: The Rules of Civility
+Author: Washington, George
+Date: 1803
+Link: https://www.mountvernon.org/george-washington/rules-of-civility
+Annote: See note
+
 Id: watermarbles-01
 Type: media
 Media: video
