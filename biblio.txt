@@ -17004,8 +17004,8 @@ Title: A Three Dimensional Graphics Package
 Subtitle: Senior Project
 Author: Rafnel, Bruce A
 Date: 1981
-Link: https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&context=L&vid=01CALS_PSU:01CALS_PSU&lang=en%2F&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,senior%20project%20Bruce%20Rafnel&offset=0
-AltLink: https://tinyurl.com/bdek3svn+
+Link: https://tinyurl.com/bdek3svn+
+AltLink: https://tinyurl.com/yfpz5fud+ https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&context=L&vid=01CALS_PSU:01CALS_PSU&lang=en%2F&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,senior%20project%20Bruce%20Rafnel&offset=0 https://web.archive.org/web/20241010012700/https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&context=L&vid=01CALS_PSU:01CALS_PSU&lang=en&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,senior%20project%20Bruce%20Rafnel&offset=0
 Annote: Available in person on micofiche
 
 Id: raindance-01
@@ -22486,7 +22486,8 @@ Title: The Rules of Civility
 Author: Washington, George
 Date: 1803
 Link: https://www.mountvernon.org/george-washington/rules-of-civility
-Annote: See note
+AltLink: https://tinyurl.com/3ymvcvwr+ https://web.archive.org/web/20240904161352/https://www.mountvernon.org/george-washington/rules-of-civility
+Annote: See note for all the rules.
 
 Id: watermarbles-01
 Type: media
