@@ -11456,12 +11456,12 @@ AltLink: https://tinyurl.com/rwwkn2up+ https://web.archive.org/web/2008043006442
 
 Id: lafayettemorehouse-02
 Type: site
-Media: site
-Title: Lafayette Morehouse: a life of more
-Date: 2023-01-07
+Media: org
+Title: Lafayette Morehouse
+Date: 2024-06-30
 Tags: site, organization, link
-Link: http://www.lafayettemorehouse.com/life-of-more.html#more
-AltLink: https://archive.vn/eoyaH
+Link: http://www.lafayettemorehouse.com/
+AltLink: https://tinyurl.com/3at6x636+ https://web.archive.org/web/20240630142230/http://www.lafayettemorehouse.com/ https://archive.vn/eoyaH
 
 Id: lafont-01
 Type: article
@@ -20471,11 +20471,11 @@ Annote: See notes.
 Id: tamera-03
 Type: site
 Media: org
-Title: Tamera Healing Biotope 1
-Date: 2023-01-07
+Title: Tamera Peace Research and Education Center in Portugal
+Date: 2024-03-23
 Tags: organization, organization, biblio
 Link: https://www.tamera.org/
-AltLink: https://archive.vn/mSj3S
+AltLink: https://tinyurl.com/bdhhkdpz+ https://web.archive.org/web/20240323022225/https://www.tamera.org/ https://archive.vn/mSj3S
 Annote: See notes.
 
 Id: tan-01
