@@ -1855,6 +1855,19 @@ interact that matters.
   + The Atlantic, Article: "The rise of the new global elite", by
     Chrystia Freeland
 
+** Id: unsolicited-01
+- Description: All across the internet, people are declaring modern
+  life "empty" or "meaningless". This has been shouted from across the
+  entire political spectrum, which makes me think there is some good
+  philosophy to be had. So today we will look at Byung-Chul Han's
+  <i>The Disappearance of Ritual,</i> where he charts the slow decline
+  of rituals in our societies, and the disastrous impact this has on
+  our feeling of meaning in our lives.
+*** Book: <i>The Disappearance of Rituals: A Topology of the Present</i>
+- https://www.amazon.com/dp/B08KH9DDJ7
+*** Transcript
+- See ~/Document/unsolicited.org
+
 ** Id: vansintjan-01
 - ...her research on policing shouldn't be forgotten: It shows that,
   when it comes to safer communities, having more funding or larger
