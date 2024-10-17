@@ -11,9 +11,8 @@
     text-align: justify;
 }
 body {
-    width: 306pt;
     margin-left: 54pt; 
-    margin-right: 72pt; 
+    margin-right: 54pt; 
     font-family: Times, serif; 
     font-size: 100%; 
     text-align: justify;
@@ -27,7 +26,7 @@ pre {
     text-align: left; 
 }
 blockquote {
-    margin-left: 15%; 
+    margin-left: 5%; 
     margin-right: 0%; 
     font-family: "Times New Roman", serif; 
     font-style: italic; 
@@ -45,44 +44,42 @@ blockquote {
 - Media: DVD; Book by Joel Bakan
 
 ** Id: achor-01
-- 3 Gratitudes<br> Journaling<br> Exercise<br> Meditation
+- 3 Gratitudes
+  + Journaling
+  + Exercise
+  + Meditation
 
 ** Id: ackoff-01
 - Russell L. Ackoff. In the Circular Organization, a democratic
-hierarchy, everyone participates directly or indirectly in decisions
-that affect their work.
+  hierarchy, everyone participates directly or indirectly in decisions
+  that affect their work.
 
 ** Id: agnos-01
 - Sustainable Human
 
 ** Id: alex-01
 - Women hunt in vast majority of foraging societies, upending old
-stereotypes
+  stereotypes
 
 ** Id: allen-01
 # Old: youtube-074
-- <a
-  href="http://www.yesmagazine.org/issues/food-for-everyone/growing-power-in-an-urban-food-desert">Food
-  for Everyone, Growing Power in an Urban Food Desert</a> - Yes
+- [[https://www.yesmagazine.org/issues/food-for-everyone/growing-power-in-an-urban-food-desert][Food for Everyone, Growing Power in an Urban Food Desert]] - Yes
   Magazine article and video
-- <a
-  href="http://en.wikipedia.org/wiki/Will_Allen_(urban_farmer)">Wikipedia:
-  Will Allen (urban farmer)</a>
-- <a href="http://en.wikipedia.org/wiki/Growing_Power">Wikipedia:
-  Growing Power</a>
+- [[https://en.wikipedia.org/wiki/Will_Allen_(urban_farmer)][Wikipedia: Will Allen (urban farmer)]]
+- [[https://en.wikipedia.org/wiki/Growing_Power][Wikipedia: Growing Power]]
 
 ** Id: alperovitz-01
 - This illustrated presentation from distinguished historian and
-political economist Gar Alperovitz is a rare and stunning
-exception. Pointing to efforts already underway in thousands of
-communities across the U.S., from co-ops and community land trusts to
-municipal, state, and federal initiatives that promote
-entrepreneurship and sustainability, Alperovitz marshals years of
-research to show how bottom-up strategies can work to check
-monopolistic corporate power, democratize wealth, and empowered
-communities. The result is a highly accessible look at the current
-economy and a common-sense roadmap for building a system more in sync
-with American values.
+  political economist Gar Alperovitz is a rare and stunning
+  exception. Pointing to efforts already underway in thousands of
+  communities across the U.S., from co-ops and community land trusts
+  to municipal, state, and federal initiatives that promote
+  entrepreneurship and sustainability, Alperovitz marshals years of
+  research to show how bottom-up strategies can work to check
+  monopolistic corporate power, democratize wealth, and empowered
+  communities. The result is a highly accessible look at the current
+  economy and a common-sense roadmap for building a system more in
+  sync with American values.
 
 ** Id: alternet-01
 - Broken link, so see [jacobs-01]
@@ -110,26 +107,25 @@ with American values.
 
 ** Id: baker-01
 - What does "Freedom" mean to you?
-- Work less? Buy
-less.
+- Work less? Buy less.
 
 ** Id: bender-01
-- FAccT '21, March 3-10, 2021, Virtual Event, Canada Bender and
-Gebru, et al. This paper resulted in Google firing Timnit
-Gebru.
+- FAccT '21, March 3-10, 2021, Virtual Event, Canada Bender and Gebru,
+  et al. This paper resulted in Google firing Timnit Gebru.
 
 ** Id: benjamin-01
 - Fun
 
 ** Id: benkler-01
 - <blockquote>we are seeing the broad and deep emergence of a new,
-third mode of production in the digitally networked environment. I
-call this mode “commons-based peer production,” to distinguish it from
-the property- and contract-based modes of firms and markets.  Its
-central characteristic is that groups of individuals successfully
-collaborate on large- scale projects following a diverse cluster of
-motivational drives and social signals, rather than either market
-prices or managerial commands.{benkler-01}</blockquote>
+  third mode of production in the digitally networked environment. I
+  call this mode “commons-based peer production,” to distinguish it
+  from the property- and contract-based modes of firms and markets.
+  Its central characteristic is that groups of individuals
+  successfully collaborate on large- scale projects following a
+  diverse cluster of motivational drives and social signals, rather
+  than either market prices or managerial
+  commands.{benkler-01}</blockquote>
 
 ** Id: berry-02
 # Old: youtube-088
@@ -137,22 +133,22 @@ prices or managerial commands.{benkler-01}</blockquote>
 
 ** Id: black-02
 - Compiled from the perspective of Eknath Easwaran of the Blue
-Mountain Center of Meditation
+  Mountain Center of Meditation
 
 ** Id: blue-01
-- New research suggests a person's reliance on his or her
-smartphone predicts greater loneliness and depressive symptoms, as
-opposed to the other way around.
+- New research suggests a person's reliance on his or her smartphone
+  predicts greater loneliness and depressive symptoms, as opposed to
+  the other way around.
 
 ** Id: bolinsky-01
 - www.metablast.org
 
 ** Id: bollier-01
-- In This Land is Our Land, acclaimed author David Bollier, a
-leading figure in the global movement to reclaim the commons, bucks
-the rising tide of anti-government extremism and free market ideology
-to show how commercial interests are undermining our collective
-interests.
+- In This Land is Our Land, acclaimed author David Bollier, a leading
+  figure in the global movement to reclaim the commons, bucks the
+  rising tide of anti-government extremism and free market ideology to
+  show how commercial interests are undermining our collective
+  interests.
 
 ** Id: bonar-01
 # Old: youtube-085
@@ -185,9 +181,10 @@ interests.
   proper question is how are the leaders in the hierarchy selected, from
   the top or the bottom, and are they evaluated by people at the top or
   the bottom? See a proper description of democratic corporations
-  at:<br> https://semcostyle.us/, <br>
-  https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and<br>
-  https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275
+  at:
+  + https://semcostyle.us/,
+  + https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and
+  + https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275
 
 ** Id: browne-01
 - Media: DVD
@@ -213,24 +210,26 @@ interact that matters.
 - Papers written with Robin Dunbar: burgess-08, burgess-09
 
 ** Id: butler-01
-- Media: epub. See also: Darwin Among the Machines, by Maria
-Popova [popova-01]
+- Media: epub. See also: Darwin Among the Machines, by Maria Popova
+  [popova-01]
 
 ** Id: butler-02
 - Part of "A First Year in Canterbury Settlement with Other Early
-Essays", by Samuel Butler, 1914.
+  Essays", by Samuel Butler, 1914.
 
 ** Id: cain-01
-- Right on! <ol> <li>Stop the maddness for <i>constant</i> group
-work. (More privacy and autonomy is needed).</li> <li>Go to the
-wilderness--have your own revalations&lt;./li&gt;</li> <li>Look at
-what is in your suitcase, and share them, but introverts be sure to at
-least occasionsionly share what is in your suitcase.</li> </ol>
+- Right on!
+  + Stop the maddness for <i>constant</i> group work. (More privacy
+    and autonomy is needed).
+  + Go to the wilderness--have your own revalations&lt;./li&gt;
+  + Look at what is in your suitcase, and share them, but introverts
+    be sure to at least occasionsionly share what is in your
+    suitcase.
 
 ** Id: cars-mclarcom-01
-- Interesting. But what about rocks, bugs, or birds?<br /> Source:
-<a
-href="https://tech.slashdot.org/story/20/03/15/2236209/new-supercar-technology-does-away-with-windshields">https://tech.slashdot.org/story/20/03/15/2236209/new-supercar-technology-does-away-with-windshields</a>
+- Interesting. But what about rocks, bugs, or birds?
+- Source:
+  [[https://tech.slashdot.org/story/20/03/15/2236209/new-supercar-technology-does-away-with-windshields]]
 
 ** Id: cassella-01
 - See orginal source paper: sherwood-01. Also see: huber-01.
@@ -258,20 +257,20 @@ href="https://tech.slashdot.org/story/20/03/15/2236209/new-supercar-technology-d
   the consequences of their behavior.
 
 ** Id: chomsky-01
-- ChatGPT and similar programs are, by design, unlimited in what
-they can learn" (which is to say, memorize); they are incapable of
-distinguishing the possible from the impossible.
+- ChatGPT and similar programs are, by design, unlimited in what they
+  can learn" (which is to say, memorize); they are incapable of
+  distinguishing the possible from the impossible.
 
 ** Id: coase-03
 - <blockquote>a number of transaction costs involved in using the
-market; the cost of obtaining a good or service via the market
-actually exceeds the price of the good. Other costs, including search
-and information costs, bargaining costs, keeping trade secrets, and
-policing and enforcement costs, can all potentially add to the cost of
-procuring something from another party. This suggests that firms will
-arise which can internalise the production of goods and services
-required to deliver a product, thus avoiding these
-costs.{coase-02}</blockquote
+  market; the cost of obtaining a good or service via the market
+  actually exceeds the price of the good. Other costs, including
+  search and information costs, bargaining costs, keeping trade
+  secrets, and policing and enforcement costs, can all potentially add
+  to the cost of procuring something from another party. This suggests
+  that firms will arise which can internalise the production of goods
+  and services required to deliver a product, thus avoiding these
+  costs.{coase-02}</blockquote
 
 ** Id: conley-01
 - Talk on Gross National Happiness (King of Bhutan)
@@ -324,7 +323,7 @@ costs.{coase-02}</blockquote
   silence-breakers.
 - To counter the new normal’s assault on normalcy, we must double down
   on our /duty to know,/ to speak up, and to remember.
-{cooper-01}</blockquote>
+- {cooper-01}</blockquote>
 
 ** Id: cross-01
 - Myth #1 - Education will change behavior. How you present the information:
@@ -343,81 +342,73 @@ costs.{coase-02}</blockquote
 
 ** Id: culture-01
 - 'When it comes to someone fighting for his life on death row or
-someone longing for the right to die at life's end, America generally
-goes with the least empathetic option.'
+  someone longing for the right to die at life's end, America
+  generally goes with the least empathetic option.'
 
 ** Id: daedone-01
-- Most-popular TEDxSF<br /> "It roots our fundamental capacity for
-connection."
+- Most-popular TEDxSF
+- "It roots our fundamental capacity for connection."
 
 ** Id: democracynow-01
 + State legislatures and Corporations draft "template" laws
-+ <a href="http://www.webcitation.org/60j7jJgJJ">Secretive
++ [[http://www.webcitation.org/60j7jJgJJ][Secretive
   Corporate-Legislative Group ALEC Holds Annual Meeting to Rewrite
-  State Laws</a><br /> <a
-  href="http://alecexposed.com/wiki/ALEC_Exposed">ALEC Exposed</a>
-+ <a href="http://www.webcitation.org/60j7W7SPq">New Expose Tracks
-  ALEC-Private Prison Industry Effort to Replace Unionized Workers
-  with Prison Labor</a> - The new slavery: prison workers</p>
+  State Laws]] [[http://alecexposed.com/wiki/ALEC_Exposed][ALEC Exposed]]
++ [[http://www.webcitation.org/60j7W7SPq][New Expose Tracks ALEC-Private Prison Industry Effort to Replace Unionized Workers with Prison Labor]] - The new slavery: prison workers
 
 ** Id: dickie-01
 - A 2020 study in the Journal of Scientific Advances found that,
-rather than lasting for only an hour, dangerous wet-bulb temperatures
-could persist for six or more hours by 2060 — killing anyone who can't
-take cover.
+  rather than lasting for only an hour, dangerous wet-bulb
+  temperatures could persist for six or more hours by 2060 — killing
+  anyone who can't take cover.
 
 ** Id: doctorow-01
 - Great sequel to "Little Brother"
-- <a
-href="http://craphound.com/littlebrother/download/"
->Free download of "Little Brother"</a>
-- <a
-href="http://craphound.com/homeland/download/" >Free
-download of "Homeland"</a>
-- But if you like it, buy a copy,
-ebook or paperback!
+- [[http://craphound.com/littlebrother/download/][Free download of "Little Brother"]]
+- [[http://craphound.com/homeland/download/][Free download of "Homeland"]]
+- But if you like it, buy a copy, ebook or paperback!
 
 ** Id: doctorow-02
-- <a
-href="http://MakeLoveNotPorn.com">http://MakeLoveNotPorn.com</a>
+- [[http://MakeLoveNotPorn.com]]
 
 ** Id: doctorow-09
 - by Cory Doctorow. (109 min read) Surveillance capitalism is just
-capitalism - with surveillance. Here's how to beat it.
+  capitalism - with surveillance. Here's how to beat it.
 
 ** Id: doctorow-11
 - This is a great overview of The Dawn of Everything
 
 ** Id: doctorow-15
-- <p>Luddism and science fiction concern themselves with the same
-questions: not merely <i>what</i> the technology does, but <i>who</i>
-it does it <i>for</i> and who it does it <i>to</i>.</p>
+- Luddism and science fiction concern themselves with the same
+  questions: not merely <i>what</i> the technology does, but
+  <i>who</i> it does it <i>for</i> and who it does it <i>to</i>.
 
 ** Id: dugan-01
 - DARPA
 
 ** Id: economy-01
-- This is a continuation of his book "You are not a gadget". 448
-pages of very unique analysis of culture and economy
+- This is a continuation of his book "You are not a gadget". 448 pages
+  of very unique analysis of culture and economy
 
 ** Id: eisenstein-12
 - kindle edition
 
 ** Id: eisenstein-14
-- <p>In a way, they are in a cult. It's a group of people holding
-a different belief system and reinforcing it for each other. </p>
-<p>It's almost impossible to hold a different belief system from the
-dominant one by yourself. You naturally seek out other people who echo
-it back to you, and who can help you elaborate it and explore it. The
-formation of a new culture is a group process.  The word cult and the
-word culture are obviously related. I would say that the dominant
-culture could be called a cult. And the word cult means a culture that
-is separate from the dominant culture, therefore, it is called a
-cult. What makes a cult toxic—and the dominant culture is toxic—is
-when there's severe punishment for deviance, when you face ostracism
-and even retribution if you fail to profess the beliefs that the cult
-mandates. If you don’t exhibit the behaviors and abide by the taboos
-and rituals of the cult, you get in big trouble.</p>
+- In a way, they are in a cult. It's a group of people holding
+  a different belief system and reinforcing it for each other.
+- It's almost impossible to hold a different belief system from the
+  dominant one by yourself. You naturally seek out other people who
+  echo it back to you, and who can help you elaborate it and explore
+  it. The formation of a new culture is a group process.  The word
+  cult and the word culture are obviously related. I would say that
+  the dominant culture could be called a cult. And the word cult means
+  a culture that is separate from the dominant culture, therefore, it
+  is called a cult. What makes a cult toxic—and the dominant culture
+  is toxic—is when there's severe punishment for deviance, when you
+  face ostracism and even retribution if you fail to profess the
+  beliefs that the cult mandates. If you don’t exhibit the behaviors
+  and abide by the taboos and rituals of the cult, you get in big
+  trouble.
 
 ** Id: ensler-01
 - This is THE best direction for change that I've seen.
@@ -427,19 +418,18 @@ and rituals of the cult, you get in big trouble.</p>
 
 ** Id: evans-02
 - Another talk on algorithmic solutions for gerrymandering. See
-olson-01, olson-02, oliver-01
+  olson-01, olson-02, oliver-01
 
 ** Id: eyck-01
-- At age 16, Carolina Eyck invented a method for reliabably
-playing the Theremin.
-- <a href="https://www.carolinaeyck.com/"
->Carolina Eyck | Theremin and Voice</a>
+- At age 16, Carolina Eyck invented a method for reliabably playing
+  the Theremin.
+- [[https://www.carolinaeyck.com/][Carolina Eyck | Theremin and Voice]]
 
 ** Id: fairly-01
 - ... aggregators such as Amazon.com-as well as proponents of free
-music file sharing-have created a hive mind mentality emphasizing
-quantity over quality." Most importantly, creators are NOT rewarded
-fairly.
+  music file sharing-have created a hive mind mentality emphasizing
+  quantity over quality." Most importantly, creators are NOT rewarded
+  fairly.
 
 ** Id: falkvinge-01
 - Good viewpoint on why internet freedom is so important.
@@ -450,9 +440,8 @@ fairly.
   everything "dried up" when Scott stopped touring. Looking at
   people's comments, it looks like no one has responded since ???.
 - This is their Facebook page. It looks it has some activity, but very
-  minimal. https://www.facebook.com/Foundation-for-Community-Encouragement-FCE-299512419438</p>
-- It looks like some of FCE has survived. See:
-  [[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&source=editors&ust=1657513929952861&usg=AOvVaw1kh6NRsTmgZVd1-XSYNTSk][http://movedtospeak.org/]] ([[https://www.google.com/url?q=http://movedtospeak.org/&sa=D&source=editors&ust=1657513929952760&usg=AOvVaw0RkABPyxBv4uJTxAZZlbak][movedtospeak.org]])
+  minimal. https://www.facebook.com/Foundation-for-Community-Encouragement-FCE-299512419438
+- It looks like some of FCE has survived. See: [[http://movedtospeak.org]]
 
 ** Id: feynman-01
 - Link to a number of interview videos.
@@ -460,13 +449,12 @@ fairly.
 ** Id: feynman-02
 # Old: youtube-109
 - "The problem with playing tricks on highly intelligent people is
-that the time it takes for them to realize what exactly has happened
-from the moment they see something wrong is too short to provide any
-pleasure." He said this after a prank he played on Teller (with
-Teller's desk drawer).
-- At 5:48 Richard Feynman at Princeton
-meets great men (Richard learns that great men remember and argue
-fast) 1 418 261
+  that the time it takes for them to realize what exactly has happened
+  from the moment they see something wrong is too short to provide any
+  pleasure." He said this after a prank he played on Teller (with
+  Teller's desk drawer).
+- At 5:48 Richard Feynman at Princeton meets great men (Richard learns
+  that great men remember and argue fast) 1 418 261
 
 ** Id: fonda-01
 - Patriarchy steals women's voices (at about age 15), and it steals
@@ -489,8 +477,7 @@ fast) 1 418 261
   + A moving object (e.g. train, plane)
   + A time
 - No one answers with "the office".
-- The "day" is
-shredded in to "work moments".
+- The "day" is shredded in to "work moments".
 - Creative people need long stretches of time to get work done. Duh,
   this has been measured by many consultants (see Tom DeMarco): it
   takes 20min to get in a productive "flow" mode. Good metaphor: would
@@ -498,53 +485,42 @@ shredded in to "work moments".
   the night? Work is like that.
 - The main problem: Meetings and Manager.
 - Some things to try:
-+ No talk Thursdays, or maybe just no talk Thursday afternoons.
-+ Use passive communication (email, IM, etc.) - but you cannot be
-  required to answer right away.
-+ Just cancel meetings.
+  + No talk Thursdays, or maybe just no talk Thursday afternoons.
+  + Use passive communication (email, IM, etc.) - but you cannot be
+    required to answer right away.
+  + Just cancel meetings.
 
 ** Id: fromm-01
 # Old: youtube-042
 - Even more relevant to our current culture.
-- <a
-href="http://www.erich-fromm.de/data/pdf/2008a-e.pdf"
->2008a-e The Automaton Citizen and Human Rights</a> -
-pdf
-- <a href="http://www.erich-fromm.de/e/play.php?shownews=81"
->Other Articles by Erich Fromm</a>
+- [[http://www.erich-fromm.de/data/pdf/2008a-e.pdf][2008a-e The Automaton Citizen and Human Rights]] - pdf
+- [[http://www.erich-fromm.de/e/play.php?shownews=81][Other Articles by Erich Fromm]]
 
 ** Id: games-slashdot-01
-- <a href="http://www.webcitation.org/61C1HfUo4"
->Geeks Beat Jocks as Bar Fight Breaks Out Over Control
-of the TV</a>
-- <a href="http://us.battle.net/sc2/en/"
->StarCraft Home</a>
+- [[http://www.webcitation.org/61C1HfUo4][Geeks Beat Jocks as Bar Fight Breaks Out Over Control of the TV]]
+- [[http://us.battle.net/sc2/en/][StarCraft Home]]
 
 ** Id: gates-01
 # Old: youtube-062
-- We are living in the scenario he showed in the talk, 5 years
-ago!
+- We are living in the scenario he showed in the talk, 5 years ago!
 
 ** Id: gatto-01
-- This a kindle book, from original edition 1992. The ISBN is for
-the paperback book.  The ASIN is for an Amazon listing that might
-match the paperback book.
+- This a kindle book, from original edition 1992. The ISBN is for the
+  paperback book.  The ASIN is for an Amazon listing that might match
+  the paperback book.
 
 ** Id: gatto-06
 - This is the 2003 paperback edition. The Link is to a 2005 online
-edition. The AltLink is to my copy of the 2003 to 2004 online
-edtion. The user/password is: guest/guest<br>
-https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/<br>
-See also gatto-07. 17a.htm: Three Holes In My Floor
+  edition. The AltLink is to my copy of the 2003 to 2004 online
+  edtion. The user/password is: guest/guest
+- https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/
+- See also gatto-07. 17a.htm: Three Holes In My Floor
 
 ** Id: gatto-09
 # Old: youtube-090
-- This is a remix that combines a number of separate
-postings. This is really good overview of what education should
-be.
-- <a href="https://www.youtube.com/watch?v=0A4CCvheAac"
->John Taylor Gatto: Elite Schooling - Part 2 of 2 (A
-summary of the books he has written.</a>
+- This is a remix that combines a number of separate postings. This is
+  really good overview of what education should be.
+- [[https://www.youtube.com/watch?v=0A4CCvheAac][John Taylor Gatto: Elite Schooling - Part 2 of 2 (A summary of the books he has written.]]
 
 ** Id: gene-01
 - by Mean Gene
@@ -553,32 +529,31 @@ summary of the books he has written.</a>
 
 ** Id: getpocket-01
 - ...from a book called The Elements of Eloquence: How to Turn the
-Perfect English Phrase. Adjectives, writes the author, professional
-stickler Mark Forsyth, "absolutely have to be in this order:<br />
-opinion-size-age-shape-color-origin-material-purpose Noun.<br /> So
-you can have a lovely little old rectangular green French silver
-whittling knife. But if you mess with that order in the slightest
-you'll sound like a maniac."
+  Perfect English Phrase. Adjectives, writes the author, professional
+  stickler Mark Forsyth, "absolutely have to be in this order:
+- opinion-size-age-shape-color-origin-material-purpose Noun.
+- So you can have a lovely little old rectangular green French silver
+  whittling knife. But if you mess with that order in the slightest
+  you'll sound like a maniac."
 
 ** Id: gilbert-01
 - Dan Gilbert presents research and data from his exploration of
-happiness -- sharing some surprising tests and experiments that you
-can also try on yourself. Watch through to the end for a sparkling
-Q&amp;A with some familiar TED faces.
-- Great examples of the
-errors in the philosophy of "Utility".
+  happiness -- sharing some surprising tests and experiments that you
+  can also try on yourself. Watch through to the end for a sparkling
+  Q&amp;A with some familiar TED faces.
+- Great examples of the errors in the philosophy of "Utility".
 
 ** Id: gilens-01
-- American politics, about who has power and who does not.  It's
-from 2014, their conclusion is "The central point that emerges from
-our research is that economic elites and organized groups representing
-business interests have substantial independent impacts on
-U.S. government policy, while mass-based interest groups and average
-citizens have little or no independent influence."
+- American politics, about who has power and who does not.  It's from
+  2014, their conclusion is "The central point that emerges from our
+  research is that economic elites and organized groups representing
+  business interests have substantial independent impacts on
+  U.S. government policy, while mass-based interest groups and average
+  citizens have little or no independent influence."
 
 ** Id: gov-uk-01
 - Found with seach for: "Precision Breeding". See Non-GMO Project
-Certified Also: nongmoshopingguide.com
+  Certified Also: nongmoshopingguide.com
 
 ** Id: graeber-01
 - A good summary of the movement.
@@ -594,9 +569,9 @@ Certified Also: nongmoshopingguide.com
 
 ** Id: graeber-04
 - Excellent overview of the main points in his book. Funny quote:
-"Politics is that one domain of human existence in which behavior that
-would otherwise be psychotic is actually effective."<br /> Saved a
-local copy of this...
+  "Politics is that one domain of human existence in which behavior
+  that would otherwise be psychotic is actually effective."
+- Saved a local copy of this...
 
 ** Id: graeber-05
 - [[http://www.youtube.com/watch?v=zvhiCEEcLy4][part 2/2]] - video
@@ -608,213 +583,199 @@ local copy of this...
 - See also [srslywrong-01]
 
 ** Id: graeber-12
-- David Graeber talked about jobs that he says qualify as
-employment but are pointless and unnecessary. David Graeber was
-interviewed by Cory Doctorow.
+- David Graeber talked about jobs that he says qualify as employment
+  but are pointless and unnecessary. David Graeber was interviewed by
+  Cory Doctorow.
 
 ** Id: grant-01
-- The word is "empathic distress:" hurting for others while
-feeling unable to help.
+- The word is "empathic distress:" hurting for others while feeling
+  unable to help.
 
 ** Id: graves-01
 - Handout prepared by Chris Cowan for Dr. Gaves's presentation in
-Boston, Mass., May 20, 1981 (PDF photocopy)
+  Boston, Mass., May 20, 1981 (PDF photocopy)
 
 ** Id: gross-01
 - Sterling engine, and dynamic mirrors
 
 ** Id: haidt-01
 - See also: 2009-05-28 - Conservatives Live In a Different Moral
-Universe--and here's why it matters
+  Universe--and here's why it matters
 
 ** Id: hanauer-01
 - Published on May 17, 2012
-- [[http://www.youtube.com/watch?v=aOsZSIcU9OM][Nick Hanauer on His Banned TED Talk &amp; Why the Middle Class are
-  the Job Creators]] - Published on May 30, 2012 - From the Majority
+- [[http://www.youtube.com/watch?v=aOsZSIcU9OM][Nick Hanauer on His Banned TED Talk &amp; Why the Middle Class are the Job Creators]] - Published on May 30, 2012 - From the Majority
   Report, live M-F 12 noon EST and via daily podcast at
   http://Majority.FM:
 
 ** Id: handcock-01
 - [[http://www.youtube.com/watch?v=DoG4XmEZsXc][Graham Hancock talks about his banned TED talk on the Lifeboat Hour with Mike Ruppert - 2013-17-03]] - audio
-- [[http://www.grahamhancock.com/forum/HancockG6-TheWarOnConsciousness.php][The War On Consciousness: The Talk That Gave TED Indigestion, By
-  Graham Hancock]]
+- [[http://www.grahamhancock.com/forum/HancockG6-TheWarOnConsciousness.php][The War On Consciousness: The Talk That Gave TED Indigestion, By Graham Hancock]]
 - [[http://www.youtube.com/watch?v=_hwLMBdnbXk][JRE: Eddie Huang TED Conference Exposed]] - Published on Feb 28, 2013
   Joe Rogan talks to Eddie Huang about his experience at the TED
   conference.
 
 ** Id: harari-02
 - Interviewed by Ari Melber
-<blockquote>If you really want to make a change you cannot do it as an
-isolated individual. The super power of our species is not individual
-genius, it's the ability to cooperate in large
-numbers.{harari-02:2173s}</blockquote>
-<p>Then he added: 50 people will cooperate as part of a community. And
-they will make much bigger changes than 500 isolated individuals.</p>
-<p>History is not the study of the past, it is the study of change.</p>
+- <blockquote>If you really want to make a change you cannot do it as an
+  isolated individual. The super power of our species is not individual
+  genius, it's the ability to cooperate in large
+  numbers.{harari-02:2173s}</blockquote>
+- Then he added: 50 people will cooperate as part of a community. And
+  they will make much bigger changes than 500 isolated individuals.
+- History is not the study of the past, it is the study of change.
 
 ** Id: hari-01
 - We think our inability to focus is a personal failure to exert
-enough willpower over our devices. The truth is even more disturbing:
-our focus has been stolen by powerful external forces that have left
-us uniquely vulnerable to corporations determined to raid our
-attention for profit.
+  enough willpower over our devices. The truth is even more
+  disturbing: our focus has been stolen by powerful external forces
+  that have left us uniquely vulnerable to corporations determined to
+  raid our attention for profit.
 
 ** Id: hawken-01
-- "Paul Hawken has spent more than a decade researching
-organizations dedicated to restoring the environment and fostering
-social justice. From billion-dollar nonprofits to single-person
-dot.causes, these groups collectively comprise the largest movement on
-earth, a movement that has no name, leader, or location and that has
-gone largely ignored by politicians and the media."
+- "Paul Hawken has spent more than a decade researching organizations
+  dedicated to restoring the environment and fostering social
+  justice. From billion-dollar nonprofits to single-person dot.causes,
+  these groups collectively comprise the largest movement on earth, a
+  movement that has no name, leader, or location and that has gone
+  largely ignored by politicians and the media."
 
 ** Id: hawks-01
 - See: [roberts-01] "Years ago, when I was a Georgist, I found a
-research paper that concluded something like 'nothing is profitable if
-you account for the cost of the degradation of the environment' Like,
-if you force capitalist enterprises to pay for the damage they cause
-to the environment, they would have no profit. Which means that their
-profit is the environmental degradation."
+  research paper that concluded something like 'nothing is profitable
+  if you account for the cost of the degradation of the environment'
+  Like, if you force capitalist enterprises to pay for the damage they
+  cause to the environment, they would have no profit. Which means
+  that their profit is the environmental degradation."
 
 ** Id: hiss-01
-- 
 
 ** Id: hoehn-01
 - Most-popular TEDxCMU. Good points for anyone working.
 
 ** Id: holman-01
-- Killing mosquito with lasers! All done with consumer
-electronics.
+- Killing mosquito with lasers! All done with consumer electronics.
 
 ** Id: huber-01
-- <p>See also sherwood-01 and cassella-01</p></note
+- See also sherwood-01 and cassella-01
 
 ** Id: hudson-01
 - Nick Hudson: https://twitter.com/nicklejog
 
 ** Id: hudson-02
-- <p>Class notes. "Milgram received much criticism for his
-experiments, some of which may have been due to the fact that the
-results had uncomfortable implications. However, it is arguable that
-Milgram did break several of the British Psychological Society's
-ethical stated principles:" Consent, Deception, Freedom to withdraw,
-Protection. "...it is doubtful whether those experiments would be
-allowed to take place now."</p>
+- Class notes. "Milgram received much criticism for his experiments,
+  some of which may have been due to the fact that the results had
+  uncomfortable implications. However, it is arguable that Milgram did
+  break several of the British Psychological Society's ethical stated
+  principles:" Consent, Deception, Freedom to withdraw,
+  Protection. "...it is doubtful whether those experiments would be
+  allowed to take place now."
 
 ** Id: ivanova-01
-- <p>"A handful of other Delaware towns, including Fenwick Island,
-Henlopen Acres and Dagsboro, already allow corporations to vote,
-according to Common Cause."</p>
-<p>"In 2019, it was revealed that a single property manager who
-controlled multiple LLCs voted 31 times in a Newark, Delaware, town
-referendum, an incident that led Newark to amend its rules. And
-residents in Rehoboth Beach in 2017 beat back a proposal to allow LLCs
-to vote."</p>
+- "A handful of other Delaware towns, including Fenwick Island,
+  Henlopen Acres and Dagsboro, already allow corporations to vote,
+  according to Common Cause."
+- "In 2019, it was revealed that a single property manager who
+  controlled multiple LLCs voted 31 times in a Newark, Delaware, town
+  referendum, an incident that led Newark to amend its rules. And
+  residents in Rehoboth Beach in 2017 beat back a proposal to allow
+  LLCs to vote."
 
 ** Id: jacobs-01
 - See also: [haidt-01]
 
 ** Id: jakubowski-01
-- Alternate link: <a
-href="https://www.youtube.com/watch?v=S63Cy64p2lQ&quot;"
->Marcin Jakubowski:</a>
-- <a
-href="http://www.yesmagazine.org/new-economy/20-machines-for-diy-civilization-open-source-ecology?utm_source=YTW&amp;utm_medium=Email&amp;utm_campaign=20150109"
->20 Machines for DIY Civilization, Open Source
-Ecology</a>
-- <a href="http://vimeo.com/51764445"
->Another video</a>
+- Alternate link: [[https://www.youtube.com/watch?v=S63Cy64p2lQ&quot;][Marcin Jakubowski:]]
+- [[http://www.yesmagazine.org/new-economy/20-machines-for-diy-civilization-open-source-ecology?utm_source=YTW&amp;utm_medium=Email&amp;utm_campaign=20150109][20 Machines for DIY Civilization, Open Source Ecology]]
+- [[http://vimeo.com/51764445][Another video]]
 
 ** Id: jakubowski-02
-- Watch <a href="http://opensourceecology.org/"
->Open Source Ecology</a> Founder Marcin Jakubowski
-discuss the prospects for an open source, do it yourself
-civilization.
+- Watch [[http://opensourceecology.org/][Open Source Ecology]] - Founder Marcin Jakubowski discuss the
+  prospects for an open source, do it yourself civilization.
 
 ** Id: jeremijenko-01
 - Wow!
 
 ** Id: johnson-07
 - Copy:
-https://moria.whyayh.com/rel/archive/audio/ThirdParty/political/women-behind-the-montgomery-bus-boycott.mp3
+  https://moria.whyayh.com/rel/archive/audio/ThirdParty/political/women-behind-the-montgomery-bus-boycott.mp3
 
 ** Id: johnson-08
-- What are you good at? What is the work that needs doing? And
-what brings you joy? Where your answers intersect is where you should
-put your climate action effort. The important parts are:
-Implementation and Leaderful.
+- What are you good at? What is the work that needs doing? And what
+  brings you joy? Where your answers intersect is where you should put
+  your climate action effort. The important parts are: Implementation
+  and Leaderful.
 
 ** Id: johnson-09
-- 
-<blockquote>
-<p>Interviewer: You asked me what I was so afraid of giving up [to help
-fight climate change]. I think the answer that I gave you in the
-moment was cockamamie. The real answer to why I might be reluctant to
-change behaviors actually has more to do with selfishness.</p>
-<p>Johnson: That’s good of you to admit. I think we all want to hold
-on to our comforts.</p>
-<p>Interviewer: Is there an antidote to that kind of thinking?</p>
-<p>Johnson: I think the answer is community. We have to be responsible
-to more than ourselves. We have to feel an obligation to more than our
-children. It can’t just be a selfish desire to hold on to what we
-currently have. You can maybe grip tightly onto your comfort in the
-short term, but the more we resist being part of the collective
-solution, the less likely that collective solution is to happen. In a
-sense, you’re echoing a bit of this bunker mentality where we have
-these megawealthy people who are buying up land in New Zealand and
-wherever else trying to save themselves. That seems like such a sad
-way to see the world. Like, do you want to live in a bunker for a year
-eating canned rations? Is that the life we want to build? Or do we all
-try to make sure we have a world where there’s enough for everybody,
-where no one takes too much and we share what we have. I’d rather
-share.</p>
-{johnson-09}</blockquote>
+- <blockquote>
+  - Interviewer: You asked me what I was so afraid of giving up [to
+    help fight climate change]. I think the answer that I gave you in
+    the moment was cockamamie. The real answer to why I might be
+    reluctant to change behaviors actually has more to do with
+    selfishness.
+  - Johnson: That’s good of you to admit. I think we all want to hold
+    on to our comforts.
+  - Interviewer: Is there an antidote to that kind of thinking?
+  - Johnson: I think the answer is community. We have to be
+    responsible to more than ourselves. We have to feel an obligation
+    to more than our children. It can’t just be a selfish desire to
+    hold on to what we currently have. You can maybe grip tightly onto
+    your comfort in the short term, but the more we resist being part
+    of the collective solution, the less likely that collective
+    solution is to happen. In a sense, you’re echoing a bit of this
+    bunker mentality where we have these megawealthy people who are
+    buying up land in New Zealand and wherever else trying to save
+    themselves. That seems like such a sad way to see the world. Like,
+    do you want to live in a bunker for a year eating canned rations?
+    Is that the life we want to build? Or do we all try to make sure
+    we have a world where there’s enough for everybody, where no one
+    takes too much and we share what we have. I’d rather share.
+  - {johnson-09}</blockquote>
 
 ** Id: jones-01
 - See image: ManagingACommons.jpg
 
 ** Id: jones-03
-- "The Wave" is based on the real experience of a classs at
-Cubberley High School in Palo Alto, CA, in April 1967. History teacher
-Ron Jones attempted to tteach his pupils the realities of fascism by
-encouraging them to form a kind of classroom Hitler Youth.
+- "The Wave" is based on the real experience of a classs at Cubberley
+  High School in Palo Alto, CA, in April 1967. History teacher Ron
+  Jones attempted to tteach his pupils the realities of fascism by
+  encouraging them to form a kind of classroom Hitler Youth.
 
 ** Id: junk-01
-- 
-<blockquote>Briggs writes: The games were, themselves, models of
-conflict management through play. And when children learned to
-recognize the playful in particular dramas, people stopped playing
-those games with them. They stopped tormenting them. The children had
-learned to keep their own relationships smoother—to keep out of
-trouble, so to speak— and in doing so, they had learned to do their
-part in smoothing the relationships of others.{junk-01}</blockquote>
+- <blockquote>Briggs writes: The games were, themselves, models of
+  conflict management through play. And when children learned to
+  recognize the playful in particular dramas, people stopped playing
+  those games with them. They stopped tormenting them. The children
+  had learned to keep their own relationships smoother—to keep out of
+  trouble, so to speak— and in doing so, they had learned to do their
+  part in smoothing the relationships of others.{junk-01}</blockquote>
 
 ** Id: kawasaki-01
-- <ol> <li>"Experts" are clueless</li> <li>Customers can not tell
-you what they need</li> <li>Biggest challenges beget the best
-work</li> <li>Design counts</li> <li>Big graphics, Big fonts (in
-presentations)</li> <li>Jump curves, not better sameness</li>
-<li>"Work" or "doesn't work" is all that matters (don't be
-"religious")</li> <li>"Value" is different from "price"</li> <li>"A"
-players hire "A+" players (B players hire C players, C players hire
-D...)</li> <li>Real CEOs can demo</li> <li>Real entrepreneurs
-ship</li> <li>Some things need to be believed to be seen</li>
-</ol>
+  + "Experts" are clueless
+  + Customers can not tell you what they need
+  + Biggest challenges beget the best work
+  + Design counts 
+  + Big graphics, Big fonts (in presentations) 
+  + Jump curves, not better sameness
+  + "Work" or "doesn't work" is all that matters (don't be "religious") 
+  + "Value" is different from "price" 
+  + "A" players hire "A+" players (B players hire C players, C players
+    hire D...)
+  + Real CEOs can demo 
+  + Real entrepreneurs ship 
+  + Some things need to be believed to be seen
 
 ** Id: kickstarter-01
-- We have ordered one! The store: <a href="http://printrbot.com/"
->http://printrbot.com/</a>
-- <a
-href="http://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing.html"
->Lisa Harouni: A primer on 3D printing</a> -
-video
+- We have ordered one! The store: [[http://printrbot.com/]]
+- [[http://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing.html][Lisa Harouni: A primer on 3D printing]] - video
 
-** Id: klaas-02 - <p>Book: "Corruptible: Who Gets Power and How it
-Changes Us"<br>
+** Id: klaas-02
+- Book: "Corruptible: Who Gets Power and How it Changes Us"
 
 ** Id: korten-09
-- "But we are being failed by the society we built. We cannot
-expect our dominant institutions to lead us to the transformation on
-which a viable human future depends"
+- "But we are being failed by the society we built. We cannot expect
+  our dominant institutions to lead us to the transformation on which
+  a viable human future depends"
 
 ** Id: kropotkin-01
 - ReleaseDate: 2003-08-01 [EBook #4341]
@@ -823,175 +784,161 @@ which a viable human future depends"
 - Media: DVD
 
 ** Id: lafont-01
-- See also: wikipedia-48.
-According to the theory, the tightest circle has just five people –
-loved ones. That’s followed by successive layers of 15 (good friends),
-50 (friends), 150 (meaningful contacts), 500 (acquaintances) and 1500
-(people you can recognise). People migrate in and out of these layers,
-but the idea is that space has to be carved out for any new
-entrants.
+- See also: wikipedia-48.  According to the theory, the tightest
+  circle has just five people – loved ones. That’s followed by
+  successive layers of 15 (good friends), 50 (friends), 150
+  (meaningful contacts), 500 (acquaintances) and 1500 (people you can
+  recognise). People migrate in and out of these layers, but the idea
+  is that space has to be carved out for any new entrants.
 
 ** Id: lanier-01
-- This is a continuation of his book "You are not a gadget". 448
-pages
+- This is a continuation of his book "You are not a gadget". 448 pages
 
 ** Id: lanier-04
 # Old: youtube-002
 - The Internet mistake of "give it away for free, and you will be
-rewarded"
-- <a
-href="http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307269647/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1277582930&amp;sr=8-1"
->You Are Not a Gadget: A Manifesto, by Jaron Lanier</a>
+  rewarded"
+- [[http://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307269647/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1277582930&amp;sr=8-1][You Are Not a Gadget: A Manifesto, by Jaron Lanier]]
 - Read the book's Editorial Review section for a good Q&amp;A with
-Jaron, that summarizes his initial points.
+  Jaron, that summarizes his initial points.
 
 ** Id: le-01
 - What they are doing is basic bio-feedback.
 
 ** Id: leipzig-01
-- <pre> People who were happy with their live knew these 5 things:
-1. Who they were 2. What they did 3. Who they did if for 4. What those
-people wanted or needed 5. What they got out of it, how they changed
-as a result </pre> <p>Make other people happy, and taken care of, then
-you will be taken care of too.
+- People who were happy with their live knew these 5 things:
+  + Who they were
+  + What they did
+  + Who they did if for
+  + What those people wanted or needed
+  + What they got out of it, how they changed as a result
+- Make other people happy, and taken care of, then you will be taken
+  care of too.
 
 ** Id: lessig-01
 - This is a great example of how the conservitives think and how
-liberals would probably agree. See: 2009-07-04 - TED: Jonathan Haidt
-on the moral roots of liberals and conservatives
+  liberals would probably agree. See: 2009-07-04 - TED: Jonathan Haidt
+  on the moral roots of liberals and conservatives
 
 ** Id: lessig-03
-- "I don't care who does the <i>electing</i>, as long as I get to
-to the nominating."--"Boss" Tweed
+- "I don't care who does the <i>electing</i>, as long as I get to to
+  the nominating."--"Boss" Tweed
 - Solutions:
-- 1) Get rid
-of "private" money from the party system. I.e. neutralize
-Tweedism.
-- 2) Get rid of gerrymandering. (See the next link for
-a solution)
-- 3) Get rid of voting limits.
-- True
-representation does not happen, ever, until <i>equal</i>
-representation is addressed <i>first</i>.
-- Also by Larry Lessig
-(Aug 10, 2017): <a
-href="https://www.youtube.com/watch?v=rHTBQCpNm5o">How the Net
-destroyed democracy | Lawrence Lessig | TEDxBerlinSalon</a> Mainly the
-talk is about the change in media control. It gets really interesting
-around 15 min.
+  + Get rid of "private" money from the party system. I.e. neutralize
+    Tweedism.
+  + Get rid of gerrymandering. (See the next link for solution)
+  + Get rid of voting limits.
+- True representation does not happen, ever, until <i>equal</i>
+  representation is addressed <i>first</i>.
+- Also by Larry Lessig (Aug 10, 2017): [[https://www.youtube.com/watch?v=rHTBQCpNm5o][How the Net destroyed
+  democracy | Lawrence Lessig | TEDxBerlinSalon]] Mainly the talk is
+  about the change in media control. It gets really interesting around
+  15 min.
 
 ** Id: lichtenfels-03
-- <p>"RING OF POWER, 27th of December 2014" to "RING OF POWER,
-21st of February 2015"</p>
+- "RING OF POWER, 27th of December 2014" to "RING OF POWER, 21st of
+  February 2015"
 
 ** Id: lim-01
-- Zappos.com<br /> see also:<br /> 2010-06-26 - Chip Conley:
-Measuring what makes life worthwhile<br /> 2010-01-03 - Dan Gilbert on
-our mistaken expectations<br /> 2011-12-21 - Brene Brown: The power of
-vulnerability<br />
+- Zappos.com
+- see also:
+  + 2010-06-26 - Chip Conley: Measuring what makes life worthwhile
+  + 2010-01-03 - Dan Gilbert on our mistaken expectations
+  + 2011-12-21 - Brene Brown: The power of vulnerability
 
 ** Id: linder-01
-- For Socrates, being a good person came first; being a good
-citizen was a poor second. As a matter of personal integrity, he made
-Athenians choose between their love of freedom and their love of
-community—and, in the end, they chose community.
+- For Socrates, being a good person came first; being a good citizen
+  was a poor second. As a matter of personal integrity, he made
+  Athenians choose between their love of freedom and their love of
+  community—and, in the end, they chose community.
 
 ** Id: linktv-01
 - Some quotes:
-- Empathy is not really possible in a
-hierarchy system--Riane Eisler
-- We institutionalize ignorance,
-then we go to war--Deepac Chopra
-- Domination - generates
-fear--Riane Eisler
-- Respect, in a hierarchy, is based on fear,
-[not admiration]. [paraphrase]--Riane Eisler
-- The meaning of
-life is not important. It is important to have an experience of the
-depth of life.--Joseph Campbell
-- Stop looking for the right
-person, become the right person.---Deepac Chopra
+- Empathy is not really possible in a hierarchy system--Riane Eisler
+- We institutionalize ignorance, then we go to war--Deepac Chopra
+- Domination - generates fear--Riane Eisler
+- Respect, in a hierarchy, is based on fear, [not
+  admiration]. [paraphrase]--Riane Eisler
+- The meaning of life is not important. It is important to have an
+  experience of the depth of life.--Joseph Campbell
+- Stop looking for the right person, become the right person.---Deepac
+  Chopra
 
 ** Id: little-01
 - "As economic crisis paralyzes Western economies, an ideology of
-personal responsibility has come to the fore. Conservatives seize on
-flaws in self-control as a way of evading questioning the economic
-system. The Left, too, blames “greedy banks” in preference to systemic
-explanations."
+  personal responsibility has come to the fore. Conservatives seize on
+  flaws in self-control as a way of evading questioning the economic
+  system. The Left, too, blames “greedy banks” in preference to
+  systemic explanations."
 
 ** Id: little-02
 - Describes more about who disobeyed. What are the ingredients?
 
 ** Id: liu-02
-- <blockquote>It all started in 1995 when Liu filmed the
-Loess-plateau in China. He witnessed a local population who turned an
-area of almost the same size as The Netherlands from a dry, exhausted
-wasteland into one green oasis. This experience changed his life. From
-that moment on, Liu has been travelling all over the world to convince
-and inspire government leaders, policy-makers and farmers with his
-film material and knowledge. Liu diligently spreads the message that
-restoration of ecosystems is not only possible, but also economically
-very meaningful.  Backlight accompanies Liu on his mission in Jordan
-and shows on the basis of Liu’s own film material that a green future
-is possible worldwide.{liu-02}</blockquote>
+- <blockquote>It all started in 1995 when Liu filmed the Loess-plateau
+  in China. He witnessed a local population who turned an area of
+  almost the same size as The Netherlands from a dry, exhausted
+  wasteland into one green oasis. This experience changed his
+  life. From that moment on, Liu has been travelling all over the
+  world to convince and inspire government leaders, policy-makers and
+  farmers with his film material and knowledge. Liu diligently spreads
+  the message that restoration of ecosystems is not only possible, but
+  also economically very meaningful.  Backlight accompanies Liu on his
+  mission in Jordan and shows on the basis of Liu’s own film material
+  that a green future is possible worldwide.{liu-02}</blockquote>
 
 ** Id: lonsdale-01
-- This one has some for the same techniques: <a
-href="http://www.youtube.com/watch?v=-WLHr1_EVtQ">5 techniques to
-speak any language: Sid Efromovich at TEDxUpperEastSide</a>
+- This one has some for the same techniques: [[http://www.youtube.com/watch?v=-WLHr1_EVtQ][5 techniques to speak any
+  language: Sid Efromovich at TEDxUpperEastSide]]
 
 ** Id: macKenzie-05
-- Audio version: https://ianmack.substack.com/p/the-wild-edge-of-emergence-essay<br>
-Date: 2024-09-02
+- Audio version:
+  https://ianmack.substack.com/p/the-wild-edge-of-emergence-essay
+- Date: 2024-09-02
 
 ** Id: malidoma-01
 - "I offer the wisdom of the African ancestors so that Westerners
-might find the deep healing they seek." - View Malidoma's Calendar</p>
-<p>Mind blowing: <a
-href="http://archive.constantcontact.com/fs123/1101454195791/archive/1115357337165.html">Part
-One of an interview with Malidoma, conducted by Leslee Goodman in
-2010</a>
-- <a href="http://www.youtube.com/watch?v=MpUm6N0diwI"
->Malidoma SomÃ© Interview Part 1 of 6</a> - video</p>
-<p><a
-href="http://www.motherjones.com/politics/1995/03/visions-malidoma-some"
->VISIONS: Malidoma Some</a> - Article, by D. Patrick
-Miller, Mother Jones, March/April 1995 Issue
+  might find the deep healing they seek." - View Malidoma's Calendar
+- Mind blowing: [[http://archive.constantcontact.com/fs123/1101454195791/archive/1115357337165.html][Part One of an interview with Malidoma, conducted by
+  Leslee Goodman in 2010]]
+- [[http://www.youtube.com/watch?v=MpUm6N0diwI][Malidoma SomÃ© Interview Part 1 of 6]] - video
+- [[http://www.motherjones.com/politics/1995/03/visions-malidoma-some][VISIONS: Malidoma Some]] - Article, by D. Patrick Miller, Mother
+  Jones, March/April 1995 Issue
 
 ** Id: margonelli-01
 - yes! look at the big picture
 
 ** Id: margulis-01
-- <blockquote>The idea that we are "stewards of the earth" is
-another symptom of human arrogance. Imagine yourself with the task of
-overseeing your body's physical processes. Do you understand the way
-it works well enough to keep all its systems in operation? Can you
-make your kidneys function? Can you control the removal of waste?  Are
-you conscious of the blood flow through your arteries, or the fact
-that you are losing a hundred thousand skin cells a minute?--Lynn
-Margulis{margulis-02}</blockquote> 
+- <blockquote>The idea that we are "stewards of the earth" is another
+  symptom of human arrogance. Imagine yourself with the task of
+  overseeing your body's physical processes. Do you understand the way
+  it works well enough to keep all its systems in operation? Can you
+  make your kidneys function? Can you control the removal of waste?
+  Are you conscious of the blood flow through your arteries, or the
+  fact that you are losing a hundred thousand skin cells a
+  minute?--Lynn Margulis{margulis-02}</blockquote>
 
 ** Id: margulis-02
-- <blockquote>Life is a planetary-level phenomenon and Earth’s
-surface as been alive for at least 3,000 million years. To me, the
-human move to take responsibility for the living Earth is
-laughable—the rhetoric of the powerless. The planet takes care of us,
-not we of it. Our self-inflated moral imperative to guide a wayward
-Earth or heal our sick planet is evidence of our immense capacity for
-self-delusion. Rather, we need to protect us from
-ourselves.{margulis-02:loc1571}</blockquote>
-<blockquote>We people are just like our planetmates. We cannot put an
-end to nature; we can only pose a threat to ourselves. The notion that
-we can destroy all life, including bacteria thriving in the water
-tanks of nuclear power plants or boiling hot vents, is ludicrous. I
-hear our nonhuman brethren snickering: “Got along without you before I
-met you, gonna get along without you now,” they sing about us in
-harmony. Most of them, the microbes, the whales, the insects, the seed
-plants, and the birds, are still singing. The tropical forest trees
-are humming to themselves, waiting for us to finish our arrogant
-logging so they can get back to their business of growth as usual. And
-they will continue their cacophonies and harmonies long after we are
-gone.{margulis-02:loc1776}</blockquote> 
+- <blockquote>Life is a planetary-level phenomenon and Earth’s surface
+  as been alive for at least 3,000 million years. To me, the human
+  move to take responsibility for the living Earth is laughable—the
+  rhetoric of the powerless. The planet takes care of us, not we of
+  it. Our self-inflated moral imperative to guide a wayward Earth or
+  heal our sick planet is evidence of our immense capacity for
+  self-delusion. Rather, we need to protect us from
+  ourselves.{margulis-02:loc1571}</blockquote>
+- <blockquote>We people are just like our planetmates. We cannot put
+  an end to nature; we can only pose a threat to ourselves. The notion
+  that we can destroy all life, including bacteria thriving in the
+  water tanks of nuclear power plants or boiling hot vents, is
+  ludicrous. I hear our nonhuman brethren snickering: “Got along
+  without you before I met you, gonna get along without you now,” they
+  sing about us in harmony. Most of them, the microbes, the whales,
+  the insects, the seed plants, and the birds, are still singing. The
+  tropical forest trees are humming to themselves, waiting for us to
+  finish our arrogant logging so they can get back to their business
+  of growth as usual. And they will continue their cacophonies and
+  harmonies long after we are gone.{margulis-02:loc1776}</blockquote>
 
 ** Id: mcalevey-01
 - See also [conover-02]
@@ -1000,48 +947,34 @@ gone.{margulis-02:loc1776}</blockquote>
 - See also: [newcomb-01]
 
 ** Id: mediaite-01
-- <a
-href="http://www.msnbc.msn.com/id/21134540/vp/44079837#44079837"
->Main source</a><br />
+- [[http://www.msnbc.msn.com/id/21134540/vp/44079837#44079837][Main source]]
 
 ** Id: medium-02
 - This is a great article, showing why we need to act sooner not
-later: Coronavirus: Why You Must Act Now
+  later: Coronavirus: Why You Must Act Now
 
 ** Id: medium-08
 - by Angela Volkov. An open letter to humanity on getting its
-collective act together. Funny.
+  collective act together. Funny.
 
 ** Id: medium-10
 - by Lauren Martinchek. If our lawmakers won't look out for us,
-it's time to take matters in to our own hands.
+  it's time to take matters in to our own hands.
 
 ** Id: mendelssohn-01
 # Old: youtube-095
 - This is my own recording and edit of this talk.
-- <a
-href="https://www.youtube.com/watch?v=f47LGny-CiU"
->Tamera - Benjamin von Mendelssohn - Part 2 of
-2</a>
-- <a
-href="http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/ref=asap_bc?ie=UTF8"
->"The Sacred Matrix: From the Matrix of Violence to the
-Matrix of Life, The Foundation for a New Civilization"</a> - Book by
-Dieter Duhm. This book gives a pretty complete overview of the group's
-vision.
-- <a href="http://www.tamera.org/"
->Tamera's main web site</a> - web site
-- <a
-href="https://www.youtube.com/channel/UCe8-23wgIRspP8paQif-6Vg"
->Tamera's youtube channel - Grace Media</a> -
-videos
+- [[https://www.youtube.com/watch?v=f47LGny-CiU][Tamera - Benjamin von Mendelssohn - Part 2 of 2]]
+- [[http://www.amazon.com/Sacred-Matrix-Dieter-Duhm/dp/3927266167/ref=asap_bc?ie=UTF8]["The Sacred Matrix: From the Matrix of Violence to the Matrix of
+  Life, The Foundation for a New Civilization"]] - Book by Dieter
+  Duhm. This book gives a pretty complete overview of the group's
+  vision.
+- [[http://www.tamera.org/][Tamera's main web site]] - web site
+- [[https://www.youtube.com/channel/UCe8-23wgIRspP8paQif-6Vg][Tamera's youtube channel - Grace Media]] - videos
 
 ** Id: metaballstudios-01
 - Tiny ships all the way up to Ring World
-- Other size
-comparisions: <a
-href="https://www.youtube.com/channel/UCQwFuQLnLocj5F7ZcmcuWYQ"
->MetaBallStudios</a>
+- Other size comparisions: [[https://www.youtube.com/channel/UCQwFuQLnLocj5F7ZcmcuWYQ][MetaBallStudios]]
 
 ** Id: metivier-01
 + Are these thoughts useful?
@@ -1050,166 +983,158 @@ href="https://www.youtube.com/channel/UCQwFuQLnLocj5F7ZcmcuWYQ"
 
 ** Id: meyers-01
 - Violence as a dichotomy, with the only choices being Violence or
-Non-violence, is not a very useful basis for political discussion,
-unless you want to confuse people.
+  Non-violence, is not a very useful basis for political discussion,
+  unless you want to confuse people.
 
 ** Id: michaels-03
-- 
-<blockquote><p>"There once was a farmer who grew excellent quality
-corn. Every year he won the award for the best grown corn. One year a
-newspaper reporter interviewed him and learned something interesting
-about how he grew it. The reporter discovered that the farmer shared
-his seed corn with his neighbors. “How can you afford to share your
-best seed corn with your neighbors when they are entering corn in
-competition with yours each year?” the reporter asked.</p>
-<p>“Why sir,” said the farmer, “Didn’t you know? The wind picks up
-pollen from the ripening corn and swirls it from field to field. If my
-neighbors grow inferior corn, cross-pollination will steadily degrade
-the quality of my corn. If I am to grow good corn, I must help my
-neighbors grow good corn.”</p>
-<p>So it is with our lives. Those who want to live meaningfully,
-healthy, and well must help enrich the lives of others, for the value
-of a life is measured by the lives it touches. And those who choose to
-be happy must help others find happiness, for the welfare of each is
-bound up with the welfare of all.</p>
-<p>-Call it power of collectivity...<br>
--Call it a principle of success...<br>
--Call it a law of life.</p>
-<p>The fact is, none of us truly wins, until we all win!!"<br>
-{michaels-03}</p></blockquote>
+- <blockquote>
+  - "There once was a farmer who grew excellent quality corn. Every
+    year he won the award for the best grown corn. One year a
+    newspaper reporter interviewed him and learned something
+    interesting about how he grew it. The reporter discovered that the
+    farmer shared his seed corn with his neighbors. “How can you
+    afford to share your best seed corn with your neighbors when they
+    are entering corn in competition with yours each year?” the
+    reporter asked.
+  - “Why sir,” said the farmer, “Didn’t you know? The wind picks up
+    pollen from the ripening corn and swirls it from field to
+    field. If my neighbors grow inferior corn, cross-pollination will
+    steadily degrade the quality of my corn. If I am to grow good
+    corn, I must help my neighbors grow good corn.”
+  - So it is with our lives. Those who want to live meaningfully,
+    healthy, and well must help enrich the lives of others, for the
+    value of a life is measured by the lives it touches. And those who
+    choose to be happy must help others find happiness, for the
+    welfare of each is bound up with the welfare of all.
+  - Call it power of collectivity...
+  - Call it a principle of success...
+  - Call it a law of life.
+  - The fact is, none of us truly wins, until we all win!!"
+  - {michaels-03}</blockquote>
 
 ** Id: michaels-04
-- 
-<blockquote>when many of these [early] civilizations failed, everyone
-scattered in order to survive elsewhere. There is now nowhere left to
-scatter to, so we are forced to deal with these predicaments on
-nature's terms, not ours.{michaels-04} </blockquote>
+- <blockquote>when many of these [early] civilizations failed,
+  everyone scattered in order to survive elsewhere. There is now
+  nowhere left to scatter to, so we are forced to deal with these
+  predicaments on nature's terms, not ours.{michaels-04} </blockquote>
 
 ** Id: milgram-01
-- <p>
-<p>C. P. Snow, in 1961, pointed to its importance when he wrote:</p>
-<blockquote><p> When you think of the long and gloomy history of man,
-you will find more hideous crimes have been committed in the name of
-obedience than have ever been committed in the name of rebellion. If
-you doubt that, read William Shirer's Rise and Fall of the Third
-Reich. The German Officer Corps were brought up in the most rigorous
-code of obedience ... in the name of obedience they were party to, and
-assisted in, the most wicked large-scale actions in the history of the
-world.  </blockquote>
-<p>The Nazi extermination of European Jews is the most extreme
-instance of abhorrent immoral acts carried out by thousands of people
-in the name of obedience. Yet in lesser degree this type of thing is
-constantly recurring: ordinary citizens are ordered to destroy other
-people, and they do so because they consider it their duty to obey
-orders. Thus, obedience to authority, long praised as a virtue, takes
-on a new aspect when it serves a malevolent cause; far from appearing
-as a virtue, it is transformed into a heinous sin.</p>
-Link: https://www.jstor.org/stable/20297701<br>
-AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/Milgram-DilemmaObedience-1974.pdf<br>
-AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/Milgram-DilemmaObedience-1974.html<br>
-AltLink: https://archive.ph/T9FDc<br>
-Converted with: https://cloudconvert.com/pdf-to-html
-</p>
+- C. P. Snow, in 1961, pointed to its importance when he wrote:
+- <blockquote>When you think of the long and gloomy history of man,
+  you will find more hideous crimes have been committed in the name of
+  obedience than have ever been committed in the name of rebellion. If
+  you doubt that, read William Shirer's Rise and Fall of the Third
+  Reich. The German Officer Corps were brought up in the most rigorous
+  code of obedience ... in the name of obedience they were party to,
+  and assisted in, the most wicked large-scale actions in the history
+  of the world.</blockquote>
+- The Nazi extermination of European Jews is the most extreme instance
+  of abhorrent immoral acts carried out by thousands of people in the
+  name of obedience. Yet in lesser degree this type of thing is
+  constantly recurring: ordinary citizens are ordered to destroy other
+  people, and they do so because they consider it their duty to obey
+  orders. Thus, obedience to authority, long praised as a virtue,
+  takes on a new aspect when it serves a malevolent cause; far from
+  appearing as a virtue, it is transformed into a heinous sin.
+- Link: https://www.jstor.org/stable/20297701
+- AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/Milgram-DilemmaObedience-1974.pdf
+- AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/Milgram-DilemmaObedience-1974.html
+- AltLink: https://archive.ph/T9FDc
+- Converted with: https://cloudconvert.com/pdf-to-html
 
 ** Id: mindmup-01
-- This is a simple mindmap tool. Storyboards, assign
-"measurements", attach text boxes, publish and share, save pdf, save
-to your dropbox. It could be adapted to create quick DFD diagrams,
-because the levels can be collapsed, and the test attachments allow
-for pseudo code descriptions.
+- This is a simple mindmap tool. Storyboards, assign "measurements",
+  attach text boxes, publish and share, save pdf, save to your
+  dropbox. It could be adapted to create quick DFD diagrams, because
+  the levels can be collapsed, and the test attachments allow for
+  pseudo code descriptions.
 
 ** Id: mitchell-01
 - Related:
-https://www.nytimes.com/2023/01/26/opinion/the-left-purity-politics.html?showTranscript=1
-The Left is Eating Itself
+  https://www.nytimes.com/2023/01/26/opinion/the-left-purity-politics.html?showTranscript=1
+  The Left is Eating Itself
 
 ** Id: molyneux-02
 # Old: youtube-051
 - My problem with this libertarian view (From "The ecstasy of
-influence", below at 2012-04-10): "The power of a gift economy remains
-difficult for the empiricists of our market culture to understand. In
-our times, the rhetoric of the market presumes that everything should
-be and can be appropriately bought, sold, and owned--a tide of
-alienation lapping daily at the dwindling redoubt of the
-unalienable. In free-market theory, an intervention to halt
-propertization is considered "paternalistic," because it inhibits the
-free action of the citizen, now reposited as a "potential
-entrepreneur." Of course, in the real world, we know that
-child-rearing, family life, education, socialization, sexuality,
-political life, and many other basic human activities require
-insulation from market forces. In fact, paying for many of these
-things can ruin them.
+  influence", below at 2012-04-10): "The power of a gift economy
+  remains difficult for the empiricists of our market culture to
+  understand. In our times, the rhetoric of the market presumes that
+  everything should be and can be appropriately bought, sold, and
+  owned--a tide of alienation lapping daily at the dwindling redoubt
+  of the unalienable. In free-market theory, an intervention to halt
+  propertization is considered "paternalistic," because it inhibits
+  the free action of the citizen, now reposited as a "potential
+  entrepreneur." Of course, in the real world, we know that
+  child-rearing, family life, education, socialization, sexuality,
+  political life, and many other basic human activities require
+  insulation from market forces. In fact, paying for many of these
+  things can ruin them.
 
 ** Id: moonmagazine-01
 - There are fewer than a dozen quiet places left in the United
-States. Even in our wilderness areas and national parks, the average
-noise-free interval has shrunk to less than five minutes during
-daylight hours."
-- "Silence is not the absence of something, but
-the presence of everything."
-- Related: <a
-href="http://www.ted.com/talks/bernie_krause_the_voice_of_the_natural_world.html"
->Bernie Krause: The voice of the natural world</a> -
-video
+  States. Even in our wilderness areas and national parks, the average
+  noise-free interval has shrunk to less than five minutes during
+  daylight hours."
+- "Silence is not the absence of something, but the presence of
+  everything."
+- Related: [[http://www.ted.com/talks/bernie_krause_the_voice_of_the_natural_world.html][Bernie Krause: The voice of the natural world]] - video
 
 ** Id: moore-01
-- https://www.thesolarnerd.com/blog/planet-of-the-humans-debunked/</p>
-<p>This is a typical enviro-angst show. Doom and glum with no
-reasonable solutions or a root cause. They only gave a glimpse of a
-root cause at 49:34 (https://youtu.be/Zk11vI-7czE?t=2974) our
-culture's denial of death.
-- It's easier to fool the masses than
-to convince them that they are being fooled. -Mark Twain
-- So
-rather than focusing on the problem, how about solutions? For some
-examples, check out Charles Eisenstein at <a
-href="https://charleseisenstein.org/">https://charleseisenstein.org/
-"...the issue is not whether our current civilization is
-sustainable. Do we even want to sustain it? Can't we do better than
-this?"</a>
-- <a href="https://charleseisenstein.org/">Or dig even
-deeper with: Tamera at</a> <a
-href="https://www.tamera.org/">https://www.tamera.org/</a> We need to
-stop this "war" on the "other"; we are part of nature, and need to see
-how to be a lot more cooperative.
+- https://www.thesolarnerd.com/blog/planet-of-the-humans-debunked/
+- This is a typical enviro-angst show. Doom and glum with no
+  reasonable solutions or a root cause. They only gave a glimpse of a
+  root cause at 49:34 (https://youtu.be/Zk11vI-7czE?t=2974) our
+  culture's denial of death.
+- It's easier to fool the masses than to convince them that they are
+  being fooled. -Mark Twain
+- So rather than focusing on the problem, how about solutions? For
+  some examples, check out Charles Eisenstein at
+  [[https://charleseisenstein.org/]]
+- "...the issue is not whether our current civilization is
+  sustainable. Do we even want to sustain it? Can't we do better than
+  this?"
+- [[https://charleseisenstein.org/][Or dig even deeper with: Tamera at]] [[https://www.tamera.org/]] We need
+  to stop this "war" on the "other"; we are part of nature, and need
+  to see how to be a lot more cooperative.
 
 ** Id: moore-08
 - Extra chapter added to Sicko. Comment: @TwinTn: Just to clear
-something up: Bastøy is not a normal prison sentence, it is a
-rehabilitation program at the end of a long sentence. Murderers and
-rapists are not normally sent directly to bastøy. They may serve
-several years in a closed prison, and if they behave and pose little
-threat, they may finish their sentence at Bastøy. The maximum prison
-sentence in Norway is indeed 21 years, but if an inmate poses a
-serious threat to society, he can be held indefinitely (eg. life). To
-summarize: The Norwegian prison system does not release inmates
-according to when society is ready to take them back, but when the
-inmates are ready to be a part of society again.
+  something up: Bastøy is not a normal prison sentence, it is a
+  rehabilitation program at the end of a long sentence. Murderers and
+  rapists are not normally sent directly to bastøy. They may serve
+  several years in a closed prison, and if they behave and pose little
+  threat, they may finish their sentence at Bastøy. The maximum prison
+  sentence in Norway is indeed 21 years, but if an inmate poses a
+  serious threat to society, he can be held indefinitely
+  (eg. life). To summarize: The Norwegian prison system does not
+  release inmates according to when society is ready to take them
+  back, but when the inmates are ready to be a part of society again.
 
 ** Id: morieux-02
 # Old: youtube-008
-- <a
-href="http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.webm">local
-archive</a>
-- Really excellent points. I think most of this can
-be used as a starting point by any New Culture type companies. It is
-better than the Democratic Corporation concept that I've read.</p>
-<p>Complexity makes jobs very stressful and unproductive for
-everyone.</p>Simple rules for Smart Simplicity <ol> <li> <p>Understand
-what your people do (what is their real work?)</p> </li> <li>
-<p>Reinforce integrators (give middle mgrs the power to make others
-cooperate, remove layers, less rules, more discretionary power to the
-mgrs)</p> </li> <li> <p>Increase the total quantity of power (empower
-everybody, enough power so they can take risks and cooperate more,
-because they have more control)</p> </li> <li> <p>Extend the shadow of
-the future (create feedback loops to show consequences to actions, for
-example have design engineers follow their product through the
-lifecycle)</p> </li> <li> <p>Increase reciprocity (remove buffers that
-make us self-sufficient, so that we will have to cooperate)</p> </li>
-<li> <p>Reward those who cooperate (blame is not for failure, blame is
-for failing to help, or failing to ask for help)</p> </li> </ol>
-<p>The real battle is not against our competitors, it is against our
-own bureaucracies.
+- [[http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.webm][local archive]]
+- Really excellent points. I think most of this can be used as a
+  starting point by any New Culture type companies. It is better than
+  the Democratic Corporation concept that I've read.
+- Complexity makes jobs very stressful and unproductive for everyone.
+- Simple rules for Smart Simplicity
+  + Understand what your people do (what is their real work?)
+  + Reinforce integrators (give middle mgrs the power to make others
+    cooperate, remove layers, less rules, more discretionary power to
+    the mgrs)
+  + Increase the total quantity of power (empower everybody, enough
+    power so they can take risks and cooperate more, because they have
+    more control)
+  + Extend the shadow of the future (create feedback loops to show
+    consequences to actions, for example have design engineers follow
+    their product through the lifecycle)
+  + Increase reciprocity (remove buffers that make us self-sufficient,
+    so that we will have to cooperate)
+  + Reward those who cooperate (blame is not for failure, blame is for
+    failing to help, or failing to ask for help)
+- The real battle is not against our competitors, it is against our
+  own bureaucracies.
 
 ** Id: newcomb-01
 - See also [mcneil-01]
@@ -1218,65 +1143,54 @@ own bureaucracies.
 - Focused sound.
 
 ** Id: npr-01
-- Wow the lack of U.S. government inaction for Covid-19 is
-criminal!
-- Author Max Brooks became an expert on disaster
-preparedness - from pandemics to nuclear war - through researching for
-his books, "World War Z," "Germ Warfare" and the forthcoming
-"Devolution." He spoke with Terry Gross about how the federal
-government is designed to respond to crises like COVID-19 - and what
-is preventing the tasks forces from being deployed. He will also
-explain why "panic is not preparation," and how to have good
-"fact-hygiene."
-- <a
-href="https://www.npr.org/2020/03/24/820601571/all-of-this-panic-could-have-been-prevented-author-max-brooks-on-covid-19">Transcript</a></p>
-<p><a href="https://www.youtube.com/watch?v=4S2v3DMnb10"
->Go home! - Mel Brooks and son Max share a comedic PSA
-on the coronavirus.</a>
-- <a
-href="https://www.amazon.com/World-War-Unrated-Brad-Pitt/dp/B00EMJBVAI/ref=sr_1_2?crid=36TQB36J9F9YX&amp;dchild=1&amp;keywords=world+war+z&amp;qid=1585107543&amp;sprefix=%2Cinstant-video%2C224&amp;sr=8-2"
->World War Z (Unrated) 2h 3m</a>
-- <a
-href="https://www.amazon.com/World-War-Z-Brad-Pitt/dp/B00EL8I8IS/ref=sr_1_3?crid=36TQB36J9F9YX&amp;dchild=1&amp;keywords=world+war+z&amp;qid=1585107543&amp;sprefix=%2Cinstant-video%2C224&amp;sr=8-3"
->World War Z 1h 56m</a>
+- Wow the lack of U.S. government inaction for Covid-19 is criminal!
+- Author Max Brooks became an expert on disaster preparedness - from
+  pandemics to nuclear war - through researching for his books, "World
+  War Z," "Germ Warfare" and the forthcoming "Devolution." He spoke
+  with Terry Gross about how the federal government is designed to
+  respond to crises like COVID-19 - and what is preventing the tasks
+  forces from being deployed. He will also explain why "panic is not
+  preparation," and how to have good "fact-hygiene."
+- [[https://www.npr.org/2020/03/24/820601571/all-of-this-panic-could-have-been-prevented-author-max-brooks-on-covid-19][Transcript]]
+- [[https://www.youtube.com/watch?v=4S2v3DMnb10][Go home! - Mel Brooks and son Max share a comedic PSA on the coronavirus.]]
+- [[https://www.amazon.com/World-War-Unrated-Brad-Pitt/dp/B00EMJBVAI/ref=sr_1_2?crid=36TQB36J9F9YX&amp;dchild=1&amp;keywords=world+war+z&amp;qid=1585107543&amp;sprefix=%2Cinstant-video%2C224&amp;sr=8-2][World War Z (Unrated) 2h 3m]]
+- [[https://www.amazon.com/World-War-Z-Brad-Pitt/dp/B00EL8I8IS/ref=sr_1_3?crid=36TQB36J9F9YX&amp;dchild=1&amp;keywords=world+war+z&amp;qid=1585107543&amp;sprefix=%2Cinstant-video%2C224&amp;sr=8-3][World War Z 1h 56m]]
 
 ** Id: nunez-01
-- A PDF snapshot was taken because Internet Archive couldn't
-archive the page directly.
+- A PDF snapshot was taken because Internet Archive couldn't archive
+  the page directly.
 
 ** Id: nytimes-01
-- A quote from him:<br /> "I've been buying and selling things for
-10 years now. There's been hot product after hot product. But the
-thing is, there's always another one on the shelf," he said. "When we
-did this trip, I had no idea that these stores wouldn't be able to get
-replenished."
-- I think this is a very good summary of his
-misjudgment: <a
-href='https://tech.slashdot.org/comments.pl?sid=15977978&amp;cid=59836310'>Comment</a>
-on this post: <a
-href="https://tech.slashdot.org/story/20/03/16/1226251/he-has-17700-bottles-of-hand-sanitizer-and-nowhere-to-sell-them">he
-has 17700 bottles of hand sanitizer and nowhere to sell
-them</a>
+- A quote from him: "I've been buying and selling things for 10 years
+  now. There's been hot product after hot product. But the thing is,
+  there's always another one on the shelf," he said. "When we did this
+  trip, I had no idea that these stores wouldn't be able to get
+  replenished."
+- I think this is a very good summary of his misjudgment: [[https://tech.slashdot.org/comments.pl?sid=15977978&amp;cid=59836310'][Comment]] - on
+  this post: [[https://tech.slashdot.org/story/20/03/16/1226251/he-has-17700-bottles-of-hand-sanitizer-and-nowhere-to-sell-them][he has 17700 bottles of hand sanitizer and nowhere to
+  sell them]]
 
 ** Id: nytimes-02
-- <a
-href="http://www.dilisosfinefoods.com/stake-prune-your-beefsteaks/"
->Stake &amp; prune your beefsteaks</a>
+- [[http://www.dilisosfinefoods.com/stake-prune-your-beefsteaks/][Stake &amp; prune your beefsteaks]]
 
 ** Id: nytimes-03
 - TUSCALOOSA, Ala. - Several college students in an Alabama city
-organized "COVID-19" parties as a contest to see who would get the
-virus first, officials said.
+  organized "COVID-19" parties as a contest to see who would get the
+  virus first, officials said.
 
 ** Id: o-duinn-01
 # Old: youtube-012
-- <pre> Release Engineers != Developers developers build
-"products" release engineers build "pipelines" operation engineers
-keep it going Single Track The release schedule is as predictable as
-your riskiest project Project branches Completed projects ship on
-schedule Late/risky projects slip to next release To support project
-branches: use the exact same servers and processes to build any
-branch. </pre>
+- Release Engineers != Developers
+  + developers build "products"
+  + release engineers build "pipelines"
+  + operation engineers keep it going
+- Single Track
+  + The release schedule is only as predictable as your riskiest project
+- Project branches
+  + Completed projects ship on schedule
+  + Late/risky projects slip to next release
+- To support project branches: use the exact same servers and
+  processes to build any branch.
 
 ** Id: o-keefe-01
 - It improves the survival of the community.
@@ -1301,161 +1215,143 @@ branch. </pre>
 # Old: youtube-151
 ** Id: youtube-151
 - John Oliver discusses how the histories of policing and white
-supremacy are intertwined, the roadblocks to fixing things, and some
-potential paths forward.
-- Great rant! He ends with viral video
-by Kimberly Jones.
-- Here Trevor Noah interviews Kimberly Jones
-on June 19: <a
-href="https://www.youtube.com/watch?v=U1k9APedIUY">Kimberly Jones -
-Speaking Out About Black Experiences in America | The Daily Social
-Distancing Show</a>
+  supremacy are intertwined, the roadblocks to fixing things, and some
+  potential paths forward.
+- Great rant! He ends with viral video by Kimberly Jones.
+- Here Trevor Noah interviews Kimberly Jones on June 19: [[https://www.youtube.com/watch?v=U1k9APedIUY][Kimberly
+  Jones - Speaking Out About Black Experiences in America | The Daily
+  Social Distancing Show]]
 
 ** Id: olson-01
 - <b>Gerrymandering solution.</b>
-- Here's a link to Brian's
-site that shows how federal and state districts are drawn with his
-algorithm. Don't like his algorithm? His suggestion is that any group
-tasked with redistricting needs to use algorithms that are reviewable
-by the public so that "special" biases can be identified. Have maybe 5
-different algorithms define 5 district maps, then have the state or
-federal legislators vote on the ones that will be used for the next 10
-years, i.e. until the next census. <a
-href="https://bdistricting.com/2010/" >Impartial
-Automatic Redistricting</a>
-- Another good rant by John Oliver
-(Apr 9, 2017): <a
-href="https://www.youtube.com/watch?v=A-4dIImaodQ">Gerrymandering:
-Last Week Tonight with John Oliver (HBO)</a>
-- Here's another
-talk on algorithmic solutions: <a
-href="https://www.youtube.com/watch?v=Mv9kscNo5Gc"
->Data Science Can Solve Gerrymandering | Frank Evans |
-TEDxUCO</a> evans-02
+- Here's a link to Brian's site that shows how federal and state
+  districts are drawn with his algorithm. Don't like his algorithm?
+  His suggestion is that any group tasked with redistricting needs to
+  use algorithms that are reviewable by the public so that "special"
+  biases can be identified. Have maybe 5 different algorithms define 5
+  district maps, then have the state or federal legislators vote on
+  the ones that will be used for the next 10 years, i.e. until the
+  next census. [[https://bdistricting.com/2010/][Impartial Automatic Redistricting]]
+- Another good rant by John Oliver (Apr 9, 2017): [[https://www.youtube.com/watch?v=A-4dIImaodQ][Gerrymandering: Last
+  Week Tonight with John Oliver (HBO)]]
+- Here's another talk on algorithmic solutions: [[https://www.youtube.com/watch?v=Mv9kscNo5Gc][Data Science Can Solve
+  Gerrymandering | Frank Evans | TEDxUCO]] evans-02
 
 ** Id: olson-02
-- Gerrymandering solution: use algorithms. See also: olson-01, evans-02, oliver-01, brin-02
+- Gerrymandering solution: use algorithms. See also: olson-01,
+  evans-02, oliver-01, brin-02
 
 ** Id: onezero-medium-02
 - by Colin Horgan. Why shutting down Twitter accounts or limiting
-Facebook groups won't solve our problem.
-- My comments: Could a
-"voting" system such as stackoverflow.com help? Also signed text with
-authenticated key will probably be needed.
+  Facebook groups won't solve our problem.
+- My comments: Could a "voting" system such as stackoverflow.com help?
+  Also signed text with authenticated key will probably be needed.
 
 ** Id: opednews-01
 - Like others, Food Not Bombs (FNB) volunteers have been bogusly
-called terrorists. Some have been arrested, tried, convicted and
-imprisoned. Internal government documents suggest high-level concern
-that they're turning Americans away from militarism, instead
-advocating social justice, including quality education, universal
-health care, and good living wage/essential benefits jobs - the direct
-opposite of current US policy under either dominant party, each like
-the other, only pretending to be different.
-- As a result, FNB
-urges volunteers to stay focused, wary that infiltrators spread fear
-and disrupt constitutionally protected activities. Especially
-post-9/11, <i>advocating peace and social justice are now crimes,</i>
-engaged activists potentially facing charges of domestic terrorism and
-long imprisonment for supporting right over wrong. The reality of
-today's America is much different than its pretense, making it unsafe
-for anti-war, social justice advocates like FNB volunteers.
+  called terrorists. Some have been arrested, tried, convicted and
+  imprisoned. Internal government documents suggest high-level concern
+  that they're turning Americans away from militarism, instead
+  advocating social justice, including quality education, universal
+  health care, and good living wage/essential benefits jobs - the
+  direct opposite of current US policy under either dominant party,
+  each like the other, only pretending to be different.
+- As a result, FNB urges volunteers to stay focused, wary that
+  infiltrators spread fear and disrupt constitutionally protected
+  activities. Especially post-9/11, <i>advocating peace and social
+  justice are now crimes,</i> engaged activists potentially facing
+  charges of domestic terrorism and long imprisonment for supporting
+  right over wrong. The reality of today's America is much different
+  than its pretense, making it unsafe for anti-war, social justice
+  advocates like FNB volunteers.
 
 ** Id: openai-chat-01
 - For the version see
-https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 
 ** Id: openai-jukebox-01
-- OpenAI is an AI research and deployment company. Our mission is
-to ensure that artificial general intelligence benefits all of
-humanity.
+- OpenAI is an AI research and deployment company. Our mission is to
+  ensure that artificial general intelligence benefits all of
+  humanity.
 
 ** Id: ostrom-01
-- 
 - <blockquote>
-- Question: Is there an alternative to top-down government or free
-  market solutions?
-- Elinor Ostrom: Yeah. This is the, this concept of polycentricity of
-  enabling both market and governments at multiple scales to interact
-  with community organization so that we have a complex nested
-  system. and it ain't pretty in the sense that it's nice and neat and
-  many people have tried to get rid of creative solutions that are
-  complex, but society is complex, people are complex. And for us to
-  have simple solutions to complex problems, not a good idea.
-  {ostrom-01:63s}
-</blockquote>
+  - Question: Is there an alternative to top-down government or free
+    market solutions?
+  - Elinor Ostrom: Yeah. This is the, this concept of polycentricity
+    of enabling both market and governments at multiple scales to
+    interact with community organization so that we have a complex
+    nested system. and it ain't pretty in the sense that it's nice and
+    neat and many people have tried to get rid of creative solutions
+    that are complex, but society is complex, people are complex. And
+    for us to have simple solutions to complex problems, not a good
+    idea.
+  - {ostrom-01:63s}</blockquote>
 
 ** Id: parks-02
 - King wrote in his 1958 book Stride Toward Freedom that Parks's
-arrest was the catalyst rather than the cause of the protest: "The
-cause lay deep in the record of similar injustices."[55]: 437  He
-wrote, "Actually, no one can understand the action of Mrs. Parks
-unless he realizes that eventually the cup of endurance runs over, and
-the human personality cries out, 'I can take it no longer.'"
+  arrest was the catalyst rather than the cause of the protest: "The
+  cause lay deep in the record of similar injustices."[55]: 437  He
+  wrote, "Actually, no one can understand the action of Mrs. Parks
+  unless he realizes that eventually the cup of endurance runs over,
+  and the human personality cries out, 'I can take it no longer.'"
 
 ** Id: pbs-02
 - Paleontologist Kirk Johnson explores the dynamic history-and
-future-of ice at the poles.
-- I grep'ed through the full
-transcript. There is no mention of the Gaia Theory. The climate
-descriptions are all a result of inorganic
-processes. Disappointing. However the photography is stunning."
+  future-of ice at the poles.
+- I grep'ed through the full transcript. There is no mention of the
+  Gaia Theory. The climate descriptions are all a result of inorganic
+  processes. Disappointing. However the photography is stunning."
 
 ** Id: perel-02
-- In long-term relationships, we often expect our beloved to be
-both best friend and erotic partner.
-- So we come to one person,
-and we basically are asking them to give us what once an entire
-village used to provide. Give me belonging, give me identity, give me
-continuity, but give me transcendence and mystery and awe all in
-one. Give me comfort, give me edge. Give me novelty, give me
-familiarity. Give me predictability, give me surprise. And we think
-it's a given, and toys and lingerie are going to save us with
-that.
-- So if there is a verb, for me, that comes with love, it's
-"to have." And if there is a verb that comes with desire, it is "to
-want." In love, we want to have, we want to know the beloved. We want
-to minimize the distance. We want to contract that gap. We want to
-neutralize the tensions. We want closeness. But in desire, we tend to
-not really want to go back to the places we've already gone. Forgone
-conclusion does not keep our interest. In desire, we want an Other,
-somebody on the other side that we can go visit, that we can go spend
-some time with, that we can go see what goes on in their red-light
-district. You know? In desire, we want a bridge to cross. Or in other
-words, I sometimes say, fire needs air. Desire needs space. And when
-it's said like that, it's often quite abstract.
-- Book: <a
-href="https://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence-ebook/dp/B000UODXP0/"
->Mating in Captivity: Unlocking Erotic Intelligence, by
-Esther Perel</a>
+- In long-term relationships, we often expect our beloved to be both
+  best friend and erotic partner.
+- So we come to one person, and we basically are asking them to give
+  us what once an entire village used to provide. Give me belonging,
+  give me identity, give me continuity, but give me transcendence and
+  mystery and awe all in one. Give me comfort, give me edge. Give me
+  novelty, give me familiarity. Give me predictability, give me
+  surprise. And we think it's a given, and toys and lingerie are going
+  to save us with that.
+- So if there is a verb, for me, that comes with love, it's "to have."
+  And if there is a verb that comes with desire, it is "to want." In
+  love, we want to have, we want to know the beloved. We want to
+  minimize the distance. We want to contract that gap. We want to
+  neutralize the tensions. We want closeness. But in desire, we tend
+  to not really want to go back to the places we've already
+  gone. Forgone conclusion does not keep our interest. In desire, we
+  want an Other, somebody on the other side that we can go visit, that
+  we can go spend some time with, that we can go see what goes on in
+  their red-light district. You know? In desire, we want a bridge to
+  cross. Or in other words, I sometimes say, fire needs air. Desire
+  needs space. And when it's said like that, it's often quite
+  abstract.
+- Book: [[https://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence-ebook/dp/B000UODXP0/][Mating in Captivity: Unlocking Erotic Intelligence, by Esther
+  Perel]]
 
 ** Id: perform-01
 - Beautiful
 
 ** Id: piccard-01
 - Balloonist view of life. Pushed through life by consistent
-winds. Change your altitude, drop ballast or let out air, to find new
-winds, new paths.
+  winds. Change your altitude, drop ballast or let out air, to find
+  new winds, new paths.
 
 ** Id: pink-01
 - Dan Pink examines the puzzle of motivation, starting with a fact
-that social scientists know but most managers don't: Traditional
-rewards aren't always as effective as we think. "Carrot/stick"
-rewards/punishments work for mechanical tasks, but fail completely for
-mental cognitive tasks. Yet businesses ignore this, tested
-fact.
+  that social scientists know but most managers don't: Traditional
+  rewards aren't always as effective as we think. "Carrot/stick"
+  rewards/punishments work for mechanical tasks, but fail completely
+  for mental cognitive tasks. Yet businesses ignore this, tested fact.
 
 ** Id: pinker-01
 - Fascinating.
-- <a
-href="http://www.ted.com/talks/steven_pinker_chalks_it_up_to_the_blank_slate.html"
->TED: Steven Pinker: Chalks It Up To The Blank
-Slate</a>
+- [[http://www.ted.com/talks/steven_pinker_chalks_it_up_to_the_blank_slate.html][TED: Steven Pinker: Chalks It Up To The Blank Slate]]
 
 ** Id: piper-01
 - by Grant Piper
-- A mysterious apocalypse brought down
-nearly all of human civilization three thousand years ago
+- A mysterious apocalypse brought down nearly all of human
+  civilization three thousand years ago
 
 ** Id: popova-01
 - See also: Erewhon, or, Over the Range, by Samuel Butler
@@ -1465,73 +1361,68 @@ nearly all of human civilization three thousand years ago
 
 ** Id: potter-01
 # Old: youtube-113
-- More: <a href="WillPotter.com/CMU">WillPotter.com/CMU</a> -
-notes
+- More: [[WillPotter.com/CMU][WillPotter.com/CMU]] - notes
 - The solution is transparency.
 
 ** Id: rachel-01
-- Issues 1 to 854: https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4<br>
-https://web.archive.org/web/20090411225529/http://www.rachel.org/en/newsletters/archive/rachels_news<br>
-https://www.ejnet.org/rachel/contents.htm<br>
-https://web.archive.org/web/20230421002859/https://www.ejnet.org/rachel/contents.htm<br>
-https://www.ejnet.org/rachel/index.htm<br>
-https://web.archive.org/web/20230421003542/https://www.ejnet.org/rachel/index.htm<br>
-https://web.archive.org/web/20090411225529/http://www.rachel.org/en/newsletters/archive/rachels_news<br>
-https://web.archive.org/web/20090324202638/http://www.rachel.org/<br>
-https://worldisnew.wordpress.com/<br>
-https://web.archive.org/web/20210212010107/https://worldisnew.wordpress.com/
-But is where is a complete archive of all these newsletters?
+- Issues 1 to 854:
++ https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4
++ https://web.archive.org/web/20090411225529/http://www.rachel.org/en/newsletters/archive/rachels_news
++ https://www.ejnet.org/rachel/contents.htm
++ https://web.archive.org/web/20230421002859/https://www.ejnet.org/rachel/contents.htm
++ https://www.ejnet.org/rachel/index.htm
++ https://web.archive.org/web/20230421003542/https://www.ejnet.org/rachel/index.htm
++ https://web.archive.org/web/20090411225529/http://www.rachel.org/en/newsletters/archive/rachels_news
++ https://web.archive.org/web/20090324202638/http://www.rachel.org/
++ https://worldisnew.wordpress.com/
++ https://web.archive.org/web/20210212010107/https://worldisnew.wordpress.com/
+- But is where is a complete archive of all these newsletters?
 
 ** Id: rafnel-01
-- This was taken around noon Wed 2020-09-09 at Redwood City,
-CA.
-- The air quality was "Moderate" (64) because the smoke is
-luckily trapped above an inversion layer. The temperature is only 66F
-because the sun is blocked so much. It was 105F on Monday.
+- This was taken around noon Wed 2020-09-09 at Redwood City, CA.
+- The air quality was "Moderate" (64) because the smoke is luckily
+  trapped above an inversion layer. The temperature is only 66F
+  because the sun is blocked so much. It was 105F on Monday.
 
 ** Id: rafnel-03
--  <p>What is the PGP Web of Trust Strongset?<br>
-https://crypto.stackexchange.com/questions/80629/what-is-the-pgp-web-of-trust-strongset<br>
-https://archive.ph/CsQje
+- What is the PGP Web of Trust Strongset?
+- https://crypto.stackexchange.com/questions/80629/what-is-the-pgp-web-of-trust-strongset
+- https://archive.ph/CsQje
 - The web of trust is no longer
-active. It was removed in GPG version 2.2.17.<br> June 2016 the
-keyserver network was attacked in a way that fundamentally broke the
-whole thing. See: "SKS Keyserver Network Under Attack"<br>
-https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f</p>
+  active. It was removed in GPG version 2.2.17.
+- June 2016 the keyserver network was attacked in a way that
+  fundamentally broke the whole thing. See: "SKS Keyserver Network
+  Under Attack"
+- https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f
 
 ** Id: rankin-01
-- <a href="https://www.youtube.com/watch?v=gcai0i2tJt0">Dr. Lissa
-Rankin: Mind Over Medicine: Scientific Proof You Can Heal Yourself,
-Talks at Google</a> - A longer talk given at Google. - 54min</p>
-<p>Book: <a
-href="http://www.amazon.com/Mind-Over-Medicine-Scientific-Yourself/dp/1401939988/ref=tmm_hrd_title_0">Mind
-Over Medicine, by Lissa Rankin</a>
-- Site: <a
-href="HealHealthCareNow.com">HealHealthCareNow.com</a>
-- Site: <a
-href="OwningPink.com">OwningPink.com</a></p> <pre> * Placebo happens
-when the body is relaxed. * The body can't heal itself on stress
-hormones. * The amygdala can't read. * No one knows your body better
-than you. * Meditation is controlling the looping nature of thought. *
-Relax! </pre>
+- [[https://www.youtube.com/watch?v=gcai0i2tJt0][Dr. Lissa Rankin: Mind Over Medicine: Scientific Proof You Can Heal
+  Yourself, Talks at Google]] - A longer talk given at Google. - 54min
+- Book: [[http://www.amazon.com/Mind-Over-Medicine-Scientific-Yourself/dp/1401939988/ref=tmm_hrd_title_0][Mind Over Medicine, by Lissa Rankin]]
+- Site: [[HealHealthCareNow.com]]
+- Site: [[OwningPink.com]]
+  + Placebo happens when the body is relaxed.
+  + The body can't heal itself on stress hormones.
+  + The amygdala can't read.
+  + No one knows your body better than you.
+  + Meditation is controlling the looping nature of thought.
+  + Relax!
 
 ** Id: reculture-01
-- <pre>A 5 day summit, 8am to 3pm each day.
-Private access: https://moria.whyayh.com/rel/archive/video/ThirdParty/a-cry-from-the-future/
-Related: see reculture-02
-Cite example: Summit: A Cry From the Future, Speaker: Jamie Wheal{reculture-01}
-</pre>
+- A 5 day summit, 8am to 3pm each day.
+- Private access:
+  https://moria.whyayh.com/rel/archive/video/ThirdParty/a-cry-from-the-future/
+- Related: see reculture-02
+- Cite example: Summit: A Cry From the Future, Speaker: Jamie Wheal{reculture-01}
 
 ** Id: reculture-02
-- <pre>Community
-Classrooms.
-    Welcome to Re/Culture Education
-    The Forbidden Fruit: Eros / Love / Community
-    A Cry From the Future - Full Replay
-    Learnings from Tamera: Community and Culture
-    Re/Culture LIVE
-        The Opening with Jon Marro
-</pre>
+- Community Classrooms.
+  - Welcome to Re/Culture Education
+  - The Forbidden Fruit: Eros / Love / Community
+  - A Cry From the Future - Full Replay
+  - Learnings from Tamera: Community and Culture
+  - Re/Culture LIVE
+  - The Opening with Jon Marro
 
 ** Id: rettner-01
 - <blockquote>
@@ -1548,33 +1439,27 @@ Classrooms.
   the fluid-filled spaces collapse soon after deaths, so they won't be
   seen with cadaver studies.
 ** Id: ridley-01
-- "Trade" and idea transfer is the substrate for
-patterns...
+- "Trade" and idea transfer is the substrate for patterns...
 
 ** Id: roach-01
 - cute, but it's only a start
 
 ** Id: roberts-01
-- "A sobering new study finds that the world's biggest industries
-burn through $7.3 trillion worth of free natural capital a year. And
-it's the only reason they turn a profit."
-Found because of comment by [hawks-01] on video [chapman-02].
+- "A sobering new study finds that the world's biggest industries burn
+  through $7.3 trillion worth of free natural capital a year. And it's
+  the only reason they turn a profit."  Found because of comment by
+  [hawks-01] on video [chapman-02].
 
 ** Id: robertson-01
 # Old: youtube-026
 - All good:
-- <a href="http://www.youtube.com/watch?v=14msmjowzrc">Jeanne Robertson "Don't Get Frisky in a tent!" ("Don't
-  sleep in a tent with Left Brain!")</a>
-- <a href="http://www.youtube.com/watch?v=-YFRUSTiFUs">Jeanne Robertson "Don't send a man to the grocery
-  store!"</a>
-- <a href="http://www.youtube.com/watch?v=moSKtnuRnsM">Jeanne Robertson "Flight attendant deals with a bad
-potato"</a>
-- <a href="http://www.youtube.com/watch?v=RE82Gt93UYc">Jeanne Robertson "Mothers vs Teenage
-  Daughters"</a>
-- <a href="http://www.youtube.com/watch?v=TeUdZ2VkG30">Jeanne Robertson "Don't go rafting without a Baptist
-  in the boat!"</a>
-- <a href="http://www.youtube.com/watch?v=uURhPZgjHfw">Jeanne Robertson at the Grand Ole Opry</a>
-- <a href="http://www.youtube.com/watch?v=jICYirpMgX4">Jeanne Robertson "The Golfer's Christening"</a>
+- [[http://www.youtube.com/watch?v=14msmjowzrc][Jeanne Robertson "Don't Get Frisky in a tent!" ("Don't   sleep in a tent with Left Brain!")]]
+- [[http://www.youtube.com/watch?v=-YFRUSTiFUs][Jeanne Robertson "Don't send a man to the grocery store!"]]
+- [[http://www.youtube.com/watch?v=moSKtnuRnsM][Jeanne Robertson "Flight attendant deals with a bad potato"]]
+- [[http://www.youtube.com/watch?v=RE82Gt93UYc][Jeanne Robertson "Mothers vs Teenage Daughters"]]
+- [[http://www.youtube.com/watch?v=TeUdZ2VkG30][Jeanne Robertson "Don't go rafting without a Baptist in the boat!"]]
+- [[http://www.youtube.com/watch?v=uURhPZgjHfw][Jeanne Robertson at the Grand Ole Opry]]
+- [[http://www.youtube.com/watch?v=jICYirpMgX4][Jeanne Robertson "The Golfer's Christening"]]
 
 ** Id: rodgers-01
 - by Travis Rodgers
@@ -1585,28 +1470,24 @@ potato"</a>
 - Sad.
 
 ** Id: rosen-01
-- US incarceration rate from 1925 to 1975 was quite "stable", 100
-per 100,000. After 1975 it rapidly climbs to 700 per 100,000 (over the
-last 40 years). The U.S. is 7 to 10 times higher than in European
-countries.
-- Crime moves in sync with, better policing, better
-social conditions, not incarceration.
-- He highlights German
-prisons. What a sane system!
-- <b>Article 1 of the German
-Constitution: "Human dignity shall be inviolable. To respect and
-protect it shall be the duty of all state authority."</b>
-- He
-went to Germany to "learn". How does a society go from such inhumanity
-to being humane?
-- Quote from Fyodor Dostoevsky: "The degree of
-civilization in a society can be judged by entering its
-prisons."
+- US incarceration rate from 1925 to 1975 was quite "stable", 100 per
+  100,000. After 1975 it rapidly climbs to 700 per 100,000 (over the
+  last 40 years). The U.S. is 7 to 10 times higher than in European
+  countries.
+- Crime moves in sync with, better policing, better social conditions,
+  not incarceration.
+- He highlights German prisons. What a sane system!
+- <b>Article 1 of the German Constitution: "Human dignity shall be
+  inviolable. To respect and protect it shall be the duty of all state
+  authority."</b>
+- He went to Germany to "learn". How does a society go from such
+  inhumanity to being humane?
+- Quote from Fyodor Dostoevsky: "The degree of civilization in a
+  society can be judged by entering its prisons."
 
 ** Id: rowe-01
-- Excellent.<br /> <a
-href="http://www.youtube.com/watch?v=IRVdiHu1VCc">Alternate link -
-YouTube</a>
+- Excellent.
+- [[http://www.youtube.com/watch?v=IRVdiHu1VCc][Alternate link - YouTube]]
 
 ** Id: russell-01
 # Old: youtube-025
@@ -1614,15 +1495,14 @@ YouTube</a>
 - Image is superficial
 
 ** Id: salon-01
-- Donald Trump's approval rating has not move below 40 to 42%.</p>
-<p>...the past few years have shown us is that the already difficult
-task of admitting you are wrong is even harder for conservatives,
-because it will also require recognizing the unthinkable possibility
-that liberals were right.
+- Donald Trump's approval rating has not move below 40 to 42%.
+- ...the past few years have shown us is that the already difficult
+  task of admitting you are wrong is even harder for conservatives,
+  because it will also require recognizing the unthinkable possibility
+  that liberals were right.
 
 ** Id: sandel-01
-- <a href="http://justiceharvard.org/" >The full
-series</a>
+- [[http://justiceharvard.org/][The full series]]
 
 ** Id: savory-01
 # Old: youtube-111
@@ -1638,17 +1518,16 @@ series</a>
 - I'll bet this is still possible. Wow!
 
 ** Id: semler-01
-- This is really important! A 30 year success story--this is not
-just a vision of what could be: it is a reality. Democratic companies:
-take vacation when you want, set your own salary, interviewed and
-hired by peers, leaders evaluated by subordinates every 6 months,
-etc. Education that is inline with what John Gatto talks about: no
-grades, no age grouping, flexible hours, no breaking up the day with
-multiple subjects, etc.
+- This is really important! A 30 year success story--this is not just
+  a vision of what could be: it is a reality. Democratic companies:
+  take vacation when you want, set your own salary, interviewed and
+  hired by peers, leaders evaluated by subordinates every 6 months,
+  etc. Education that is inline with what John Gatto talks about: no
+  grades, no age grouping, flexible hours, no breaking up the day with
+  multiple subjects, etc.
 
 ** Id: shafak-01
-- Very wise. Rather than "write what you know", "write what you
-feel".
+- Very wise. Rather than "write what you know", "write what you feel".
 
 ** Id: shane-01
 # Old: youtube-080
@@ -1658,84 +1537,54 @@ feel".
 - Videos "banned" from TED
 
 ** Id: sheldrake-02
-- <a
-href="http://blog.ted.com/2013/03/19/the-debate-about-rupert-sheldrakes-talk/"
->Banned TED talk: Dr. Rupert Sheldrake</a> -
-blog.ted.com, video
-- <a
-href="http://www.youtube.com/watch?v=kAuxXvNVhgA"
->02/04/2013 - Dr. Rupert Sheldrake talks about his
-banned TED talk on Skeptiko with Alex Tsakiris</a> - audio
-- <a
-href="http://www.youtube.com/watch?v=JnA8GUtXpXY" >The
-Extended Mind: Recent Experimental Evidence</a> - video
-- <a
-href="http://www.youtube.com/watch?v=0waMBY3qEA4"
->Rupert Sheldrake at EU 2013 - "Science Set Free" (Part
-1)</a> - video
-- <a
-href="http://www.youtube.com/watch?v=VRKvvxku5So"
->Rupert Sheldrake at EU 2013 - "Science Set Free" (Part
-2)</a> - video
-- <a
-href="http://www.amazon.com/Science-Set-Free-Discovery-ebook/dp/B0076PGG6Y/ref=tmm_kin_title_0?ie=UTF8&amp;qid=1375421310&amp;sr=8-1"
->Science Set Free: 10 Paths to New Discovery</a> -
-Book
-- <a
-href="http://www.amazon.com/Morphic-Resonance-Formative-Causation-ebook/dp/B003ZHVB6C/ref=tmm_kin_title_0?ie=UTF8&amp;qid=1375421310&amp;sr=8-2"
->Morphic Resonance: The Nature of Formative
-Causation</a> - Book
+- [[http://blog.ted.com/2013/03/19/the-debate-about-rupert-sheldrakes-talk/][Banned TED talk: Dr. Rupert Sheldrake]] - blog.ted.com, video
+- [[http://www.youtube.com/watch?v=kAuxXvNVhgA][02/04/2013 - Dr. Rupert Sheldrake talks about his banned TED talk on Skeptiko with Alex Tsakiris]] - audio
+- [[http://www.youtube.com/watch?v=JnA8GUtXpXY][The Extended Mind: Recent Experimental Evidence]] - video
+- [[http://www.youtube.com/watch?v=0waMBY3qEA4][Rupert Sheldrake at EU 2013 - "Science Set Free" (Part 1)]] - video
+- [[http://www.youtube.com/watch?v=VRKvvxku5So][Rupert Sheldrake at EU 2013 - "Science Set Free" (Part 2)]] - video
+- [[http://www.amazon.com/Science-Set-Free-Discovery-ebook/dp/B0076PGG6Y/ref=tmm_kin_title_0?ie=UTF8&amp;qid=1375421310&amp;sr=8-1][Science Set Free: 10 Paths to New Discovery]] - Book
+- [[http://www.amazon.com/Morphic-Resonance-Formative-Causation-ebook/dp/B003ZHVB6C/ref=tmm_kin_title_0?ie=UTF8&amp;qid=1375421310&amp;sr=8-2][Morphic Resonance: The Nature of Formative Causation]] - Book
 
 ** Id: shellenberger-01
 - He describes some very real problems with wind and solar. So, go
-nuclear. Well, there are safer and cleaner nuclear designs. But of
-course he doesn't address those. The issue of long-term storage of
-spent fuel was not addressed. The issue of meltdowns, with "active"
-fail-safes, in the current designs were not addressed. ("Passive"
-fail-safe designs are way more reliable.)
-- Also, in his
-descriptions of the problems with "renewable", he only talked about
-"centralize" renewables, i.e. large scale projects; he quickly brushed
-aside decentralized options as being more expensive. He also
-characterized lots of smaller renewable plants as being more
-fragile. Huh?! He truly does not understand <i>redundancy</i> in
-providing fault-tolerant systems.
-- Others pointed out, he didn't
-really address other storage options that are being developed. For
-example, liquid air.
+  nuclear. Well, there are safer and cleaner nuclear designs. But of
+  course he doesn't address those. The issue of long-term storage of
+  spent fuel was not addressed. The issue of meltdowns, with "active"
+  fail-safes, in the current designs were not addressed. ("Passive"
+  fail-safe designs are way more reliable.)
+- Also, in his descriptions of the problems with "renewable", he only
+  talked about "centralize" renewables, i.e. large scale projects; he
+  quickly brushed aside decentralized options as being more
+  expensive. He also characterized lots of smaller renewable plants as
+  being more fragile. Huh?! He truly does not understand
+  <i>redundancy</i> in providing fault-tolerant systems.
+- Others pointed out, he didn't really address other storage options
+  that are being developed. For example, liquid air.
 
 ** Id: sherwood-01
-- <p>See also cassella-01 and huber-01.</p>
+- See also cassella-01 and huber-01.
 
 ** Id: shirky-01
 - Book: Here Comes Everybody: The Power of Organizing Without
-Organizations, by Clay Shirky.
-- Interview by Rob Kall, Bottom Up
-Radio Show Podcast
+  Organizations, by Clay Shirky.
+- Interview by Rob Kall, Bottom Up Radio Show Podcast
 
 ** Id: silverman-01
-- 
-- Another video banned by TED. Wow, really shocking, but
-strangely honest.
-- <a
-href="http://www.youtube.com/watch?v=u-eWgXfR3Uw"
->BANNED TEDx TALKS: Real Truth, Science, Consciousness,
-etc.</a>
+- Another video banned by TED. Wow, really shocking, but strangely
+  honest.
+- [[http://www.youtube.com/watch?v=u-eWgXfR3Uw][BANNED TEDx TALKS: Real Truth, Science, Consciousness, etc.]]
 
 ** Id: smith-03
-- by Thomas Smith. And what it says about the problems with
-trusting your smartphone camera.
-- <a
-href="https://www.youtube.com/watch?v=MnyFxZlWjrY"
->Redwood City, CA - video</a>
+- by Thomas Smith. And what it says about the problems with trusting
+  your smartphone camera.
+- [[https://www.youtube.com/watch?v=MnyFxZlWjrY][Redwood City, CA - video]]
 
 ** Id: smith-06
-- Good points. His used of Institution is equivalent to the
-Powers.  How much a power limits an individual is certainly a valid
-point, and it would be part of evaluating the Institution for "evil."
+- Good points. His used of Institution is equivalent to the Powers.
+  How much a power limits an individual is certainly a valid point,
+  and it would be part of evaluating the Institution for "evil."
 
 ** Id: smith-08
-- 
 - Outline:
   + Introduction
   + The Problem
@@ -1779,67 +1628,56 @@ point, and it would be part of evaluating the Institution for "evil."
 
 ** Id: steffen-01
 - Example: more density will reduce energy needs more than just
-changing to renewable energies. What we really want is "access" to
-what we want. Share more.
+  changing to renewable energies. What we really want is "access" to
+  what we want. Share more.
 
 ** Id: still-01
 - Fiat money, Tally Stick, Gold backed $, debt money from banks vs
-gov. issued money. History of money in the world and the US. <p>The
-video has been removed, but you can still buy the DVD (or google for
-other sources, it is 101 min long). It is really worth it! <a
-href="http://www.secretofoz.com/" >Buy it here.</a>
-($19.95 for 1, $60 for 5)
-- <a
-href="http://www.webcitation.org/5zvtfLx4Q">Populist Party Platform
-(1892)</a>
+  gov. issued money. History of money in the world and the US.
+- The video has been removed, but you can still buy the DVD (or google
+  for other sources, it is 101 min long). It is really worth it!  [[http://www.secretofoz.com/][Buy
+  it here.]]  ($19.95 for 1, $60 for 5)
+- [[http://www.webcitation.org/5zvtfLx4Q][Populist Party Platform (1892)]]
 
 ** Id: stone-04
-- "As Elinor Ostrom proved, the tragedy of the commons isn't that
-a commons is always exploited, but quite the opposite: an open-access
-resource will be exploited unless it is managed as a commons. We see
-the same misunderstanding of the climate commons. The climate is
-clearly a global common good, a foundational good critical to our
-survival. However, the climate has become a crisis because it is
-treated as the ultimate global open-access resource: why will the UK
-reduce our emissions if China won't."
+- "As Elinor Ostrom proved, the tragedy of the commons isn't that a
+  commons is always exploited, but quite the opposite: an open-access
+  resource will be exploited unless it is managed as a commons. We see
+  the same misunderstanding of the climate commons. The climate is
+  clearly a global common good, a foundational good critical to our
+  survival. However, the climate has become a crisis because it is
+  treated as the ultimate global open-access resource: why will the UK
+  reduce our emissions if China won't."
 
 ** Id: struggleforfreedom-blogg-no-01
-- <a
-href="http://www.youtube.com/watch?feature=player_embedded&amp;v=Vu8J_UKKa-c"
->Direct Democracy</a> - video. This is a very good
-summary of a more humane society
-- <a
-href="http://www.youtube.com/watch?v=VUig0lFHDDw"
->Anarchists in the 1936 Spanish Civil War</a> - The
-Catalonia experiment - video
-- Source: <a
-href="http://occupywallst.org/article/watch-live-ows-new-years-eve-festivities/#comments">OWS
-New Year's Eve Festivities - comments</a> - see user:
-struggleforfreedom80 (saved)
+- [[http://www.youtube.com/watch?feature=player_embedded&amp;v=Vu8J_UKKa-c][Direct Democracy]] - video. This is a very good summary of a more
+  humane society
+- [[http://www.youtube.com/watch?v=VUig0lFHDDw][Anarchists in the 1936 Spanish Civil War]] - The Catalonia
+  experiment - video
+- Source: [[http://occupywallst.org/article/watch-live-ows-new-years-eve-festivities/#comments][OWS New Year's Eve Festivities - comments]] - see user:
+  struggleforfreedom80 (saved)
 
 ** Id: suzuki-01
-- <a
-href="http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/david_suzuki_an_elders_vision_for_our_sustainable_future.mp4">local
-archive</a>
-- See also: <a
-href="http://www.youtube.com/watch?v=IwxedZG21ZE">Dr. David Suzuki -
-Message to The World_from Occupy Vancouver</a> - 25min
+- [[http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/david_suzuki_an_elders_vision_for_our_sustainable_future.mp4][local archive]]
+- See also: [[http://www.youtube.com/watch?v=IwxedZG21ZE][Dr. David Suzuki - Message to The World_from Occupy Vancouver]] - 25min
 
 ** Id: suzuki-02
-- <pre> <a
-href="http://www.youtube.com/watch?v=kHMNGjTgruk">part1</a> <a
-href="http://www.youtube.com/watch?v=mbaVmQqjV0Q">part2</a> <a
-href="http://www.youtube.com/watch?v=xFkx_YZiJss">part3</a> part4 -
-missing <a href="http://www.youtube.com/watch?v=FQfjEJaLGRI">part5</a>
-<a href="http://www.youtube.com/watch?v=Fi9sodp15F8">part6</a> <a
-href="http://www.youtube.com/watch?v=HcLzaIFapS4">part7</a> part8 -
-missing </pre> <p>Another source: <a
-href="https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html">https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html"</a>
++ [[http://www.youtube.com/watch?v=kHMNGjTgruk][part1]] 
++ [[http://www.youtube.com/watch?v=mbaVmQqjV0Q][part2]] 
++ [[http://www.youtube.com/watch?v=xFkx_YZiJss][part3]] 
++ part4 - missing 
++ [[http://www.youtube.com/watch?v=FQfjEJaLGRI][part5]] +
++ [[http://www.youtube.com/watch?v=Fi9sodp15F8][part6]] [[http://www.youtube.com/watch?v=HcLzaIFapS4][
++ part7]] 
++ part8 -missing
+- Another source: [[https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html]]
 
 ** Id: tamera-01
-- <pre> <a href="http://www.tamera.org/index.php?id=1&amp;L=0">
-Home page</a> Books: * The Sacred Matrix * Setting Foundations for a
-New Civilization * Tamera: A Model for the Future </pre>
+- [[http://www.tamera.org/index.php?id=1&amp;L=0][Home page]] 
+- Books:
+  + The Sacred Matrix
+  + Setting Foundations for a New Civilization
+  + Tamera: A Model for the Future
 
 ** Id: tamera-02
 - For a New Generation on Planet Earth
@@ -1849,238 +1687,249 @@ New Civilization * Tamera: A Model for the Future </pre>
 
 ** Id: tcm-01
 - We're building a movement of people across the United States to
-reclaim our future by initiating an emergency-speed, whole-society
-Climate Mobilization, reversing global warming and restoring a safe
-climate.
+  reclaim our future by initiating an emergency-speed, whole-society
+  Climate Mobilization, reversing global warming and restoring a safe
+  climate.
 
 ** Id: technologyreview-01
-- The second potential danger is more troubling: in a world where
-the past haunts the present, young people may calcify their
-identities, perspectives, and political positions at an increasingly
-young age.
-- In 2017, Harvard University rescinded admission
-offers to 10 students after discovering that they had shared offensive
-memes in a private Facebook chat. In 2019, the university withdrew
-another offer-to Kyle Kashuv, an outspoken conservative survivor of
-the Marjory Stoneman Douglas High School shooting in Parkland,
-Florida. In Kashuv's case, it wasn't a social-media post that caused
-the trouble, and it wasn't an adult who exposed him. Back in 10th
-grade, Kashuv had repeatedly used the N-word in a shared Google
-document created for a class assignment. When Harvard accepted him,
-his peers recovered the document and shared it with the media.</p>
-<p>There are reasons to applaud Harvard for refusing to take these
-students. Such decisions offer hope that future generations will be
-held accountable for racist, sexist, and homophobic behavior. This is
-a step in the right direction. But there is a flip side.
-- When
-Kashuv discovered he had lost his place at Harvard, he did what any
-digital native would do-he shared his reaction online. On Twitter, he
-wrote, "Throughout its history, Harvard's faculty has included slave
-owners, segregationists, bigots and antisemites. If Harvard is
-suggesting that growth isn't possible and that our past defines our
-future, then Harvard is an inherently racist institution."
+- The second potential danger is more troubling: in a world where the
+  past haunts the present, young people may calcify their identities,
+  perspectives, and political positions at an increasingly young age.
+- In 2017, Harvard University rescinded admission offers to 10
+  students after discovering that they had shared offensive memes in a
+  private Facebook chat. In 2019, the university withdrew another
+  offer-to Kyle Kashuv, an outspoken conservative survivor of the
+  Marjory Stoneman Douglas High School shooting in Parkland,
+  Florida. In Kashuv's case, it wasn't a social-media post that caused
+  the trouble, and it wasn't an adult who exposed him. Back in 10th
+  grade, Kashuv had repeatedly used the N-word in a shared Google
+  document created for a class assignment. When Harvard accepted him,
+  his peers recovered the document and shared it with the media.
+- There are reasons to applaud Harvard for refusing to take these
+  students. Such decisions offer hope that future generations will be
+  held accountable for racist, sexist, and homophobic behavior. This
+  is a step in the right direction. But there is a flip side.
+- When Kashuv discovered he had lost his place at Harvard, he did what
+  any digital native would do-he shared his reaction online. On
+  Twitter, he wrote, "Throughout its history, Harvard's faculty has
+  included slave owners, segregationists, bigots and antisemites. If
+  Harvard is suggesting that growth isn't possible and that our past
+  defines our future, then Harvard is an inherently racist
+  institution."
 
 ** Id: ted-04
-- Personalization - leads a "filter bubble" which can isolate you
-from the world, and you do not get to choose the filter.
+- Personalization - leads a "filter bubble" which can isolate you from
+  the world, and you do not get to choose the filter.
 
 ** Id: ted-08
-- Great points! <ul> <li>"The next time you're looking at a
-charity, don't ask about the rate of their overhead. Ask about the
-scale of their dreams."</li> <li>"When you prohibit failure, you kill
-innovation. If you kill innovation in fundraising, you can't raise
-more revenue. If you can't raise more revenue, you can't grow. And if
-you can't grow, you can't possibly solve large social problems."</li>
-<li>"We have a visceral reaction to the idea that anyone would make
-very much money helping other people. Interesting that we don't have a
-visceral reaction to the notion that people would make a lot of money
-NOT helping other people."</li> </ul>
+- Great points!
+  + "The next time you're looking at a charity, don't ask about the
+    rate of their overhead. Ask about the scale of their dreams."
+  + "When you prohibit failure, you kill innovation. If you kill
+    innovation in fundraising, you can't raise more revenue. If you
+    can't raise more revenue, you can't grow. And if you can't grow,
+    you can't possibly solve large social problems."
+  + "We have a visceral reaction to the idea that anyone would make
+    very much money helping other people. Interesting that we don't
+    have a visceral reaction to the notion that people would make a
+    lot of money NOT helping other people."
 
 ** Id: ted-09
-- Wow, this is powerful! This took them years. Again, *time* is
-needed for humane solutions.
-- The Q&amp;A section is worth
-reading too. (link at bottom of page)
+- Wow, this is powerful! This took them years. Again, *time* is needed
+  for humane solutions.
+- The Q&amp;A section is worth reading too. (link at bottom of page)
 
 ** Id: text-mindmap-01
-- This is even simpler than MindUp. Just enter a text outline and
-it draws a very nice flowing drawing. This is good for really quick
-mindmaps.
+- This is even simpler than MindUp. Just enter a text outline and it
+  draws a very nice flowing drawing. This is good for really quick
+  mindmaps.
 
 ** Id: thunderbolts-06
-- An alternative to the Big Bang. Creation "stories"
-matter.
+- An alternative to the Big Bang. Creation "stories" matter.
 
 ** Id: timefortribe-01
 - Community and the Unquantifiable
 
 ** Id: trom-01
-- 
-<p>Home: 2021-10-19: https://archive.ph/3NxNL</p>
+- Home: 2021-10-19: https://archive.ph/3NxNL
 
 ** Id: trom-02
-- <p>2023: Duration: 37 parts, 14 hours</p>
-<p>The TROM documentary is trying to present, in a simplistic way, the
-world in which we, human beings, live. We try to present the world
-that was discovered so far through the lenses of science: from the
-evolution of everything (including us) to the monetary system (the
-game we currently play), to a different kind of world that we could
-build for the benefit of us all, then back to Earth.</p>
-<p>We are trying to present alternative solutions to current problems
-and take into account the future, which promises to be more than
-interesting. An informative documentary, perhaps shocking and
-disturbing to many, depending on how you digest the information. The
-documentary is divided into chapters and sub-chapters due to the
-documentary’s excessive length (14 hours) and all the parts are
-connected so we recommend that you see them in order.</p> 
+- 2023: Duration: 37 parts, 14 hours
+- The TROM documentary is trying to present, in a simplistic way, the
+  world in which we, human beings, live. We try to present the world
+  that was discovered so far through the lenses of science: from the
+  evolution of everything (including us) to the monetary system (the
+  game we currently play), to a different kind of world that we could
+  build for the benefit of us all, then back to Earth.
+- We are trying to present alternative solutions to current problems
+  and take into account the future, which promises to be more than
+  interesting. An informative documentary, perhaps shocking and
+  disturbing to many, depending on how you digest the information. The
+  documentary is divided into chapters and sub-chapters due to the
+  documentary’s excessive length (14 hours) and all the parts are
+  connected so we recommend that you see them in order.
 
 ** Id: trom-03
-- <p>2023: Duration: 4 parts, 5 hours</p>
-<p>We live in a world where everyone is busy, everyone is
-consumed, everyone seems confused. Money, social credits, ads, data
-collection, prices and billionaires. Climate change? Who cares!</p>
-<p>A one-marble world, floating in a giant soup of stars and planets,
-clustered in donut-shaped galaxies.</p>
-<p>What are these humans living for?</p>
-<p>In a 5 hour, 4 parts documentary, we try to explore their world, to
-understand what makes them human, what makes them enslave their kind,
-destroy their habitat, and be unaware of their place in this
-universe. But also what makes them so special.</p>
-<p>Through the lives of 5 humans, we look at the culture that creates
-them, their struggles growing up on this planet, and where they are
-headed toward.</p>
+- 2023: Duration: 4 parts, 5 hours
+- We live in a world where everyone is busy, everyone is consumed,
+  everyone seems confused. Money, social credits, ads, data
+  collection, prices and billionaires. Climate change? Who cares!
+- A one-marble world, floating in a giant soup of stars and planets,
+  clustered in donut-shaped galaxies.
+- What are these humans living for?
+- In a 5 hour, 4 parts documentary, we try to explore their world, to
+  understand what makes them human, what makes them enslave their
+  kind, destroy their habitat, and be unaware of their place in this
+  universe. But also what makes them so special.
+- Through the lives of 5 humans, we look at the culture that creates
+  them, their struggles growing up on this planet, and where they are
+  headed toward.
 
 ** Id: truththeory-01
-- The first light bulbs had a life of 2,500 hours, the consortium
-of manufacturers fined members who did went over the mandated 1,000
-ours for household bulbs. Inventors have created bulb with lives of
-over 100,000 hours. Inkjet printers stop working when they reach a
-limit on their cleaning cycle, because the absorbing sponge could not
-take any more. Buy a new printer is the only option. The first nylon
-stockings were very robust, but they had to be redesign to be more
-fragile. Designers are taught how to understand and meet the business
-goals of a product's "life cycle". <p>Personally I see it all the time
-in software creation. Making and using robust software libraries and
-languages is not supported--the assertion is that defect free software
-is impossible. Well too expensive, for the expected life of the
-software product, is the real reason when engineer's press the
-issue. Defective software is good, because you can sell fixes, if new
-features can't be convincing enough.
-- A bit at the end: getting
-off the "growth cycle". There can be jobs in repair and in closing the
-loop to eliminate waste.
+- The first light bulbs had a life of 2,500 hours, the consortium of
+  manufacturers fined members who did went over the mandated 1,000
+  ours for household bulbs. Inventors have created bulb with lives of
+  over 100,000 hours. Inkjet printers stop working when they reach a
+  limit on their cleaning cycle, because the absorbing sponge could
+  not take any more. Buy a new printer is the only option. The first
+  nylon stockings were very robust, but they had to be redesign to be
+  more fragile. Designers are taught how to understand and meet the
+  business goals of a product's "life cycle".
+- Personally I see it all the time in software creation. Making and
+  using robust software libraries and languages is not supported--the
+  assertion is that defect free software is impossible. Well too
+  expensive, for the expected life of the software product, is the
+  real reason when engineer's press the issue. Defective software is
+  good, because you can sell fixes, if new features can't be
+  convincing enough.
+- A bit at the end: getting off the "growth cycle". There can be jobs
+  in repair and in closing the loop to eliminate waste.
 
 ** Id: tufekci-01
 - by Zeynep Tufekci in The Atlantic
-- It is not average
-transmition rate. It's the clusters.
+- It is not average transmition rate. It's the clusters.
 
 ** Id: tulley-01
-- Book: <a href="http://www.amazon.com/dp/0451234197/
+- Book: [[http://www.amazon.com/dp/0451234197/
 
 ** Id: tulley-02
 - You can change people's brains.
-- Look at the brain, don't
-just treat symptoms.
+- Look at the brain, don't just treat symptoms.
 
 ** Id: tulley-03
 - Repair damage.
 
 ** Id: turbotaxsucksass-01
 - TurboTax and other tax prepares hide their free sites.
-- If
-you have Netflix, see Patriot Act: Volume 6, Why Doing Taxes Is So
-Hard
+- If you have Netflix, see Patriot Act: Volume 6, Why Doing Taxes Is
+  So Hard
 
 ** Id: u-of-arkansas-01
-- The idea of harvesting energy from graphene is controversial
-because it refutes physicist Richard Feynman's well-known assertion
-that the thermal motion of atoms, known as Brownian motion, cannot do
-work.
-- <a href="https://www.youtube.com/watch?v=KiLTEjm8zLw"
->Graphene Animation</a>
-- According to Kumar, the
-graphene and circuit share a symbiotic relationship. Though the
-thermal environment is performing work on the load resistor, the
-graphene and circuit are at the same temperature and heat does not
-flow between the two.
-- "This means that the second law of
-thermodynamics is not violated, nor is there any need to argue that
-'Maxwell's Demon' is separating hot and cold electrons," Thibado
-said.
+- The idea of harvesting energy from graphene is controversial because
+  it refutes physicist Richard Feynman's well-known assertion that the
+  thermal motion of atoms, known as Brownian motion, cannot do work.
+- [[https://www.youtube.com/watch?v=KiLTEjm8zLw][Graphene Animation]]
+- According to Kumar, the graphene and circuit share a symbiotic
+  relationship. Though the thermal environment is performing work on
+  the load resistor, the graphene and circuit are at the same
+  temperature and heat does not flow between the two.
+- "This means that the second law of thermodynamics is not violated,
+  nor is there any need to argue that 'Maxwell's Demon' is separating
+  hot and cold electrons," Thibado said.
 
 ** Id: uctv-01
 - First Aired: 3/14/2011, 58 minutes
-- Bill Moyers examines
-the deteriorating and increasingly corrupt state of affairs that our
-government has devolved into and the accompanying divisiveness
-sweeping the country. Is there hope for things to improve? For the
-first time in his life, Moyers isn't optimistic.
-- <a
-href="http://en.wikipedia.org/wiki/Arthur_Schopenhauer"
->Arthur Schopenhauer</a> - philosopher</p>
-<p>Recommended books:</p> <pre> * A Paradise Built in Hell, by Rebecca
-Solnit - study of people in disasters * Spirit Level, by Richard
-G. Wilkinson * Kabuki Democracy: The System vs. Barack Obama, by Eric
-Alterman * Winner Take All Politics: How Washington Made the Rich
-Richer--and Turned Its Back on the Middle Class, by Paul Pierson * The
-Atlantic, Article: "The rise of the new global elite", by Chrystia
-Freeland </pre>
+- Bill Moyers examines the deteriorating and increasingly corrupt
+  state of affairs that our government has devolved into and the
+  accompanying divisiveness sweeping the country. Is there hope for
+  things to improve? For the first time in his life, Moyers isn't
+  optimistic.
+- [[http://en.wikipedia.org/wiki/Arthur_Schopenhauer][Arthur Schopenhauer]] - philosopher
+- Recommended books:
+  + A Paradise Built in Hell, by Rebecca Solnit - study of people in
+    disasters
+  + Spirit Level, by Richard G. Wilkinson
+  + Kabuki Democracy: The System vs. Barack Obama, by Eric Alterman
+  + Winner Take All Politics: How Washington Made the Rich Richer--and
+    Turned Its Back on the Middle Class, by Paul Pierson
+  + The Atlantic, Article: "The rise of the new global elite", by
+    Chrystia Freeland
+
+** Id: unsolicited-01
+- Description: All across the internet, people are declaring modern
+  life "empty" or "meaningless". This has been shouted from across the
+  entire political spectrum, which makes me think there is some good
+  philosophy to be had. So today we will look at Byung-Chul Han's
+  <i>The Disappearance of Ritual,</i> where he charts the slow decline
+  of rituals in our societies, and the disastrous impact this has on
+  our feeling of meaning in our lives.
+*** Transcript
+- See ~/Document/unsolicited.org
+
+
+*** Book: <i>The Disappearance of Rituals: A Topology of the Present</i>
+- https://www.amazon.com/dp/B08KH9DDJ7 2020 99 pages
+
+***  Why You Hate Modern Work
+- https://www.youtube.com/watch?v=vBmc40_-vo0
+- Jul 23, 2024
+- Book: The Burnout Society
+  https://www.amazon.com/dp/B012IEEJVQ/ 2010 70 pages
+- Why do we all hate work so much? And why does it seem to have only
+  got worse in the modern era? Well, according to philosopher
+  Byung-Chul Han, our psychological attitude towards work and
+  productivity has fundamentally shifted in a disastrous direction for
+  our mental health, our happiness, and our long-term fulfilment.
 
 ** Id: vansintjan-01
-- ...her research on policing shouldn't be forgotten: It shows
-that, when it comes to safer communities, having more funding or
-larger services is not important. What's important is the connections
-and trust between the community and the service provider.
+- ...her research on policing shouldn't be forgotten: It shows that,
+  when it comes to safer communities, having more funding or larger
+  services is not important. What's important is the connections and
+  trust between the community and the service provider.
 
 ** Id: varoufakis-02
-- Cloud companies are ending Capatilism.  Capatilism is being
-replaced with Technofeudalism. Rich people and companies will buy up
-things, IP, and distribution platforms. Then things can be "rented" but
-never owned.
+- Cloud companies are ending Capatilism.  Capatilism is being replaced
+  with Technofeudalism. Rich people and companies will buy up things,
+  IP, and distribution platforms. Then things can be "rented" but
+  never owned.
 
 ** Id: veritasium-01
 - Luck plays the biggest part.
 
 ** Id: veritasium-02
 - Longer life:
-- To counter this decline, we can activate the
-body's own defenses against aging by stressing the body. Eat less, eat
-less protein, engage in intense exercise, experience uncomfortable
-cold [or hot]. When the body senses existential threats it triggers
-longevity genes, which attempt to maintain the body to ensure its
-survival until good times return.
-- Scientists are uncovering
-ways to mimic stresses on the body without the discomfort of
-fasting. Molecules like NMN also trigger sirtuins to monitor and
-repair the epigenome. This may slow aging.
+- To counter this decline, we can activate the body's own defenses
+  against aging by stressing the body. Eat less, eat less protein,
+  engage in intense exercise, experience uncomfortable cold [or
+  hot]. When the body senses existential threats it triggers longevity
+  genes, which attempt to maintain the body to ensure its survival
+  until good times return.
+- Scientists are uncovering ways to mimic stresses on the body without
+  the discomfort of fasting. Molecules like NMN also trigger sirtuins
+  to monitor and repair the epigenome. This may slow aging.
 
 ** Id: veritasium-03
 - by Veritasium
-- Watch Time (currently an average of 10 min
-is best)
-- Title and Thumbnail are key - it affects CTR, click
-threw rate
+- Watch Time (currently an average of 10 min is best)
+- Title and Thumbnail are key - it affects CTR, click threw rate
 
 ** Id: video-google-03
-- This is a continuation of the 1950's Utopian view, that
-technology will lead us all to greater leisure, higher lifestyle, and
-the best use of resources (50 years later, that sure didn't
-happen). The fundamental problem: how to make sure everyone only uses
-their fair share. <p>The elite's wet dream.
+- This is a continuation of the 1950's Utopian view, that technology
+  will lead us all to greater leisure, higher lifestyle, and the best
+  use of resources (50 years later, that sure didn't happen). The
+  fundamental problem: how to make sure everyone only uses their fair
+  share.
+- The elite's wet dream.
 
 ** Id: video-kpbs-01
-- <a
-href="http://www.nbcsandiego.com/news/local/Ken-Kramers-About-San-Diego.html%20target=">www.nbcsandiego.com/news/local/Ken-Kramers-About-San-Diego</a><br
-/>
+- [[http://www.nbcsandiego.com/news/local/Ken-Kramers-About-San-Diego.html%20target=]]
 
 ** Id: vimeo-01
-- <a href="http://www.livingeconomies.org/" >BALLE
-- Business Alliance for Local Living Economies</a>
+- [[http://www.livingeconomies.org/][BALLE - Business Alliance for Local Living Economies]]
 
 ** Id: washington-01
-<blockquote>George Washington wrote out a copy of the 110 Rules of
-Civility in his school book when he was about 14-years old.
+- <blockquote>George Washington wrote out a copy of the 110 Rules of
+  Civility in his school book when he was about 14-years old.
 + Rule No. 1 - Every Action done in Company, ought to be with Some Sign of Respect, to those that are Present.
 + Rule No. 2 - When in Company, put not your Hands to any Part of the Body, not usualy Discovered.
 + Rule No. 3 - Shew Nothing to your Friend that may affright him.
@@ -2195,92 +2044,81 @@ Civility in his school book when he was about 14-years old.
 
 ** Id: watts-01
 # Old: youtube-054
-- <a
-href="http://www.youtube.com/results?search_query=alan+watts+nothing&amp;aq=f">Alan
-Watts on YouTube</a> <ol> <li><a
-href="http://www.youtube.com/watch?v=FY50vvMjX_o"
->Career Advice from Alan Watts</a></li> <li><a
-href="http://www.youtube.com/watch?v=3X1OmSf4bf8" >Alan
-Watts on schooling</a></li> <li><a
-href="http://www.youtube.com/watch?v=9mUaZxLpdOQ" >Alan
-Watts - We are all basically nothing</a></li> <li><a
-href="http://www.youtube.com/watch?v=pxQayQH1IRw" >Are
-you really what you imagine yourself to be? Alan Watts</a></li> <li><a
-href="http://www.youtube.com/watch?v=OxJCDXrEKpw" >Alan
-Watts - Seeing Beyond The Game</a></li> <li><a
-href="http://www.youtube.com/watch?v=7blUYJm6i-c" >Alan
-Watts: The Way of Waking Up</a></li> <li><a
-href="http://www.youtube.com/watch?v=V-mkia0RE6A" >The
-illusion of the Ego - ALAN WATTS</a></li> <li><a
-href="http://www.youtube.com/watch?v=hHxUHS-3whw" >Alan
-Watts On Who Are You</a></li> <li><a
-href="http://www.youtube.com/watch?v=ZY28PJZY5eo&amp;feature=list_related&amp;playnext=1&amp;list=AVGxdCwVVULXfPLzHd6rMa7ISrFJHIj7ZO"
->YouTube Mix for Alan Watts</a> - by
-elliotwitheart</li> </ol> <p>Alan Watt - (not Watts!)</p> <ul> <li><a
-href="http://www.youtube.com/watch?v=NMAqtjV1OdU" >Alan
-Watt - The modern slave</a></li> <li><a
-href="http://www.youtube.com/watch?v=qFjGj77wG-4%20target=">Alan Watt
-The Truth About Sports</a></li> </ul>
+- [[http://www.youtube.com/results?search_query=alan+watts+nothing&amp;aq=f][Alan Watts on YouTube]]
+  + [[http://www.youtube.com/watch?v=FY50vvMjX_o][Career Advice from Alan Watts]]
+  + [[http://www.youtube.com/watch?v=3X1OmSf4bf8][Alan Watts on schooling]]
+  + [[http://www.youtube.com/watch?v=9mUaZxLpdOQ][Alan Watts - We are all basically nothing]]
+  + [[http://www.youtube.com/watch?v=pxQayQH1IRw][Are you really what you imagine yourself to be? Alan Watts]]
+  + [[http://www.youtube.com/watch?v=OxJCDXrEKpw][Alan Watts - Seeing Beyond The Game]]
+  + [[http://www.youtube.com/watch?v=7blUYJm6i-c][Alan Watts: The Way of Waking Up]]
+  + [[http://www.youtube.com/watch?v=V-mkia0RE6A][The illusion of the Ego - ALAN WATTS]]
+  + [[http://www.youtube.com/watch?v=hHxUHS-3whw][Alan atts On Who Are You]]
+  + [[http://www.youtube.com/watch?v=ZY28PJZY5eo&amp;feature=list_related&amp;playnext=1&amp;list=AVGxdCwVVULXfPLzHd6rMa7ISrFJHIj7ZO][YouTube Mix for Alan Watts]] - by elliotwitheart
+- Alan Watt - (not Watts!)
+  + [[http://www.youtube.com/watch?v=NMAqtjV1OdU][Alan Watt - The modern slave]]
+  + [[http://www.youtube.com/watch?v=qFjGj77wG-4%20target=][Alan Watt The Truth About Sports]]
 
 ** Id: weiner-davis-01
 - Good tips
 
 ** Id: wheaton-01
 # Old: mcmichael-01
-- <p>See: ver/local/project/book-humane/data/ic-podcast-paul-wheaton.txt</p>
-<p>"Make it hard to join the community and easy to leave the
-community."--Diana Leafe Christian
-https://en.wikipedia.org/wiki/Diana_Leafe_Christian</p>
+- See: ver/local/project/book-humane/data/ic-podcast-paul-wheaton.txt
+- "Make it hard to join the community and easy to leave the
+  community."--Diana Leafe Christian
+  https://en.wikipedia.org/wiki/Diana_Leafe_Christian
 
 ** Id: whippman-01
 - "Under patriarchy, boys and men get everything, except the thing
-that’s most worth having: human connection."--{whippman-01}
+  that’s most worth having: human connection."--{whippman-01}
 
 ** Id: wikipedia-46
-- As of October 2011, over 350 million users accessed Facebook
-through their mobile phones
+- As of October 2011, over 350 million users accessed Facebook through
+  their mobile phones
 
 ** Id: wikipedia-47
 - See the section: Nonviolent resistance interpretation
 
 ** Id: wink-03
-- All of us deal with the Powers That Be. They staff our
-hospitals, run City Hall, sit around tables in corporate boardrooms,
-collect our taxes, and head our families. But the Powers That Be are
-more than just the people who run things.
+- All of us deal with the Powers That Be. They staff our hospitals,
+  run City Hall, sit around tables in corporate boardrooms, collect
+  our taxes, and head our families. But the Powers That Be are more
+  than just the people who run things.
 
 ** Id: wolff-01
-- <p>MC is composed of many co-operative enterprises grouped into
-four areas: industry, finance, retail and knowledge. In each
-enterprise, the co-op members (averaging 80-85% of all workers per
-enterprise) collectively own and direct the enterprise. Through an
-annual general assembly the workers choose and employ a managing
-director and retain the power to make all the basic decisions of the
-enterprise (what, how and where to produce and what to do with the
-profits).</p>
-<p>As each enterprise is a constituent of the MC as a whole, its
-members must confer and decide with all other enterprise members what
-general rules will govern MC and all its constituent enterprises. In
-short, MC worker-members collectively choose, hire and fire the
-directors, whereas in capitalist enterprises the reverse
-occurs.</p>
+- MC is composed of many co-operative enterprises grouped into
+  four areas: industry, finance, retail and knowledge. In each
+  enterprise, the co-op members (averaging 80-85% of all workers per
+  enterprise) collectively own and direct the enterprise. Through an
+  annual general assembly the workers choose and employ a managing
+  director and retain the power to make all the basic decisions of the
+  enterprise (what, how and where to produce and what to do with the
+  profits).
+- As each enterprise is a constituent of the MC as a whole, its
+  members must confer and decide with all other enterprise members what
+  general rules will govern MC and all its constituent enterprises. In
+  short, MC worker-members collectively choose, hire and fire the
+  directors, whereas in capitalist enterprises the reverse
+  occurs.
 
 ** Id: worklife-01
-- Yes! Positive eco. change with benefits, rather than the usual:
-look at all problems and extra costs.
+- Yes! Positive eco. change with benefits, rather than the usual: look
+  at all problems and extra costs.
 
 ** Id: worklife-02
-- <ol> <li>many jobs are incompatible with family life</li>
-<li>Gov. and Corp. will not solve this problem. You should never put
-your life in the hands of a Corp.</li> <li>Be careful with the time
-frame for the desired balance. Not too short and not too long.</li>
-<li>Approach balance in a balanced way. physical, intellectual,
-emotional, spiritual, etc.</li> </ol>The small things matter.
+  + many jobs are incompatible with family life
+  + Gov. and Corp. will not solve this problem. You should never put
+    your life in the hands of a Corp.
+  + Be careful with the time frame for the desired balance. Not too
+    short and not too long.
+  + Approach balance in a balanced way. physical, intellectual,
+    emotional, spiritual, etc.
+- The small things matter.
 
 ** Id: wright-01
-- The DOJ is moving quietly. Building a case. Have faith in
-Merrick Garland.  These things take time." What a bunch of B.S. Trump
-will not be indicted.
+- The DOJ is moving quietly. Building a case. Have faith in Merrick
+  Garland.  These things take time." What a bunch of B.S. Trump will
+  not be indicted.
 
 ** Id: yesmagazine-03
 - Positive stories about ecology and culture change.
@@ -2290,128 +2128,98 @@ will not be indicted.
 
 ** Id: youtu-be-01
 - I went to Safeway this morning to buy some things. A reporter
-interviewed me (live) when I came out.
+  interviewed me (live) when I came out.
 
 ** Id: youtu-be-02
 - This is so cute.
 
 ** Id: youtube-004
 - "Problems" are not allowed in corporations. It's a great form of
-social control.
+  social control.
 
 ** Id: youtube-007
-- In the comments, the best alternative word, that others came up
-with was: activism
+- In the comments, the best alternative word, that others came up with
+  was: activism
 
 ** Id: youtube-017
-- The day democracy in the US ended: January 21, 2010. USA is now
-UCA (United Corporate America). <p><a
-href="http://www.youtube.com/watch?v=oL-_pGYwIvU" >The
-New American Corporatocracy! A Special Comment - Part 2 of 2</a></p>
-<p><a href="http://www.youtube.com/watch?v=8z_UCyOyRU8&amp;NR=1"
->Keith Olbermann Interviews Alan Grayson About The
-Supreme Court Case of Citizens United vs. FEC</a> - "103 years of
-settled law overturned"<br /> <a href="http://savedemocracy.net"
->Save Democracy</a> - Petition by Alan Grayson
+- The day democracy in the US ended: January 21, 2010. USA is now UCA
+  (United Corporate America).
+- [[http://www.youtube.com/watch?v=oL-_pGYwIvU" >The New American
+  Corporatocracy! A Special Comment - Part 2 of 2]]
+- [[http://www.youtube.com/watch?v=8z_UCyOyRU8&amp;NR=1][Keith Olbermann Interviews Alan Grayson About The Supreme Court Case
+  of Citizens United vs. FEC]] - "103 years of settled law overturned"
+- [[http://savedemocracy.net][Save Democracy]] - Petition by Alan Grayson
 
 ** Id: youtube-020
 - It would be really cool if this apparatus was added to Olympic
-gymnastics.
-- <b>German Wheel</b></p> <ol> <li><a
-href="http://www.youtube.com/watch?v=zdofoEl4R8U"
->Simon Knapp German Wheel Straight Line
-Exercise</a></li> <li><a
-href="http://www.youtube.com/watch?v=DAk_p1fjRZc" >Roue
-Allemande, German wheel, Frédéric Lemieux Cormier</a></li> <li><a
-href="http://www.youtube.com/watch?v=Xr0fYUzvxP0"
->Rhoenrad-WM 2011 in Arnsberg - Weltmeisterin Hoffmann
-04 Juni 2010.flv</a></li> <li><a
-href="http://www.youtube.com/watch?v=hw59vHdC8pE"
->Wheel Act Gymmotion 2007</a></li> <li><a
-href="http://www.youtube.com/watch?v=DZdTCOJhQfY"
->Rhönradturnen - World-Team Cup 2010 - Svenja Trepte
-(Germany) - Spirale</a></li> <li><a
-href="http://www.youtube.com/watch?v=8clnDaY98Ps"
->Peinture et Roue</a></li> </ol> <p><b>Cyr
-Wheel</b></p> <ol> <li><a
-href="http://www.youtube.com/watch?v=WzGTvYTAvXc" >Cyr
-Wheel Robert Maaser</a></li> <li><a
-href="http://www.youtube.com/watch?v=PlSCa9mNlNo"
->Arnsberg freut sich auf die Weltmeisterschaften im
-Rhönradturnen 2011</a></li> <li><a
-href="http://www.youtube.com/watch?v=bjtQC2x6FAU" >Cyr
-Act Gymmotion 2009 "The Ring"</a></li> <li><a
-href="http://www.youtube.com/watch?v=ZtNNwqcF_0g"
->World Championships Wheel Gymnastics 2011 - Final "Cyr
-Battle"</a> - wow</li> <li><a
-href="http://www.youtube.com/watch?v=MBBypvakUdI"
->Circonvolution improbable... Alexandre Lane Roue Cyr -
-Cyr wheel ImproCirque 9 juillet 2011</a> - wow</li> <li><a
-href="http://www.youtube.com/watch?v=zCRqwaZh7l0" >Roue
-Cyr Moscow</a></li> <li><a
-href="http://www.youtube.com/watch?v=XugfVuArOQg"
->Angelica Bongiovonni Roue Cyr Demo</a></li> <li><a
-href="http://www.youtube.com/watch?v=3qDg9Cr_GJA" >Cyr
-Wheel Act - CORTEO (Cirque du Soleil)</a></li> </ol>
+  gymnastics. <b>German Wheel</b>
+  + [[http://www.youtube.com/watch?v=zdofoEl4R8U][Simon Knapp German Wheel Straight Line Exercise]]
+  + [[http://www.youtube.com/watch?v=DAk_p1fjRZc][Roue Allemande, German wheel, Frédéric Lemieux Cormier]]
+  + [[http://www.youtube.com/watch?v=Xr0fYUzvxP0][Rhoenrad-WM 2011 in Arnsberg - Weltmeisterin Hoffmann 04 Juni 2010.flv]]
+  + [[http://www.youtube.com/watch?v=hw59vHdC8pE][Wheel Act Gymmotion 2007]]
+  + [[http://www.youtube.com/watch?v=DZdTCOJhQfY][Rhönradturnen - World-Team Cup 2010 - Svenja Trepte (Germany) - Spirale]]
+  + [[http://www.youtube.com/watch?v=8clnDaY98Ps][Peinture et Roue]]
+- <b>Cyr Wheel</b>
+  + [[http://www.youtube.com/watch?v=WzGTvYTAvXc][Cyr Wheel Robert Maaser]]
+  + [[http://www.youtube.com/watch?v=PlSCa9mNlNo][Arnsberg freut sich auf die Weltmeisterschaften im Rhönradturnen 2011]]
+  + [[http://www.youtube.com/watch?v=bjtQC2x6FAU][Cyr Act Gymmotion 2009 "The Ring"]]
+  + [[http://www.youtube.com/watch?v=ZtNNwqcF_0g][World Championships Wheel Gymnastics 2011 - Final "Cyr Battle"]] - wow
+  + [[http://www.youtube.com/watch?v=MBBypvakUdI][Circonvolution improbable... Alexandre Lane Roue Cyr - Cyr wheel ImproCirque 9 juillet 2011]] - wow
+  + [[http://www.youtube.com/watch?v=zCRqwaZh7l0][Roue Cyr Moscow]]
+  + [[http://www.youtube.com/watch?v=XugfVuArOQg][Angelica Bongiovonni Roue Cyr Demo]]
+  + [[http://www.youtube.com/watch?v=3qDg9Cr_GJA][Cyr Wheel Act - CORTEO (Cirque du Soleil)]]
 
 ** Id: youtube-028
-- Well the first 5 min. is the summary; the actual video is almost
-2 hrs. See also: 2011-02-03 for another short summary (15min)</p>
-<p><a href="http://thoriumremix.com/act/"
->http://thoriumremix.com/act/</a> - main site, you can
-buy the DVD of this for $1.75. Spread the word. It has a Creative
-Commons copyright so it can be copied and shared freely.
-- The
-Chinese are building this technology ($1 billion for the next 8
-years). So far the US is doing nothing, mainly because this will
-destabilized the current coal, gas, oil, and water-based nuclear
-companies.
-- For more links and discussions see: <a
-href="http://energyfromthorium.com/"
->http://energyfromthorium.com/</a>
-- <a
-href="http://www.youtube.com/watch?v=WKG6wZtcVVQ"
->Energy from Thorium, LFTR Technology</a> - <a
-href="http://flibe-energy.com/" >by Flibe
-Energy</a>
+- Well the first 5 min. is the summary; the actual video is almost 2
+  hrs. See also: 2011-02-03 for another short summary (15min)
+- [[http://thoriumremix.com/act/]] - main site, you can buy the DVD of
+  this for $1.75. Spread the word. It has a Creative Commons copyright
+  so it can be copied and shared freely.
+- The Chinese are building this technology ($1 billion for the next 8
+  years). So far the US is doing nothing, mainly because this will
+  destabilized the current coal, gas, oil, and water-based nuclear
+  companies.
+- For more links and discussions see: [[http://energyfromthorium.com/]]
+- [[http://www.youtube.com/watch?v=WKG6wZtcVVQ][Energy from Thorium, LFTR Technology]] - [[http://flibe-energy.com/]] by
+  Flibe Energy
 
 ** Id: youtube-044
-- <pre> That's interesting... ...tell me more. ...why would you
-say that? ...why would you ask me that? ...why would you do that?
-</pre> <p>More communication tips: <a
-href="http://www.youtube.com/user/PowerDiversity"
->PowerDiversity</a>
++ That's interesting
++ tell me more
++ why would you say that?
++ why would you ask me that?
++ why would you do that?
+- More communication tips: [[http://www.youtube.com/user/PowerDiversity][PowerDiversity]]
 
 ** Id: youtube-049
-- Tokyo railway optimal path design and slime mould... A single
-celled organism can do 'optimization' as good as hundreds of
-engineering minds put together... amazing video and amazing
-creature... just fascinating... look at the optimal railway paths of
-Tokyo created by the slime mould and be amazed...
+- Tokyo railway optimal path design and slime mould... A single celled
+  organism can do 'optimization' as good as hundreds of engineering
+  minds put together... amazing video and amazing creature... just
+  fascinating... look at the optimal railway paths of Tokyo created by
+  the slime mould and be amazed...
 
 ** Id: youtube-059
-- Just about all of the Electric Universe vidieos are here.</p>
-<p><a href="https://www.thunderbolts.info/wp/" target="blank">The
-Thunderbolts Project</a> - Home web site
+- Just about all of the Electric Universe vidieos are here.
+- [[https://www.thunderbolts.info/wp/][The Thunderbolts Project]] - Home web site
 
 ** Id: youtube-063
-- Very cool. An app that will connect blind people with sited
-people who can describe to them what they see with there phone.</p>
-<p>Here's the link to the app site: <a
-href="https://www.bemyeyes.com/" >Be My Eyes</a>
+- Very cool. An app that will connect blind people with sited people
+  who can describe to them what they see with there phone.
+- Here's the link to the app site: [[https://www.bemyeyes.com/" >Be My
+  Eyes]]
 
 ** Id: youtube-064
 - WildX Speaker Filmmaker and Hypnotist Albert Nerenberg suggests
-there's something about sexuality the general public doesn't know. And
-it's potentially amazing. In this entertaining breakthrough talk
-Nerenberg explains he and Montreal hypnotist Dominique LaRoche
-stumbled on a largely unknown side of human trance behavior that opens
-up possibilities for sexual expression and healing. Humans can have
-orgasms without contact and with their clothes on. And they can do it
-by simply achieving a specific deeply relaxed state. Nerenberg claims
-this may open up possibilities for sexual healing but there is a need
-for an ethical framework. Either way, the implications are
-considerable and new.
+  there's something about sexuality the general public doesn't
+  know. And it's potentially amazing. In this entertaining
+  breakthrough talk Nerenberg explains he and Montreal hypnotist
+  Dominique LaRoche stumbled on a largely unknown side of human trance
+  behavior that opens up possibilities for sexual expression and
+  healing. Humans can have orgasms without contact and with their
+  clothes on. And they can do it by simply achieving a specific deeply
+  relaxed state. Nerenberg claims this may open up possibilities for
+  sexual healing but there is a need for an ethical framework. Either
+  way, the implications are considerable and new.
 
 ** Id: youtube-065
 - A really nice visualization.
@@ -2423,10 +2231,11 @@ considerable and new.
 - My own video.
 
 ** Id: youtube-071
-- Accurate and funny. Want more?<br /> See: <a
-href="https://www.thejuicemedia.com/honest-government-ads/">https://www.thejuicemedia.com/honest-government-ads/</a><br
-/> Honest Government Ads<br /> Authorized by the Department of Genuine
-Satire.<br /> Produced by the Patrons of The Juice Media.
+- Accurate and funny. Want more?
+- See: [[https://www.thejuicemedia.com/honest-government-ads/]]
+- Honest Government Ads Authorized by the Department of Genuine
+  Satire.
+- Produced by the Patrons of The Juice Media.
 
 ** Id: youtube-075
 - Funny and sad.
@@ -2435,35 +2244,30 @@ Satire.<br /> Produced by the Patrons of The Juice Media.
 - Hidden in democratic countries.
 
 ** Id: youtube-079
-- I hope we can realize this beautiful story. It will take some
-work to make a new "normal".
-- <a
-href="https://forge.medium.com/prepare-for-the-ultimate-gaslighting-6a8ce3f0a0e0"
->prepare-for-the-ultimate-gaslighting</a>
+- I hope we can realize this beautiful story. It will take some work
+  to make a new "normal".
+- [[https://forge.medium.com/prepare-for-the-ultimate-gaslighting-6a8ce3f0a0e0][prepare-for-the-ultimate-gaslighting]]
 
 ** Id: youtube-082
-- Another good one: <a
-href="https://www.youtube.com/watch?v=kbJcQYVtZMo"
->Flashmob Flash Mob - Ode an die Freude (Ode to Joy)
-Beethoven Symphony No.9 classical music</a> - notice: Europeans know
-they should hold their cell phones horizontal to take videos. Videos
-should never be recorded with a vertical orientation. Americans will
-argue that vertical is OK. Really? Would you turning a video camera
-sideways?
+- Another good one: [[https://www.youtube.com/watch?v=kbJcQYVtZMo][Flashmob Flash Mob - Ode an die Freude (Ode to
+  Joy) Beethoven Symphony No.9 classical music]] - notice: Europeans
+  know they should hold their cell phones horizontal to take
+  videos. Videos should never be recorded with a vertical
+  orientation. Americans will argue that vertical is OK. Really? Would
+  you turning a video camera sideways?
 
 ** Id: youtube-086
 - Basics on how cells work
 
 ** Id: youtube-087
-- Great video describing how speed of light is measured.</p>
-<p>Too bad scientists are now making a big error by "assuming"
-constants really are constant. Good scientists will keep
-measuring.
+- Great video describing how speed of light is measured.
+- Too bad scientists are now making a big error by "assuming"
+  constants really are constant. Good scientists will keep measuring.
 
 ** Id: youtube-089
 - Amazing.
 - local file:
-the_hidden_secret_of_the_great_pyramids_construction_uncovered.webm
+  the_hidden_secret_of_the_great_pyramids_construction_uncovered.webm
 
 ** Id: youtube-091
 - What happened 13,000 years ago?
@@ -2472,8 +2276,7 @@ the_hidden_secret_of_the_great_pyramids_construction_uncovered.webm
 - Actually this is more about being a good movie director.
 
 ** Id: youtube-097
-- Squirrels are amazing. Actually this a squirrel obstacle
-course.
+- Squirrels are amazing. Actually this a squirrel obstacle course.
 
 ** Id: youtube-099
 - Great details that describe the EU model.
@@ -2482,97 +2285,78 @@ course.
 - Mandelbrot set and the binomial equation.
 
 ** Id: youtube-105
-- "We have an archaic idea of what family is," says Brooks in a
-new episode of The Idea File. The nuclear family unit, Brooks argues,
-is a privilege of the wealthy. Across the world, 38 percent of people
-still live with extended family. And over the past half-century, the
-share of people living alone in America has doubled. The nuclear
-family is no longer the norm-and it should no longer be the
-ideal.
+- "We have an archaic idea of what family is," says Brooks in a new
+  episode of The Idea File. The nuclear family unit, Brooks argues, is
+  a privilege of the wealthy. Across the world, 38 percent of people
+  still live with extended family. And over the past half-century, the
+  share of people living alone in America has doubled. The nuclear
+  family is no longer the norm-and it should no longer be the ideal.
 
 ** Id: youtube-110
 - Very cool
 
 ** Id: youtube-114
 - These are fun.
-- <a
-href="https://www.youtube.com/watch?x-yt-cl=84503534&amp;v=jEuoDAehWvA&amp;x-yt-ts=1421914688"
->10 Life Hacks You Have To Try</a>
+- [[https://www.youtube.com/watch?x-yt-cl=84503534&amp;v=jEuoDAehWvA&amp;x-yt-ts=1421914688][10 Life Hacks You Have To Try]]
 
 ** Id: youtube-117
-- How narcissists use the double-bind to control people. It is
-often used by organizations too.
-- His personal story is sad. He
-shows how to break double-binds.
+- How narcissists use the double-bind to control people. It is often
+  used by organizations too.
+- His personal story is sad. He shows how to break double-binds.
 
 ** Id: youtube-118
 - Permaculture--biodiversity, Bison for grazing the plains,
-sustainable fishing with no bi-catch... Using proven methods that
-regenerate, not deplete. Decentralized vs centralized
-solutions.
+  sustainable fishing with no bi-catch... Using proven methods that
+  regenerate, not deplete. Decentralized vs centralized solutions.
 
 ** Id: youtube-119
-- This is a good summary of his Coranation essay. ( <a
-href="https://charleseisenstein.org/essays/the-coronation/"
->The Coronation</a> )
-- This is a good interview
-where he covers many of the points in "The Coronation": <a
-href="https://www.youtube.com/watch?v=NK8C_rCz1yw" >An
-Epidemic of Control, Charles Eisenstein</a>
-- Another related
-video: <a href="https://www.youtube.com/watch?v=EyWgxuRo0Ws"
->The Goal Of Life Is Not To Survive It</a>
+- This is a good summary of his Coranation essay. ( [[https://charleseisenstein.org/essays/the-coronation/][The Coronation]] )
+- This is a good interview where he covers many of the points in "The
+  Coronation": [[https://www.youtube.com/watch?v=NK8C_rCz1yw" >An
+  Epidemic of Control, Charles Eisenstein]]
+- Another related video: [[https://www.youtube.com/watch?v=EyWgxuRo0Ws][The Goal Of Life Is Not To Survive It]]
 
 ** Id: youtube-120
-- What a world he pictures. Beautifully described in only 4
-minutes!.
+- What a world he pictures. Beautifully described in only 4 minutes!.
 
 ** Id: youtube-121
 - Former cop, Paul Manning, shared a story detailing how he was
-treated when he attempted to call-out officer misconduct.
-- Don't
-rat-out your buddies. They behave exactly like a gang. "Force"
-requires external checks and balances.
-- Lots of good political
-commentary videos on this channel: The Rational National
+  treated when he attempted to call-out officer misconduct.
+- Don't rat-out your buddies. They behave exactly like a gang. "Force"
+  requires external checks and balances.
+- Lots of good political commentary videos on this channel: The
+  Rational National
 
 ** Id: youtube-122
 - He gave a good view of how police think. Mainly they have no
-patience for the time needed to de-escalate problems.
+  patience for the time needed to de-escalate problems.
 
 ** Id: youtube-123
-- This is cool. He has lots of other videos about motors.</p>
-<p>This is part 2 of a good discussion about Engineering
-Principles. (Unfortunately part 1 does not work in a browser
-anymore--weird.) <a href="https://www.youtube.com/watch?v=8EfZDWRHG0E"
->Engineering Principles for Makers Part 2; Material
-Properties #067</a>
+- This is cool. He has lots of other videos about motors.
+- This is part 2 of a good discussion about Engineering
+  Principles. (Unfortunately part 1 does not work in a browser
+  anymore--weird.) [[https://www.youtube.com/watch?v=8EfZDWRHG0E][Engineering Principles for Makers Part 2; Material
+  Properties #067]]
 
 ** Id: youtube-124
 - Lights on the moon, Air Force says UFOs are not earth craft, big
-push for mining on the moon--huh? Well, the "lights" can be explained
-by the EU theory.
+  push for mining on the moon--huh? Well, the "lights" can be
+  explained by the EU theory.
 
 ** Id: youtube-125
-- The answer: salt 1 hour or 1 day before cooking. Also, cook in
-oven first then shear.
-- I'm definitely going to try this
-recipe.
+- The answer: salt 1 hour or 1 day before cooking. Also, cook in oven
+  first then shear.
+- I'm definitely going to try this recipe.
 
 ** Id: youtube-136
-- This is a great series of podcasts. They do deep dives into
-trivial things. For example GPS time should be going slower than on
-Earth surface, because their relative speed is greater, but wait their
-relativity gravity effect is less so time is going faster than the
-surface of Earth. So the net result: GPS time is faster by about 38
-microsecond/day. See Relativity section at: <a
-href="https://en.wikipedia.org/wiki/Error_analysis_for_the_Global_Positioning_System"
->Error analysis for the Global Positioning
-System</a>
-- <a
-href="http://festivalofthespokennerd.com/podcast/"
->Festival of the Spoken Word</a> -Home: A Podcast of
-Unecessary Detail
+- This is a great series of podcasts. They do deep dives into trivial
+  things. For example GPS time should be going slower than on Earth
+  surface, because their relative speed is greater, but wait their
+  relativity gravity effect is less so time is going faster than the
+  surface of Earth. So the net result: GPS time is faster by about 38
+  microsecond/day. See Relativity section at: [[https://en.wikipedia.org/wiki/Error_analysis_for_the_Global_Positioning_System][Error analysis for the
+  Global Positioning System]]
+- [[http://festivalofthespokennerd.com/podcast/][Festival of the Spoken Word]] -Home: A Podcast of Unecessary Detail
 
 ** Id: youtube-137
 - Cute.
@@ -2582,17 +2366,11 @@ Unecessary Detail
 
 ** Id: youtube-146
 - Those are big drums!
-- You need to play this on your
-stereo, with sub-woofers.
+- You need to play this on your stereo, with sub-woofers.
 
 ** Id: youtube-147
-- Here is more from them: <a
-href="https://www.youtube.com/watch?v=xW1ok0CZ6CA"
->BookStock2020 (Fendrick &amp; Peck with Scout &amp;
-Morgan Books)</a>
-- And here is there web site with CD's for
-sale: <a href="https://www.fendrickandpeck.com/"
->Fendrick and Peck</a>
+- Here is more from them: [[https://www.youtube.com/watch?v=xW1ok0CZ6CA][BookStock2020 (Fendrick &amp; Peck with Scout &amp; Morgan Books)]]
+- And here is there web site with CD's for sale: [[https://www.fendrickandpeck.com/][Fendrick and Peck]]
 
 ** Id: youtube-148
 - By the guy who describe the double-bind dilemma.
@@ -2602,49 +2380,40 @@ sale: <a href="https://www.fendrickandpeck.com/"
 
 ** Id: youtube-150
 - Cops respond to protests against systemic racism and police
-brutality with military tactics, macing and more of the same violence
-that protesters are working to shut down.
-- Let us not forget
-this, this time!
+  brutality with military tactics, macing and more of the same
+  violence that protesters are working to shut down.
+- Let us not forget this, this time!
 
 ** Id: youtube-155
 - This channel also has a number of video about how to use a
-microscope.
+  microscope.
 
 ** Id: youtube-156
 - Bizarre!
 
 ** Id: youtube-157
 - This is a wonderful tour. You really get to see how they move
-around. I liked one of the comments on the video: take a drink for
-every time he says "storage".
-- This is another tour done 4 years
-later. The interior is more cluttered. <a
-href="https://www.youtube.com/watch?v=Snn1k_qEx20"
->Grand tour of the International Space Station with
-Drew and Luca | Single take - Jan 26, 2020</a>
+  around. I liked one of the comments on the video: take a drink for
+  every time he says "storage".
+- This is another tour done 4 years later. The interior is more
+  cluttered. [[https://www.youtube.com/watch?v=Snn1k_qEx20][Grand tour of the International Space Station with Drew
+  and Luca | Single take - Jan 26, 2020]]
 
 ** Id: youtube-158
-- Here's the web site link: <a
-href="https://spotthestation.nasa.gov/home.cfm" >Spote
-The Station</a>
+- Here's the web site link: [[https://spotthestation.nasa.gov/home.cfm][Spote The Station]]
 
 ** Id: youtube-181
-- <p>Problem: reinforced concrete only lasts 50 years. (100 years
-max)</p>
-<p>Solution: use an older process that emits less CO2, for making
-concrete, and don't use steel in concrete. Only build with compressive
-forces.</p>
-<p>My comment: This is a great analysis with solutions. However, to
-implement the solutions, the capitalist profit system will need to be
-overhauled to support 1,000-year developments. In the current system,
-cheaper and faster always wins over quality and longevity.</p> 
+- Problem: reinforced concrete only lasts 50 years. (100 years max)
+- Solution: use an older process that emits less CO2, for making
+  concrete, and don't use steel in concrete. Only build with
+  compressive forces.
+- My comment: This is a great analysis with solutions. However, to
+  implement the solutions, the capitalist profit system will need to
+  be overhauled to support 1,000-year developments. In the current
+  system, cheaper and faster always wins over quality and longevity.
 ** Id: zeitgeist-01
-- Related: <a href="http://www.thevenusproject.com/"
->The Venus Project</a> and <a
-href="http://sfgirl-thealiennextdoor.blogspot.com/2009/03/venus-project-bombastic-dream-or.html"
->The Venus Project: Bombastic Dream or Realizable
-Future?</a>
+- Related: [[http://www.thevenusproject.com/][The Venus Project]] and [[http://sfgirl-thealiennextdoor.blogspot.com/2009/03/venus-project-bombastic-dream-or.html][The Venus Project: Bombastic Dream or
+  Realizable Future?]]
 
 ** Id: zerotech-01
 - 50min flight time. 2 props.

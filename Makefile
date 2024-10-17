@@ -1,16 +1,40 @@
+# /home/bruce/ver/local/app/my-bib/Makefile
 
-mVerPath = $(HOME)/ver/local/project/book-humane/draft
-mPubPath = moria.whyayh.com:/rel/released/doc/own/bib
+mBook = alien
+mTitleDir = bib
+
+mGen = ./gen
+mServer = moria.whyayh.com
+mRelDev = /rel/development/doc/own/$(mTitleDir)
+mRelRel = /rel/released/doc/own/$(mTitleDir)
+mBib = $(HOME)/ver/local/app/my-bib/biblio.txt
+mDoc = $(HOME)/ver/local/project/book-humane/draft/$(mBook).odt
+
 mClone = git clone git@github.com:TurtleEngr/my-bib.git
-mTidy = tidy -m -config etc/tidyxhtml.conf
+mTidy = tidy -config etc/tidyxhtml.conf
 
-build : clean gen gen/README.html gen/README.md gen/biblio-note.html gen/todo.html
+mPubList = \
+	$(mGen)/README.html \
+	$(mGen)/biblio-note.html \
+	biblio.txt
+
+# ======================================
+
+build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html
+
+view :
+	-sensible-browser ./biblio.txt
+	#-sensible-browser gen/biblio-note.html
+	#-sensible-browser gen/README.html
 
 clean :
-	find . -name '*~' -exec rm {} \;
+	-find . -name '*~' -exec rm {} \;
 	-bib clean
 
-gen :
+dist-clean : clean
+	-rm -rf $(mGen)
+
+$(mGen) :
 	mkdir $@
 
 ci checkin commit : clean build
@@ -32,22 +56,28 @@ publish release : save
 	git merge develop
 	git push origin main
 	git co develop
-	rsync -a gen/README.html biblio.txt gen/biblio-note.html $(mPubPath)/
+	rsync -a $(mPubList) $(mServer):$(mRelRel)
 
 view :
 	-sensible-browser ./biblio.txt
 
 # -------------
-# Add and maintain the bibliography in a Libreoffice document
+# Rules
 
-gen/%.html : %.org
+$(mGen)/%.html : %.org
 	org2html.sh $< $@
 
-gen/%.md : %.org
+$(mGen)/%.md : %.org
 	-pandoc -f org -t markdown < $< >$@
 
+README.md : $(mGen)/README.md
+	cp $? $@
+
+# -------------
+# Add and maintain the bibliography in a Libreoffice document
+
 doc.odt : 
-	-ln -s $(mVerPath)/alien.odt $@
+	-ln -s $(mDoc) $@
 
 bib-import : doc.odt
 	echo "Run: bib import-lo"
