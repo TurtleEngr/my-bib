@@ -1863,10 +1863,23 @@ interact that matters.
   <i>The Disappearance of Ritual,</i> where he charts the slow decline
   of rituals in our societies, and the disastrous impact this has on
   our feeling of meaning in our lives.
-*** Book: <i>The Disappearance of Rituals: A Topology of the Present</i>
-- https://www.amazon.com/dp/B08KH9DDJ7
 *** Transcript
 - See ~/Document/unsolicited.org
+
+
+*** Book: <i>The Disappearance of Rituals: A Topology of the Present</i>
+- https://www.amazon.com/dp/B08KH9DDJ7 2020 99 pages
+
+***  Why You Hate Modern Work
+- https://www.youtube.com/watch?v=vBmc40_-vo0
+- Jul 23, 2024
+- Book: The Burnout Society
+  https://www.amazon.com/dp/B012IEEJVQ/ 2010 70 pages
+- Why do we all hate work so much? And why does it seem to have only
+  got worse in the modern era? Well, according to philosopher
+  Byung-Chul Han, our psychological attitude towards work and
+  productivity has fundamentally shifted in a disastrous direction for
+  our mental health, our happiness, and our long-term fulfilment.
 
 ** Id: vansintjan-01
 - ...her research on policing shouldn't be forgotten: It shows that,

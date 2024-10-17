@@ -2182,7 +2182,7 @@ ASIN: 701820
 Id: brosnan-02
 Type: media
 Media: DVD
-Title: The fifth element
+Title: The Fifth Element
 Author: Brosnan, Pierce
 Date: 1997
 Publisher: Columbia TriStar Home Video
@@ -19873,6 +19873,16 @@ Publisher: Artisan Home Entertainment: Lionsgate
 Place: Santa Monica, CA
 Tags: biblio
 ASIN: 780397
+
+Id: starhawk-01
+Type: book
+Media: Ebook
+Title: The Fifth Sacred Thing
+Author: Starhawk
+Date:  ‎ 2011-08-10
+Publisher: Bantam
+Link: https://www.amazon.com/dp/B003EJDGLE/
+Annote: First published 1994-06-01
 
 Id: startupzone-01
 Type: article
