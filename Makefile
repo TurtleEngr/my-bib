@@ -34,6 +34,9 @@ publish release : save
 	git co develop
 	rsync -a gen/README.html biblio.txt gen/biblio-note.html $(mPubPath)/
 
+view :
+	-sensible-browser ./biblio.txt
+
 # -------------
 # Add and maintain the bibliography in a Libreoffice document
 
