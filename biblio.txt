@@ -7491,13 +7491,6 @@ Id: gayauthors-01
 Type: site
 Media: site
 Title: Gay Authors: Gay Stories
-Tags: home, tofile, set1, link
-Link: http://www.gayauthors.org/
-
-Id: gayauthors-02
-Type: site
-Media: site
-Title: Gay Authors: Gay Stories
 Tags: home, writing, publishing, link
 Link: http://gayauthors.org/
 
@@ -10635,7 +10628,8 @@ Id: jones-03
 Type: media
 Media: video
 Title: The Wave
-Author: Jones, Ron; Dawkins, Johnny
+Author: Jones, Ron
+Authors: Johnny Dawkins
 Date: 1981
 Publisher: Fern Field
 Link: https://www.youtube.com/watch?v=ICng-KRxXJ8
@@ -16737,7 +16731,7 @@ Media: link
 Title: Nana i ke Kumu
 Subtitle: Look to the Source
 Author: Pukui, Mary Kawena
-Authors: E.W. Haertig, M.D.; and Catherine A. Lee
+Authors: E.W. Haertig, M.D., and Catherine A. Lee
 Date: 1972
 Publisher: Hui Hanai
 Link: http://www.hawaiianbar.org/uploads/1/2/0/5/120549314/nana_i_ke_kumu.pdf
