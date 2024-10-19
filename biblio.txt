@@ -7561,16 +7561,6 @@ Title: Genuine Justice - Sylvia Clute
 Tags: link
 Link: http://www.genuinejustice.com/
 
-Id: geo.coop-01
-Type: article
-Media: link
-Title: ZEGG Forum
-Subtitle: A ritualized form of communication for larger groups
-Date: 2022-11-18
-Tags: link
-Link: https://geo.coop/story/zegg-forum-%E2%80%93-ritualized-form-communication-larger-groups
-AltLink: https://archive.vn/CeTuR
-
 Id: geocities-01
 Type: site
 Media: product
