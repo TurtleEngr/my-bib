@@ -21743,6 +21743,15 @@ Date: 2024-10-16
 Link: https://www.youtube.com/watch?v=sWnHekuqljE
 Annote: see notes
 
+Id: unsolicited-02
+Type: media
+Media: video
+Title: Why You Hate Modern Work
+Author: Unsolicited Advice
+Date: 2024-07-23
+Link: https://www.youtube.com/watch?v=vBmc40_-vo0
+Annote: see notes
+
 Id: up-01
 Type: media
 Media: DVD

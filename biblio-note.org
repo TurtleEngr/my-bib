@@ -1865,14 +1865,11 @@ interact that matters.
   our feeling of meaning in our lives.
 *** Transcript
 - See ~/Document/unsolicited.org
-
-
 *** Book: <i>The Disappearance of Rituals: A Topology of the Present</i>
 - https://www.amazon.com/dp/B08KH9DDJ7 2020 99 pages
 
-***  Why You Hate Modern Work
-- https://www.youtube.com/watch?v=vBmc40_-vo0
-- Jul 23, 2024
+
+** Id: unsolicited-02
 - Book: The Burnout Society
   https://www.amazon.com/dp/B012IEEJVQ/ 2010 70 pages
 - Why do we all hate work so much? And why does it seem to have only
