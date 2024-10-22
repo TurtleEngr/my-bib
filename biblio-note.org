@@ -1657,6 +1657,24 @@ interact that matters.
 - Source: [[http://occupywallst.org/article/watch-live-ows-new-years-eve-festivities/#comments][OWS New Year's Eve Festivities - comments]] - see user:
   struggleforfreedom80 (saved)
 
+** Id: sunstein-01
+- Got this reference from David French's article:
+  https://www.nytimes.com/2024/10/20/opinion/michigan-diversity-equity-inclusion.html
+- From above article: "the more ideologically or theologically “pure”
+  an institution becomes, the more wrong it is likely to be,
+  especially if it takes on a difficult or complex task."
+- <blockquote>In brief, group polarization arises when members of a
+  deliberating group move toward a more extreme point in whatever
+  direction is indicated by the members’ predeliberation
+  tendency.{sunstein-01}<blockquote>
+- <blockquote>"That we have found the tendency to conformity in our
+  society so strong that reasonably intelligent and well-meaning young
+  people are willing to call white black is a matter of
+  concern."(32){sunstein-01}<blockquote>
+- <blockquote class="indent">(32) - See the overview in Solomon Asch,
+  Opinions and Social Pressure, in Readings About the Social Animal 13
+  (Elliott Aronson ed. 1995).</blockquote>
+
 ** Id: suzuki-01
 - [[http://moria.whyayh.com/rel/archive/video/ThirdParty/culture/david_suzuki_an_elders_vision_for_our_sustainable_future.mp4][local archive]]
 - See also: [[http://www.youtube.com/watch?v=IwxedZG21ZE][Dr. David Suzuki - Message to The World_from Occupy Vancouver]] - 25min
