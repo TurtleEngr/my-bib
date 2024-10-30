@@ -270,7 +270,7 @@ interact that matters.
   to the cost of procuring something from another party. This suggests
   that firms will arise which can internalise the production of goods
   and services required to deliver a product, thus avoiding these
-  costs.{coase-02}</blockquote
+  costs.{coase-02}</blockquote>
 
 ** Id: conley-01
 - Talk on Gross National Happiness (King of Bhutan)
@@ -326,11 +326,13 @@ interact that matters.
 - {cooper-01}</blockquote>
 
 ** Id: cross-01
-- Myth #1 - Education will change behavior. How you present the information:
+- Myth #1 - Education will change behavior. (not quite)
+  - How you present the information is the important part.
   + Make information tangible, personalized, interaction
   + Hearing what you are losing is more effective than hearing what
-    you are gaining -Unique messages for different audiences.
-- Myth #2 - You need to change attitudes to change behavior.
+    you are gaining 
+  + Unique messages for different audiences.
+- Myth #2 - You need to change attitudes to change behavior. (No)
   + Need to believe global warming to do things differently (Not).
   + Attitudes follow behavior
     + Set behavioral expectations
@@ -1666,11 +1668,11 @@ interact that matters.
 - <blockquote>In brief, group polarization arises when members of a
   deliberating group move toward a more extreme point in whatever
   direction is indicated by the members’ predeliberation
-  tendency.{sunstein-01}<blockquote>
+  tendency.{sunstein-01}</blockquote>
 - <blockquote>"That we have found the tendency to conformity in our
   society so strong that reasonably intelligent and well-meaning young
   people are willing to call white black is a matter of
-  concern."(32){sunstein-01}<blockquote>
+  concern."(32){sunstein-01}</blockquote>
 - <blockquote class="indent">(32) - See the overview in Solomon Asch,
   Opinions and Social Pressure, in Readings About the Social Animal 13
   (Elliott Aronson ed. 1995).</blockquote>
