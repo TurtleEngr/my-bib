@@ -22,11 +22,6 @@ mPubList = \
 
 build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html
 
-view :
-	-sensible-browser ./biblio.txt
-	#-sensible-browser gen/biblio-note.html
-	#-sensible-browser gen/README.html
-
 clean :
 	-find . -name '*~' -exec rm {} \;
 	-bib clean
@@ -60,6 +55,8 @@ publish release : save
 
 view :
 	-sensible-browser ./biblio.txt
+	#-sensible-browser gen/biblio-note.html
+	#-sensible-browser gen/README.html
 
 # -------------
 # Rules
