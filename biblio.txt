@@ -20239,6 +20239,17 @@ Title: Sparrow Animal Totem Symbolism &amp; Meanings; Sun Signs
 Tags: culture, link
 Link: http://www.sunsigns.org/sparrow-animal-totem-symbolism-meanings/
 
+Id: sunstein-01
+Type: article
+Media: link
+Title: The Law of Group Polarization
+Author: Sunstein, Cass R.
+Date: 1999-12-07
+Publisher: Chicago Working Paper in Law and Economics
+Link: https://chicagounbound.uchicago.edu/law_and_economics/542/
+AltLink: https://tinyurl.com/kyxvk2j5 https://moria.whyayh.com/rel/archive/article/culture/The_Law_of_Group_Polarization.pdf https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1541&context=law_and_economics http://papers.ssrn.com/paper.taf?abstract_id=199668
+Annote: See notes
+
 Id: supersupercapacitor-01
 Type: media
 Media: video
