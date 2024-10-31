@@ -339,8 +339,8 @@ interact that matters.
     + Connect to values
 - Myth #3 - People know what motivates them to take action
   + Social norms work better
-  + For example, street musicians, seeding with money is not enough,
-    they should have a friend put money in their pot.
+  + For example, street musicians, seeding their pot with money is not
+    enough, they should have a friend put money in their pot.
 
 ** Id: culture-01
 - 'When it comes to someone fighting for his life on death row or
