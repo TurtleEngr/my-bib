@@ -25320,14 +25320,14 @@ Date: 2024-04-27
 Link: https://www.youtube.com/watch?v=MJBz66H5QIU
 Annote: See notes.
 
-Id: yro-slashdot-01
+Id: yroslashdot-01
 Type: article
 Media: link
 Title: Apple's Tim Cook Makes Blistering Attack on the 'Data Industrial Complex' - Slashdot
 Tags: culture, link
 Link: https://yro.slashdot.org/story/18/10/24/1611256/apples-tim-cook-makes-blistering-attack-on-the-data-industrial-complex
 
-Id: yro-slashdot-02
+Id: yroslashdot-02
 Type: article
 Media: link
 Title: Is a Lack of Data Holding Back Universal Basic Income Programs? - Slashdot
