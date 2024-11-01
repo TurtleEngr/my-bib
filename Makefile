@@ -20,7 +20,7 @@ mPubList = \
 
 # ======================================
 
-build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html
+build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html $(mGen)/biblio-note.html
 
 clean :
 	-find . -name '*~' -exec rm {} \;
