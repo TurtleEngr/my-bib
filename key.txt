@@ -7,7 +7,7 @@ Type: article, book, media, link
       10=>"media",  - video, audio
       16=>"link"    - org, site, website
 
-Media is require. Type is optional and will be overridden:
+Media is required. Type is optional and will be overridden:
 
 Media:       Type:
 -------      -------
@@ -16,12 +16,12 @@ article      article
 a/v          media
 audio        media
 Blu-ray      media   - from lib
-Book         book   - from lib
+Book         book    - from lib
 book         book
 DVD          media   - from lib
-Ebook        book   - from lib
-Hardcover    book   - from lib
-Link         article   - see also: org, site, website
+Ebook        book    - from lib
+Hardcover    book    - from lib
+Link         article - see also: org, site, website
 link         article
 Media        media
 media        media
@@ -39,4 +39,3 @@ VHS          media
 video        media
 website      link
 youtube      media
-        
