@@ -8,10 +8,12 @@ my-bib Files
 -   *biblio.txt* - references to: books, articles, websites, videos,
     DVDs, etc.
 
--   *biblio-note.org* - Annotations related to Ids in biblio.txt
+-   *biblio-note.html* - Annotations related to Ids in biblio.txt
 
 -   [libre-bib](https://github.com/TurtleEngr/libre-bib) - this tool
     imports the biblio.txt into a DB. The DB is then used by libre-bib
     and a Libreoffice document to generate the documentś Bibliography.
+
+-   Source: <https://github.com/TurtleEngr/my-bib>
 
 
