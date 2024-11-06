@@ -6188,6 +6188,16 @@ Title: Rock Tumblers, Lortone Tumbling, Thumlers, Lapidary Equipment
 Tags: home, make, chainmail, link
 Link: http://www.erocktumbling.com/ProductDetails.asp?ProductCode=592%2D037%2DLOR
 
+Id: etchemendy-01
+Type: article
+Media: link
+Title: Just Suppose
+Subtitle: Odd Company
+Author: Etchemendy, Nancy
+Date: 2024-11-05
+Link: https://nancyetchemendy.substack.com/p/just-suppose
+AltLink: https://tinyurl.com/2c2s8kkc https://web.archive.org/web/20241106001227/https://nancyetchemendy.substack.com/p/just-suppose?publication_id=283039&post_id=151199242&isFreemail=true&r=2dtibh&triedRedirect=true
+
 Id: etinc-01
 Type: site
 Media: site

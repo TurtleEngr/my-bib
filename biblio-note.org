@@ -418,6 +418,66 @@ interact that matters.
   Feelings get in the way of empire building.
 + [[http://www.ted.com/talks/eve_ensler_on_happiness_in_body_and_soul.html][TED: Eve Ensler: On Happiness In Body And Soul]] - video
 
+** Id: etchemendy-01
+- The Haudenosaunee Confederacy of the Iroquois
+
+The Haudenosaunee Confederacy was a model for the U.S. Constitution.
+Chief ... was a skilled orator, who went to England. He showed how the
+English system was barbaric compared to the Haudenosaunee Confederacy
+resolved problems.
+
+"Often described as the oldest, participatory democracy on Earth, the
+Haudenosaunee Confederacy’s constitution is believed to be a model for
+the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
+
+- <blockquote>The Clan Mothers decide who has the chops to be a
+  leader. They’re the ones who recommend promising young men for
+  chiefhood. The Clan Mothers have the power to remove any chief who
+  behaves in a way that strikes them as unseemly.
+
+  If I were a Clan Mother looking for kids with the makings of good
+  chiefs, what would catch my eye? I’d be watching for the kids who
+  break up fights. The kids who are curious and open-minded. Kids who
+  can admit they made a mistake. Kids who are slow to judge and quick
+  to forgive. Kids who are strong but
+  kind. {etchemendy-01}</blockquote>
+
+- In the article "300 Years Ago, There Was a Brutal Murder. We Could
+  Learn From the Treaty That Followed" by Nicole Eustace {eustace-01},
+  Eustance describes how restorative justice was used to resolve a
+  murder that could have lead to more violence. Looking at the
+  comments on the article gives some interesting insights how our
+  culture, based on domination and punishment, interpretes restoritive
+  justice. It sees restoritive justice as just "paying back" the
+  victim, which will be unjust to the poor.
+
+- <blockquote><p>"Read the book before passing judgement that punishment
+  is needed as a deterrent. Indigenous justice was based on victim or
+  survivor’s satisfaction that the remedy of the wrong had been
+  righted. It could include taking a life, property or a acceptance of
+  an apology. It’s designed to restore balance and not lord power of one
+  over another." {eustace-01:comment: Roland Rivard, Wisconsin,
+  2022-11-30}</p></blockquote>
+
+- This gets to the core part of restorative justice: it tries to restore
+  balance for all people affected by the infraction. This would include
+  the victim, their family, their friends, and the family and friends of
+  the perpetrator. The goal is to try for healing on all sides.
+
+- <blockquote><p>"Two points:<br> Every society has both wisdom and
+  folly. The Europeans thought they knew everything because their
+  weaponry was most advanced. But there is much to be learned from all
+  cultures.
+  - "For perpetrators who have access to empathy, reparations and
+    reconciliation work. But for those who have no empathy - serial
+    rapists, serial killers, mob bosses, etc - the only answer is to
+    prevent them from harming any more people."  {eustace-01:comment:
+    Lauren Noll, Massachusetts, 2022-11-30}</p></blockquote>
+
+- I agree with this last part: if all parties involved are not willing
+  to follow a restorative justice process, then it would be best to
+  then use the current justice process.
+
 ** Id: evans-02
 - Another talk on algorithmic solutions for gerrymandering. See
   olson-01, olson-02, oliver-01
