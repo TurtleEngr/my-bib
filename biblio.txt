@@ -6195,7 +6195,7 @@ Title: Just Suppose
 Author: Etchemendy, Nancy
 Date: 2024-11-05
 Link: https://nancyetchemendy.substack.com/p/just-suppose
-AltLink: https://tinyurl.com/2c2s8kkc https://web.archive.org/web/20241106001227/https://nancyetchemendy.substack.com/p/just-suppose?publication_id=283039&post_id=151199242&isFreemail=true&r=2dtibh&triedRedirect=true
+AltLink: https://tinyurl.com/2c2s8kkc+ https://web.archive.org/web/20241106001227/https://nancyetchemendy.substack.com/p/just-suppose?publication_id=283039&post_id=151199242&isFreemail=true&r=2dtibh&triedRedirect=true
 
 Id: etinc-01
 Type: site
@@ -15349,7 +15349,7 @@ Media: org
 Title: OpenAI
 Date: 2015-12-11
 Link: https://web.archive.org/web/20151211215507/https://openai.com/blog/introducing-openai/
-AltLink: https://tinyurl.com/3hxf4feb
+AltLink: https://tinyurl.com/3hxf4feb+
 
 Id: openai-chat-01
 Type: article
@@ -19991,7 +19991,7 @@ Date: 2010-08-25
 Author: Still, Bill
 Tags: old:truththeory-02
 Link: https://www.youtube.com/watch?v=Rmc8GDlyAQg
-AltLink: https://tinyurl.com/msvayerx https://web.archive.org/web/20110615192136/http://www.secretofoz.com/ https://web.archive.org/web/20120114083507/http://www.truththeory.org/the-secret-of-oz/ https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/The_Secret_of_Oz_by_Mr_Bill_Still.mp4
+AltLink: https://tinyurl.com/msvayerx+ https://web.archive.org/web/20110615192136/http://www.secretofoz.com/ https://web.archive.org/web/20120114083507/http://www.truththeory.org/the-secret-of-oz/ https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/The_Secret_of_Oz_by_Mr_Bill_Still.mp4
 Annote: See notes.
 
 Id: stirlingengine-01
@@ -20256,7 +20256,7 @@ Author: Sunstein, Cass R.
 Date: 1999-12-07
 Publisher: Chicago Working Paper in Law and Economics
 Link: https://chicagounbound.uchicago.edu/law_and_economics/542/
-AltLink: https://tinyurl.com/kyxvk2j5 https://moria.whyayh.com/rel/archive/article/culture/The_Law_of_Group_Polarization.pdf https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1541&context=law_and_economics http://papers.ssrn.com/paper.taf?abstract_id=199668
+AltLink: https://tinyurl.com/kyxvk2j5+ https://moria.whyayh.com/rel/archive/article/culture/The_Law_of_Group_Polarization.pdf https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1541&context=law_and_economics http://papers.ssrn.com/paper.taf?abstract_id=199668
 Annote: See notes
 
 Id: supersupercapacitor-01
