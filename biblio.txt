@@ -6192,7 +6192,6 @@ Id: etchemendy-01
 Type: article
 Media: link
 Title: Just Suppose
-Subtitle: Odd Company
 Author: Etchemendy, Nancy
 Date: 2024-11-05
 Link: https://nancyetchemendy.substack.com/p/just-suppose
