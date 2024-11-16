@@ -7303,7 +7303,7 @@ Link: http://games.slashdot.org/story/11/08/24/1511203/Sports-Bars-Changing-Chan
 Id: gandhi-01
 Type: book
 Media: Ebook
-Title: Autobiography: The Story of My Experiments With Truth, An
+Title: An Autobiography: The Story of My Experiments With Truth
 Author: Gandhi, Mohandas K.
 Date: 2008
 Publisher: Formax Publishing
@@ -11164,125 +11164,111 @@ ASIN: 27248
 Id: konda-01
 Type: article
 Media: article
-Title: Just Spring: A Lightweight Introduction to the Spring Framework
+Title: Just Spring
+Subtitle: A Lightweight Introduction to the Spring Framework
 Author: Konda, Madhusudhan
 Tags: biblio
 ISBN: 1449306403
 
 Id: korten-01
 Type: book
-Media: Paperback
-Title: Agenda for a New Economy: From Phantom Wealth to Real Wealth
+Media: Hardcover
+Title: The Great Turning
+Subtitle: From Empire to Earth Community
 Author: Korten, David C.
-Date: 2009
-Publisher: Berrett-Koehler Publishers
-Tags: a, biblio
-ISBN: 9781605092898
-ASIN: 7723659
+Date: 2006-06-01
+Publisher: Berrett-Koehler
+Tags: d, important, old:korten-04
+ISBN: 1887208070
+Link: https://www.amazon.com/gp/product/1887208070/
 
 Id: korten-02
 Type: book
-Media: Ebook
-Title: Change the Story, Change the Future: A Living Economy for a Living Earth
+Media: Paperback
+Title: The Great Turning
+Subtitle: From Empire to Earth Community
 Author: Korten, David C.
-Date: 2015
-Publisher: Berrett-Koehler Publishers
-Tags: b, important
-ASIN: 15805678
+Date: 2007-10-14
+Publisher: Berrett-Koehler
+Tags: h, book, book, old:korten-08
+Link: http://www.amazon.com/dp/1887208089/
 
 Id: korten-03
 Type: book
 Media: Ebook
-Title: The Great Turning: From Empire to Earth Community
+Title: The Great Turning
+Subtitle: From Empire to Earth Community
 Author: Korten, David C
-Date: 2007
+Date: 2006-05-14
 Publisher: Berrett-Koehler Publishers
-Tags: c, important
-ASIN: 854173
+Tags: c, important, main
+Link: https://www.amazon.com/dp/B00F9FL74E/
 
 Id: korten-04
 Type: book
-Media: Hardcover
-Title: The Great Turning: From Empire to Earth Community
+Media: Paperback
+Title: Agenda for a New Economy
+Subtitle: From Phantom Wealth to Real Wealth
 Author: Korten, David C.
-Date: 2006
-Publisher: Berrett-Koehler (2006), 402 pages
-Tags: d, important
-ISBN: 1887208070
-ASIN: 854173
+Date: 2009-02-01
+Publisher: Berrett-Koehler Publishers
+Tags: a, biblio, old:korten-01
+ISBN: 9781605092898
+Link: https://www.amazon.com/gp/product/1605092894/
 
 Id: korten-05
 Type: book
-Media: Paperback
-Title: The Post-Corporate World: Life After Capitalism
+Media: Ebook
+Title: Change the Story, Change the Future
+Subtitle: A Living Economy for a Living Earth
 Author: Korten, David C.
-Date: 2000
+Date: 2015-02-02
 Publisher: Berrett-Koehler Publishers
-Tags: e, biblio
-ISBN: 1887208038
-ASIN: 555122
+Tags: g, book, book, old:korten-07
+Link: http://www.amazon.com/dp/1626562903/
 
 Id: korten-06
 Type: book
 Media: Paperback
-Title: When Corporations Rule the World
+Title: The Post-Corporate World
+Subtitle: Life After Capitalism
 Author: Korten, David C.
-Date: 2001
-Publisher: Kumarian Press
-Edition: 2nd
-Tags: f, important
-ISBN: 1887208046
-ASIN: 63770
+Date: 2000
+Publisher: Berrett-Koehler Publishers
+Tags: e, biblio, old:korten-05
+ISBN: 1887208038
+Link: https://www.amazon.com/gp/product/1887208038/
+ASIN: 555122
 
 Id: korten-07
 Type: book
-Media: Ebook
-Title: Change the Story, Change the Future: A Living Economy for a Living Earth
+Media: Paperback
+Title: When Corporations Rule the World
 Author: Korten, David C.
-Date: 2015
-Publisher: Berrett-Koehler Publishers
-Tags: g, book, book
-ASIN: 15805678
-Link: http://www.amazon.com/dp/1626562903/
+Date: 2001-05-10
+Publisher: Kumarian Press
+Edition: 2nd
+Tags: f, important, old:korten-06
+ISBN: 1887208046
+Link: https://www.amazon.com/gp/product/1887208046/
 
 Id: korten-08
-Type: book
-Media: book
-Title: The Great Turning: From Empire to Earth Community
-Author: Korten, David C.
-Tags: h, book, book
-Link: http://www.amazon.com/dp/1887208089/
-
-Id: korten-09
 Type: article
 Media: link
 Title: Taking Action on Climate Change Requires Coming Together
 Author: Korten, David
 Date: 2022-08-11
-Tags: i, article, important, article
+Tags: i, article, important, article, old:korten-09
 Link: https://www.yesmagazine.org/opinion/2022/08/11/climate-change-coming-together
 AltLink: https://archive.vn/6CFkC
 Annote: See notes.
 
-Id: korten-10
+Id: korten-09
 Type: site
 Media: site
 Title: Welcome to DavidKorten.org; David C. Korten
-Tags: j, home, change, greatturning, link
+Tags: j, home, change, greatturning, link, old:korten-10
 Link: http://davidkorten.org/
-
-Id: korten-11
-Type: book
-Media: Hardcover
-Title: The Great Turning: From Empire to Earth Community
-Author: Korten, David
-Date: 2017-02-02
-Publisher: Berrett-Koehler (2006), 402 pages
-Tags: article, greatturning, link, article
-ISBN: 1887208070
-ASIN: 854173
-Link: https://gaiaeducation.medium.com/the-great-turning-from-empire-to-earth-community-6cefa89e3eec
-AltLink: https://archive.vn/ppXPd
 
 Id: kosmosjournal-01
 Type: article
@@ -11348,7 +11334,8 @@ Link: http://www.kronia.com/thoth/ThotIV01.txt
 Id: kropotkin-01
 Type: book
 Media: Ebook
-Title: Mutual Aid: A Factor of Evolution
+Title: Mutual Aid
+Subtitle: A Factor of Evolution
 Author: Kropotkin, Kniaz Petr Alekseevich
 Date: 1902
 Publisher: Project Gutenberg
