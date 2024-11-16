@@ -7432,10 +7432,11 @@ Id: gatto-07
 Type: article
 Media: link
 Title: The Underground History of American Education
-Subtitle: online version
+Subtitle: An Intimate Investigation Into the Problem of Modern Schooling
 Author: Gatto, John Taylor
 Date: 2003
 Publisher: The Oxford Village Press
+Edition: Web
 ISBN: 0945700040
 Link: https://tinyurl.com/yeffvne8+
 AltLink: https://tinyurl.com/3sywsd98+
