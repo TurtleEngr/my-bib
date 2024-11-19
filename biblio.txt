@@ -1913,37 +1913,8 @@ Media: site
 Title: Bottom Up Mind
 Tags: culture, link
 Link: http://www.bottomupmind.com/
-
-Id: bottomupmind-02
-Type: article
-Media: link
-Title: Article: So I asked Bernie Sanders about Bottom-up...
-Tags: culture, link
-Publisher: Bottom Up Mind
-Link: http://www.bottomupmind.com/populum/page.php?f=So-I-asked-Bernie-Sanders-by-Rob-Kall-Bernie-Sanders_Bottom-up-150908-518.html
-
-Id: bottomupmind-03
-Type: site
-Media: site
-Title: Home: Main; Bottom Up Mind
-Tags: culture, link
-Link: https://www.bottomupmind.com/
-
-Id: bottomupmind-04
-Type: article
-Media: link
-Title: Podcast: Riane Eisler; Transforming from a Domination to a Partnership Society
-Publisher: Bottom Up Mind
-Tags: culture, link
-Link: https://www.bottomupmind.com/populum/page_podcast.php?f=Riane-Eisler-Transforming-by-Rob-Kall-Civilization_Dominationist_Riane-Eisler-171117-366.html
-
-Id: bottomupmind-05
-Type: media
-Media: audio
-Title: Podcast: What To Do About the Monster Internet Platforms: Trebor Scholz on Platform Cooperativism
-Publisher: Bottom Up Mind
-Tags: culture, link
-Link: https://www.bottomupmind.com/populum/page_podcast.php?f=What-To-Do-About-the-Monst-by-Rob-Kall-Cooperativism_Internet-Platforms_Internet-Shutdown-Or-Censorship_Internet-Traffic--Commerce-170901-852.html
+AltLink: https://www.opednews.com/populum/podcasts_index.php?did=1
+Annote: defunct. See notes.
 
 Id: boyer-01
 Type: media
@@ -5908,6 +5879,16 @@ Title: Domination, Gender and Fear with Riane Eisler
 Author: Eisler, Riane
 Tags: video, old:youtube-009
 Link: http://www.youtube.com/watch?v=2USTyvTRG58
+
+Id: eisler-08
+Type: media
+Media: video
+Title: Riane Eisler; Transforming from a Domination to a Partnership Socity
+Date: 2017-11-17
+Publisher: OEN: Rob Kall Bottom-up Show
+Tags: culture, link, old:bottomupmind-04
+Link: https://www.youtube.com/watch?v=GXQFtUOvito
+AltLink: https://tinyurl.com/k87zpbd6+ https://www.opednews.com/populum/page_podcast.php?f=Riane-Eisler-Transforming-by-Rob-Kall-Civilization_Dominationist_Riane-Eisler-171117-366.html
 
 Id: elearn-ellak-gr-01
 Type: article
@@ -17749,9 +17730,9 @@ Subtitle: An Unlikely Journey Behind the Walls of Justice
 Author: Roberts, Robert E.
 Date: 2003-01-01
 Publisher: Health Communications, Inc.
+ISBN: 0757300642
 Link: https://www.amazon.com/dp/0757300642
 AltLink: https://tinyurl.com/2p9radrm+ https://web.archive.org/web/20030413094453/http://www.mysoulsaidtome.com/index.php
-ISBN: 0757300642
 
 Id: robertson-01
 Type: media
@@ -18178,6 +18159,17 @@ Authors: Michael Moore
 Tags: video, old:youtube-021
 Link: http://www.youtube.com/watch?v=I5rcnAWaC64&amp;feature=related
 
+Id: sanders-03
+Type: article
+Media: link
+Title: So I asked Bernie Sanders about Bottom-up...
+Author: Sanders, Bernie
+Date: 2015-09-08
+Tags: culture, link, old:bottomupmind-02
+Publisher: OpEdNews
+Link: https://tinyurl.com/3j22b6tk+
+AltLink: https://tinyurl.com/yc3kh26k+ https://www.opednews.com/populum/page.php?f=So-I-asked-Bernie-Sanders-by-Rob-Kall-Bernie-Sanders_Bottom-up-150908-518.html https://web.archive.org/web/20151019173930/http://www.opednews.com/populum/page.php?f=So-I-asked-Bernie-Sanders-by-Rob-Kall-Bernie-Sanders_Bottom-up-150908-518.html
+
 Id: sandler-01
 Type: media
 Media: DVD
@@ -18438,6 +18430,18 @@ Media: site
 Title: Google Scholar
 Tags: papers, link
 Link: https://scholar.google.com/?hl=en
+
+Id: scholz-01
+Type: media
+Media: audio
+Title: Podcast: What To Do About the Monster Internet Platforms
+Subtitle: Trebor Scholz on Platform Cooperativism
+Author: Scholz, Trebor
+Date: 2017-09-01
+Publisher: OpEdNews
+Tags: culture, link, old:bottomupmind-05
+Link: https://tinyurl.com/k9wb4dnr+
+AltLink: https://tinyurl.com/y88k4th3+ https://www.opednews.com/populum/page_podcast.php?f=What-To-Do-About-the-Monst-by-Rob-Kall-Cooperativism_Internet-Platforms_Internet-Shutdown-Or-Censorship_Internet-Traffic--Commerce-170901-852.html https://web.archive.org/web/20240527215600/https://www.opednews.com/populum/page_podcast.php?f=What-To-Do-About-the-Monst-by-Rob-Kall-Cooperativism_Internet-Platforms_Internet-Shutdown-Or-Censorship_Internet-Traffic--Commerce-170901-852.html
 
 Id: schwartz-01
 Type: media
