@@ -8509,8 +8509,9 @@ Media: Ebook
 Title: The Dawn of Everything
 Subtitle: A New History of Humanity
 Author: Graeber, David
+Authors: David Wengrow
 Date: 2021-11-09
-Publisher: Farrar, Straus and Giroux (November 9, 2021)
+Publisher: Farrar, Straus and Giroux
 Tags: culture, book, important, book
 Link: https://www.amazon.com/dp/B08R2KL3VY
 Annote: See notes.
@@ -9864,6 +9865,13 @@ Title: Mikko Hypponen: Three types of online attack
 Author: Hypponen, Mikko
 Tags: video, old:ted-22
 Link: http://www.ted.com/talks/mikko_hypponen_three_types_of_online_attack.html
+
+Id: ia-01
+Type: site
+Media: org
+Title: Internet Archive
+Link: https://archive.org/
+AltLink: https://web.archive.org/
 
 Id: iahf-01
 Type: article
@@ -13776,6 +13784,13 @@ Author: Molyneux, Stefan
 Tags: video, old:youtube-051
 Link: http://www.youtube.com/watch?v=pNyIcJIQKV0&amp;feature=relmfu
 Annote: See notes.
+
+Id: mom-01
+Type: site
+Media: org
+Title: Memory of Mankind
+Link: https://www.memory-of-mankind.com/
+Annote: Preserve books for a million years.
 
 Id: momfamily-01
 Type: media
