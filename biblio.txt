@@ -10797,7 +10797,9 @@ Media: Paperback
 Title: We Need Each Other
 Subtitle: Building Gift Community
 Author: Kauth, Bill
+Authors: Zow Alowan
 Date: 2011-09-09
+Edition: 9th
 Publisher: Silver Light Publications (2011), 166 pages
 Tags: important
 ISBN: 0974489093
