@@ -15,12 +15,13 @@ mTidy = tidy -config etc/tidyxhtml.conf
 
 mPubList = \
 	$(mGen)/README.html \
-	$(mGen)/biblio-note.html \
-	biblio.txt
+	$(mGen)/bib.css \
+	$(mGen)/biblio.html \
+	$(mGen)/biblio-note.html
 
 # ======================================
 
-build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html $(mGen)/biblio-note.html
+build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html
 
 clean :
 	-find . -name '*~' -exec rm {} \;
@@ -64,11 +65,20 @@ view :
 $(mGen)/%.html : %.org
 	org2html.sh $< $@
 
+$(mGen)/%.html : $(mGen)/%.org
+	org2html.sh $< $@
+
 $(mGen)/%.md : %.org
 	-pandoc -f org -t markdown < $< >$@
 
 README.md : $(mGen)/README.md
 	cp $? $@
+
+$(mGen)/biblio.org : biblio.txt
+	etc/mk-biblio-org <$? > $@
+
+$(mGen)/bib.css : etc/bib.css
+	ln -f $? $@
 
 # -------------
 # Add and maintain the bibliography in a Libreoffice document

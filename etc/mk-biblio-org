@@ -1,0 +1,33 @@
+#!/bin/bash
+# Usage:
+#    cat bbiblio.txt | mk-biblio-org >gen/biblio.org
+
+cat <<\EOF >/tmp/mk-biblio.awk
+/^#/ { next }
+NF == 0 { next }
+$1 == "Id:" {
+  print "** " $0
+  next
+}
+{
+  print "+ " $0
+}
+EOF
+
+cat <<\EOF
+#+BEGIN_EXPORT html
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>Bibliography</title>
+<link rel="stylesheet"
+      href="bib.css" />
+</head>
+<body>
+#+END_EXPORT
+* Bibliography
+'date' +'- %F'
+EOF
+
+awk -f /tmp/mk-biblio.awk biblio.txt
