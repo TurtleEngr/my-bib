@@ -27,7 +27,7 @@ cat <<\EOF
 <body>
 #+END_EXPORT
 * Bibliography
-'date' +'- %F'
 EOF
+'date' +'- %F'
 
 awk -f /tmp/mk-biblio.awk biblio.txt
