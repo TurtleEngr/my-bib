@@ -20004,6 +20004,19 @@ Link: https://www.youtube.com/watch?v=Rmc8GDlyAQg
 AltLink: https://tinyurl.com/msvayerx+ https://web.archive.org/web/20110615192136/http://www.secretofoz.com/ https://web.archive.org/web/20120114083507/http://www.truththeory.org/the-secret-of-oz/ https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/The_Secret_of_Oz_by_Mr_Bill_Still.mp4
 Annote: See notes.
 
+Id: stirling-01
+Type: article
+Media: link
+Title: Indigenous erotica gives new meaning to 'all my relations'
+Subtitle: What does it mean to decolonize love?
+By Bridget Stirling on 
+- See more at: https://uofa.ualberta.ca/news-and-events/newsarticles/2016/february/indigenous-erotica-gives-new-meaning-to-all-my-relations#sthash.5dQFkeds.dpuf
+Author: Stirling, Bridget
+Date: 2016-02-12
+Link: https://uofa.ualberta.ca/news-and-events/newsarticles/2016/february/indigenous-erotica-gives-new-meaning-to-all-my-relations
+AltLink: https://tinyurl.com/36557azr+ https://web.archive.org/web/20160226222034/https://uofa.ualberta.ca/news-and-events/newsarticles/2016/february/indigenous-erotica-gives-new-meaning-to-all-my-relations
+Annote: Referenced in zadenalove-01
+
 Id: stirlingengine-01
 Type: article
 Media: link
@@ -25392,7 +25405,8 @@ Author: zadenalove
 Date: 2016-03-13
 Tags: link, article
 Link: https://zadenalove.wordpress.com/2016/03/13/72-words-for-love/
-AltLink: https://archive.vn/PIUaM
+AltLink: https://tinyurl.com/4bzyywjf+ https://web.archive.org/web/20241202181423/https://zadenalove.wordpress.com/2016/03/13/72-words-for-love/ https://archive.vn/PIUaM
+Annote: See also: stirling-01
 
 Id: zamboni-01
 Type: article
