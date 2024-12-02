@@ -76,13 +76,22 @@
   at once and irreversibly without permission,' says Kahle. 'This is
   dangerous. It is not hypothetical, it is happening.'
 
+** Id: babin-01
+- Example of Bureaucracy
+
 ** Id: baker-01
 - What does "Freedom" mean to you?
 - Work less? Buy less.
 
+** Id: balle-01
+- See also: commonfuture-01, livingeconomies-02, weall-01
+
 ** Id: bender-01
 - FAccT '21, March 3-10, 2021, Virtual Event, Canada Bender and Gebru,
   et al. This paper resulted in Google firing Timnit Gebru.
+
+** Id: bendix-01
+- Source for 122 degF max.
 
 ** Id: benjamin-01
 - Fun
@@ -101,6 +110,9 @@
 ** Id: berry-02
 # Old: youtube-088
 - Amazing!
+
+** Id: bickham-02
+- Elements of Fiction Writing
 
 ** Id: black-02
 - Compiled from the perspective of Eknath Easwaran of the Blue
@@ -125,9 +137,13 @@
 # Old: youtube-085
 - Really funny magician.
 
+** Id: boswell-02
+- Theory in Practice
+
 ** Id: bottomupmind-01
-- bottomupmind.com is gone. Some can be found in Internet Archive or
-  OpEdNews (using google.com)
+- bottomupmind.com is gone.
+- Some missing articles can be found in Internet Archive or OpEdNews
+  (using google.com)
 ** Id: brand-04
 - Excellent analysis.
 
@@ -160,6 +176,9 @@
   + https://en.wikipedia.org/wiki/Mondrag%C3%B3n, and
   + https://www.amazon.com/Democratic-Corporation-Prescription-Recreating-Rediscovering/dp/0195087275
 
+** Id: brooks-02
+- See transcript file data/quotes/brooks-02.org
+
 ** Id: browne-01
 - Media: DVD
 
@@ -182,6 +201,12 @@ interact that matters.
   interested in what they are doing (or it could affect us), but we
   may not trust what they are doing or how they are doing it.
 - Papers written with Robin Dunbar: burgess-08, burgess-09
+
+** Id: burgess-08
+- PDF copy is at AltLink
+
+** Id: burgess-09
+- PDF copy is at AltLink
 
 ** Id: butler-01
 - Media: epub. See also: Darwin Among the Machines, by Maria Popova
@@ -235,6 +260,9 @@ interact that matters.
   can learn" (which is to say, memorize); they are incapable of
   distinguishing the possible from the impossible.
 
+** Id: coase-01
+- Related, see: coase-02, coase-03, wikipedia-63
+
 ** Id: coase-03
 - <blockquote>a number of transaction costs involved in using the
   market; the cost of obtaining a good or service via the market
@@ -245,6 +273,9 @@ interact that matters.
   that firms will arise which can internalise the production of goods
   and services required to deliver a product, thus avoiding these
   costs.{coase-02}</blockquote>
+
+** Id: commonfuture-01
+-  See also: livingeconomies-02, weall-01
 
 ** Id: conley-01
 - Talk on Gross National Happiness (King of Bhutan)
@@ -332,6 +363,10 @@ interact that matters.
   State Laws]] [[http://alecexposed.com/wiki/ALEC_Exposed][ALEC Exposed]]
 + [[http://www.webcitation.org/60j7W7SPq][New Expose Tracks ALEC-Private Prison Industry Effort to Replace Unionized Workers with Prison Labor]] - The new slavery: prison workers
 
+** Id: democracynow-02
+- excerpt from Dr. King’s “Beyond Vietnam” address, given at New York
+  City’s Riverside Church on April 4, 1967. See also: king-02
+
 ** Id: dickie-01
 - A 2020 study in the Journal of Scientific Advances found that,
   rather than lasting for only an hour, dangerous wet-bulb
@@ -345,7 +380,7 @@ interact that matters.
 - But if you like it, buy a copy, ebook or paperback!
 
 ** Id: doctorow-02
-- [[http://MakeLoveNotPorn.com]]
+- Great sequel to Little Brother
 
 ** Id: doctorow-09
 - by Cory Doctorow. (109 min read) Surveillance capitalism is just
@@ -453,8 +488,8 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   then use the current justice process.
 
 ** Id: evans-02
-- Another talk on algorithmic solutions for gerrymandering. See
-  olson-01, olson-02, oliver-01
+- Another talk on algorithmic solutions for gerrymandering.
+- See olson-01, olson-02, oliver-01
 
 ** Id: eyck-01
 - At age 16, Carolina Eyck invented a method for reliabably playing
@@ -478,6 +513,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - This is their Facebook page. It looks it has some activity, but very
   minimal. https://www.facebook.com/Foundation-for-Community-Encouragement-FCE-299512419438
 - It looks like some of FCE has survived. See: [[http://movedtospeak.org]]
+
+** Id: feldman-01
+- How Lynn Margulis rocked the boat & started a scientific revolution.
 
 ** Id: feynman-01
 - Link to a number of interview videos.
@@ -536,6 +574,12 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - [[http://www.webcitation.org/61C1HfUo4][Geeks Beat Jocks as Bar Fight Breaks Out Over Control of the TV]]
 - [[http://us.battle.net/sc2/en/][StarCraft Home]]
 
+** Id: gallop-01
+- [[http://MakeLoveNotPorn.com][http://MakeLoveNotPorn.com]]
+
+** Id: garrett-01
+- See: michaels-04
+
 ** Id: gates-01
 # Old: youtube-062
 - We are living in the scenario he showed in the talk, 5 years ago!
@@ -544,13 +588,18 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - This a kindle book, from original edition 1992. The ISBN is for the
   paperback book.  The ASIN is for an Amazon listing that might match
   the paperback book.
+- The amazon link is for a later version.
 
 ** Id: gatto-06
+- This book is out of print, so the link is to complete book online.
 - This is the 2003 paperback edition. The Link is to a 2005 online
   edition. The AltLink is to my copy of the 2003 to 2004 online
   edtion. The user/password is: guest/guest
 - https://moria.whyayh.com/rel/archive/mirror/site/www.johntaylorgatto.com/chapters/
 - See also gatto-07. 17a.htm: Three Holes In My Floor
+
+** Id: gatto-07
+- See notes for user/password
 
 ** Id: gatto-09
 # Old: youtube-090
@@ -638,6 +687,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - See also: 2009-05-28 - Conservatives Live In a Different Moral
   Universe--and here's why it matters
 
+** Id: haidt-04
+- See also Jonathan Haidt
+
 ** Id: hanauer-01
 - Published on May 17, 2012
 - [[http://www.youtube.com/watch?v=aOsZSIcU9OM][Nick Hanauer on His Banned TED Talk &amp; Why the Middle Class are the Job Creators]] - Published on May 30, 2012 - From the Majority
@@ -683,6 +735,12 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   Like, if you force capitalist enterprises to pay for the damage they
   cause to the environment, they would have no profit. Which means
   that their profit is the environmental degradation."
+
+** Id: hedges-01
+- At 1h09m30s Politics is a game of fear.
+
+** Id: king-02
+- See also democracynow-02
 
 ** Id: hiss-01
 
@@ -923,9 +981,21 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   mission in Jordan and shows on the basis of Liu’s own film material
   that a green future is possible worldwide.{liu-02}</blockquote>
 
+** Id: livingeconomies-01
+- See: https://commonfuture.co/
+
+** Id: livingeconomies-02
+- See: https://weall.org/balle-becomes-common-future https://commonfuture.co/
+
 ** Id: lonsdale-01
 - This one has some for the same techniques: [[http://www.youtube.com/watch?v=-WLHr1_EVtQ][5 techniques to speak any
   language: Sid Efromovich at TEDxUpperEastSide]]
+
+** Id: mackenzie-02
+- broken link
+
+** Id: mackenzie-03
+- broken link
 
 ** Id: macKenzie-05
 - Audio version:
@@ -1022,6 +1092,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   Non-violence, is not a very useful basis for political discussion,
   unless you want to confuse people.
 
+** Id: meyer-02
+- Page 7-21
+
 ** Id: michaels-03
 - <blockquote>
   - "There once was a farmer who grew excellent quality corn. Every
@@ -1106,6 +1179,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   political life, and many other basic human activities require
   insulation from market forces. In fact, paying for many of these
   things can ruin them.
+
+** Id: mom-01
+- Preserve books for a million years.
 
 ** Id: moonmagazine-01
 - There are fewer than a dozen quiet places left in the United
@@ -1373,6 +1449,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   winds. Change your altitude, drop ballast or let out air, to find
   new winds, new paths.
 
+** Id: pines-01
+- Emergent Properties. See: santafe-01 and santafe-02
+
 ** Id: pink-01
 - Dan Pink examines the puzzle of motivation, starting with a fact
   that social scientists know but most managers don't: Traditional
@@ -1395,10 +1474,20 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: posada-01
 - Delayed Gratification
 
+** Id: postman-02
+- Originally published 1985.
+
 ** Id: potter-01
 # Old: youtube-113
 - More: [[WillPotter.com/CMU][WillPotter.com/CMU]] - notes
 - The solution is transparency.
+
+** Id: prechtel-02
+- Previously titled The Toe Bone and the Tooth: An Ancient Mayan Story
+  Relived in Modern Times: Leaving Home to Come Home
+
+** Id: pukui-01
+- Ho'oponopono Page 60-77 (in PDF page 80-97)
 
 ** Id: rachel-01
 - Issues 1 to 854:
@@ -1413,6 +1502,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 + https://worldisnew.wordpress.com/
 + https://web.archive.org/web/20210212010107/https://worldisnew.wordpress.com/
 - But is where is a complete archive of all these newsletters?
+
+** Id: rachel-03
+- Last newsletter.
 
 ** Id: rafnel-01
 - This was taken around noon Wed 2020-09-09 at Redwood City, CA.
@@ -1430,6 +1522,13 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   fundamentally broke the whole thing. See: "SKS Keyserver Network
   Under Attack"
 - https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f
+
+** Id: rafnel-08
+- My Senior Project
+- Available in person on micofiche
+
+** Id: ramanathan-01
+- Ho'oponopono for individuals
 
 ** Id: rankin-01
 - [[https://www.youtube.com/watch?v=gcai0i2tJt0][Dr. Lissa Rankin: Mind Over Medicine: Scientific Proof You Can Heal
@@ -1539,6 +1638,12 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 
 ** Id: sandel-01
 - [[http://justiceharvard.org/][The full series]]
+
+** Id: santafe-01
+- Emergent Properties
+
+** Id: santafe-02
+- Emergent Properties. Free courses. See article: pines-01
 
 ** Id: savory-01
 # Old: youtube-111
@@ -1662,6 +1767,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: srslywrong-01
 - See also [graeber-11]
 
+** Id: starhawk-01
+- First published 1994-06-01
+
 ** Id: steffen-01
 - Example: more density will reduce energy needs more than just
   changing to renewable energies. What we really want is "access" to
@@ -1674,6 +1782,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   for other sources, it is 101 min long). It is really worth it!  [[http://www.secretofoz.com/][Buy
   it here.]]  ($19.95 for 1, $60 for 5)
 - [[http://www.webcitation.org/5zvtfLx4Q][Populist Party Platform (1892)]]
+
+** Id: stirling-01
+- Referenced in zadenalove-01
 
 ** Id: stone-04
 - "As Elinor Ostrom proved, the tragedy of the commons isn't that a
@@ -2138,6 +2249,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   + [[http://www.youtube.com/watch?v=NMAqtjV1OdU][Alan Watt - The modern slave]]
   + [[http://www.youtube.com/watch?v=qFjGj77wG-4%20target=][Alan Watt The Truth About Sports]]
 
+** Id: weall-01
+- See also: livingeconomies-02, commonfuture-01
+
 ** Id: weiner-davis-01
 - Good tips
 
@@ -2158,6 +2272,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 
 ** Id: wikipedia-47
 - See the section: Nonviolent resistance interpretation
+
+** Id: wikipedia-48
+- See also lafont-01
 
 ** Id: wink-03
 - All of us deal with the Powers That Be. They staff our hospitals,
@@ -2181,6 +2298,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   directors, whereas in capitalist enterprises the reverse
   occurs.
 
+** Id: wong-01
+- Can not be archived at archive.org
+
 ** Id: worklife-01
 - Yes! Positive eco. change with benefits, rather than the usual: look
   at all problems and extra costs.
@@ -2199,6 +2319,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - The DOJ is moving quietly. Building a case. Have faith in Merrick
   Garland.  These things take time." What a bunch of B.S. Trump will
   not be indicted.
+
+** Id: yang-02
+- PDF copy of email
 
 ** Id: yesmagazine-03
 - Positive stories about ecology and culture change.
@@ -2491,6 +2614,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   implement the solutions, the capitalist profit system will need to
   be overhauled to support 1,000-year developments. In the current
   system, cheaper and faster always wins over quality and longevity.
+** Id: zadenalove-01
+- See also: stirling-01
+
 ** Id: zeitgeist-01
 - Related: [[http://www.thevenusproject.com/][The Venus Project]] and [[http://sfgirl-thealiennextdoor.blogspot.com/2009/03/venus-project-bombastic-dream-or.html][The Venus Project: Bombastic Dream or
   Realizable Future?]]
