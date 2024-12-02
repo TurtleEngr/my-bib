@@ -1,12 +1,12 @@
 .justify {
-    text-align: justify;
+    text-align: justify
 }
 body {
     margin-left: 54pt; 
     margin-right: 54pt; 
     font-family: Times, serif; 
     font-size: 100%; 
-    text-align: justify;
+    text-align: left;
     background: #EED;
     color: black;
 }

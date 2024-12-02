@@ -1,18 +1,41 @@
 #!/bin/bash
 # Usage:
-#    cat bbiblio.txt | mk-biblio-org >gen/biblio.org
+#    mk-biblio-org <biblio.txt >gen/biblio.org
+# Also requires: biblio-note.org
 
-cat <<\EOF >/tmp/mk-biblio.awk
+# --------------------
+# Build map array to biblio-note.html
+echo 'BEGIN {' >/tmp/mk-biblio.awk
+grep '\*\* Id: ' biblio-note.org | awk '
+{
+  print "  tNoteList[\"" $3 "\"] = \"<a href=\\\"biblio-note.html#id-" $3 "\\\">See: biblio-note#id-" $3 "</a>\""
+}
+' >>/tmp/mk-biblio.awk
+echo '}' >>/tmp/mk-biblio.awk
+
+# --------------------
+# Main filter
+cat <<\EOF >>/tmp/mk-biblio.awk
 /^#/ { next }
 NF == 0 { next }
 $1 == "Id:" {
+  if (tNote != "") {
+    print "   + Annote: " tNote
+  }
+  tNote = ""
+  if ($2 in tNoteList) {
+    tNote = tNoteList[$2]
+  }
   print "** " $0
   next
 }
 {
-  print "+ " $0
+  print "   + " $0
 }
 EOF
+
+# --------------------
+# Main
 
 cat <<\EOF
 #+BEGIN_EXPORT html
@@ -28,6 +51,6 @@ cat <<\EOF
 #+END_EXPORT
 * Bibliography
 EOF
-'date' +'- %F'
 
+'date' +'- %F'
 awk -f /tmp/mk-biblio.awk biblio.txt
