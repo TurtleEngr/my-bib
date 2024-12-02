@@ -20488,6 +20488,14 @@ Title: TED: Itay Talgam: Lead like the great conductors
 Tags: ted, biblio
 Link: http://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors.html
 
+Id: tallbear-01
+Title: Dr. Kim Tallbear
+Author: Tallbear, Dr. Kim
+Date: 2024-12-02_11
+Link: https://en.wikipedia.org/wiki/Kim_TallBear
+AltLink: https://tinyurl.com/ms86swr9+ https://web.archive.org/web/20241201021756/https://en.wikipedia.org/wiki/Kim_TallBear
+Annote: See notes
+
 Id: tamera-01
 Type: site
 Media: site
