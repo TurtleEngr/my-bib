@@ -13,7 +13,8 @@ my-bib Files
 
 -   [libre-bib](https://github.com/TurtleEngr/libre-bib) - this tool
     imports the biblio.txt into a DB. The DB is then used by libre-bib
-    and a Libreoffice document to generate the document\\\'s
-    Bibliography.
+    and a Libreoffice document to generate the documentś Bibliography.
 
 -   Source: <https://github.com/TurtleEngr/my-bib>
+
+

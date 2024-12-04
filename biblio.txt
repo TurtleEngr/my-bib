@@ -13454,8 +13454,6 @@ Author: Michaels, Erik
 Date: 2021-02-24
 Link: https://problemspredicamentsandtechnology.blogspot.com/2021/02/what-would-it-take-for-humanity-to.html
 AltLink: https://tinyurl.com/5n89xjj3+ https://web.archive.org/web/20210312150344/https://problemspredicamentsandtechnology.blogspot.com/2021/02/what-would-it-take-for-humanity-to.html
- See also: garrett-01
-
 
 Id: michaels-05
 Type: site
@@ -19947,8 +19945,6 @@ Type: article
 Media: link
 Title: Indigenous erotica gives new meaning to 'all my relations'
 Subtitle: What does it mean to decolonize love?
-By Bridget Stirling on 
-- See more at: https://uofa.ualberta.ca/news-and-events/newsarticles/2016/february/indigenous-erotica-gives-new-meaning-to-all-my-relations#sthash.5dQFkeds.dpuf
 Author: Stirling, Bridget
 Date: 2016-02-12
 Link: https://uofa.ualberta.ca/news-and-events/newsarticles/2016/february/indigenous-erotica-gives-new-meaning-to-all-my-relations
@@ -20425,6 +20421,8 @@ Tags: ted, biblio
 Link: http://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors.html
 
 Id: tallbear-01
+Type: article
+Media: link
 Title: Dr. Kim Tallbear
 Author: Tallbear, Dr. Kim
 Date: 2024-12-02_11
