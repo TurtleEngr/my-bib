@@ -9,8 +9,8 @@
             <text:index-entry-bibliography text:bibliography-data-field="author" />
             <text:index-entry-bibliography text:bibliography-data-field="booktitle" />
             <text:index-entry-bibliography text:bibliography-data-field="year" />
-            <text:index-entry-bibliography text:bibliography-data-field="publisher" />
             <text:index-entry-bibliography text:bibliography-data-field="report-type" />
+            <text:index-entry-bibliography text:bibliography-data-field="publisher" />
             <text:index-entry-bibliography text:bibliography-data-field="url" />
           </text:bibliography-entry-template>
           <text:bibliography-entry-template text:bibliography-type="book"
@@ -23,8 +23,8 @@
             <text:index-entry-bibliography text:style-name="Emphasis"
                                            text:bibliography-data-field="booktitle" />
             <text:index-entry-bibliography text:bibliography-data-field="year" />
-            <text:index-entry-bibliography text:bibliography-data-field="publisher" />
             <text:index-entry-bibliography text:bibliography-data-field="report-type" />
+            <text:index-entry-bibliography text:bibliography-data-field="publisher" />
             <text:index-entry-bibliography text:bibliography-data-field="isbn" />
             <text:index-entry-bibliography text:bibliography-data-field="url" />
           </text:bibliography-entry-template>
@@ -125,8 +125,8 @@
             <text:index-entry-bibliography text:bibliography-data-field="author" />
             <text:index-entry-bibliography text:bibliography-data-field="title" />
             <text:index-entry-bibliography text:bibliography-data-field="year" />
-            <text:index-entry-bibliography text:bibliography-data-field="publisher" />
             <text:index-entry-bibliography text:bibliography-data-field="report-type" />
+            <text:index-entry-bibliography text:bibliography-data-field="publisher" />
             <text:index-entry-bibliography text:bibliography-data-field="url" />
           </text:bibliography-entry-template>
           <text:bibliography-entry-template text:bibliography-type="incollection"
