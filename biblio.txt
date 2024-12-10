@@ -1624,7 +1624,7 @@ Title: Gandhi The Man
 Author: Black, Jo Anne
 Date: 1973
 Publisher: Glide Publications
-Address: San Francisco
+Address: San Francisco, CA
 Tags: book
 
 
@@ -8417,7 +8417,6 @@ Title: A Conversation With Anarchist David Graeber
 Tags: video
 Link: http://www.youtube.com/watch?v=PVDkkOAOtV0
 
-
 Id: graeber-07
 Type: book
 Media: Ebook
@@ -8428,7 +8427,6 @@ Date: 2018
 Publisher: Simon & Schuster
 Tags: important
 ASIN: 21372389
-
 
 Id: graeber-08
 Type: book
@@ -10723,7 +10721,8 @@ Subtitle: Using Convergent Facilitation to Reach Breakthrough Collaborative Deci
 Author: Kashtan, Miki
 Date: 2020
 Publisher: Fearless Heart Publication
-Address: P.O. Box 22872, Oakland, CA 94609
+Address: Oakland, CA
+Annote: P.O. Box 22872, Oakland, CA 94609
 ISBN: 9780990007364
 Link: https://thefearlessheart.org/store/the-highest-common-denominator/
 
@@ -16379,7 +16378,7 @@ Subtitle: Public Discourse in the Age of Show Business
 Author: Postman, Neil
 Date:  ‎ 2005-12-27
 Publisher: Penguin Books
-Edition: Anniversary edition
+Edition: Anniversary
 Link: https://www.amazon.com/gp/product/B0023ZLLH6
 
 Id: potter-01
@@ -16729,7 +16728,6 @@ Title: The day after tomorrow
 Author: Quaid, Dennis
 Date: 2004
 Publisher: 20th Century Fox Home Entertainment
-Address: United States
 Tags: biblio
 ASIN: 26862839
 
@@ -16740,7 +16738,6 @@ Title: The day the earth stood still
 Author: Quaid, Dennis
 Date: 2002
 Publisher: Twentieth Century-Fox Home Entertainment
-Address: United States
 Tags: biblio
 ASIN: 9871370
 
@@ -25385,7 +25382,7 @@ Subtitle: A New Focus for Crime and Justice
 Author: Zehr, Howard
 Date: 1995
 Publisher: Herald Press
-Address: Scottdale, PA 15683
+Address: Scottdale, PA
 ISBN: 0836135121
 Link: https://www.amazon.com/dp/0836135121
 Note: The Amazon link is to a later edition. This edition has 280 pages.
