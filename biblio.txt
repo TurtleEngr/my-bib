@@ -17820,6 +17820,16 @@ Publisher: Big Think
 Tags: video
 Link: https://www.youtube.com/watch?v=BD_Euf_CBbs
 
+Id: rose-02
+Type: article
+Media: link
+Title: The five-minute city: inside Denmark’s revolutionary neighbourhood
+Author: Rose, Steve
+Date: 2024-12-10
+Publisher: The Guardian
+Link: https://www.theguardian.com/lifeandstyle/2024/dec/10/the-five-minute-city-inside-denmarks-revolutionary-neighbourhood
+AltLink: https://tinyurl.com/4jbtcwcv+ https://web.archive.org/web/20241214230329/https://www.theguardian.com/lifeandstyle/2024/dec/10/the-five-minute-city-inside-denmarks-revolutionary-neighbourhood
+
 Id: rosegardenmusic-01
 Type: site
 Media: site
