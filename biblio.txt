@@ -81,7 +81,6 @@ Author: Achor, Shawn
 Tags: video, old:ted-27
 Link: http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html
 
-
 Id: ackoff-01
 Type: book
 Media: Hardcover
@@ -93,7 +92,6 @@ Publisher: Oxford University Press
 Tags: important, book
 Link: https://www.amazon.com/dp/B00332FM7I/
 ISBN: 9780195087277
-
 
 Id: aclu-01
 Type: media
@@ -284,7 +282,6 @@ Publisher: Science (Journal)
 Link: https://www.science.org/content/article/worldwide-survey-kills-myth-man-hunter
 AltLink: https://archive.vn/nZFcP
 
-
 Id: alexander-01
 Type: article
 Media: link
@@ -338,7 +335,6 @@ Title: Will Allen [Urban Farmer] - Growing Power
 Author: Allen, Will
 Tags: video old:youtube-074
 Link: https://www.youtube.com/watch?v=K5zP4WPgcqY
-
 
 Id: allen-02
 Type: media
@@ -417,7 +413,6 @@ Title: Conservatives Live In a Different Moral Universe
 Subtitle: and here's why it matters
 Tags: article
 Link: http://www.alternet.org/story/138303/conservatives_live_in_a_different_moral_universe_--_and_here's_why_it_matters/?page=entire
-
 
 Id: alternet-02
 Type: site
@@ -13788,7 +13783,6 @@ Title: Michael Moore Presents: Planet of the Humans; Full Documentary; Directed 
 Tags: video, old:youtube-023
 Link: https://www.youtube.com/watch?v=Zk11vI-7czE
 
-
 Id: moore-02
 Type: book
 Media: Ebook
@@ -13798,7 +13792,6 @@ Date: 2013
 Publisher: HarperCollins
 Tags: biblio
 ASIN: 334007
-
 
 Id: moore-03
 Type: media
@@ -13865,6 +13858,14 @@ Author: Moore, Michael
 Tags: video
 Link: http://www.youtube.com/watch?v=JpKoN40K7mA&amp;feature=related
 
+Id: moore-10
+Type: article
+Media: link
+Title: A Manifesto Against For-Profit Health Insurance Companies
+Author: Moore, Michael
+Date: 2024-12-13
+Link: https://www.michaelmoore.com/p/a-manifesto-against-for-profit-health
+AltLink: https://tinyurl.com/bddx364m+ https://web.archive.org/web/20241218082316/https://www.michaelmoore.com/p/a-manifesto-against-for-profit-health
 
 Id: moria-whyayh-01
 Type: article
@@ -13934,7 +13935,6 @@ Publisher: Penguin Books (2002), 256 pages
 Tags: important
 ISBN: 9780142002360
 ASIN: 3787
-
 
 Id: morris-01
 Type: article
