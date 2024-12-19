@@ -1514,6 +1514,8 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   because the sun is blocked so much. It was 105F on Monday.
 
 ** Id: rafnel-03
+- See also, rafnel-09 2024-12-17 rewrite posted on Medium and Slow
+  Engineering blog.
 - What is the PGP Web of Trust Strongset?
 - https://crypto.stackexchange.com/questions/80629/what-is-the-pgp-web-of-trust-strongset
 - https://archive.ph/CsQje
@@ -1527,6 +1529,13 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: rafnel-08
 - My Senior Project
 - Available in person on micofiche
+
+** Id: rafnel-09
+- See also: rafnel-03 for the first version 2006-08-13
+- https://medium.com/slow-engineering/photographic-evidence-is-dead-e9b495aca7b0
+- The full Medium article could not be archived, so see this version:
+- https://slowengineering.wordpress.com/2024/12/17/photographic-evidence-is-dead/
+- https://web.archive.org/web/20241219200921/https://slowengineering.wordpress.com/2024/12/17/photographic-evidence-is-dead/
 
 ** Id: ramanathan-01
 - Ho'oponopono for individuals

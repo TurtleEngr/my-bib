@@ -16927,6 +16927,16 @@ Date: 1981
 Link: https://tinyurl.com/bdek3svn+
 AltLink: https://tinyurl.com/yfpz5fud+ https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&context=L&vid=01CALS_PSU:01CALS_PSU&lang=en%2F&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,senior%20project%20Bruce%20Rafnel&offset=0 https://web.archive.org/web/20241010012700/https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&context=L&vid=01CALS_PSU:01CALS_PSU&lang=en&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,senior%20project%20Bruce%20Rafnel&offset=0
 
+Id: rafnel-09
+Type: article
+Media: link
+Title: Photographic Evidence is Dead
+Subtitle: Fake Image, Fake NEWS, Fake Trust.
+Author: Rafnel, Bruce
+Date: 2024-12-17
+Link: https://medium.com/slow-engineering/photographic-evidence-is-dead-e9b495aca7b0
+AltLink: https://tinyurl.com/22awzr9t+ https://slowengineering.wordpress.com/2024/12/17/photographic-evidence-is-dead/ https://web.archive.org/web/20241219200921/https://slowengineering.wordpress.com/2024/12/17/photographic-evidence-is-dead/
+
 Id: raindance-01
 Type: article
 Media: link
