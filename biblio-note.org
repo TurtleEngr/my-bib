@@ -208,6 +208,12 @@ interact that matters.
 ** Id: burgess-09
 - PDF copy is at AltLink
 
+** Id: burklo-02
+- I like the part "obeying the law[s] that ought to exist" rather than
+  disobeying the existing laws.
+- Musings Blog: https://tcpc.blogs.com/musings/
+- Past Issues: https://us20.campaign-archive.com/home/?u=45d6d4980424b90bf2c3d6c88&id=84487d787c
+
 ** Id: butler-01
 - Media: epub. See also: Darwin Among the Machines, by Maria Popova
   [popova-01]
