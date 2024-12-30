@@ -43,6 +43,7 @@ update pull : doc.odt
 save push : build
 	git co develop
 	git pull origin develop
+	rsync -a $(mPubList) doc/
 	-git ci -am Updated
 	git push origin develop
 
@@ -72,7 +73,7 @@ $(mGen)/%.md : %.org
 	-pandoc -f org -t markdown < $< >$@
 
 README.md : $(mGen)/README.md
-	cp $? $@
+	ln -f $? $@
 
 $(mGen)/biblio.org : biblio.txt
 	etc/mk-biblio-org <$? > $@
