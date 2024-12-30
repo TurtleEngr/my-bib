@@ -43,8 +43,8 @@ update pull : doc.odt
 save push : build
 	git co develop
 	git pull origin develop
-	rsync -a README.md $(mPubList) pages/
-	-rm pages/README.html
+	rsync -a README.md $(mPubList) docs/
+	-rm docs/README.html
 	-git ci -am Updated
 	git push origin develop
 
