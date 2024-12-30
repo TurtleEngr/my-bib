@@ -13,11 +13,11 @@
 
 - My personal bibliography.
 
-+ <a href="/biblio.html">biblio.html</a> - references to: books,
++ <a href="biblio.html">biblio.html</a> - references to: books,
   articles, websites, videos, DVDs, etc. (This is generated from:
   biblio.txt)
 
-+ <a href="/biblio-note.html">biblio-note.html</a> - Annotations
++ <a href="biblio-note.html">biblio-note.html</a> - Annotations
   related to Ids in biblio.txt (This is generated from
   biblio-note.org)
 

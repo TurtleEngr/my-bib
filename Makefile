@@ -1,5 +1,7 @@
 # /home/bruce/ver/local/app/my-bib/Makefile
 
+# docs/ files are published to: https://turtleengr.github.io/my-bib/
+
 mBook = alien
 mTitleDir = bib
 
