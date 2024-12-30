@@ -2,10 +2,10 @@
 
 - My personal bibliography. See [[https://github.com/TurtleEngr/libre-bib][libre-bib]] for how this is used.
 
-+ [[biblio.txt][biblio.html]] - references to: books, articles, websites, videos, DVDs,
++ [[biblio.html][biblio.html]] - references to: books, articles, websites, videos, DVDs,
   etc. (This is generated from: biblio.txt)
 
-+ [[biblio-note.org][biblio-note.html]] - Annotations related to Ids in biblio.txt
++ [[biblio-note.html][biblio-note.html]] - Annotations related to Ids in biblio.txt
   (This is generated from biblio-note.org)
 
 + [[https://github.com/TurtleEngr/libre-bib][libre-bib]] - this tool imports the biblio.txt into a DB. The DB is
