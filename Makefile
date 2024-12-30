@@ -44,7 +44,7 @@ save push : build
 	git co develop
 	git pull origin develop
 	rsync -a $(mPubList) doc/
-	-rm doc/README.htm
+	-rm doc/README.html
 	cp README.md doc/
 	-git ci -am Updated
 	git push origin develop
