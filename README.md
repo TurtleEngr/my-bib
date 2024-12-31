@@ -23,7 +23,7 @@ My personal bibliography
     related to Ids in biblio.txt (This is generated from
     biblio-note.org)
 
-How biblio it built and used
+How biblio is built and used
 ----------------------------
 
 -   Source: <https://github.com/TurtleEngr/my-bib>
