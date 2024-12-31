@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
-<title>Aliens of Our Creation</title>
+<title>my-bib Files</title>
 <link rel="stylesheet"
       href="bib.css" />
 </head>
