@@ -23526,7 +23526,6 @@ Author: Wikipedia contributors
 Date: 2025-01-08
 Publisher: Wikipedia, The Free Encyclopedia.
 Link: https://en.wikipedia.org/wiki/List_of_Donald_Trump_2024_presidential_campaign_endorsements
-Annote: See notes for related pages.
 
 Id: wilburhotsprings-01
 Type: site
