@@ -23518,6 +23518,16 @@ Date: 2024-09-07
 Link: https://en.wikipedia.org/wiki/Demurrage_%28currency%29
 AltLink: https://tinyurl.com/526j9xua+ https://web.archive.org/web/20240907232357/https://en.wikipedia.org/wiki/Demurrage_%28currency%29
 
+Id: wikipedia-66
+Type: article
+Media: link
+Title: List of Donald Trump 2024 presidential campaign endorsements
+Author: Wikipedia contributors
+Date: 2025-01-08
+Publisher: Wikipedia, The Free Encyclopedia.
+Link: https://en.wikipedia.org/wiki/List_of_Donald_Trump_2024_presidential_campaign_endorsements
+Annote: See notes for related pages.
+
 Id: wilburhotsprings-01
 Type: site
 Media: site
