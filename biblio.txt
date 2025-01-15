@@ -11224,7 +11224,6 @@ Title: Welcome to DavidKorten.org; David C. Korten
 Tags: j, home, change, greatturning, link, old:korten-10
 Link: http://davidkorten.org/
 
-
 Id: kosmosjournal-01
 Type: article
 Media: link
@@ -11522,7 +11521,6 @@ Edition: Rep.
 Tags: important
 ASIN: 8749061
 
-
 Id: lanier-03
 Type: book
 Media: Hardcover
@@ -11617,6 +11615,25 @@ Media: link
 Title: Pluto is defying all of scientists' expectations - LA Times
 Tags: science, link
 Link: http://www.latimes.com/science/sciencenow/la-sci-sn-pluto-landscapes-20160318-story.html
+
+Id: laurie-01
+Type: book
+Media: Paperback
+Title: Meet Your Friendly Social System
+Author: Laurie, Peter
+Date: 1997-01-01
+Publisher: Arrow Books
+Address: 3 Fitzroy Square, London WI
+Link: https://www.amazon.com/dp/0099086301/
+
+Id: laurie-02
+Type: site
+Media: site
+Title: Peter Laurie
+Subtitle: editor, journalist, author 
+Tags: person
+Link: https://prabook.com/web/peter.laurie/3753160
+AltLink: https://tinyurl.com/y8evppf3 https://web.archive.org/web/20250115015318/https://prabook.com/web/peter.laurie/3753160
 
 Id: lawrence-01
 Type: book

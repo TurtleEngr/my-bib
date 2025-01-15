@@ -993,6 +993,13 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: livingeconomies-02
 - See: https://weall.org/balle-becomes-common-future https://commonfuture.co/
 
+** Id: laurie-01
+- From the back of the book:
+- Peter Laurie was born in 1937. After leaving Cambridge with degrees
+  in mathematics and law he worked for Vogue, Daily Mail, and Sunday
+  Telegraph.  He joined the Sunday Times in 1964 as a regular
+  contributor. He is married, has three children and lives in London.
+- See also: laurie-02
 ** Id: lonsdale-01
 - This one has some for the same techniques: [[http://www.youtube.com/watch?v=-WLHr1_EVtQ][5 techniques to speak any
   language: Sid Efromovich at TEDxUpperEastSide]]
