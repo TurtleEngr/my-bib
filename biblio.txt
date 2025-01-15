@@ -11623,6 +11623,7 @@ Title: Meet Your Friendly Social System
 Author: Laurie, Peter
 Date: 1997-01-01
 Publisher: Arrow Books
+ISBN: 099086301
 Address: 3 Fitzroy Square, London WI
 Link: https://www.amazon.com/dp/0099086301/
 
@@ -23543,6 +23544,16 @@ Author: Wikipedia contributors
 Date: 2025-01-08
 Publisher: Wikipedia, The Free Encyclopedia.
 Link: https://en.wikipedia.org/wiki/List_of_Donald_Trump_2024_presidential_campaign_endorsements
+
+Id: wikipedia-67
+Type: article
+Media: link
+Title: Subsidiarity
+Author: Wikipedia contributors
+Date: 2025-01-14
+Publisher: Wikipedia, The Free Encyclopedia.
+Link: https://en.wikipedia.org/wiki/Subsidiarity
+AltLink: https://tinyurl.com/yehvxwzx https://web.archive.org/web/20250115020244/https://en.wikipedia.org/wiki/Subsidiarity
 
 Id: wilburhotsprings-01
 Type: site
