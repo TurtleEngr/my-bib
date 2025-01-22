@@ -275,7 +275,7 @@ Link: http://www.aleutia.com/
 Id: alex-01
 Type: article
 Media: link
-Title: Worldwide survey kills the myth of ‘Man the Hunter’
+Title: Worldwide survey kills the myth of 'Man the Hunter'
 Subtitle: Women hunt in vast majority of foraging societies, upending old stereotypes
 Author: Alex, Bridget
 Date: 2023-06-28
@@ -938,7 +938,7 @@ Link: http://artzen.com/
 Id: ashenden-01
 Type: article
 Media: link
-Title: The Internet Archive’s troubles are bad news for book lovers
+Title: The Internet Archive's troubles are bad news for book lovers
 Author: Ashenden, Robin
 Date: 2023-04-18
 Publisher: The Spectator
@@ -1464,7 +1464,7 @@ Link: http://www.ted.com/talks/arthur_benjamin_does_mathemagic.html
 Id: benkler-01
 Type: article
 Media: link
-Title: Coase’s Penguin
+Title: Coase's Penguin
 Subtitle: or, Linux and The Nature of the Firm
 Author: Benkler, Yochai
 Date: 2002-08-01
@@ -1691,7 +1691,7 @@ Id: bloom-02
 Type: article
 Media: link
 Title: Blue Eyes, Brown Eyes
-Subtitle: On race and Jane Elliott’s famous experiment on prejudice
+Subtitle: On race and Jane Elliott's famous experiment on prejudice
 Author: Bloom, Stephen G.
 Date: 2022-11-22
 Publisher: Skeptic
@@ -2032,7 +2032,7 @@ Id: brin-01
 Type: article
 Media: link
 Title: Those who would be kings - Part 1
-Subtitle: 'Neo-Monarchists’ and others who demand we drop what works, in favor of what always failed
+Subtitle: 'Neo-Monarchists' and others who demand we drop what works, in favor of what always failed
 Author: Brin, David
 Date: 2023-07-23
 Link: https://davidbrin.blogspot.com/2023/07/those-wo-would-be-kings-part-1-neo.html
@@ -2060,7 +2060,7 @@ AltLink: https://tinyurl.com/52urakhd+ https://web.archive.org/web/2024090318500
 Id: brinkhurst-cuff-01
 Type: article
 Media: link
-Title: In Business, ‘Flat’ Structures Rarely Work. Is There a Solution?
+Title: In Business, 'Flat' Structures Rarely Work. Is There a Solution?
 Author: Brinkhurst-Cuff, Charlie
 Date: 2023-07-05
 Link: https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html
@@ -2886,7 +2886,7 @@ Link: https://www.celtx.com/index.html
 Id: census-01
 Type: article
 Media: link
-Title: Census Bureau Releases New Estimates on America’s Families and Living Arrangements
+Title: Census Bureau Releases New Estimates on America's Families and Living Arrangements
 Date: 2022-11-17
 Publisher: Census Bureau
 Link: https://www.census.gov/newsroom/press-releases/2022/americas-families-and-living-arrangements.html
@@ -3799,7 +3799,7 @@ Link: http://www.coopamerica.org/
 Id: cooper-01
 Type: article
 Media: link
-Title: We’ve Hit Peak Denial. Here’s Why We Can’t Turn Away From Reality
+Title: We've Hit Peak Denial. Here's Why We Can't Turn Away From Reality
 Author: Cooper, Marianne
 Authors: Maxim Voronov
 Date: 2024-06-18
@@ -5781,7 +5781,7 @@ Link: http://www.youtube.com/watch?v=ldeqY6O0LV0
 Id: eisenstein-16
 Type: article
 Media: link
-Title: We Don’t Know: Reflections on the New Story Summit
+Title: We Don't Know: Reflections on the New Story Summit
 Author: Eisenstein, Charles
 Date: 2014-10
 Link: https://charleseisenstein.org/essays/we-dont-know-reflections-on-the-new-story-summit/
@@ -8510,7 +8510,7 @@ Link: https://granitegrok.com/blog/2019/11/world-wildlife-federation-paid-70000-
 Id: grant-01
 Type: article
 Media: link
-Title: That Numbness You’re Feeling? There’s a Word for It.
+Title: That Numbness You're Feeling? There's a Word for It.
 Author: Grant, Adam
 Date: 2024-01-01
 Publisher: New York Times
@@ -9177,7 +9177,7 @@ ASIN: 46223
 Id: henley-01
 Type: article
 Media: link
-Title: It’s a miracle
+Title: It's a miracle
 Subtitle: Helsinki's radical solution to homelessness
 Author: Henley, Jon
 Date: 2019-06-03
@@ -11012,7 +11012,7 @@ Link: https://www.amazon.com/dp/B08VJNBVP9/
 Id: klaas-02
 Type: media
 Media: video
-Title: The world’s biggest problem? Powerful psychopaths.
+Title: The world's biggest problem? Powerful psychopaths.
 Author: Klaas, Brian
 Date: 2023-07-12
 Publisher: Big Think
@@ -17572,7 +17572,7 @@ Id: rettner-01
 Type: article
 Media: link
 Title: Meet Your Interstitium, a Newfound 'Organ'
-Subtitle: These fluid-filled spaces were found in the body’s connective tissue
+Subtitle: These fluid-filled spaces were found in the body's connective tissue
 Author: Rettner, Rachael
 Authors: LiveScience
 Date: 2018-03-27
@@ -17861,7 +17861,7 @@ Link: https://www.youtube.com/watch?v=BD_Euf_CBbs
 Id: rose-02
 Type: article
 Media: link
-Title: The five-minute city: inside Denmark’s revolutionary neighbourhood
+Title: The five-minute city: inside Denmark's revolutionary neighbourhood
 Author: Rose, Steve
 Date: 2024-12-10
 Publisher: The Guardian
@@ -18001,7 +18001,7 @@ Id: rushkoff-03
 Type: article
 Media: link
 Title: The Tragedy of No Commons
-Subtitle: How one white supremacist’s rejection of economic common sense stuck
+Subtitle: How one white supremacist's rejection of economic common sense stuck
 Author: Rushkoff, Douglas
 Date: 2023-08-29
 Publisher: Medium
@@ -22878,7 +22878,7 @@ Link: http://wheredidthetowersgo.com/
 Id: whippman-01
 Type: article
 Media: link
-Title: Boys Get Everything, Except the Thing That’s Most Worth Having
+Title: Boys Get Everything, Except the Thing That's Most Worth Having
 Author: Whippman, Ruth
 Date: 2024-06-05
 Publisher: New York Times
