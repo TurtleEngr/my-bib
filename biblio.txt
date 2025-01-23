@@ -10726,8 +10726,7 @@ Subtitle: Using Convergent Facilitation to Reach Breakthrough Collaborative Deci
 Author: Kashtan, Miki
 Date: 2020
 Publisher: Fearless Heart Publication
-Address: Oakland, CA
-Annote: P.O. Box 22872, Oakland, CA 94609
+Address: P.O. Box 22872, Oakland, CA 94609
 ISBN: 9780990007364
 Link: https://thefearlessheart.org/store/the-highest-common-denominator/
 
