@@ -23,6 +23,10 @@ My personal bibliography
     related to Ids in biblio.txt (This is generated from
     biblio-note.org)
 
+-   \<a href=\"aoc-biblio.html\"\>aoc-biblio.html\</a\> - Bibliograph
+    for \<i\>Aliens of Our Creation\</i\> book. (This is generated from
+    the citations in the book.)
+
 How biblio is built and used
 ----------------------------
 
