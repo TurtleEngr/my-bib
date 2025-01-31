@@ -7113,6 +7113,15 @@ Title: FreeWRL Home Page
 Tags: toolsw, language, vrml, link
 Link: http://freewrl.sourceforge.net/
 
+Id: french-01
+Type: article
+Media: link
+Title: How a German Thinker Explains MAGA Morality
+Author: French, David
+Date: 2025-01-26
+Link: https://www.nytimes.com/2025/01/26/opinion/trump-maga-schmitt.html
+AltLink: https://tinyurl.com/5445b428+ https://web.archive.org/web/20250127135252/https://www.nytimes.com/2025/01/26/opinion/trump-maga-schmitt.html
+
 Id: freshaquarium-about-01
 Type: article
 Media: link
