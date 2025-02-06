@@ -400,6 +400,35 @@ interact that matters.
   questions: not merely <i>what</i> the technology does, but
   <i>who</i> it does it <i>for</i> and who it does it <i>to</i>.
 
+** Id: doctorow-18
+
+- <i>Make Your Own Job: How the Entrepreneurial Work Ethic Exhausted
+  America,</i> by Erik Baker
+
+- Podcast: Know Your Enemy: "The Entrepreneurial Ethic & How We Work
+  Today (w/ Erik Baker)" 2025-01-21
+  https://know-your-enemy-1682b684.simplecast.com/episodes/the-entrepreneurial-work-ethic-blah-blah-blah-w-erik-baker
+
+
+- MLM "multilevel marketing systems" - pyramid schemes
+
+- A MLM looks like "mutual aid," but:
+
+- <blockquote>MLMs prey on the poor and desperate: women, people of
+  color, people in dying small towns and decaying rustbelt
+  cities. It’s not just that these people are desperate — it’s that
+  they only survive through networks of mutual
+  aid.{doctorow-18}</blockquote>
+
+- <blockquote>an MLM is a system for destructively transforming social
+  capital into monetary capital.{doctorow-18}</blockquote>
+
+- <blockquote>Hearing Baker’s interview and reading Pitzer’s memoir
+  last week made it all click together for me. Not just that MLMs
+  destroy social bonds, but that within every person who gets sucked
+  into an MLM, there’s a community organizer who could be building the
+  bonds that MLMs destroy.{doctorow-18}</blockquote>
+
 ** Id: dugan-01
 - DARPA
 

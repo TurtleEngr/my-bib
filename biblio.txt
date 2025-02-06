@@ -5052,9 +5052,19 @@ Media: link
 Title: Hypothetical AI election disinformation risks vs real AI harms
 Subtitle: And those real AI harms are priming people to believe disinformation
 Author: Doctorow, Cory
-Date: 204-02-27
+Date: 2024-02-27
 Link: https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse
 AltLink: https://tinyurl.com/bdfcfkrp+ https://web.archive.org/web/20240228024910/https://pluralistic.net/2024/02/27/ai-conspiracies/#epistemological-collapse https://doctorow.medium.com/https-pluralistic-net-2024-02-27-ai-conspiracies-epistemological-collapse-eabfefa6b2e8
+
+Id: doctorow-18
+Type: article
+Media: link
+Title: MLMs are the mirror-world version of community organizing
+Subtitle: In the mirror world, community organizers are community predators.
+Author: Doctorow, Cory
+Date: 2025-01-05
+Link: https://doctorow.medium.com/https-pluralistic-net-2025-02-05-power-of-positive-thinking-the-socialism-of-fools-d66429ae695d
+AltLink: https://tinyurl.com/3ca4xjat+ https://web.archive.org/web/20250206221727/https://doctorow.medium.com/https-pluralistic-net-2025-02-05-power-of-positive-thinking-the-socialism-of-fools-d66429ae695d
 
 Id: documents-mx-01
 Type: article
@@ -11708,6 +11718,16 @@ Media: video
 Title: wimp: LED cube 8x8x8 demo.
 Tags: video
 Link: http://www.wimp.com/ledcube/
+
+Id: lee-01
+Type: article
+Media: link
+Title: Dark Gothic Maga and the Butterfly Revolution
+Subtitle: How Tech Bro Billionaires Plan to Destroy America
+Author: Lee, Eric
+Date: 2025-02-06
+Link: https://medium.com/@alysion42/dark-gothic-maga-and-the-buterfly-revolution-0b8eb5c4425f
+Altlink: https://tinyurl.com/mrxhv365+ https://web.archive.org/web/20250206222744/https://medium.com/@alysion42/dark-gothic-maga-and-the-buterfly-revolution-0b8eb5c4425f
 
 Id: leenissdk-01
 Type: article
