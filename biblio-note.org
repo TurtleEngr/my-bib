@@ -908,9 +908,6 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
     takes too much and we share what we have. I’d rather share.
   - {johnson-09}</blockquote>
 
-** Id: jones-01
-- See image: ManagingACommons.jpg
-
 ** Id: jones-03
 - "The Wave" is based on the real experience of a classs at Cubberley
   High School in Palo Alto, CA, in April 1967. History teacher Ron
@@ -1871,6 +1868,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   + Chapter 4: Why Civilizations Die (23:36)
   + Chapter 5: Ecological Overshoot (33:57)
 - https://bsidneysmith.com/ - home website
+
+** Id: smith-09
+- See image: ManagingACommons.jpg
 
 ** Id: srslywrong-01
 - See also [graeber-11]

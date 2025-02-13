@@ -2036,7 +2036,7 @@ Subtitle: 'Neo-Monarchists' and others who demand we drop what works, in favor o
 Author: Brin, David
 Date: 2023-07-23
 Link: https://davidbrin.blogspot.com/2023/07/those-wo-would-be-kings-part-1-neo.html
-AltLink: https://tinyurl.com/5n8jbbea+ https://web.archive.org/web/20240903182647/https://davidbrin.blogspot.com/2023/07/those-wo-would-be-kings-part-1-neo.html https://archive.vn/dxKcI
+AltLink: https://tinyurl.com/5n8jbbea+ https://web.archive.org/web/20240903182647/https://davidbrin.blogspot.com/2023/07/those-wo-would-be-kings-part-1-neo.html
 
 Id: brin-02
 Type: article
@@ -4993,7 +4993,7 @@ Date: 2022-02-08
 DateSeen: 2022-11-22
 Tags: culture, article, important, article
 Link: https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism
-AltLink: https://tinyurl.com/bdcpaksa+ https://web.archive.org/web/20240210033729/https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism https://archive.vn/7yUH7/#anti-fatalism
+AltLink: https://tinyurl.com/bdcpaksa+ https://web.archive.org/web/20240210033729/https://pluralistic.net/2022/03/08/three-freedoms/#anti-fatalism
 
 Id: doctorow-12
 Type: article
@@ -5496,7 +5496,7 @@ Author: Eagleshadow, Phoenix Psyche
 Date: 2016-03-15
 Tags: link, article
 Link: https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/
-AltLink: https://tinyurl.com/mrx2wzus+ https://web.archive.org/web/20231027035028/https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/ https://archive.vn/ZJ4SP
+AltLink: https://tinyurl.com/mrx2wzus+ https://web.archive.org/web/20231027035028/https://freelovecommunity.wordpress.com/2016/03/15/story-the-fourteen-love-relationships-of-the-awansa-tapish/
 
 Id: earth-imagico-01
 Type: article
@@ -8662,8 +8662,7 @@ Authors: Frank T. Adams
 Date: 1993
 Tags: article, alien, article
 Link: https://ratical.org/corporations/TCoB.html
-AltLink: https://tinyurl.com/557rhsmy+ https://web.archive.org/web/20230421081258/https://ratical.org/corporations/TCoB.html https://archive.vn/UV1zW
-
+AltLink: https://tinyurl.com/557rhsmy+ https://web.archive.org/web/20230421081258/https://ratical.org/corporations/TCoB.html
 
 Id: groups-google-01
 Type: article
@@ -10576,23 +10575,12 @@ Publisher: The New York Times
 Link: https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
 AltLink: https://tinyurl.com/muurs8jw+ https://web.archive.org/web/20240518135055/https://www.nytimes.com/2024/05/18/magazine/ayana-elizabeth-johnson-interview.html
 
-
 Id: jolicloud-01
 Type: site
 Media: site
 Title: Jolicloud
 Tags: toolhw, laptops, link
 Link: http://www.jolicloud.com/
-
-Id: jones-01
-Type: article
-Media: link
-Title: How to design the commons (or, Elinor Ostrom explained)
-Author: Jones, Zanetta
-Date: 2022-08-23
-Tags: article
-Link: https://www.shareable.net/how-to-design-the-commons-or-elinor-ostrom-explained/
-AltLink: https://archive.vn/GIYFO
 
 Id: jones-02
 Type: article
@@ -12173,7 +12161,7 @@ Date: 2012-07-13
 DateSeen: 2023-03-23
 Publisher: New Compass, Grenmarsvegen 12, 3912 Porsgrunn, Norway
 Link: http://new-compass.net/articles/lure-obedience
-AltLink: https://tinyurl.com/3mvwex8t+ https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience https://archive.vn/GrqpI
+AltLink: https://tinyurl.com/3mvwex8t+ https://web.archive.org/web/20230323174314/http://new-compass.net/articles/lure-obedience
 
 Id: little-02
 Type: article
@@ -15688,7 +15676,7 @@ Author: Parks, Rosa
 Date: 2023-10-26
 Tags: link, person, link
 Link: https://en.wikipedia.org/wiki/Rosa_Parks
-AltLink: https://tinyurl.com/5n7exntd+ https://web.archive.org/web/20231026164829/https://en.wikipedia.org/wiki/Rosa_Parks https://archive.vn/hiVE3
+AltLink: https://tinyurl.com/5n7exntd+ https://web.archive.org/web/20231026164829/https://en.wikipedia.org/wiki/Rosa_Parks
 
 Id: partselect-01
 Type: article
@@ -16937,7 +16925,7 @@ Subtitle: Fast, Cheap, Good--pick two!
 Author: Rafnel, Bruce
 Date: 2015-07-08
 Link: https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/
-AltLink: https://tinyurl.com/2xfpjat9+ https://web.archive.org/web/20240711202147/https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/ https://archive.vn/rSIOW
+AltLink: https://tinyurl.com/2xfpjat9+ https://web.archive.org/web/20240711202147/https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/
 
 
 Id: rafnel-05
@@ -19387,6 +19375,17 @@ Author: Smith, Dr. Becker Sidney
 Date: 2019-03-26
 Link: https://www.youtube.com/watch?v=5WPB2u8EzL8
 
+Id: smith-09
+Type: article
+Media: link
+Title: How to design the commons (or, Elinor Ostrom explained)
+Author: Smith, Jeremy Adam
+Date: 2009-12-10
+DateSeen: 2022-08-23
+Tags: article, old:jones-01
+Link: https://www.shareable.net/how-to-design-the-commons-or-elinor-ostrom-explained/
+AltLink: https://tinyurl.com/5f65bd36+ https://web.archive.org/web/20220123054543/https://www.shareable.net/how-to-design-the-commons-or-elinor-ostrom-explained/
+
 Id: smlnj-01
 Type: site
 Media: site
@@ -20089,7 +20088,7 @@ Author: Stone, Lucy
 Date: 2022-11-09
 Tags: article
 Link: https://www.shareable.net/commoning-our-way-through-the-climate-crisis/
-AltLink: https://archive.vn/Oodi4
+AltLink: https://tinyurl.com/ycyrurap+ https://web.archive.org/web/20221121181535/https://www.shareable.net/commoning-our-way-through-the-climate-crisis/
 
 Id: stop-gdp-01
 Type: site
@@ -20520,7 +20519,7 @@ Title: Tamera Peace Research and Education Center in Portugal
 Date: 2024-03-23
 Tags: organization, organization, biblio
 Link: https://www.tamera.org/
-AltLink: https://tinyurl.com/bdhhkdpz+ https://web.archive.org/web/20240323022225/https://www.tamera.org/ https://archive.vn/mSj3S
+AltLink: https://tinyurl.com/bdhhkdpz+ https://web.archive.org/web/20240323022225/https://www.tamera.org/
 
 
 Id: tan-01
@@ -21277,9 +21276,10 @@ Id: timebanks-01
 Type: site
 Media: site
 Title: Building the TimeBank movement
-Date: 2023-07-19
-Link: https://timebanks.org/
-AltLink: https://archive.vn/RjN4p
+Date: 2025-02-13
+Link: https://www.timebanks.org/
+AltLink: https://tinyurl.com/55xyhtxn+
+https://web.archive.org/web/20250213060512/https://www.timebanks.org/
 
 Id: timefortribe-01
 Type: article
@@ -21288,7 +21288,7 @@ Title: Chapter 22 from: Sacred Econommics; Time For Tribe
 Date: 2023-07-26
 Tags: culture, link
 Link: http://timefortribe.com/about/chappter-22-from-sacred-econommics/
-AltLink: https://tinyurl.com/34v4ws65+ https://web.archive.org/web/20230726185649/https://timefortribe.com/about/chappter-22-from-sacred-econommics/ https://archive.vn/C4wpm
+AltLink: https://tinyurl.com/34v4ws65+ https://web.archive.org/web/20230726185649/https://timefortribe.com/about/chappter-22-from-sacred-econommics/
 
 Id: timefortribe-02
 Type: site
@@ -21298,7 +21298,6 @@ Date: 2023-01-07
 Tags: culture, link
 Link: http://timefortribe.com/
 AltLink: https://archive.vn/Itud5
-
 
 Id: tinyurl-01
 Type: site
@@ -22029,7 +22028,7 @@ Author: Vansintjan, Aaron
 Date: 2020-06-16
 Tags: article
 Link: https://www.shareable.net/what-one-nobel-prize-winning-economist-can-tell-us-about-defunding-and-abolishing-the-police/
-AltLink: https://archive.vn/HpJdO
+AltLink: https://tinyurl.com/mv5xx7ep+ https://web.archive.org/web/20200808132125/https://www.shareable.net/what-one-nobel-prize-winning-economist-can-tell-us-about-defunding-and-abolishing-the-police/
 
 Id: varoufakis-01
 Type: book
@@ -23139,7 +23138,7 @@ Title: Tragedy of the commons - Wikipedia, the free encyclopedia
 Date: 2023-08-08
 Tags: home, change, link, commons
 Link: http://en.wikipedia.org/wiki/Tragedy_of_the_commons
-AltLink: https://tinyurl.com/4fesk252+ https://web.archive.org/web/20230808061520/https://en.wikipedia.org/wiki/Tragedy_of_the_commons https://archive.vn/AXBKE
+AltLink: https://tinyurl.com/4fesk252+ https://web.archive.org/web/20230808061520/https://en.wikipedia.org/wiki/Tragedy_of_the_commons
 
 Id: wikipedia-09
 Type: article
@@ -23379,7 +23378,7 @@ Title: Restorative Justice
 Date: 2022-11-28
 Tags: link
 Link: https://en.wikipedia.org/wiki/Restorative_justice
-AltLink: https://tinyurl.com/4b8hctcn+ https://web.archive.org/web/20221128202407/https://en.wikipedia.org/wiki/Restorative_justice https://archive.vn/vWOpK
+AltLink: https://tinyurl.com/4b8hctcn+ https://web.archive.org/web/20221128202407/https://en.wikipedia.org/wiki/Restorative_justice
 
 Id: wikipedia-43
 Type: article
@@ -23415,7 +23414,7 @@ Title: History of Facebook
 Date: 2021-12-24
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/History_of_Facebook
-AltLink: https://tinyurl.com/3rmnf5dk+ https://web.archive.org/web/20211224083804/https://en.wikipedia.org/wiki/History_of_Facebook https://archive.vn/1jdBr
+AltLink: https://tinyurl.com/3rmnf5dk+ https://web.archive.org/web/20211224083804/https://en.wikipedia.org/wiki/History_of_Facebook
 
 Id: wikipedia-47
 Type: article
@@ -23424,8 +23423,7 @@ Title: Turning the other cheek
 Date: 2023-03-17
 Tags: article, link
 Link: https://en.wikipedia.org/wiki/Turning_the_other_cheek
-AltLink: https://tinyurl.com/85sn5a4c+ https://web.archive.org/web/20230317165735/https://en.wikipedia.org/wiki/Turning_the_other_cheek https://archive.vn/chy57
-
+AltLink: https://tinyurl.com/85sn5a4c+ https://web.archive.org/web/20230317165735/https://en.wikipedia.org/wiki/Turning_the_other_cheek
 
 Id: wikipedia-48
 Type: article
@@ -23433,7 +23431,7 @@ Media: link
 Title: Dunbar's number
 Date: 2023-06-20
 Link: https://en.wikipedia.org/wiki/Dunbar%27s_number
-AltLink: https://tinyurl.com/2xkt99ms+ https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number https://archive.vn/b1ora
+AltLink: https://tinyurl.com/2xkt99ms+ https://web.archive.org/web/20230620060350/https://en.wikipedia.org/wiki/Dunbar's_number
 
 Id: wikipedia-49
 Type: article
@@ -23441,7 +23439,7 @@ Media: link
 Title: The Mythical Man-Month
 Date: 2023-06-19
 Link: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
-AltLink: https://tinyurl.com/mrykhmfz+ https://web.archive.org/web/20230619221407/https://en.wikipedia.org/wiki/The_Mythical_Man-Month https://archive.vn/vdP9K
+AltLink: https://tinyurl.com/mrykhmfz+ https://web.archive.org/web/20230619221407/https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 Id: wikipedia-50
 Type: article
@@ -23822,7 +23820,7 @@ Date: 2012-06-24
 DateSeen: 2023-07-02
 Publisher: The Guardian
 Link: https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon
-AltLink: https://tinyurl.com/3x37pywv+ https://web.archive.org/web/20130825011604/https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon https://archive.vn/gTJXv
+AltLink: https://tinyurl.com/3x37pywv+ https://web.archive.org/web/20130825011604/https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon
 
 Id: wolford-01
 Type: book
@@ -23852,7 +23850,7 @@ Date: 2021-01-24
 DateSeen: 2023-11-17
 Publisher: Psychology Today
 Link: https://www.psychologytoday.com/us/blog/facing-trauma-together/202101/the-psychology-mob-mentality
-AltLink: https://archive.vn/UnTFi https://moria.whyayh.com/rel/archive/article/culture/Psychology_of_Mob_Mentality.pdf
+AltLink: https://tinyurl.com/mpwkp44x+ https://web.archive.org/web/20250213061513/https://moria.whyayh.com/rel/archive/article/culture/Psychology_of_Mob_Mentality.pdf
 
 Id: wood-01
 Type: article
@@ -25423,7 +25421,7 @@ Author: zadenalove
 Date: 2016-03-13
 Tags: link, article
 Link: https://zadenalove.wordpress.com/2016/03/13/72-words-for-love/
-AltLink: https://tinyurl.com/4bzyywjf+ https://web.archive.org/web/20241202181423/https://zadenalove.wordpress.com/2016/03/13/72-words-for-love/ https://archive.vn/PIUaM
+AltLink: https://tinyurl.com/4bzyywjf+ https://web.archive.org/web/20241202181423/https://zadenalove.wordpress.com/2016/03/13/72-words-for-love/
 
 Id: zamboni-01
 Type: article
