@@ -281,7 +281,7 @@ Author: Alex, Bridget
 Date: 2023-06-28
 Publisher: Science (Journal)
 Link: https://www.science.org/content/article/worldwide-survey-kills-myth-man-hunter
-AltLink: https://archive.vn/nZFcP
+AltLink: https://tinyurl.com/mryhku7v+ https://web.archive.org/web/20230629011943/https://www.science.org/content/article/worldwide-survey-kills-myth-man-hunter
 
 Id: alexander-01
 Type: article
@@ -877,7 +877,7 @@ Media: link
 Title: How to make a binaural stealth mic with an old pair of headphones for around $4
 Tags: home, make, maker, link
 Link: http://art.simon.tripod.com/stealth.html
-AltLink: https://archive.vn/4IJEo
+AltLink: https://web.archive.org/web/20250126201502/http://art.simon.tripod.com/stealth.html
 
 Id: article-gmane-01
 Type: article
@@ -1364,7 +1364,7 @@ Title: Make Business a Force For Good
 Date: 2022-03-05
 Tags: link, site, link
 Link: https://www.bcorporation.net/en-us/
-AltLink: https://archive.vn/DuGBR
+AltLink: https://tinyurl.com/5fcps6t2+ https://web.archive.org/web/20220305021722/https://www.bcorporation.net/en-us/
 
 Id: beafilmmaker-01
 Type: media
@@ -1715,7 +1715,7 @@ Date: 2019-09-30
 DateSeen: 2023-03-08
 Tags: article
 Link: https://news.arizona.edu/story/which-comes-first-smartphone-dependency-or-depression
-AltLink: https://archive.vn/nHn2o
+AltLink: https://tinyurl.com/28wc3vze+ https://web.archive.org/web/20240529081845/https://news.arizona.edu/news/which-comes-first-smartphone-dependency-or-depression
 
 Id: bly-01
 Type: book
@@ -2365,7 +2365,7 @@ Subtitle: Why AI is not the full story about our new class based society
 Author: Burgess, Mark
 Date: 2023-06-13
 Link: https://mark-burgess-oslo-mb.medium.com/a-trap-to-end-human-employment-d25a2acfe744
-AltLink: https://archive.vn/dekDR
+AltLink: https://tinyurl.com/yp8p72e9+ https://web.archive.org/web/20250212232024/https://moria.whyayh.com/rel/archive/article/culture/A_trap_to_end_human_employment_Why_AI_is_not_the_full_story.pdf https://web.archive.org/web/20230613215251/https://mark-burgess-oslo-mb.medium.com/a-trap-to-end-human-employment-d25a2acfe744
 
 Id: burgess-04
 Type: article
@@ -2395,7 +2395,7 @@ Subtitle: How a misunderstanding about logic dominates IT thinking, when we shou
 Author: Burgess, Mark
 Date: 2023-01-02
 Link: https://mark-burgess-oslo-mb.medium.com/the-failure-of-knowledge-management-5d97bb748fc3
-AltLink: https://archive.vn/HISIw
+AltLink: https://tinyurl.com/5yeek6f6+ https://web.archive.org/web/20250212232653/https://moria.whyayh.com/rel/archive/article/culture/The_Failure_of_Knowledge_Management.pdf
 
 Id: burgess-07
 Type: media
@@ -2499,8 +2499,7 @@ Date: 1863-06-13
 DateSeen: 2023-03-06
 Tags: article
 Link: https://nzetc.victoria.ac.nz/tm/scholarly/tei-ButFir-t1-g1-t1-g1-t4-body.html
-AltLink: https://archive.vn/Pjuy
-
+AltLink: https://tinyurl.com/3f5wywcd+ https://web.archive.org/web/20230306010859/https://nzetc.victoria.ac.nz/tm/scholarly/tei-ButFir-t1-g1-t1-g1-t4-body.html
 
 Id: buuren-01
 Type: site
@@ -2705,7 +2704,7 @@ Date: 2016-10-19
 DateSeen: 2022-12-07
 Tags: article
 Link: https://www.intechopen.com/chapters/51330
-AltLink: https://archive.vn/fbv9e
+AltLink: https://tinyurl.com/e47us4ua+ https://web.archive.org/web/20220630214628/https://www.intechopen.com/chapters/51330
 
 Id: carbon-d-01
 Type: site
@@ -2805,7 +2804,7 @@ Author: Cassella, Carly
 Date: 2022-03-07
 Tags: climate, important
 Link: https://www.sciencealert.com/human-survival-in-hot-and-humid-conditions-is
-AltLink: https://archive.vn/jcjTU
+AltLink: https://tinyurl.com/4em98cw2+ https://web.archive.org/web/20220307061547/https://www.sciencealert.com/human-survival-in-hot-and-humid-conditions-is
 
 Id: cassonline-01
 Type: article
@@ -3154,7 +3153,7 @@ Author: Chomsky, Noam
 Date: 2023-03-08
 Tags: article
 Link: https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html
-AltLink: https://archive.vn/o6O2q
+AltLink: https://tinyurl.com/3s2ep49w+ https://web.archive.org/web/20230308104809/https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html
 
 Id: chrisagnos-01
 Type: media
@@ -3218,7 +3217,7 @@ Author: Cibean, Tudor
 Date: 20222-06-05
 Tags: article
 Link: https://www.techspot.com/news/94828-adults-us-check-their-phones-352-times-day.html
-AltLink: https://archive.vn/4vCRa
+AltLink: https://tinyurl.com/5n6hepjt+ https://web.archive.org/web/20220605185300/https://www.techspot.com/news/94828-adults-us-check-their-phones-352-times-day.html
 
 Id: cichlid-forum-01
 Type: article
@@ -3567,9 +3566,8 @@ Type: article
 Media: link
 Title: DoOcracy
 Date: 2022-11-26
-Tags: article
-Link: https://communitywiki.org/wiki/DoOcracy
-AltLink: https://archive.vn/oPacR
+Tags: articleLink: https://communitywiki.org/wiki/DoOcracy
+AltLink: https://tinyurl.com/5n6sjkpk+ https://web.archive.org/web/20221127170648/https://communitywiki.org/wiki/DoOcracy
 
 Id: communityandconsensus-01
 Type: article
@@ -5034,7 +5032,7 @@ Author: Doctorow, Cory
 Date: 2022-01-03,
 Publisher: Locus
 Link: https://locusmag.com/2022/01/cory-doctorow-science-fiction-is-a-luddite-literature/
-AltLink: https://archive.vn/2MfYt
+AltLink: https://tinyurl.com/55xbxc6n+ https://web.archive.org/web/20220103183158/https://locusmag.com/2022/01/cory-doctorow-science-fiction-is-a-luddite-literature/
 
 Id: doctorow-16
 Type: book
@@ -5565,7 +5563,7 @@ Date: 2023-06-14
 Publisher: The Pluralism Project Harvard University
 Tags: old:pluralism-01
 Link: https://pluralism.org/
-AltLink: https://archive.vn/rb5wm
+AltLink: https://tinyurl.com/2cnaumfx+ https://web.archive.org/web/20130618223037/http://www.pluralism.org/
 
 Id: edelman-01
 Type: article
@@ -5861,7 +5859,7 @@ Author: Eisler, Riane
 Date: 2021-10-12
 Tags: article
 Link: https://rianeeisler.com/building-cultures-of-partnership-and-peace/
-AltLink: https://archive.vn/DPyMX
+AltLink: https://tinyurl.com/jhs284uu+ https://web.archive.org/web/20220405040520/http://rianeeisler.com/building-cultures-of-partnership-and-peace/
 
 Id: eisler-07
 Type: media
@@ -6198,7 +6196,7 @@ Author: Eustace, Nicole
 Date: 2022-11-30
 Tags: article
 Link: https://www.nytimes.com/2022/11/30/opinion/native-american-treaty-justice.html
-AltLink: https://archive.vn/eOete
+AltLink: https://tinyurl.com/22xn2uy9+ https://web.archive.org/web/20221130103329/https://www.nytimes.com/2022/11/30/opinion/native-american-treaty-justice.html
 
 Id: eustace-02
 Type: book
@@ -9060,7 +9058,7 @@ Author: Hattenstone, Simon
 Date: 2023-03-23
 Tags: article
 Link: https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane
-AltLink: https://archive.vn/yJaph
+AltLink: https://tinyurl.com/2s4c52k3+ https://web.archive.org/web/20230323103550/https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane
 
 Id: hawken-01
 Type: book
@@ -9202,7 +9200,7 @@ Author: Henley, Jon
 Date: 2019-06-03
 Publisher: The Gauardian
 Link: https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness
-AltLink: https://archive.vn/p28o2
+AltLink: https://tinyurl.com/bdh7856c+ https://web.archive.org/web/20190603080109/https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness
 
 Id: hennapage-01
 Type: article
@@ -9623,7 +9621,7 @@ Title: Housing First Europe Hub
 Author: housingfirsteurope
 Date: 2023-09-07
 Link: https://housingfirsteurope.eu/
-AltLink: https://archive.vn/3F5Oe
+AltLink: https://tinyurl.com/mwsje2k5+ https://web.archive.org/web/20230910022713/https://housingfirsteurope.eu/
 
 Id: howtoforge-01
 Type: article
