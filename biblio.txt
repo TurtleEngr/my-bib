@@ -1265,10 +1265,11 @@ Type: book
 Media: Ebook
 Title: Capitalism 3.0
 Author: Barnes, Peter
-Date: 2006
+Date: 2006-11-01
 Publisher: Berrett-Koehler Publishers
 Tags: important
-ASIN: 26868217
+ASIN: B00L5JVLIK
+Link: https://www.amazon.com/dp/B00L5JVLIK/
 
 Id: barnes-02
 Type: book
@@ -1280,7 +1281,8 @@ Date: 2006
 Publisher: Berrett-Koehler Publishers
 Tags: important, commons
 ISBN: 9781576753613
-ASIN: 1637377
+ASIN: 1576753611
+Link: https://www.amazon.com/dp/1576753611/
 
 Id: barry-01
 Type: media
@@ -1617,12 +1619,14 @@ Id: black-02
 Type: book
 Media: book
 Title: Gandhi The Man
+Subtitle: Compiled from the perspective of Eknath Easwaran
 Author: Black, Jo Anne
+Authors: Eknath Easwaran, Nick Harvey, and Laurel Robertson
 Date: 1973
 Publisher: Glide Publications
 Address: San Francisco, CA
 Tags: book
-
+ISBN: 0-912078-17-0
 
 Id: blackmore-01
 Type: media
