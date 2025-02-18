@@ -1617,7 +1617,7 @@ ASIN: 17151492
 
 Id: black-02
 Type: book
-Media: book
+Media: Hardcover
 Title: Gandhi The Man
 Subtitle: Compiled from the perspective of Eknath Easwaran
 Author: Black, Jo Anne
@@ -1625,8 +1625,8 @@ Authors: Eknath Easwaran, Nick Harvey, and Laurel Robertson
 Date: 1973
 Publisher: Glide Publications
 Address: San Francisco, CA
-Tags: book
 ISBN: 0-912078-17-0
+Tags: book
 
 Id: blackmore-01
 Type: media
