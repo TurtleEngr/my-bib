@@ -857,6 +857,18 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   residents in Rehoboth Beach in 2017 beat back a proposal to allow
   LLCs to vote."
 
+** Id: iyer-01
+- <blockquote>After his California home burned in a wildfire,
+  acclaimed author and travel writer Pico Iyer retreated to a remote
+  monastery in Big Sur. There, he discovered the power of solitude and
+  stillness to help process loss and cope with uncertainty. In his new
+  book, "Aflame," Iyer writes about his frequent visits to the
+  monastery over the following three decades, always finding joy and
+  renewal in the "silence and emptiness and light"... and lack of
+  screens. We’ll talk with Iyer about the book, and why his inner
+  journeys mean more to him than his far-flung trips across the
+  globe.{iyer-01}</blockquote>
+
 ** Id: jacobs-01
 - See also: [haidt-01]
 

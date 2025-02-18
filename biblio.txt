@@ -10289,6 +10289,18 @@ Date: 2023-06-21
 Link: https://www.cbsnews.com/news/seaford-delaware-corporate-voting-llc-trust-elections/
 AltLink: https://archive.vn/Yqjs6
 
+Id: iyer-01
+Type: media
+Media: audio
+Title: Travel Writer Pico Iyer Celebrates the Joys of Sitting Still
+Author: Iyer, Pico
+Authors: Mina Kim
+Date: 2010-10-19
+DateSeen: 2025-02-17
+Publisher: KQED
+Link: https://www.kqed.org/forum/2010101908927/forum-from-the-archives-travel-writer-pico-iyer-celebrates-the-joys-of-sitting-still
+AltLink: https://tinyurl.com/mte4u36u+ https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/2010-10-19_Forum_Pico-Iyer_KQINC5300412396.mp3
+
 Id: jackit-sourceforge-01
 Type: article
 Media: link
@@ -10551,7 +10563,7 @@ Author: LA Johnson, Karen Grigsby Bates
 Date: 2023-03-22
 Tags: audio, audio
 Link: https://www.npr.org/sections/codeswitch/2023/03/22/1161664788/the-women-behind-the-montgomery-bus-boycott
-AltLink: https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/women-behind-the-montgomery-bus-boycott.mp3
+AltLink: https://tinyurl.com/4djkkvy5+ https://moria.whyayh.com/rel/archive/audio/ThirdParty/culture/women-behind-the-montgomery-bus-boycott.mp3
 
 Id: johnson-08
 Type: media
