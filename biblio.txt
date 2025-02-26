@@ -11519,6 +11519,7 @@ Id: languageofcompassion-01
 Type: site
 Media: org
 Title: Nonviolent Communication; New Culture Community; Kelly Bryson
+Author: Bryson, Kelly
 Tags: link
 Link: http://languageofcompassion.com/
 
@@ -14747,6 +14748,7 @@ Id: nfnc-01
 Type: site
 Media: org
 Title: Network For a New Culture
+Author: nfnc
 Tags: culture, link
 Link: http://www.nfnc.org/
 
