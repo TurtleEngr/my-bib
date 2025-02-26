@@ -14797,6 +14797,7 @@ Id: noisebridge-01
 Type: article
 Media: link
 Title: Noisebridge
+Author: Noisebridge
 Tags: link
 Link: https://noisebridge.net/wiki/Noisebridge
 
@@ -14804,6 +14805,7 @@ Id: noisebridge-02
 Type: article
 Media: link
 Title: Digital Archivists - Noisebridge
+Author: Noisebridge
 Date: 2022-11-18
 Tags: tools, link
 Link: https://www.noisebridge.net/wiki/Digital_Archivists
@@ -14813,6 +14815,7 @@ Id: noisebridge-03
 Type: article
 Media: link
 Title: Do-ocracy
+Author: Noisebridge
 Date: 2022-11-18
 Tags: link
 Link: https://www.noisebridge.net/wiki/Do-ocracy
