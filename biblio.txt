@@ -19914,7 +19914,7 @@ Type: book
 Media: Ebook
 Title: The Fifth Sacred Thing
 Author: Starhawk
-Date:  ‎ 2011-08-10
+Date: 2011-08-10
 Publisher: Bantam
 Link: https://www.amazon.com/dp/B003EJDGLE/
 
