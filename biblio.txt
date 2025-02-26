@@ -11404,6 +11404,7 @@ Id: lafayettemorehouse-01
 Type: article
 Media: link
 Title: One no-vote
+Author: Morehouse
 Date: 2008-04-30
 DateSeen: 2022-11-18
 Tags: link
@@ -11414,6 +11415,7 @@ Id: lafayettemorehouse-02
 Type: site
 Media: org
 Title: Lafayette Morehouse
+Author: Morehouse
 Date: 2024-06-30
 Tags: site, organization, link
 Link: http://www.lafayettemorehouse.com/
@@ -15917,6 +15919,7 @@ Link: https://www.amazon.com/dp/B003LL3K5M/
 Id: peck-05
 Type: article
 Media: link
+Title: M. Scott Peck
 Author: Peck, M. Scott
 Date: 2024-08-30
 Tags: person, important, biblio
