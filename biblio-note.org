@@ -24,7 +24,39 @@
 - Russell L. Ackoff. In the Circular Organization, a democratic
   hierarchy, everyone participates directly or indirectly in decisions
   that affect their work.
-
+** Id: ackoff-02
+- Quote from Amazon page.
+- <blockquote>
+  - Over the last three decades the average life expectancy of a
+    corporation in North America has dipped well below 20 years. In
+    fact, by 1983 a full third of the 1970 Fortune 500 companies had
+    been acquired, merged, or broken apart. In this landmark book, one
+    of the business world's foremost pioneers, Russell L. Ackoff,
+    delivers this indispensable guide for those hoping to beat these
+    odds--and to better navigate the corporate challenges of the next
+    millennium.
+  - While most business and management schools continue to teach the
+    functions of a corporation separately--production, marketing,
+    finance, personnel--the reality is that for a corporation to
+    endure each division must work with the others to create an
+    effective system. Re-Creating the Corporation is Ackoff's
+    masterful blueprint for understanding and creating these model
+    corporate systems. In four comprehensive sections--Background,
+    Process, Designs, and Change--Ackoff lays out in clear concise
+    prose the five organizational goals of successful corporate
+    systems: plan effectively, learn and adapt rapidly, democratize,
+    introduce internal market economies, and employ a flexible
+    structure that will minimize the need for future
+    restructuring. And through a deft mix of practical and theoretical
+    examples drawn from a wide range of applications in a wide range
+    of firms, this book ultimately guides executives to the system
+    best suited to meet their organizational goals.
+  - Re-Creating the Corporation, which is the culmination of a
+    lifetime of innovative and insightful business thought from one of
+    the business world's premier thinkers, is essential reading for
+    those attempting to navigate the rapidly changing economic
+    environment of the next millennium.
+  </blockquote>
 ** Id: agnos-01
 - Sustainable Human
 
@@ -652,6 +684,19 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - [[http://www.erich-fromm.de/data/pdf/2008a-e.pdf][2008a-e The Automaton Citizen and Human Rights]] - pdf
 - [[http://www.erich-fromm.de/e/play.php?shownews=81][Other Articles by Erich Fromm]]
 
+** Id: fukuyama-01
+- Contact
+  + Home: https://fukuyama.stanford.edu/
+  + Facebook: https://www.facebook.com/profile.php?id=100057815571814
+  + LinkedIn: https://www.linkedin.com/in/francis-fukuyama-651a03b/
+- Talks
+  + Musk demoted as markets crash in ‘Trump Slump’! Ari talks oligarchs, trust & Poli-Sci with Fukuyama
+    - https://www.youtube.com/watch?v=-riOnDBnu8o
+- Books:
+  + Trust: The Social Virtues and the Creation of Prosperity. Free
+    Press, 1995. ISBN 0-02-910976-0
+  + Identity: The Demand for Dignity and the Politics of Resentment,
+    New York: Farrar, Straus and Giroux. 2018.
 ** Id: games-slashdot-01
 - [[http://www.webcitation.org/61C1HfUo4][Geeks Beat Jocks as Bar Fight Breaks Out Over Control of the TV]]
 - [[http://us.battle.net/sc2/en/][StarCraft Home]]

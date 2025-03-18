@@ -94,6 +94,18 @@ Tags: important, book
 Link: https://www.amazon.com/dp/B00332FM7I/
 ISBN: 9780195087277
 
+Id: ackoff-02
+Type: book
+Media: Hardcover
+Title: Re-Creating the Corporation
+Subtitle: A Design of Organizations for the 21st Century
+Author: Ackoff, Russell L.
+Date: 1999-07-29
+Publisher: Oxford University Press
+Tags: important, book
+Link: https://www.amazon.com/dp/0195123875
+ISBN: 978-0195123876
+
 Id: aclu-01
 Type: media
 Media: video
@@ -7173,13 +7185,22 @@ Author: Fromm, Erich
 Tags: video, old:youtube-042
 Link: http://www.youtube.com/watch?v=dXiZnong2_U
 
+Id: fukuyama-01
+Type: article
+Media: link
+Title: Francis_Fukuyama
+Author: Fukuyama, Francis
+Date: 2025-03-17
+Tags: person
+Link: https://en.wikipedia.org/wiki/Francis_Fukuyama
+AltLink: https://tinyurl.com/mr2vxspa+ https://web.archive.org/web/20250317115448/https://en.wikipedia.org/wiki/Francis_Fukuyama
+
 Id: functionaltools-01
 Type: media
 Media: video
 Title: wimp: 3D printer can print functional tools.
 Tags: video
 Link: http://www.wimp.com/functionaltools/
-
 
 Id: funprank-01
 Type: media
