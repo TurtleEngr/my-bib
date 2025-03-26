@@ -9955,6 +9955,16 @@ Title: ifPeople - Technology Solutions
 Tags: home, eco, link
 Link: http://www.ifpeople.net/services/tech
 
+Id: igalia-01
+Type: site
+Media: org
+Title: Igalia
+Author: Igalia
+Date: 2025-03-25
+Tag: democratic-corporation, igalia, venerandi-01, venerandi-02
+Link: https://www.igalia.com/
+AltLink: https://tinyurl.com/e9yz5mww+ https://web.archive.org/web/20250324220928/https://www.igalia.com/
+
 Id: illich-01
 Type: book
 Media: Paperback
@@ -22169,6 +22179,26 @@ Media: site
 Title: Congresswoman Anna Eshoo -
 Tags: political, link
 Link: https://vekeo.com/repannaeshoo/#usermessagea
+
+Id: venerandi-01
+Type: media
+Media: video
+Title: You'd LOVE to work here
+Author Niccolò Venerandi
+Date: 2025-03-25
+Publisher: Nicco Loves Linux
+Tag: democratic-corporation, igalia, venerandi-02
+Link: https://www.youtube.com/watch?v=4wpqYR8L6m4
+
+Id: venerandi-02
+Type: article
+Media: link
+Title: The most communist FOSS company
+Author Venerandi, Niccolò
+Date: 2025-03-25
+Tag: democratic-corporation, igalia, venerandi-01
+Link: https://thelibre.news/the-most-communist-foss-company/
+AltLink: https://tinyurl.com/56x3de9v+ https://web.archive.org/web/20250325233515/https://thelibre.news/the-most-communist-foss-company/
 
 Id: venter-01
 Type: media
