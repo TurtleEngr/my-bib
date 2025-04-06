@@ -8803,6 +8803,7 @@ Id: haidt-01
 Type: media
 Media: video
 Title: TED: Jonathan Haidt on the moral roots of liberals and conservatives
+Date: 2008-03
 Tags: video, ted, video
 Link: https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives
 
@@ -22233,7 +22234,6 @@ Publisher: Veritasium
 Tags: science, video
 Link: https://www.youtube.com/watch?v=QRt7LjqJ45k
 
-
 Id: veritasium-03
 Type: media
 Media: video
@@ -22243,15 +22243,14 @@ Publisher: Veritasium
 Tags: video
 Link: https://www.youtube.com/watch?v=fHsa9DqmId8
 
-
 Id: veritasium-04
 Type: media
 Media: video
 Title: What Game Theory Reveals About Life, The Universe, and Everything
 Author: Veritasium
+Date: 2023-12-23
 Publisher: Veritasium
 Link: https://www.youtube.com/watch?v=mScpHTIi-kM
-
 
 Id: veritasium-05
 Type: media
