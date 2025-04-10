@@ -23654,6 +23654,16 @@ Publisher: Wikipedia, The Free Encyclopedia.
 Link: https://en.wikipedia.org/wiki/Subsidiarity
 AltLink: https://tinyurl.com/yehvxwzx https://web.archive.org/web/20250115020244/https://en.wikipedia.org/wiki/Subsidiarity
 
+Id: wikipedia-68
+Type: article
+Media: link
+Title: Potlatch
+Author: Wikipedia contributors
+Date: 2025-04-09
+Publisher: Wikipedia, The Free Encyclopedia.
+Link: https://en.wikipedia.org/wiki/Potlatch
+AltLink: https://tinyurl.com/yurump9k+ https://web.archive.org/web/20250410051335/https://en.wikipedia.org/wiki/Potlatch
+
 Id: wilburhotsprings-01
 Type: site
 Media: site

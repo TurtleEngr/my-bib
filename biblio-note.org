@@ -2458,7 +2458,7 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   + https://web.archive.org/web/20241231070730/https://en.wikipedia.org/wiki/List_of_Donald_Trump_2024_presidential_campaign_non-political_endorsements#Sports_organizations
   + https://web.archive.org/web/20241227033455/https://en.wikipedia.org/wiki/List_of_Republicans_who_opposed_the_Donald_Trump_2024_presidential_campaign
 ** Id: wikipedia-67
-- <blockquote> Subsidiarity is a principle of social organization that
+- <blockquote>Subsidiarity is a principle of social organization that
   holds that social and political issues should be dealt with at the
   most immediate or local level that is consistent with their
   resolution.</blockquote>
@@ -2472,6 +2472,23 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   that "The powers not delegated to the United States by the
   Constitution, nor prohibited by it to the States, are reserved to
   the States respectively, or to the people."</blockquote>
+
+** Id: wikipedia-68
+- <blockquote>A potlatch is a gift-giving feast practiced by
+  Indigenous peoples of the Pacific Northwest Coast of Canada and the
+  United States.{wikipedia-68}</blockquote>
+
+- <blockquote>"The status of any given family is raised not by who has
+  the most resources, but by who distributes the most resources. The
+  hosts demonstrate their wealth and prominence through giving away
+  goods.{wikipedia-68}</blockquote>
+
+- <blockquote>Potlatching was made illegal in Canada in 1884 in an
+  amendment to the Indian Act. To some extent, this was at the urging
+  of missionaries and government agents who considered it "a worse
+  than useless custom" that was seen as wasteful, unproductive, and
+  contrary to 'civilized values' of
+  accumulation.{wikipedia-68}</blockquote>
 
 ** Id: wink-03
 - All of us deal with the Powers That Be. They staff our hospitals,
