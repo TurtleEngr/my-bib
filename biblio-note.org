@@ -686,12 +686,16 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 
 ** Id: fukuyama-01
 - Contact
-  + Home: https://fukuyama.stanford.edu/
+  + Work: https://fukuyama.stanford.edu/
   + Facebook: https://www.facebook.com/profile.php?id=100057815571814
   + LinkedIn: https://www.linkedin.com/in/francis-fukuyama-651a03b/
+  + f.fukuyama@stanford.edu
 - Talks
   + Musk demoted as markets crash in ‘Trump Slump’! Ari talks oligarchs, trust & Poli-Sci with Fukuyama
     - https://www.youtube.com/watch?v=-riOnDBnu8o
+  + Francis Fukuyama: Identity Politics – The Demand for Dignity and the Nation State’s Future
+    - https://www.youtube.com/watch?v=X8N4EBV5iK8
+
 - Books:
   + Trust: The Social Virtues and the Creation of Prosperity. Free
     Press, 1995. ISBN 0-02-910976-0
