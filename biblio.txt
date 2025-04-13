@@ -21337,8 +21337,7 @@ Media: site
 Title: Building the TimeBank movement
 Date: 2025-02-13
 Link: https://www.timebanks.org/
-AltLink: https://tinyurl.com/55xyhtxn+
-https://web.archive.org/web/20250213060512/https://www.timebanks.org/
+AltLink: https://tinyurl.com/55xyhtxn+ https://web.archive.org/web/20250213060512/https://www.timebanks.org/
 
 Id: timefortribe-01
 Type: article
@@ -22185,7 +22184,7 @@ Id: venerandi-01
 Type: media
 Media: video
 Title: You'd LOVE to work here
-Author Niccolò Venerandi
+Author: Niccolò Venerandi
 Date: 2025-03-25
 Publisher: Nicco Loves Linux
 Tag: democratic-corporation, igalia, venerandi-02
@@ -22195,7 +22194,7 @@ Id: venerandi-02
 Type: article
 Media: link
 Title: The most communist FOSS company
-Author Venerandi, Niccolò
+Author: Venerandi, Niccolò
 Date: 2025-03-25
 Tag: democratic-corporation, igalia, venerandi-01
 Link: https://thelibre.news/the-most-communist-foss-company/
