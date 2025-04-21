@@ -227,7 +227,6 @@ Author: Agnos, Chris
 Tags: video
 Link: https://www.youtube.com/watch?v=9NVH3Gv8yB4&amp;index=11&amp;list=PLfVmmn1uAaVKj5x07I8kYhx4eY97mFSH5
 
-
 Id: ahmad-01
 Type: media
 Media: video
@@ -957,7 +956,6 @@ Publisher: The Spectator
 Link: https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/
 AltLink: https://tinyurl.com/mtz2dndn+ https://web.archive.org/web/20231102230718/https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/
 
-
 Id: ask-slashdot-01
 Type: article
 Media: link
@@ -1455,7 +1453,6 @@ Date: 2021-03-03
 Tags: article, pdf, article
 Link: https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
 
-
 Id: bendix-01
 Type: article
 Media: link
@@ -1474,7 +1471,6 @@ Title: TED: Arthur Benjamin: Does Mathemagic
 Tags: ted, biblio
 Link: http://www.ted.com/talks/arthur_benjamin_does_mathemagic.html
 
-
 Id: benkler-01
 Type: article
 Media: link
@@ -1491,7 +1487,6 @@ Media: site
 Title: www.berkeleycoworking.com - Berkeley Coworking
 Tags: home, cohousing, link
 Link: http://www.berkeleycoworking.com/
-
 
 Id: berman-01
 Type: book
@@ -1523,7 +1518,6 @@ Title: Drew Berry: Animations of unseeable biology
 Author: Berry, Drew
 Tags: video, old:youtube-088
 Link: https://www.youtube.com/watch?v=WFCvkkDSfIU
-
 
 Id: bestbuy-01
 Type: site
@@ -1812,7 +1806,6 @@ Title: TED: David Bolinsky animates a cell
 Tags: ted, biblio
 Link: http://www.ted.com/talks/david_bolinsky_animates_a_cell.html
 
-
 Id: bollier-01
 Type: media
 Media: video
@@ -1832,7 +1825,6 @@ Title: Funniest Thing You Can Do With A Squeaky Toy. Brad Bonar - Full Special
 Author: Bonar, Brad
 Tags: video, old:youtube-085
 Link: https://www.youtube.com/watch?v=ToTS_-JVaVs
-
 
 Id: bookdarts-01
 Type: site
@@ -1977,7 +1969,6 @@ Author: Brand, Russell
 Tags: politics, video
 Link: https://www.youtube.com/watch?v=YofLsS3vfOU
 
-
 Id: brasschecktv-01
 Type: article
 Media: link
@@ -2071,7 +2062,6 @@ Author: Brin, David
 Date: 2017-09-23
 Link: https://david-brin.medium.com/the-minimal-overlap-solution-to-gerrymandered-injustice-e535bbcdd6c
 AltLink: https://tinyurl.com/52urakhd+ https://web.archive.org/web/20240903185008/https://david-brin.medium.com/the-minimal-overlap-solution-to-gerrymandered-injustice-e535bbcdd6c
-
 
 Id: brinkhurst-cuff-01
 Type: article
@@ -2424,7 +2414,6 @@ Date: 2024-01-25
 Publisher: CFEngine
 Link: https://www.youtube.com/watch?v=KrF9R11AFis
 
-
 Id: burgess-08
 Type: article
 Media: link
@@ -2565,7 +2554,6 @@ Author: Cain, Susan
 Date: 2024-10-08
 Link: https://thequietlife.net/p/do-you-have-a-nerdy-dopamine-pathway
 AltLink: https://tinyurl.com/y7d3wrxx+ https://web.archive.org/web/20241009014516/https://thequietlife.net/p/do-you-have-a-nerdy-dopamine-pathway
-
 
 Id: caldwell-01
 Type: media
@@ -3141,7 +3129,6 @@ Tags: important, article, old:klein-04
 Link: https://www.nytimes.com/2021/03/30/podcasts/ezra-klein-podcast-ted-chiang-transcript.html
 AltLink: https://archive.vn/8MjFb
 
-
 Id: cho-01
 Type: media
 Media: Blu-ray
@@ -3648,7 +3635,6 @@ Publisher: https://www.youtube.com/@TheAdamConover
 Tags: video
 Link: https://www.youtube.com/watch?v=ro130m-f_yk
 
-
 Id: conover-02
 Type: media
 Media: video
@@ -3668,7 +3654,6 @@ Date: 2022
 Publisher: Netflix
 Link: https://www.imdb.com/title/tt13649532/
 
-
 Id: conrad-01
 Type: book
 Media: Ebook
@@ -3679,7 +3664,6 @@ Date: 2014
 Publisher: AK Press
 Tags: biblio
 ASIN: 14793588
-
 
 Id: conscioussensuality-01
 Type: article
@@ -4119,7 +4103,6 @@ Media: link
 Title: Daily Information - Your Guide to Oxford, England
 Tags: home, tofile, set1, link
 Link: http://www.dailyinfo.co.uk/
-
 
 Id: dailypost-wordpress-01
 Type: article
@@ -4699,7 +4682,6 @@ Author: Dickinson, Michael
 Tags: video, old:ted-20
 Link: http://www.ted.com/talks/michael_dickinson_how_a_fly_flies.html
 
-
 Id: digitaldreams-01
 Type: article
 Media: link
@@ -4943,7 +4925,6 @@ Date: 2019
 Publisher: Tom Doherty Associates
 Tags: g, biblio
 ASIN: 22788475
-
 
 Id: doctorow-08
 Type: book
@@ -6577,7 +6558,6 @@ Publisher: BBC2
 Tags: video, old:youtube-081
 Link: https://www.youtube.com/watch?v=P1ww1IXRfTA
 
-
 Id: fi-google-01
 Type: site
 Media: site
@@ -7169,7 +7149,6 @@ Author: Frisch, u00c6leen
 Tags: biblio
 ISBN: 1565921275
 
-
 Id: fromdual-01
 Type: article
 Media: link
@@ -7437,7 +7416,6 @@ Publisher: Metropolitan Books
 Tags: important
 ASIN: 15069990
 
-
 Id: gawande-02
 Type: book
 Media: Ebook
@@ -7527,7 +7505,6 @@ Title: Genuine Justice - Sylvia Clute
 Tags: link
 Link: http://www.genuinejustice.com/
 
-
 Id: geocities-01
 Type: site
 Media: product
@@ -7577,7 +7554,6 @@ Media: link
 Title: You're Never Too Old to Become Fluent in a Foreign Language
 Tags: reference, trivia, link
 Link: https://getpocket.com/explore/item/you-re-never-too-old-to-become-fluent-in-a-foreign-language
-
 
 Id: ghouldrool-01
 Type: article
@@ -7645,14 +7621,12 @@ Tags: article
 Link: //www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B
 AltLink: https://archive.vn/rT5sU
 
-
 Id: giler-01
 Type: media
 Media: video
 Title: TED: Eric Giler demos wireless electricity
 Tags: ted, biblio
 Link: http://www.ted.com/talks/eric_giler_demos_wireless_electricity.html
-
 
 Id: gimbutas-01
 Type: book
@@ -8362,7 +8336,6 @@ Author: GovTrack.us
 Date: 2024-09-29
 Link: https://www.govtrack.us/congress/members/IL#map
 
-
 Id: gpg-win-01
 Type: article
 Media: link
@@ -8403,14 +8376,12 @@ Title: David Graeber: The Debt of the American Poor Should Be Forgiven
 Tags: link
 Link: http://www.democracynow.org/2011/9/19/david_graeber_the_debt_of_the
 
-
 Id: graeber-03
 Type: media
 Media: video
 Title: David Graeber on Participatory Democracy 2006 Part 1/2
 Tags: video
 Link: http://www.youtube.com/watch?v=4tbImDLKFMw
-
 
 Id: graeber-04
 Type: media
@@ -8420,14 +8391,12 @@ Subtitle: The First 5000 Years - Alberta Rose Theater
 Tags: video
 Link: http://www.youtube.com/watch?v=BhbTMB6ehZY&amp;feature=related
 
-
 Id: graeber-05
 Type: media
 Media: video
 Title: David GRAEBER: We are already communists 1/2
 Tags: video
 Link: http://www.youtube.com/watch?v=IcK7rkajHKE
-
 
 Id: graeber-06
 Type: media
@@ -8505,14 +8474,12 @@ Tags: video
 Link: https://www.youtube.com/watch?v=6eyaDHj5I5g
 AltLink: https://www.c-span.org/video/?446716-2/bullshit-jobs
 
-
 Id: grammarly-01
 Type: article
 Media: link
 Title: Grammar Check; Grammarly
 Tags: tools, link
 Link: https://www.grammarly.com/?q=writing&amp;utm_source=youtube&amp;utm_content=45note
-
 
 Id: granitegrok-01
 Type: article
@@ -8538,7 +8505,6 @@ Title: Graphite: Graphite - Enterprise Scalable Realtime Graphing
 Tags: toolsw, appweb, nagios, link
 Link: http://graphite.wikidot.com/
 
-
 Id: graves-01
 Type: article
 Media: link
@@ -8548,13 +8514,36 @@ Date: 1981-05-20
 Link: https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf
 AltLink: https://tinyurl.com/46h2nc3v+ https://web.archive.org/web/20240104100722/https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
 
+Id: graziano-01
+Type: article
+Media: link
+Title: Pirate Care
+Subtitle: a syllabus
+Author: Graziano, Valeria
+Authors: Marcell Mars and Tomislav Medak, ET AL
+Date: 2020-01-01
+Link: https://syllabus.pirate.care/library/Pirate%20Care/Pirate%20Care%20Syllabus%20(478)/Pirate%20Care%20Syllabus%20-%20Pirate%20Care.pdf
+AltLink: https://tinyurl.com/wunwudws+ https://syllabus.pirate.care/library/Pirate%20Care/Pirate%20Care%20Syllabus%20%28478%29/Pirate%20Care%20Syllabus%20-%20Pirate%20Care.pdf https://syllabus.pirate.care/
+
+Id: graziano-02
+Type: book
+Media: Ebook
+Title: Pirate Care
+Subtitle: Acts Against the Criminalization of Solidarity
+Author: Graziano, Valeria
+Authors: Marcell Mars and Tomislav Medak, ET AL
+Date: 2025-01-20
+Publisher: Pluto Press
+ISBN: 9780745349817
+Link: https://www.plutobooks.com/9780745349817/pirate-care/
+AltLink: https://www.amazon.com/dp/0745349803
+
 Id: greektragedy-01
 Type: media
 Media: video
 Title: Greek tragedy performed by dominoes
 Tags: video
 Link: http://www.wimp.com/greektragedy/
-
 
 Id: green-01
 Type: book
@@ -8818,7 +8807,6 @@ Tags: artical, biblio
 Link: https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/
 AltLink: https://archive.vn/C3ITL
 
-
 Id: haidt-03
 Type: book
 Media: Ebook
@@ -8882,7 +8870,6 @@ Author: Hanauer, Nick
 Tags: video, old:youtube-104
 Link: https://www.youtube.com/watch?v=q2gO4DKVpa8
 
-
 Id: hancock-01
 Type: media
 Media: video
@@ -8898,7 +8885,6 @@ Title: Graham Hancock Debunks David Morrison Astrobiologist
 Author: Hancock, Graham
 Tags: video, old:youtube-024
 Link: http://www.youtube.com/watch?v=KFjvgzpHr88
-
 
 Id: handpen-01
 Type: article
@@ -9023,7 +9009,6 @@ Author: Harold, Elliotte Rusty
 Tags: biblio
 ISBN: 0596007647
 
-
 Id: harpers-01
 Type: article
 Media: link
@@ -9075,14 +9060,12 @@ Author: Hawks, Darris
 Tags: comment, biblio
 Link: https://www.youtube.com/channel/UCazKfdh6rGaUD1H5k6wfhVQ
 
-
 Id: hebig-01
 Type: article
 Media: link
 Title: How might Richard Feynman have answered a job interview question?
 Tags: link
 Link: http://hebig.org/blogs/archives/main/000962.php
-
 
 Id: hedges-01
 Type: media
@@ -9276,6 +9259,18 @@ Publisher: Inner Traditions/Bear & Company
 Tags: biblio
 ASIN: 18342659
 
+Id: high-01
+Type: book
+Media: Ebook
+Title: As If Already Free
+Subtitle: Anthropology and Activism after David Graeber
+Author: High, Holly (ed)
+Authors: Joshua O. Reno
+Date: 2023-01-01
+Publisher: Pluto Press
+Link: https://library.oapen.org/bitstream/handle/20.500.12657/77038/external_content.pdf
+AltLink: https://tinyurl.com/mr4ap2tw+ https://web.archive.org/web/20240126011842/https://library.oapen.org/bitstream/handle/20.500.12657/77038/external_content.pdf
+
 Id: hildebrandt-01
 Type: book
 Media: Paperback
@@ -9373,7 +9368,6 @@ Tags: important
 ISBN: 1416509216
 ASIN: 463794
 
-
 Id: hogan-02
 Type: book
 Media: Paperback
@@ -9424,7 +9418,6 @@ Publisher: Prentice Hall
 Tags: biblio
 ISBN: 0131403745
 ASIN: 1284791
-
 
 Id: holophonicsounds-01
 Type: media
@@ -9772,7 +9765,6 @@ Title: Outsource Your Life
 Subtitle: Sites Allow You To Create Army Of Virtual Assistants
 Tags: link
 Link: http://www.huffingtonpost.com/2008/06/25/outsource-your-life-sites_n_109289.html
-
 
 Id: hugsamsterdam-01
 Type: media
@@ -10316,7 +10308,6 @@ Title: jack audio connection kit
 Tags: home, a/v, link, video, link
 Link: http://jackit.sourceforge.net/
 
-
 Id: jacobs-01
 # Old: motherjones-01
 Type: article
@@ -10336,14 +10327,12 @@ Title: Marcin Jakubowski: Open Source Hardware
 Tags: ted, biblio
 Link: http://www.ted.com/talks/marcin_jakubowski?language=en
 
-
 Id: jakubowski-02
 Type: media
 Media: video
 Title: Marcin Jakubowski: Open-Sourced Blueprints For Civilization
 Tags: video
 Link: http://www.huffingtonpost.com/2011/12/19/wiki-diy-civilization_n_1157895.html?ref=daily-brief?utm_source=DailyBrief&amp;utm_campaign=121911&amp;utm_medium=email&amp;utm_content=NewsEntry&amp;utm_term=Daily%20Brief
-
 
 Id: james-01
 Type: book
@@ -10356,7 +10345,6 @@ Publisher: Salamander Books Ltd (1986), 120 pages
 Tags: biblio
 ISBN: 0861012070
 ASIN: 1135300
-
 
 Id: james-onegoodcookie-01
 Type: article
@@ -10456,7 +10444,6 @@ Media: link
 Title: Jerry's EV Conversion
 Tags: home, electriccar, googlesearch, link
 Link: http://jerryrig.com/convert/
-
 
 Id: jinglebells-01
 Type: media
@@ -10583,7 +10570,6 @@ Date: 2022-06-21
 Tags: ted
 Link: https://www.youtube.com/watch?v=VsOJR40M0as
 
-
 Id: johnson-09
 Type: media
 Media: audio
@@ -10611,7 +10597,6 @@ Date: 2017-02-21
 Tags: article
 Link: https://www.openculture.com/2017/02/13-rules-for-radicals.html
 AltLink: https://archive.vn/b6MrD
-
 
 Id: jones-03
 Type: media
@@ -10817,7 +10802,6 @@ Title: Knowledge Base - MozillaZine Knowledge Base
 Tags: reference, link
 Link: http://kb.mozillazine.org/Knowledge_Base
 
-
 Id: kb-vmware-01
 Type: article
 Media: link
@@ -10908,7 +10892,6 @@ Media: link
 Title: OSSIC X: The first 3D audio headphones calibrated to you by OSSIC - Kickstarter
 Tags: tools, link
 Link: https://www.kickstarter.com/projects/248983394/ossic-x-the-first-3d-audio-headphones-calibrated-t
-
 
 Id: kickstarter-03
 Type: media
@@ -11332,7 +11315,6 @@ Publisher: New York, Vanguard Press (1926)
 Link: https://www.gutenberg.org/ebooks/23428
 AltLink: https://moria.whyayh.com/rel/archive/book/non-fiction/the_conquest_of_bread_by_kropotkin_1892.epub
 
-
 Id: kruger-01
 Type: media
 Media: DVD
@@ -11351,7 +11333,6 @@ Media: link
 Title: Guide to Prolog Programming
 Tags: toolsw, language, prolog, link
 Link: http://kti.mff.cuni.cz/~bartak/prolog/index.html
-
 
 Id: kuki-me-01
 Type: site
@@ -11578,7 +11559,6 @@ Tags: book, book, old:economy-01
 ASIN: 13581455
 Link: http://www.amazon.com/dp/1451654979
 
-
 Id: lanier-06
 Type: article
 Media: link
@@ -11692,7 +11672,6 @@ Publisher: Doubleday
 ISBN: 0385424973 
 Link: https://www.amazon.com/dp/0385424973/
 
-
 Id: learn-01
 Type: article
 Media: link
@@ -11761,14 +11740,12 @@ Publisher: Oped News
 Tags: article, old:opednews-01
 Link: http://www.opednews.com/articles/America-s-War-on-Food-Not-by-Stephen-Lendman-101009-275.html
 
-
 Id: leog-01
 Type: article
 Media: link
 Title: Ultra-Portables Forum - P1510 Linux Touch Screen Driver available.
 Tags: home, laptops, link
 Link: http://www.leog.net/fujp_forum/topic.asp?TOPIC_ID=9436
-
 
 Id: leonhardt-01
 Type: article
@@ -11809,14 +11786,12 @@ Date: 2015-10-20
 Tags: politics, culture, ted, biblio
 Link: https://www.youtube.com/watch?v=PJy8vTu66tE
 
-
 Id: lethimstay-01
 Type: article
 Media: link
 Title: Let Him Stay
 Tags: home, tofile, set1, link
 Link: http://www.lethimstay.com/
-
 
 Id: levenson-91
 Type: article
@@ -11931,7 +11906,6 @@ Publisher: Berrett-Koehler Publishers
 Tags: important
 ASIN: 13543038
 
-
 Id: lightningbikes-01
 Type: article
 Media: link
@@ -11997,7 +11971,6 @@ Media: link
 Title: Linux.com :: Media collection managers for Linux
 Tags: home, a/v, link, video, link
 Link: http://www.linux.com/archive/feature/127174?theme=print
-
 
 Id: linux-02
 Type: article
@@ -12206,7 +12179,6 @@ Publisher: Tom Doherty Associates
 Tags: biblio
 ASIN: 19264016
 
-
 Id: liu-02
 Type: media
 Media: video
@@ -12224,7 +12196,6 @@ Media: link
 Title: Online Talk Radio Station - Live365 Internet Radio - Grassroots InfoMedia
 Tags: home, 911, link
 Link: http://www.live365.com/stations/alfonslof
-
 
 Id: livescience-01
 Type: article
@@ -12325,7 +12296,6 @@ Media: site
 Title: Free Domain Owner Report - Check domain ownership, renewal dates, and DNS Servers
 Tags: folder, reference, link
 Link: http://lookup.ws/
-
 
 Id: lopez-01
 Type: book
@@ -12771,7 +12741,6 @@ Tags: biblio
 ISBN: 1935210122
 ASIN: 10160462
 
-
 Id: maloney-02
 Type: book
 Media: Paperback
@@ -12872,7 +12841,6 @@ Date: 2017-08-20
 Publisher: AZQuotes.com. Wind and Fly LTD, 2023
 Link: https://www.azquotes.com/quote/1276395
 AltLink: https://tinyurl.com/2p8rde7m+ https://web.archive.org/web/20170820041133/http://www.azquotes.com/quote/1276395
-
 
 Id: margulis-02
 Type: book
@@ -13125,7 +13093,6 @@ Publisher: Ten Speed Press
 ISBN: 0898153069
 Link: https://www.amazon.com/0898153069/
 
-
 Id: mccloskey-01
 Type: book
 Media: Paperback
@@ -13178,7 +13145,6 @@ Title: McSweeney's Internet Tendency
 Tags: culture, link
 Link: https://www.mcsweeneys.net/
 
-
 Id: mediacollege-01
 Type: media
 Media: video
@@ -13200,7 +13166,6 @@ Title: TED: How do you create a medical lab at nearly zero cost?
 Tags: ted, biblio
 Link: http://www.wimp.com/medicallab/
 
-
 Id: medium-01
 Type: article
 Media: link
@@ -13215,14 +13180,12 @@ Title: Coronavirus Act Today or People Will Die
 Tags: article
 Link: https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
-
 Id: medium-03
 Type: article
 Media: link
 Title: The Most Intolerant Wins: The Dictatorship of the Small Minority
 Tags: culture, link
 Link: https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15#.cq32okfgf
-
 
 Id: medium-04
 Type: article
@@ -13266,7 +13229,6 @@ Title: Applying the Linus Torvalds âGood Tasteâ Coding Requirement - M
 Tags: misc, link
 Link: https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a#.23t1w4fg7
 
-
 Id: medium-10
 Type: article
 Media: link
@@ -13280,7 +13242,6 @@ Media: link
 Title: My notes from Site Reliability Engineering Conference SRECon 2018, Santa Clara
 Tags: tools, link
 Link: https://medium.com/@ravindraprasad/lessons-from-site-reliability-engineering-conference-srecon-2018-santa-clara-2cdf637e4774
-
 
 Id: medium-12
 Type: article
@@ -13361,7 +13322,6 @@ Title: Light Sculpture - Bill Parker Studio Inc, Waitsfield VT 05673 -- Merchant
 Tags: home, tofile, set2010, link
 Link: http://www.merchantcircle.com/business/Bill.Parker.Studio.Inc.802-496-6645
 
-
 Id: merriam-webster-01
 Type: book
 Media: Ebook
@@ -13393,7 +13353,6 @@ Title: The Optimal Green Guide : MetaEfficient
 Tags: home, eco, link
 Link: http://www.metaefficient.com/
 
-
 Id: metavision-01
 Type: site
 Media: site
@@ -13415,7 +13374,6 @@ Media: link
 Title: Electric vehicles are reality
 Tags: home, electriccar, googlesearch, link
 Link: http://www.metricmind.com/ac_honda/main.htm
-
 
 Id: meyer-01
 Type: media
@@ -13462,7 +13420,6 @@ Media: link
 Title: EMail - Microsoft Outlook Web
 Tags: folder, trustedid, link
 Link: https://mi8owa.mi8.com/exchange/
-
 
 Id: michaelbach-01
 Type: article
@@ -13662,7 +13619,6 @@ Title: Recovering From Burnout - Stress Management From MindTools.com
 Tags: misc, link
 Link: https://www.mindtools.com/pages/article/recovering-from-burnout.htm
 
-
 Id: minnesota-publicradio-01
 Type: article
 Media: link
@@ -13742,7 +13698,6 @@ Publisher: NOLO
 Tags: biblio
 ISBN: 1413309569
 ASIN: 8231502
-
 
 Id: mitra-01
 Type: media
@@ -14529,7 +14484,6 @@ Title: Newegg.com - Buy Computer Parts, PC Components, Laptop Computers, Digital
 Tags: home, buy, link
 Link: http://www.newegg.com/
 
-
 Id: newegg-02
 Type: site
 Media: product
@@ -14868,7 +14822,6 @@ Title: TED: Jacqueline Novogratz: Inspiring a life of immersion
 Tags: ted, biblio
 Link: http://www.ted.com/talks/jacqueline_novogratz_inspiring_a_life_of_immersion.html
 
-
 Id: npr-02
 Type: article
 Media: link
@@ -14929,7 +14882,6 @@ Title: The Absolute Beginner's Guide to the New York Subway
 Tags: current, link
 Link: https://www.nycsubwayguide.com/subway/basics.aspx
 
-
 Id: nyfinancenews-01
 Type: article
 Media: link
@@ -14951,7 +14903,6 @@ Title: How to Grow a Better Tomato
 Tags: link
 Link: https://www.nytimes.com/2020/05/12/realestate/how-to-grow-a-better-tomato.html
 
-
 Id: nytimes-03
 Type: article
 Media: link
@@ -14959,14 +14910,12 @@ Title: Officials: Students in Alabama Threw COVID Contest Parties
 Tags: culture, article
 Link: https://www.nytimes.com/aponline/2020/07/02/us/ap-us-virus-outbreak-covid-parties-alabama-1st-ld-writethru.html
 
-
 Id: nytimes-04
 Type: article
 Media: link
 Title: To Fall in Love With Anyone, Do This - The New York Times
 Tags: culture, link
 Link: http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html?_r=0
-
 
 Id: nytimes-05
 Type: article
@@ -15096,7 +15045,6 @@ Author: O'Keefe, Richard A.
 Tags: biblio
 ISBN: 0262150395
 
-
 Id: o-keefe-02
 Type: media
 Media: video
@@ -15112,7 +15060,6 @@ Title: Managing UUCP and Usenet (A Nutshell Book)
 Author: O'Reilly, Tim
 Tags: biblio
 ISBN: 0937175935
-
 
 Id: o-reillynet-01
 Type: article
@@ -15239,7 +15186,6 @@ Author: Oliver, John
 Tags: politics, video, old:youtube-151
 Link: https://www.youtube.com/watch?v=Wf4cea5oObY
 
-
 Id: oliver-03
 Type: media
 Media: video
@@ -15247,7 +15193,6 @@ Title: Sex Education: Last Week Tonight with John Oliver (HBO)
 Author: Oliver, John
 Tags: video, old:youtube-075
 Link: https://www.youtube.com/watch?v=L0jQz6jqQS0&amp;t=35s
-
 
 Id: olson-01
 Type: media
@@ -15259,7 +15204,6 @@ Publisher: TEDxCambridge
 Tags: politics, ted, biblio
 Link: https://www.youtube.com/watch?v=EC3L2lSSONQ
 
-
 Id: olson-02
 Type: site
 Media: site
@@ -15269,7 +15213,6 @@ Date: 2016-06-09
 Link: https://bdistricting.com/2020/
 AltLink: https://tinyurl.com/mr2uvyju+ https://bdistricting.com/2010/ https://web.archive.org/web/20110501175732/http://bdistricting.com/2010/ https://web.archive.org/web/20240602044234/https://bdistricting.com/2020/
 
-
 Id: omarahmad-01
 Type: site
 Media: site
@@ -15277,7 +15220,6 @@ Title: Omar
 Tags: home, per, link
 Link: http://www.omarahmad.com/
 AltLink: https://web.archive.org/web/20050211052942/http://www.omarahmad.com/
-
 
 Id: omgubuntu-01
 Type: article
@@ -15307,14 +15249,12 @@ Title: The Solution to Information Overload Can't Be More Information
 Tags: culture, article
 Link: https://onezero.medium.com/all-information-is-shit-26eb7bc8be76
 
-
 Id: onezero-medium-03
 Type: article
 Media: link
 Title: The Internet's Phone Book Is Broken - OneZero
 Tags: tools, link
 Link: https://onezero.medium.com/the-internets-phone-book-is-broken-9fcdd6ca726b
-
 
 Id: onlamp-01
 Type: article
@@ -15369,7 +15309,6 @@ Tags: misc, music, link, site, link
 Link: https://openai.com/blog/jukebox/
 AltLink: https://tinyurl.com/2p93m7m6+ https://web.archive.org/web/20231107224823/https://openai.com/research/jukebox
 
-
 Id: openai-pricing-03
 Type: article
 Media: link
@@ -15377,7 +15316,6 @@ Title: OpenAI Pricing
 Date: 2023-11-07
 Link: https://openai.com/pricing
 AltLink: https://tinyurl.com/2b5tybxk+ https://web.archive.org/web/20231107222949/https://openai.com/pricing
-
 
 Id: openfilm-01
 Type: media
@@ -15711,7 +15649,6 @@ Title: Evaporator Fan Grommet - Red WR02X12008; Official GE Part; Fast Shipping;
 Tags: current, link
 Link: https://www.partselect.com/PS963756-GE-WR02X12008-Evaporator-Fan-Grommet-Red.htm?SourceCode=1&amp;SearchTerm=GTE16GTHHRWW&amp;ModelNum=GTE16GTHHRWW
 
-
 Id: partselect-02
 Type: article
 Media: link
@@ -15812,7 +15749,6 @@ Media: link
 Title: Bill Moyers Journal . Transcripts; PBS
 Tags: home, change, link
 Link: http://www.pbs.org/moyers/journal/04302010/transcript5.html
-
 
 Id: pbs-04
 Type: article
@@ -15998,7 +15934,6 @@ Title: PDQ Software Distribution
 Tags: toolsw, qa, performance, link
 Link: http://www.perfdynamics.com/Tools/PDQcode.html
 
-
 Id: perform-01
 Type: media
 Media: video
@@ -16012,7 +15947,6 @@ Media: link
 Title: Perl.com: Object Oriented Exception Handling in Perl
 Tags: toolsw, language, perl, link
 Link: http://www.perl.com/lpt/a/690
-
 
 Id: perldoc-perl-01
 Type: article
@@ -16182,7 +16116,6 @@ Title: Pidgin-Encryption
 Tags: home, make, crypt, link
 Link: http://pidgin-encrypt.sourceforge.net/
 
-
 Id: piff-01
 Type: media
 Media: video
@@ -16215,7 +16148,6 @@ Title: TED: Steven Pinker: On The Myth Of Violence
 Tags: ted, biblio
 Link: http://www.ted.com/talks/steven_pinker_on_the_myth_of_violence.html
 
-
 Id: pinklabel-01
 Type: media
 Media: video
@@ -16223,11 +16155,10 @@ Title: CRAFTWORKS: 6 Practical Tips for Shooting Porn
 Tags: video, link
 Link: https://www.pinklabel.tv/on-demand/6-practical-tips-for-shooting-porn-by-jennifer-lyon-bell/
 
-
 Id: pinklabel-02
 Type: media
 Media: video
-Title: Putting the âMenâ in Femenist Porn
+Title: Putting the Men in Femenist Porn
 Tags: video, link
 Link: https://www.pinklabel.tv/on-demand/putting-the-men-in-femenist-porn/
 
@@ -16248,7 +16179,6 @@ Publisher: HarperTorch
 Tags: important
 ISBN: 0060589469
 ASIN: 1008
-
 
 Id: piven-01
 Type: book
@@ -16436,7 +16366,6 @@ Publisher: Vintage
 Tags: important
 Link: https://www.amazon.com/dp/B004ZZJBW4/
 
-
 Id: postman-02
 Type: book
 Media: Ebook
@@ -16463,7 +16392,6 @@ Title: Heavy Metal (Collector's Edition)
 Author: Potterton, Gerald
 Tags: biblio
 ISBN: 0767836316
-
 
 Id: pournelle-01
 Type: book
@@ -16934,7 +16862,6 @@ Tags: article
 Link: https://moria.whyayh.com/essay/swarm.html
 AltLink: https://tinyurl.com/48vh7ews+ https://web.archive.org/web/20240511202112/https://moria.whyayh.com/essay/swarm.html
 
-
 Id: rafnel-03
 Type: article
 Media: link
@@ -16953,7 +16880,6 @@ Author: Rafnel, Bruce
 Date: 2015-07-08
 Link: https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/
 AltLink: https://tinyurl.com/2xfpjat9+ https://web.archive.org/web/20240711202147/https://slowengineering.wordpress.com/2015/07/08/planned-obsolescence-in-software/
-
 
 Id: rafnel-05
 Type: article
@@ -17040,7 +16966,6 @@ Media: link
 Title: plan_basic_big.gif (GIF Image, 756x755 pixels)
 Tags: home, tofile, set4, link
 Link: http://www.ras.ucalgary.ca/CGPS/where/plan/plan_basic_big.gif
-
 
 Id: ratical-01
 Type: site
@@ -17305,14 +17230,12 @@ Date: 2024-02-10
 Publisher: Re/Culture
 Link: https://www.skool.com/reculture-education
 
-
 Id: redbooks-ibm-01
 Type: article
 Media: link
 Title: IBM Redbooks; Using Rational Performance Tester Version 7
 Tags: folder, trustedid, perf, link
 Link: http://www.redbooks.ibm.com/redpieces/abstracts/SG247391.html?Open
-
 
 Id: reddit-01
 Type: article
@@ -17703,7 +17626,6 @@ Title: TED: Jeremy Rifkin: On The Empathic Civilization
 Tags: ted, biblio
 Link: http://www.ted.com/talks/jeremy_rifkin_on_the_empathic_civilization.html
 
-
 Id: ringinator-01
 Type: site
 Media: site
@@ -17725,7 +17647,6 @@ Title: Mary Roach: 10 things you didn't know about orgasm
 Author: Roach, Mary
 Tags: video, old:youtube-013
 Link: http://www.youtube.com/watch?v=7jx0dTYUO5E
-
 
 Id: robbins-01
 Type: media
@@ -17765,7 +17686,6 @@ ISBN: 0757300642
 Link: https://www.amazon.com/dp/0757300642
 AltLink: https://tinyurl.com/2p9radrm+ https://web.archive.org/web/20030413094453/http://www.mysoulsaidtome.com/index.php
 
-
 Id: robertson-01
 Type: media
 Media: video
@@ -17780,7 +17700,6 @@ Media: video
 Title: TED: Ken Robinson says schools kill creativity
 Tags: ted, biblio
 Link: http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html
-
 
 Id: robinson-02
 Type: media
@@ -17845,7 +17764,6 @@ Publisher: Publisher Unknown
 Tags: biblio
 ASIN: 23964225
 
-
 Id: rollingjubilee-01
 Type: site
 Media: site
@@ -17885,7 +17803,6 @@ Media: site
 Title: Home - Roots &amp; Shoots : Engaging and empowering youth with service learning projects.
 Tags: home, change, ted, link
 Link: http://www.rootsandshoots.org/
-
 
 Id: rose-01
 Type: media
@@ -17931,7 +17848,6 @@ Author: Rothemund, Paul
 Tags: video, old:ted-25
 Link: http://www.ted.com/talks/paul_rothemund_details_dna_folding.html
 
-
 Id: rowe-01
 Type: media
 Media: video
@@ -17945,7 +17861,6 @@ Media: video
 Title: Royalty Free: The Music of Kevin MacLeod - A Documentary On One Composer, Thousands of Songs, Millions of Videos, and Billions of Views
 Tags: video, link
 Link: http://www.royaltyfreedoc.com/
-
 
 Id: rpm-pbone-01
 Type: article
@@ -18063,7 +17978,6 @@ Title: wimp: Impressive Russian balalaika playing.
 Tags: video
 Link: http://www.wimp.com/russianbalalaika/
 
-
 Id: rust-lang-01
 Type: site
 Media: site
@@ -18174,7 +18088,6 @@ Title: Untitled Document
 Tags: home, tofile, set2010, link
 Link: http://sambakza.net/amalloc/tteotta_main.htm
 
-
 Id: sandel-01
 Type: media
 Media: video
@@ -18190,7 +18103,6 @@ Author: Sanders, Bernie
 Date: 2010-12-02
 Tags: video, old:youtube-035
 Link: http://www.youtube.com/watch?v=Tq1zpHF0J04&amp;feature=related
-
 
 Id: sanders-02
 Type: media
@@ -18337,7 +18249,6 @@ Title: Allan Savory: How to green the world's deserts and reverse climate change
 Author: Savory, Allan
 Tags: video, old:ted-05
 Link: http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html
-
 
 Id: savory-global-01
 Type: site
@@ -18568,7 +18479,6 @@ Title: Slashdot; Cassini Probes the Hexagon On Saturn
 Tags: home, electricuniverse, link
 Link: http://science.slashdot.org/article.pl?sid=07/03/27/203205
 
-
 Id: science-slashdot-03
 Type: article
 Media: link
@@ -18663,7 +18573,6 @@ Media: video
 Title: Screenplain
 Tags: video, link
 Link: http://www.screenplain.com/
-
 
 Id: scripps-01
 Type: site
@@ -18791,7 +18700,6 @@ Publisher: Counter Currents
 Tags: home, change, link
 Link: http://www.countercurrents.org/mickeyz240209.htm
 
-
 Id: selfcare-bcgi-01
 Type: article
 Media: link
@@ -18832,7 +18740,6 @@ Title: How to run a company with (almost) no rules
 Author: Semler, Ricardo
 Date: 2014
 Link: https://www.ted.com/talks/ricardo_semler_how_to_run_a_company_with_almost_no_rules
-
 
 Id: serverfault-01
 Type: article
@@ -18898,14 +18805,12 @@ Author: Shane, Janelle
 Tags: video, old:youtube-080
 Link: https://www.youtube.com/watch?v=OhCzX0iLnOc
 
-
 Id: shareable-01
 Type: site
 Media: site
 Title: Shareable
 Tags: culture, link
 Link: http://www.shareable.net/
-
 
 Id: shareable-02
 Type: article
@@ -18927,6 +18832,17 @@ Media: link
 Title: How to Welcome and Engage People in Community Spaces - Shareable
 Tags: culture, link
 Link: https://www.shareable.net/blog/how-to-welcome-and-engage-people-in-community-spaces
+
+Id: sharp-01
+Type: book
+Media: Ebook
+Title: From Dictatorship to Democracy
+Subtitle: A Conceptual Framework for Liberation
+Authors: Sharp, Gene
+Publisher: The New Press
+Date: 2012-09-04
+Link: https://www.amazon.com/dp/B008FZWOJC/
+AltLink: https://tinyurl.com/2ndjrr3a+ https://syllabus.pirate.care/library/Gene%20Sharp/From%20Dictatorship%20to%20Democracy_%20A%20Conceptual%20Framework%20for%20Liberation%20(432)/From%20Dictatorship%20to%20Democracy_%20A%20Conceptu%20-%20Gene%20Sharp.epub
 
 Id: shatner-01
 Type: media
@@ -18962,7 +18878,6 @@ Title: Banned TED talk: Dr. Rupert Sheldrake
 Tags: ted, video
 Link: https://www.youtube.com/watch?v=JKHUaNAxsTg
 
-
 Id: sheldrake-03
 Type: book
 Media: Ebook
@@ -18972,7 +18887,6 @@ Date: 2009
 Publisher: Inner Traditions/Bear & Company
 Tags: important
 ASIN: 207304
-
 
 Id: sheldrake-04
 Type: book
@@ -19027,7 +18941,6 @@ Publisher: Simple Productions
 Tags: biblio
 ASIN: 619464
 
-
 Id: sher-01
 Type: book
 Media: Paperback
@@ -19072,7 +18985,6 @@ Media: video
 Title: TED: Clay Shirky: Institutions vs. collaboration
 Tags: ted, biblio
 Link: http://www.ted.com/index.php/talks/clay_shirky_on_institutions_versus_collaboration.html
-
 
 Id: shopgoodwill-01
 Type: article
@@ -19176,7 +19088,6 @@ Media: link
 Title: SEC - open source and platform independent event correlation tool
 Tags: toolsw, security, link
 Link: http://simple-evcorr.sourceforge.net/
-
 
 Id: simpletoy-01
 Type: media
@@ -19393,7 +19304,6 @@ Publisher: Progressive Pr
 Tags: important
 Link: http://www.amazon.com/dp/161577484X
 
-
 Id: smith-05
 Type: article
 Media: link
@@ -19451,7 +19361,6 @@ Media: site
 Title: Standard ML of New Jersey
 Tags: toolsw, language, ml, link
 Link: http://www.smlnj.org/
-
 
 Id: snaptron-01
 Type: site
@@ -19829,7 +19738,6 @@ Title: Satellite Services Division - GOES Floater Water Vapor Loop
 Tags: home, tofile, set4, link
 Link: http://www.ssd.noaa.gov/PS/TROP/DATA/RT/float-wv-loop.html
 
-
 Id: ssed-gsfc-nasa-01
 Type: article
 Media: link
@@ -19985,7 +19893,6 @@ Title: This Thing We Call Sex
 Author: Steinberg, David
 Tags: book, book
 Link: http://www.amazon.com/dp/1620156911/
-
 
 Id: stephen-01
 Type: book
@@ -20156,7 +20063,6 @@ Title: STOP GDP; Count wealth not money
 Tags: culture, link
 Link: http://stop-gdp.org/
 
-
 Id: stopglobalwarming-01
 Type: article
 Media: link
@@ -20287,7 +20193,6 @@ Media: site
 Title: Subsonic: Free Music Streamer
 Tags: home, a/v, link, video, link
 Link: http://subsonic.sourceforge.net/index.php
-
 
 Id: subversion-tigris-01
 Type: article
@@ -20432,14 +20337,12 @@ Title: A Planet for the Taking (series) by David Suzuki
 Tags: video
 Link: https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html
 
-
 Id: svk-bestpractical-01
 Type: site
 Media: site
 Title: HomePage - SVK Wiki
 Tags: toolsw, other, link
 Link: http://svk.bestpractical.com/view/HomePage
-
 
 Id: svn-01
 Type: site
@@ -20570,7 +20473,6 @@ Title: Tamera Manifesto
 Tags: article
 Link: http://www.tamera.org/manifesto/
 
-
 Id: tamera-03
 Type: site
 Media: org
@@ -20579,7 +20481,6 @@ Date: 2024-03-23
 Tags: organization, organization, biblio
 Link: https://www.tamera.org/
 AltLink: https://tinyurl.com/bdhhkdpz+ https://web.archive.org/web/20240323022225/https://www.tamera.org/
-
 
 Id: tan-01
 Type: article
@@ -20590,7 +20491,6 @@ Date: 2024-09-04
 Publisher: New York Times
 Link: https://www.nytimes.com/2024/09/04/technology/internet-archive-appeals-court-ruling.html
 AltLink: https://tinyurl.com/bdfpm25h+ https://web.archive.org/web/20240904220845/https://www.nytimes.com/2024/09/04/technology/internet-archive-appeals-court-ruling.html/
-
 
 Id: tantra-gaymen-01
 Type: article
@@ -20657,7 +20557,6 @@ Media: site
 Title: TD Waterhouse - You're in Control with 150 branches nationwide
 Tags: home, tofile, set2, link
 Link: http://www.tdwaterhouse.com/
-
 
 Id: tealswan-01
 Type: site
@@ -20743,7 +20642,6 @@ Title: The Curious Link Between the Fly-By Anomaly and the 'Impossible' EmDrive 
 Tags: science, link
 Link: https://www.technologyreview.com/s/601299/the-curious-link-between-the-fly-by-anomaly-and-the-impossible-emdrive-thruster/
 
-
 Id: techreport-01
 Type: article
 Media: link
@@ -20807,7 +20705,6 @@ Title: Dan Pallotta: The way we think about charity is dead wrong
 Tags: video
 Link: http://www.ted.com/talks/dan_pallotta_the_way_we_think_about_charity_is_dead_wrong.html&quot;
 
-
 Id: ted-09
 Type: media
 Media: video
@@ -20815,14 +20712,12 @@ Title: Our story of rape and reconciliation
 Tags: culture, video, old:ted-32
 Link: https://www.ted.com/talks/thordis_elva_and_tom_stranger_our_story_of_rape_and_reconciliation
 
-
 Id: ted-10
 Type: media
 Media: video
 Title: Who controls the world?
 Tags: video, old:ted-47
 Link: https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world
-
 
 Id: teenautoclub-01
 Type: site
@@ -20876,7 +20771,6 @@ Media: site
 Title: That Boy Good BBQ!
 Tags: restaurant, oceanside, link
 Link: http://thatboygoodbbq.com/
-
 
 Id: the-declaration-01
 Type: site
@@ -21273,7 +21167,6 @@ Title: THUNDERPOLE - Choosing your C.B. Antenna
 Tags: home, cb, link
 Link: http://www.thunderpole.co.uk/4x4_what_is_swr.htm
 
-
 Id: thurman-01
 Type: media
 Media: video
@@ -21554,14 +21447,12 @@ Title: This Overlooked Variable Is the Key to the Pandemic
 Tags: covid, science, article
 Link: https://medium.com/the-atlantic/this-overlooked-variable-is-the-key-to-the-pandemic-e71fe9bcb315
 
-
 Id: tulley-01
 Type: media
 Media: video
 Title: 5 Dangerous Things You Should Let Your Children Do: Gever Tulley at TEDxMidwest
 Tags: ted, biblio
 Link: http://www.youtube.com/watch?v=NXhddUqNNjo
-
 
 Id: tulley-02
 Type: media
@@ -21570,14 +21461,12 @@ Title: The most important lesson from 83,000 brain scans: Daniel Amen at TEDxOra
 Tags: ted, biblio
 Link: http://www.youtube.com/watch?v=esPRsT-lmw8
 
-
 Id: tulley-03
 Type: media
 Media: video
 Title: Undoing aging: Aubrey de Grey at TEDxDanubia 2013
 Tags: ted, biblio
 Link: http://www.youtube.com/watch?v=qMAwnA5WvLc
-
 
 Id: tulley-04
 Type: book
@@ -21588,7 +21477,6 @@ Date: 2011
 Publisher: Penguin Publishing Group
 Tags: biblio
 ASIN: 9436338
-
 
 Id: tumbleweed-01
 Type: article
@@ -21643,7 +21531,6 @@ Tags: biblio
 ISBN: 0451464818
 ASIN: 12595909
 
-
 Id: twitch-01
 Type: article
 Media: link
@@ -21691,7 +21578,6 @@ Title: Why Bluetooth is a Bad Idea for Drone Remote Identification - uAvionix
 Tags: video, drone, link, video
 Link: https://uavionix.com/drone-remote-identification/
 
-
 Id: ubuntu-01
 Type: article
 Media: link
@@ -21719,7 +21605,6 @@ Media: link
 Title: Amazon Web Services (AWS) Certified - 4 Certifications!; Udemy
 Tags: current, set2019, link
 Link: https://www.udemy.com/aws-certified-associate-architect-developer-sysops-admin/learn/v4/t/lecture/9829442?start=0
-
 
 Id: udemy-02
 Type: article
@@ -22100,7 +21985,6 @@ Tags: important
 ISBN: 0374272360
 ASIN: 16238926
 
-
 Id: varoufakis-02
 Type: media
 Media: video
@@ -22121,7 +22005,6 @@ Edition: Reissue
 Tags: biblio
 ISBN: 0199539162
 ASIN: 58987
-
 
 Id: vawt-01
 Type: article
@@ -22309,7 +22192,6 @@ Title: Penrose-Hameroff Orch OR theory - quantum consciousness
 Tags: video
 Link: http://video.google.com/videoplay?docid=-2069501759514424839#
 
-
 Id: video-google-05
 Type: media
 Media: video
@@ -22330,7 +22212,6 @@ Media: video
 Title: Just true - This video was banned in Congress
 Tags: video
 Link: http://www.wimp.com/videobanned/
-
 
 Id: videosift-01
 Type: media
@@ -22359,7 +22240,6 @@ Media: video
 Title: John Holser's Story on Vimeo
 Tags: video, link
 Link: https://vimeo.com/173905818
-
 
 Id: vimeo-03
 Type: media
@@ -22645,7 +22525,6 @@ Title: Whiskey Dick's Bar in South Lake Tahoe
 Tags: home, per, link
 Link: http://wdslt.com/
 
-
 Id: weakdh-01
 Type: article
 Media: link
@@ -22844,7 +22723,6 @@ Title: Weird life - How slugs mate
 Tags: video
 Link: http://www.wimp.com/weirdlife/
 
-
 Id: weiss-01
 Type: book
 Media: Ebook
@@ -22965,7 +22843,6 @@ Title: Wheel of Death: Cirque du Soleil.
 Tags: video
 Link: http://www.wimp.com/wheeldeath/
 
-
 Id: wheredidthetowersgo-01
 Type: site
 Media: site
@@ -22993,7 +22870,6 @@ Date: 2016
 Publisher: Knopf Canada
 Tags: biblio
 ASIN: 17389007
-
 
 Id: white-02
 Type: article
@@ -23839,7 +23715,6 @@ Publisher: Fortress Press
 Tags: biblio
 ASIN: 835992
 
-
 Id: winlink-01
 Type: site
 Media: site
@@ -23917,7 +23792,6 @@ Date: 2015
 Publisher: Perie Wolford
 Tags: biblio
 ASIN: 16413881
-
 
 Id: wolpe-01
 Type: media
@@ -24026,14 +23900,12 @@ Title: TED: Work life balance is an ongoing battle
 Tags: ted, biblio
 Link: http://www.wimp.com/worklife/
 
-
 Id: worktolive-01
 Type: article
 Media: link
 Title: Work to Live: The Guide to getting a life.
 Tags: home, job, link
 Link: http://www.worktolive.info/poen_vaca.html
-
 
 Id: world-01
 Type: site
@@ -24107,7 +23979,6 @@ Title: iO Tillett Wright: Fifty shades of gay
 Author: Wright, Tillett
 Tags: video, old:ted-13
 Link: http://www.ted.com/talks/io_tillett_wright_fifty_shades_of_gay.html
-
 
 Id: wrixon-01
 Type: book
@@ -24431,14 +24302,12 @@ Title: 20 Machines for a DIY Civilization
 Tags: organization, organization, biblio
 Link: http://www.yesmagazine.org/new-economy/20-machines-for-diy-civilization-open-source-ecology?utm_source=YTW&amp;utm_medium=Email&amp;utm_campaign=20150109
 
-
 Id: yesofcourse-01
 Type: article
 Media: link
 Title: Nextel Motorola Cell Phone Accessories i1000, i90, i95, charger, battery, hands free, kits, cellular
 Tags: home, tofile, set1, link
 Link: http://www.yesofcourse.com/
-
 
 Id: yesworld-01
 Type: article
@@ -24494,7 +24363,6 @@ Title: Dads Who Probably Won't Be Left Alone With Their Kids Again
 Tags: video
 Link: https://youtu.be/MCVgUOCqG9s?t=445
 
-
 Id: youtube-001
 Type: media
 Media: video
@@ -24502,7 +24370,6 @@ Title: The Bomb in the Brain
 Subtitle: The True Roots of Human Violence
 Tags: video
 Link: http://www.youtube.com/playlist?list=PLB3F2CF45EEB95C80&amp;feature=plcp
-
 
 Id: youtube-003
 Type: media
@@ -24525,7 +24392,6 @@ Title: Amazing dancer
 Tags: video
 Link: http://www.youtube.com/watch?feature=player_embedded&amp;v=RM2Aio9mvNE#!
 
-
 Id: youtube-007
 Type: media
 Media: video
@@ -24539,7 +24405,6 @@ Media: video
 Title: Flight 405
 Tags: video
 Link: http://www.youtube.com/watch?v=7_ITIlPvcm0
-
 
 Id: youtube-014
 Type: media
@@ -24570,7 +24435,6 @@ Title: The Most IMPORTANT Video You'll Ever See (part 1 of 8)
 Tags: video
 Link: http://www.youtube.com/watch?v=F-QA2rkpBSY
 
-
 Id: youtube-019
 Type: media
 Media: video
@@ -24592,7 +24456,6 @@ Title: The Revolution Will Not Be Televised -- Chavez The Coup
 Tags: video
 Link: http://www.youtube.com/watch?v=Id--ZFtjR5c
 
-
 Id: youtube-028
 Type: media
 Media: video
@@ -24606,7 +24469,6 @@ Media: video
 Title: trance-formation
 Tags: video
 Link: http://www.youtube.com/watch?v=Q0PykgS42wo
-
 
 Id: youtube-032
 Type: media
@@ -24672,7 +24534,6 @@ Title: Printrbot, Video of our printer in action
 Tags: video
 Link: http://www.youtube.com/watch?v=g75yPbFxXlM
 
-
 Id: youtube-046
 Type: media
 Media: video
@@ -24700,7 +24561,6 @@ Media: video
 Title: How Rich Men Think and Act - the secret why they become richer and richer
 Tags: video
 Link: http://www.youtube.com/watch?v=oqnG0fzqfWQ
-
 
 Id: youtube-053
 Type: media
@@ -24737,14 +24597,12 @@ Title: The Private Life of Chickens
 Tags: video
 Link: https://www.youtube.com/watch?v=1c06xOF4uQ8
 
-
 Id: youtube-063
 Type: media
 Media: video
 Title: Be My Eyes - Bringing Sight to Blind and Low Vision People
 Tags: video
 Link: https://www.youtube.com/watch?v=6GRfFuWsjNU
-
 
 Id: youtube-064
 Type: media
@@ -24753,14 +24611,12 @@ Title: There's Something You Don't Know About Sex - Orgasm Without Contact
 Tags: video
 Link: https://www.youtube.com/watch?v=6frY10FLh8g
 
-
 Id: youtube-065
 Type: media
 Media: video
 Title: Moore's Law graphed vs real CPUs &amp; GPUs 1965 - 2019
 Tags: video
 Link: https://www.youtube.com/watch?v=7uvUiq_jTLM
-
 
 Id: youtube-066
 Type: media
@@ -24769,14 +24625,12 @@ Title: Joaquin Phoenix Accepts the Oscar for Lead Actor
 Tags: video
 Link: https://www.youtube.com/watch?v=87zXvSCmSYk
 
-
 Id: youtube-067
 Type: media
 Media: video
 Title: Why Machines That Bend Are Better
 Tags: video
 Link: https://www.youtube.com/watch?v=97t7Xj_iBv0
-
 
 Id: youtube-068
 Type: media
@@ -24785,14 +24639,12 @@ Title: The Body Is Not An Apology
 Tags: video
 Link: https://www.youtube.com/watch?v=B7lKPdh_y-8
 
-
 Id: youtube-069
 Type: media
 Media: video
 Title: 5 Deadly Mistakes To Avoid When Raising Chickens
 Tags: video
 Link: https://www.youtube.com/watch?v=EBBwcQ_DBnc
-
 
 Id: youtube-070
 Type: media
@@ -24801,14 +24653,12 @@ Title: Elephant Seal pup
 Tags: video
 Link: https://www.youtube.com/watch?v=HJlBWYtNVc4
 
-
 Id: youtube-071
 Type: media
 Media: video
 Title: Honest Government Ad; Coronavirus: Flatten The Curve
 Tags: video
 Link: https://www.youtube.com/watch?v=Hks6Nq7g6P4&amp;app=desktop
-
 
 Id: youtube-072
 Type: media
@@ -24818,14 +24668,12 @@ Date: 2012
 Tags: video
 Link: https://www.youtube.com/watch?v=IDgDWbQtlKI
 
-
 Id: youtube-073
 Type: media
 Media: video
 Title: My Mom Uses Ring Cam to Order Her Chickens Back Inside
 Tags: video
 Link: https://www.youtube.com/watch?v=INuI6oWfhFo
-
 
 Id: youtube-077
 Type: media
@@ -24834,14 +24682,12 @@ Title: citizen four - Snowden documentary 2014 Academy Award
 Tags: video
 Link: https://www.youtube.com/watch?v=NRzDsxUOm4M
 
-
 Id: youtube-078
 Type: media
 Media: video
 Title: Charmian Gooch: Meet global corruption's hidden players
 Tags: video
 Link: https://www.youtube.com/watch?v=Nhx1_yXMwCg
-
 
 Id: youtube-079
 Type: media
@@ -24850,14 +24696,12 @@ Title: The Great Realisation
 Tags: video
 Link: https://www.youtube.com/watch?v=Nw5KQMXDiM4&amp;t=1s
 
-
 Id: youtube-082
 Type: media
 Media: video
 Title: Flashmob Carmina Burana
 Tags: video
 Link: https://www.youtube.com/watch?v=PJNp5UKRtbQ
-
 
 Id: youtube-083
 Type: media
@@ -24866,14 +24710,12 @@ Title: Beginners Guide To Raising BACKYARD CHICKENS
 Tags: video
 Link: https://www.youtube.com/watch?v=RP4Eb_0hMOs
 
-
 Id: youtube-084
 Type: media
 Media: video
 Title: 6 Advanced Ancient Inventions We Still Can't Figure Out
 Tags: video
 Link: https://www.youtube.com/watch?v=RlgbKU9mgJA
-
 
 Id: youtube-086
 Type: media
@@ -24889,14 +24731,12 @@ Title: How did we measure the fastest speed there is?; The History of the Speed 
 Tags: video
 Link: https://www.youtube.com/watch?v=V7PU1WN9jWY
 
-
 Id: youtube-089
 Type: media
 Media: video
 Title: lexxtex - 293 - The hidden secret of the great pyramids construction uncovered
 Tags: video
 Link: https://www.youtube.com/watch?v=YTgxGJfXRQ0
-
 
 Id: youtube-091
 Type: media
@@ -24905,7 +24745,6 @@ Title: The Unusual Earth Orbit Circling Above Our Ancient Past
 Tags: video
 Link: https://www.youtube.com/watch?v=_HytJn6uaRk
 
-
 Id: youtube-092
 Type: media
 Media: video
@@ -24913,14 +24752,12 @@ Title: I Wish I Would Have Known That Before Chickens
 Tags: video
 Link: https://www.youtube.com/watch?v=_a--l_SW9us
 
-
 Id: youtube-093
 Type: media
 Media: video
 Title: Chrystia Freeland: The rise of the new global super-rich
 Tags: video
 Link: https://www.youtube.com/watch?v=d6NKdnZvdoo
-
 
 Id: youtube-094
 Type: media
@@ -24930,14 +24767,12 @@ Subtitle: What Do You Do With Extra Roosters?
 Tags: video
 Link: https://www.youtube.com/watch?v=e2folxLqFGQ
 
-
 Id: youtube-096
 Type: media
 Media: video
 Title: Do you need to be a Dick to be a good leader.
 Tags: video
 Link: https://www.youtube.com/watch?v=gRRvjZ_XNog&amp;t=355s
-
 
 Id: youtube-097
 Type: media
@@ -24946,14 +24781,12 @@ Title: Building the Perfect Squirrel Proof Bird Feeder
 Tags: video
 Link: https://www.youtube.com/watch?v=hFZFjoX2cGg
 
-
 Id: youtube-098
 Type: media
 Media: video
 Title: Dog and Cat: Obstacle Challenge
 Tags: video
 Link: https://www.youtube.com/watch?v=liy0afJ8Gzw
-
 
 Id: youtube-099
 Type: media
@@ -24962,14 +24795,12 @@ Title: Understanding Don Scott's Birkeland Current Model
 Tags: video
 Link: https://www.youtube.com/watch?v=mburLnMO4_I
 
-
 Id: youtube-100
 Type: media
 Media: video
 Title: Top Reasons NOT to get Chickens - Backyard Chickens
 Tags: video
 Link: https://www.youtube.com/watch?v=n1P4gRHOAZ0
-
 
 Id: youtube-101
 Type: media
@@ -24978,14 +24809,12 @@ Title: Best of Robin Williams &amp; Billy Crystal Together
 Tags: video
 Link: https://www.youtube.com/watch?v=o4LuyzLpOLw
 
-
 Id: youtube-102
 Type: media
 Media: video
 Title: This equation will change how you see the world (the logistic map)
 Tags: video
 Link: https://www.youtube.com/watch?v=ovJcsL7vyrk&amp;t=41s
-
 
 Id: youtube-105
 Type: media
@@ -24994,14 +24823,12 @@ Title: How the Nuclear Family Broke Down
 Tags: video
 Link: https://www.youtube.com/watch?v=sd9d5z7idyQ
 
-
 Id: youtube-106
 Type: media
 Media: video
 Title: Deep Learning - threatens service jobs
 Tags: video
 Link: https://www.youtube.com/watch?v=t4kyRyKyOpo
-
 
 Id: youtube-107
 Type: media
@@ -25018,14 +24845,12 @@ Title: Bakery Secrets for great homemade bread
 Tags: video
 Link: https://www.youtube.com/watch?v=tj7Sfu3IuYs&amp;t=712s
 
-
 Id: youtube-110
 Type: media
 Media: video
 Title: Compress Air with No Moving Parts! - Trompe
 Tags: video
 Link: https://www.youtube.com/watch?v=uvf0lD5xzH0
-
 
 Id: youtube-114
 Type: media
@@ -25034,14 +24859,12 @@ Title: 15 Simple Life Hacks
 Tags: video
 Link: https://www.youtube.com/watch?x-yt-cl=84503534&amp;v=0Oa7S2wCGLU&amp;x-yt-ts=1421914688
 
-
 Id: youtube-115
 Type: media
 Media: video
 Title: Building the X1 Orgasmatron Toy
 Tags: broken, link
 Link: https://www.youtube.com/watch?v=HcIkTsMy9Lk&amp;index=11&amp;list=PLeokm7v4leOFVHqEvlqr5HmBp8CMegsP8
-
 
 Id: youtube-116
 Type: media
@@ -25064,14 +24887,12 @@ Title: Unbroken Ground; A New Old Way to Grow Food
 Tags: culture, video
 Link: https://www.youtube.com/watch?v=3Ezkp7Cteys
 
-
 Id: youtube-119
 Type: media
 Media: video
 Title: COVID 19 EXPOSES OUR TRUE POWER (featuring Charles Eisenstein)
 Tags: culture, video
 Link: https://www.youtube.com/watch?v=Ev_CJW-VoUI
-
 
 Id: youtube-120
 Type: media
@@ -25080,7 +24901,6 @@ Title: The Inventor; Tomfoolery
 Tags: culture, video
 Link: https://www.youtube.com/watch?v=LwpDiW8npmM
 
-
 Id: youtube-121
 Type: media
 Media: video
@@ -25088,14 +24908,12 @@ Title: Ex-Cop Explains Why 'Good Apples' Are Rare
 Tags: culture, video
 Link: https://www.youtube.com/watch?v=dilkebPTsYI
 
-
 Id: youtube-122
 Type: media
 Media: video
 Title: Fmr. Seattle Police Chief: Police Culture Toxic; Amanpour and Company
 Tags: culture, video
 Link: https://www.youtube.com/watch?v=oSxelzX8kmU
-
 
 Id: youtube-123
 Type: media
@@ -25105,14 +24923,12 @@ Subtitle: How It Works And How To Fix It
 Tags: engineering, video
 Link: https://www.youtube.com/watch?v=F-jOBxn1w1I
 
-
 Id: youtube-124
 Type: media
 Media: video
 Title: Something is Definitely Happening on the Moon...
 Tags: eu, strange, video
 Link: https://www.youtube.com/watch?v=0VkK3NB9t2U
-
 
 Id: youtube-125
 Type: media
@@ -25121,14 +24937,12 @@ Title: How to Season Steak Experiment - When to Salt Your Steaks, INCREDIBLE!
 Tags: food, recipe, video
 Link: https://www.youtube.com/watch?v=x2m1xir2Yrw
 
-
 Id: youtube-126
 Type: media
 Media: video
 Title: YouTube - Broadcast Yourself.
 Tags: home, a/v, link, video, link
 Link: http://www.youtube.com/view_play_list?p=7BEC11550B10C44F
-
 
 Id: youtube-127
 Type: media
@@ -25193,14 +25007,12 @@ Title: How Oak Trees Manipulate Squirrels To Abandon Their Acorns
 Tags: humor, video
 Link: https://www.youtube.com/watch?v=DPCL9kj7_bU
 
-
 Id: youtube-138
 Type: media
 Media: video
 Title: Why is there no equation for the perimeter of an ellipse?
 Tags: math, engineering, video
 Link: https://www.youtube.com/watch?v=5nW3nJhBHL0
-
 
 Id: youtube-140
 Type: media
@@ -25244,14 +25056,12 @@ Title: Kodo - O-Daiko - Japanese drummers - Taiko
 Tags: music, video
 Link: https://www.youtube.com/watch?v=C7HL5wYqAbU
 
-
 Id: youtube-147
 Type: media
 Media: video
 Title: It Is Here - Fendrick &amp; Peck
 Tags: music, video
 Link: https://www.youtube.com/watch?v=rmDwF5NTPNs
-
 
 Id: youtube-148
 Type: media
@@ -25260,14 +25070,12 @@ Title: How dogma pollutes discourse
 Tags: politics, culture, video
 Link: https://www.youtube.com/watch?v=o6-Htscvf4k
 
-
 Id: youtube-149
 Type: media
 Media: video
 Title: DISTRACTION! - A Randy Rainbow Song Parody
 Tags: politics, music, video
 Link: https://www.youtube.com/watch?v=d02A9nmJxcM
-
 
 Id: youtube-150
 Type: media
@@ -25276,7 +25084,6 @@ Title: Cops Meet Police Brutality Protests with More Police Brutality; The Daily
 Tags: politics, video
 Link: https://www.youtube.com/watch?v=RpXXUC623ow
 
-
 Id: youtube-153
 Type: media
 Media: video
@@ -25284,7 +25091,6 @@ Title: Yellowstone Caldera
 Subtitle: The Biggest Volcanic Eruption Ever Awaits Mankind
 Tags: reference, link
 Link: https://www.youtube.com/watch?v=-iGJlYgp43s
-
 
 Id: youtube-154
 Type: media
@@ -25307,7 +25113,6 @@ Title: Mystery of Prince Rupert's Drop at 130,000 fps
 Tags: science, video
 Link: https://www.youtube.com/watch?v=xe-f4gokRBs
 
-
 Id: youtube-157
 Type: media
 Media: video
@@ -25316,7 +25121,6 @@ Date: 2016-05-21
 Tags: space, video
 Link: https://www.youtube.com/watch?v=QvTmdIhYnes
 
-
 Id: youtube-158
 Type: media
 Media: video
@@ -25324,14 +25128,12 @@ Title: How to Spot the Space Station from Your Backyard - ISS Science
 Tags: space, video
 Link: https://www.youtube.com/watch?v=nqn8zT1VipA
 
-
 Id: youtube-159
 Type: media
 Media: video
 Title: David-LaserScanner Test 1 - YouTube
 Tags: toolhw, printer, link
 Link: http://www.youtube.com/watch?v=fMQ29F0gTJE&amp;feature=related
-
 
 Id: youtube-160
 Type: media
@@ -25461,7 +25263,6 @@ Title: Apple's Tim Cook Makes Blistering Attack on the 'Data Industrial Complex'
 Tags: culture, link
 Link: https://yro.slashdot.org/story/18/10/24/1611256/apples-tim-cook-makes-blistering-attack-on-the-data-industrial-complex
 
-
 Id: yroslashdot-02
 Type: article
 Media: link
@@ -25576,7 +25377,6 @@ Title: ZeroDegrees
 Tags: home, job, jobsite, link
 Link: http://www.zerodegrees.com/
 
-
 Id: zeromq-01
 Type: site
 Media: site
@@ -25597,7 +25397,6 @@ Media: link
 Title: The Zfone Project - Getting Started with Zfone
 Tags: toolsw, appinternet, voip, link
 Link: http://zfoneproject.com/getstarted.html
-
 
 Id: zimbardo-01
 Type: media
