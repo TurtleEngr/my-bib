@@ -8933,7 +8933,7 @@ Link: https://www.amazon.com/dp/B00ICN066A
 Id: harari-02
 Type: media
 Media: video
-Title: MAGA 'suicide'? Yuval Noah Harari on conservatives losing, conspiracies, AI, religion & history
+Title: MAGA 'suicide'? Yuval Noah Harari on conservatives losing, conspiracies, AI, religion &amp; history
 Author: Harari, Yuval Noah
 Date: 2023-11-30
 Publisher: MSNBC
@@ -9552,7 +9552,7 @@ Author: Hosmanek, Andrew J.
 Date: 2005-02-01
 Publisher: Pepperdine Dispute Resolution Law Journal
 Volume: Volume 5, Issue 2
-Link: https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1106&context=drlj
+Link: https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1106&amp;context=drlj
 AltLink: https://tinyurl.com/53ywht2n+ https://moria.whyayh.com/rel/archive/article/culture/Cutting_the_Cord_Hooponopono_and_Hawaiian_Restorative_Justice_i.pdf https://digitalcommons.pepperdine.edu/drlj/vol5/iss2/6/
 
 Id: hosted-webs-01
@@ -12357,7 +12357,7 @@ Id: lovelock-01
 Type: book
 Media: book
 Title: The Revenge of Gaia
-Subtitle: Earth's Climate Crisis & The Fate of Humanity
+Subtitle: Earth's Climate Crisis &amp; The Fate of Humanity
 Author: Lovelock, James
 Tags: book, important, book
 Link: https://www.amazon.com/dp/B007HOO8L4
