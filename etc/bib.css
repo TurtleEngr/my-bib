@@ -2,11 +2,12 @@
     text-align: justify
 }
 body {
+    width: 306pt;
     margin-left: 54pt; 
     margin-right: 54pt; 
     font-family: Times, serif; 
     font-size: 100%; 
-    text-align: left;
+    text-align: justify;
     background: #EED;
     color: black;
 }

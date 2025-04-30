@@ -19,6 +19,7 @@ mPubList = \
 	$(mGen)/README.html \
 	$(mGen)/bib.css \
 	$(mGen)/biblio.html \
+	$(mGen)/biblio-raw.html \
 	$(mGen)/biblio-note.html
 
 # ======================================
@@ -70,25 +71,28 @@ biblio-status.txt : biblio.txt
 	time ./link-status <$?
 
 # -------------
-# Rules
-
-$(mGen)/%.html : %.org
-	org2html.sh $< $@
-
-$(mGen)/%.html : $(mGen)/%.org
-	org2html.sh $< $@
-
-$(mGen)/%.md : %.org
-	-pandoc -f org -t markdown < $< >$@
 
 README.md : $(mGen)/README.md
 	ln -f $? $@
 
-$(mGen)/biblio.org : biblio.txt
-	etc/mk-biblio-org <$? > $@
-
 $(mGen)/bib.css : etc/bib.css
 	ln -f $? $@
+
+$(mGen)/biblio-raw.html : biblio.txt
+	etc/mk-biblio-org <$? > $(mGen)/biblio-raw.org
+	org2html.sh $(mGen)/biblio-raw.org $@
+
+$(mGen)/biblio.html : biblio.txt
+	etc/mk-biblio-txt2html.sh  < $? >$@
+
+# -------------
+# Rules
+
+$(mGen)/%.html : %.org
+	-org2html.sh $< $@
+
+$(mGen)/%.md : %.org
+	-pandoc -f org -t markdown < $< >$@
 
 # -------------
 # Add and maintain the bibliography in a Libreoffice document

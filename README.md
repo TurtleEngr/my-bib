@@ -1,3 +1,4 @@
+```{=html}
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -7,7 +8,7 @@
       href="bib.css" />
 </head>
 <body>
-
+```
 my-bib Files
 ============
 
@@ -16,17 +17,17 @@ This file: <https://TurtleEngr.github.io/my-bib>
 My personal bibliography
 ------------------------
 
--   &lt;a href="biblio.html"&gt;biblio.html&lt;/a&gt; - references to:
-    books, articles, websites, videos, DVDs, etc. (This is generated
-    from: biblio.txt)
+-   \<a href=\"biblio.html\"\>biblio.html\</a\> - references to: books,
+    articles, websites, videos, DVDs, etc. (This is generated from:
+    biblio.txt)
 
--   &lt;a href="biblio-note.html"&gt;biblio-note.html&lt;/a&gt; -
-    Annotations related to Ids in biblio.txt (This is generated from
+-   \<a href=\"biblio-note.html\"\>biblio-note.html\</a\> - Annotations
+    related to Ids in biblio.txt (This is generated from
     biblio-note.org)
 
--   &lt;a href="aoc-biblio.html"&gt;aoc-biblio.html&lt;/a&gt; -
-    Bibliograph for &lt;i&gt;Aliens of Our Creation&lt;/i&gt; book.
-    (This is generated from the citations in the book.)
+-   \<a href=\"aoc-biblio.html\"\>aoc-biblio.html\</a\> - Bibliograph
+    for \<i\>Aliens of Our Creation\</i\> book. (This is generated from
+    the citations in the book.)
 
 How biblio is built and used
 ----------------------------
@@ -36,10 +37,10 @@ How biblio is built and used
     -   biblio-note.org - extra notes for biblio items.
     -   doc.odt - link to a LibreOffice document that will be updated
         from the DB.
-    -   etc/ - config file for the "bib" command.
+    -   etc/ - config file for the \"bib\" command.
     -   status/ - datestamp of when bib commands are run.
     -   Makefile - build processes.
 -   [libre-bib](https://github.com/TurtleEngr/libre-bib) - this tool
     imports the biblio.txt into a DB. The DB is then used by libre-bib
-    and a Libreoffice document to generate the documentś Bibliography.
-
+    and a Libreoffice document to generate the document\\\'s
+    Bibliography.
