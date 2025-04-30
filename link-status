@@ -1,0 +1,46 @@
+#!/bin/bash
+
+if [[ -t 0 ]]; then
+    cat <<EOF
+Usage:
+    cat biblio.txt | ./link-status
+
+Output:
+    link-status.csv - id,status,url
+    biblio-status.txt - Adds "Status:" to entries
+EOF
+    exit 1
+fi
+
+export rId="Id"
+export rURL="URL"
+export rStatus="Status"
+echo "$rId,$rStatus,$rURL" >link-status.csv
+echo >biblio-status.txt
+
+while read tId tVal tOther; do
+    if [[ "$tId" = "Status:" ]];then
+        continue
+    fi
+    echo $tId $tVal $tOther >>biblio-status.txt
+    if [[ "$tId" = "Id:" ]];then
+        echo "Processing: $tVal" 1>&2
+        rId=$tVal
+        continue
+    fi
+    if [[ "${tId}" != "${tId#{}" ]]; then
+        echo "Processing: $tId" 1>&2
+        rId=$tId
+        continue
+    fi
+    if [[ "$tId" = "Link:" ]]; then
+        rURL=$tVal
+        rStatus=$(timeout 10 curl -s -o /dev/null -w "%{http_code}" $rURL;)
+        if [ $? -eq 124 ]; then
+            rStatus='timeout'
+        fi;
+        echo "Status: $rStatus" >>biblio-status.txt
+        echo "$rId,$rStatus,$rURL" >>link-status.csv
+        continue
+    fi
+done

@@ -33,7 +33,7 @@ dist-clean : clean
 	-rm -rf $(mGen)
 
 $(mGen) :
-	mkdir $@
+	-mkdir $@
 
 ci checkin commit : clean build
 	git commit -am "Updated"
@@ -62,6 +62,12 @@ view :
 	-sensible-browser ./biblio.txt
 	#-sensible-browser gen/biblio-note.html
 	#-sensible-browser gen/README.html
+
+# This will take a long time
+status : biblio-status.txt
+
+biblio-status.txt : biblio.txt
+	time ./link-status <$?
 
 # -------------
 # Rules
