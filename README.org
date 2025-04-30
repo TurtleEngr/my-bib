@@ -15,15 +15,19 @@ This file: https://TurtleEngr.github.io/my-bib
 
 ** My personal bibliography
 
-+ <a href="biblio.html">biblio.html</a> - references to: books,
++ <a href="biblio.html">docs/biblio.html</a> - references to: books,
   articles, websites, videos, DVDs, etc. (This is generated from:
   biblio.txt)
 
-+ <a href="biblio-note.html">biblio-note.html</a> - Annotations
++ <a href="biblio-raw.html">docs/biblio-raw.html</a> - Formatted
+  biblio.txt. This includes links to biblio-note.html, if an entry is
+  in biblio-note.html.
+
++ <a href="biblio-note.html">docs/biblio-note.html</a> - Annotations
   related to Ids in biblio.txt (This is generated from
   biblio-note.org)
 
-+ <a href="aoc-biblio.html">aoc-biblio.html</a> - Bibliograph for
++ <a href="aoc-biblio.html">docs/aoc-biblio.html</a> - Bibliography for
   <i>Aliens of Our Creation</i> book. (This is generated from the
   citations in the book.)
 

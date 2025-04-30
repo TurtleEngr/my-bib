@@ -16,16 +16,20 @@ This file: <https://TurtleEngr.github.io/my-bib>
 My personal bibliography
 ------------------------
 
--   &lt;a href="biblio.html"&gt;biblio.html&lt;/a&gt; - references to:
-    books, articles, websites, videos, DVDs, etc. (This is generated
+-   &lt;a href="biblio.html"&gt;docs/biblio.html&lt;/a&gt; - references
+    to: books, articles, websites, videos, DVDs, etc. (This is generated
     from: biblio.txt)
 
--   &lt;a href="biblio-note.html"&gt;biblio-note.html&lt;/a&gt; -
+-   &lt;a href="biblio-raw.html"&gt;docs/biblio-raw.html&lt;/a&gt; -
+    Formatted biblio.txt. This includes links to biblio-note.html, if an
+    entry is in biblio-note.html.
+
+-   &lt;a href="biblio-note.html"&gt;docs/biblio-note.html&lt;/a&gt; -
     Annotations related to Ids in biblio.txt (This is generated from
     biblio-note.org)
 
--   &lt;a href="aoc-biblio.html"&gt;aoc-biblio.html&lt;/a&gt; -
-    Bibliograph for &lt;i&gt;Aliens of Our Creation&lt;/i&gt; book.
+-   &lt;a href="aoc-biblio.html"&gt;docs/aoc-biblio.html&lt;/a&gt; -
+    Bibliography for &lt;i&gt;Aliens of Our Creation&lt;/i&gt; book.
     (This is generated from the citations in the book.)
 
 How biblio is built and used
