@@ -16,15 +16,15 @@ mClone = git clone git@github.com:TurtleEngr/my-bib.git
 mTidy = tidy -config etc/tidyxhtml.conf
 
 mPubList = \
-	$(mGen)/README.html \
-	$(mGen)/bib.css \
-	$(mGen)/biblio.html \
-	$(mGen)/biblio-raw.html \
-	$(mGen)/biblio-note.html
+	gen/README.html \
+	gen/bib.css \
+	gen/biblio.html \
+	gen/biblio-raw.html \
+	gen/biblio-note.html
 
 # ======================================
 
-build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html
+build : clean gen $(mPubList) README.md gen/todo.html
 	incver.sh -p VERSION
 
 clean :
@@ -32,9 +32,9 @@ clean :
 	-bib clean
 
 dist-clean : clean
-	-rm -rf $(mGen)
+	-rm -rf gen
 
-$(mGen) :
+gen :
 	-mkdir $@
 
 ci checkin commit : clean build
@@ -78,26 +78,26 @@ biblio-status.txt : biblio.txt
 
 # -------------
 
-README.md : $(mGen)/README.md
+README.md : gen/README.md
+	sed 's/^ *!\[GitHub /![GitHub /' <$? >$@
+
+gen/bib.css : etc/bib.css
 	ln -f $? $@
 
-$(mGen)/bib.css : etc/bib.css
-	ln -f $? $@
+gen/biblio-raw.html : biblio.txt
+	etc/mk-biblio-org <$? > gen/biblio-raw.org
+	org2html.sh gen/biblio-raw.org $@
 
-$(mGen)/biblio-raw.html : biblio.txt
-	etc/mk-biblio-org <$? > $(mGen)/biblio-raw.org
-	org2html.sh $(mGen)/biblio-raw.org $@
-
-$(mGen)/biblio.html : biblio.txt
+gen/biblio.html : biblio.txt
 	etc/mk-biblio-txt2html.sh  < $? >$@
 
 # -------------
 # Rules
 
-$(mGen)/%.html : %.org
+gen/%.html : %.org
 	-org2html.sh $< $@
 
-$(mGen)/%.md : %.org
+gen/%.md : %.org
 	-pandoc -f org -t markdown < $< >$@
 
 # -------------
