@@ -25,6 +25,7 @@ mPubList = \
 # ======================================
 
 build : clean $(mGen) $(mPubList) README.md $(mGen)/todo.html
+	incver.sh -p VERSION
 
 clean :
 	-find . -name '*~' -exec rm {} \;
@@ -46,12 +47,17 @@ update pull : doc.odt
 save push : build
 	git co develop
 	git pull origin develop
+	incver.sh -m VERSION
 	rsync -a $(mPubList) docs/
 	mv docs/README.html docs/index.html
 	-git ci -am Updated
 	git push origin develop
 
 publish release : save
+	incver.sh -M VERSION
+	git commit -am "Inc Ver"
+	git tag -f -F VERSION "v$$(cat VERSION)"
+	git push --tags origin develop
 	git co main
 	git pull origin main
 	git merge develop
