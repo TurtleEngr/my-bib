@@ -15,7 +15,7 @@ This file: <https://TurtleEngr.github.io/my-bib>
 
 [![alt](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://github.com/santisoler/cc-licenses/blob/main/LICENSE-CC-BY-NC-SA)
 ![GitHub Tag](https://img.shields.io/github/v/tag/TurtleEngr/my-bib)
-![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib%20is%3Aopen&style=flat&label=issues)
+    [![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib%20is%3Aopen&style=flat&label=issues)](https://github.com/TurtleEngr/my-bib/issues)
 
 My personal bibliography
 ------------------------
