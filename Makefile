@@ -79,7 +79,7 @@ biblio-status.txt : biblio.txt
 # -------------
 
 README.md : gen/README.md
-	sed 's/^ *!\[GitHub /![GitHub /' <$? >$@
+	sed 's/^ *!\[GitHub /![GitHub /; s/^ *\[!\[alt]/[![alt]/' <$? >$@
 
 gen/bib.css : etc/bib.css
 	ln -f $? $@
