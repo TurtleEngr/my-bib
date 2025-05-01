@@ -13129,6 +13129,15 @@ Title: FAQ
 Tags: home, oldwork, sychron, link
 Link: http://mckinley.us.sychron.com/fom/cache/1.html
 
+Id: mcleod-01
+Type: article
+Media: link
+Title: Short-Term Memory In Psychology: Types, Duration & Capacity
+Author: McLeod, Saul
+Date: 2025-04-19
+Link: https://www.simplypsychology.org/short-term-memory.html
+AltLink: https://tinyurl.com/3nty7ana+ https://web.archive.org/web/20250501030503/https://www.simplypsychology.org/short-term-memory.html
+
 Id: mcneil-01
 Type: article
 Media: link
