@@ -51,7 +51,7 @@ save push : build
 	rsync -a $(mPubList) docs/
 	mv docs/README.html docs/index.html
 	-git ci -am Updated
-	git push origin develop
+	git push --tags origin develop
 
 publish release : save
 	incver.sh -M VERSION
@@ -61,7 +61,7 @@ publish release : save
 	git co main
 	git pull origin main
 	git merge develop
-	git push origin main
+	git push --tags origin main
 	git co develop
 	rsync -a $(mPubList) $(mServer):$(mRelRel)
 
