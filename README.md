@@ -17,9 +17,11 @@ This file: <https://TurtleEngr.github.io/my-bib>
 ![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib%20is%3Aopen&style=flat&label=issues)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
+https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 
 My personal bibliography
 ------------------------
