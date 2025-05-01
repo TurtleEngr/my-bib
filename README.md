@@ -16,10 +16,8 @@ This file: <https://TurtleEngr.github.io/my-bib>
 ![GitHub Tag](https://img.shields.io/github/v/tag/TurtleEngr/my-bib)
 ![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib%20is%3Aopen&style=flat&label=issues)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][https://github.com/santisoler/cc-licenses/blob/main/LICENSE-CC-BY-NC-SA].
+[![Static Badge](https://img.shields.io/badge/License-cc%20by%20nc%20sa-blue)]{(https://github.com/santisoler/cc-licenses/blob/main/LICENSE-CC-BY-NC-SA)
 
 [![alt](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://github.com/santisoler/cc-licenses/blob/main/LICENSE-CC-BY-NC-SA)
 
