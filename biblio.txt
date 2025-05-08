@@ -423,8 +423,9 @@ Type: article
 Media: link
 Title: Conservatives Live In a Different Moral Universe
 Subtitle: and here's why it matters
-Tags: article
+Tags: article jacobs-01
 Link: http://www.alternet.org/story/138303/conservatives_live_in_a_different_moral_universe_--_and_here's_why_it_matters/?page=entire
+Annote: broken link. See jacobs-01
 
 Id: alternet-02
 Type: site
