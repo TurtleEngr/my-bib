@@ -10742,6 +10742,15 @@ Address: P.O. Box 22872, Oakland, CA 94609
 ISBN: 9780990007364
 Link: https://thefearlessheart.org/store/the-highest-common-denominator/
 
+Id: kashtan-02
+Type: article
+Media: link
+Title: Why Observations, Feelings, Needs, and Requests Are Both Enough and Not
+Author: Kashtan, Miki
+Date: 2024-03-09
+Link: https://thefearlessheart.org/why-observations-feelings-needs-and-requests-are-both-enough-and-not/
+AltLink: https://tinyurl.com/nhjukaa2+ https://web.archive.org/web/20240715113613/https://thefearlessheart.org/why-observations-feelings-needs-and-requests-are-both-enough-and-not/
+
 Id: katerinaptrv-01
 Type: article
 Media: link
