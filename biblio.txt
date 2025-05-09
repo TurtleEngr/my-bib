@@ -423,8 +423,9 @@ Type: article
 Media: link
 Title: Conservatives Live In a Different Moral Universe
 Subtitle: and here's why it matters
-Tags: article
+Tags: article jacobs-01
 Link: http://www.alternet.org/story/138303/conservatives_live_in_a_different_moral_universe_--_and_here's_why_it_matters/?page=entire
+Annote: broken link. See jacobs-01
 
 Id: alternet-02
 Type: site
@@ -10741,6 +10742,15 @@ Address: P.O. Box 22872, Oakland, CA 94609
 ISBN: 9780990007364
 Link: https://thefearlessheart.org/store/the-highest-common-denominator/
 
+Id: kashtan-02
+Type: article
+Media: link
+Title: Why Observations, Feelings, Needs, and Requests Are Both Enough and Not
+Author: Kashtan, Miki
+Date: 2024-03-09
+Link: https://thefearlessheart.org/why-observations-feelings-needs-and-requests-are-both-enough-and-not/
+AltLink: https://tinyurl.com/nhjukaa2+ https://web.archive.org/web/20240715113613/https://thefearlessheart.org/why-observations-feelings-needs-and-requests-are-both-enough-and-not/
+
 Id: katerinaptrv-01
 Type: article
 Media: link
@@ -16937,6 +16947,16 @@ Author: Rafnel, Bruce
 Date: 2024-12-17
 Link: https://medium.com/slow-engineering/photographic-evidence-is-dead-e9b495aca7b0
 AltLink: https://tinyurl.com/22awzr9t+ https://slowengineering.wordpress.com/2024/12/17/photographic-evidence-is-dead/ https://web.archive.org/web/20241219200921/https://slowengineering.wordpress.com/2024/12/17/photographic-evidence-is-dead/
+
+Id: rafnel-10
+Type: article
+Media: link
+Title: Thoughts on Aliens of Our Creation
+Subtitle: Do they work for us, or for themselves?
+Author: Rafnel, Bruce
+Date: 2025-05-07
+Link: https://brucer.substack.com/p/thoughts-on-aliens-of-our-creation
+AltLink: https://tinyurl.com/2c6yzybh+ https://web.archive.org/web/20250509152438/https://brucer.substack.com/p/thoughts-on-aliens-of-our-creation
 
 Id: raindance-01
 Type: article
