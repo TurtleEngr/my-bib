@@ -17078,6 +17078,18 @@ Tags: biblio
 ASIN: 26864829
 
 Id: raworth-01
+Type: book
+Media: Paperback
+Title: Doughnut Economics
+Subtitle: Seven Ways to Think Like a 21st-Century Economist
+Author: Raworth, Kate
+Date: 2018-03-12
+Edition: Rep
+Publisher:‎ Chelsea Green
+ISBN: 1603587969
+Link: https://www.amazon.com/dp/1603587969/
+
+Id: raworth-02
 Type: media
 Media: video
 Title:  A healthy economy should be designed to thrive, not grow
