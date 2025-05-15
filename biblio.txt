@@ -4252,6 +4252,17 @@ Title: Archives of Satellite Imagery
 Tags: home, tofile, set6, link
 Link: http://dbaron.org/sat/archive.html
 
+Id: deal-01
+Type: article
+Media: link
+Title: About Doughnut Economics
+Subtitle: Meet the Doughnut and the concepts at the heart of Doughnut Economics.
+Author: DEAL Community
+Date: 2025-05-15
+Publisher: Doughnut Economics Action Lab
+Link: https://doughnuteconomics.org/about-doughnut-economics
+AltLink: https://tinyurl.com/45vjyavr+ https://web.archive.org/web/20250515054659/https://doughnuteconomics.org/about-doughnut-economics
+
 Id: deals-slashdot-01
 Type: article
 Media: link
@@ -17066,6 +17077,16 @@ Publisher: Viacom (2012)
 Tags: biblio
 ASIN: 26864829
 
+Id: raworth-01
+Type: media
+Media: video
+Title:  A healthy economy should be designed to thrive, not grow
+Author: Raworth, Kate
+Date: 2018-06-04
+Publisher: TED
+Link: https://www.youtube.com/watch?v=Rhcrbcg8HBw
+AltLink: https://www.ted.com/talks/kate_raworth_a_healthy_economy_should_be_designed_to_thrive_not_grow
+
 Id: read-acloud-guru-01
 Type: article
 Media: link
@@ -25472,4 +25493,3 @@ Media: product
 Title: Auralex 2 Studiofoam Wedgie 12x12 Tile (Gray, Single), New
 Tags: misc, link
 Link: http://www.zzounds.com/item--AUR2WD01CG?siid=3770&amp;gclid=Cj0KEQjwl_6oBRDHxNGz6ueJufMBEiQAvm_k_sDKDJuTDaDgQS-DTQfvlhTEGZgpoZR9SH16lbUT6dsaAq2J8P8HAQ
-
