@@ -7175,6 +7175,17 @@ Tags: person
 Link: https://en.wikipedia.org/wiki/Francis_Fukuyama
 AltLink: https://tinyurl.com/mr2vxspa+ https://web.archive.org/web/20250317115448/https://en.wikipedia.org/wiki/Francis_Fukuyama
 
+Id: fukuyama-02
+Type: book
+Media: Paperback
+Title: Trust
+Subtitle: The Social Virtues & The Creation of Prosperity
+Author: Fukuyama, Francis
+Date: 1996-06-18
+Publisher: The Free Press
+ISBN: 0684825252
+Link: https://www.amazon.com/dp/0684825252
+
 Id: functionaltools-01
 Type: media
 Media: video
