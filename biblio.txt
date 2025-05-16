@@ -14006,6 +14006,16 @@ Date: 2004-12-09
 Link: http://www.rachel.org/BULLETIN/index.cfm?St=4
 AltLink: https://tinyurl.com/4jej2u7a+ https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4 https://dgrnewsservice.org/resistance-culture/movement-building/help-ive-been-colonized-and-i-cant-get-up/ https://web.archive.org/web/20240416141937/https://dgrnewsservice.org/resistance-culture/movement-building/help-ive-been-colonized-and-i-cant-get-up/
 
+Id: morris-02
+Type: book
+Media: Ebook
+Title: Tribal
+Subtitle: How the Cultural Instincts That Divide Us Can Help Bring Us Together
+Author: Morris, Michael 
+Date: 2024-10-01
+Publisher: Thesis
+Link: https://www.amazon.com/dp/B07TZZN2X6
+
 Id: motherboard-vice-01
 Type: article
 Media: link
