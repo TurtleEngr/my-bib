@@ -6221,6 +6221,23 @@ Title: EVE Online; EVE TV
 Tags: home, game, link
 Link: http://www.eve-online.com/evetv/tunein.asp
 
+Id: event-01
+Type: site
+Media: org
+Title: New Culture Autumm Camp 2013
+Publisher: Love Journey Tantra
+Date: 2013-09-10
+AltLink: https://tinyurl.com/fec8wr4y+ https://web.archive.org/web/20130910211225/http://lovejourneytantra.com/schedule.htm
+
+Id: event-02
+Type: article
+Media: link
+Title: Autumn Convergence 2025
+Publisher: New Culture Nor Cal
+Date: 2025-05-20
+Link: https://www.newculturenorcal.org/autumn.html
+AltLink: https://tinyurl.com/5byfkv6t+ https://web.archive.org/web/20250520035401/https://www.newculturenorcal.org/autumn.html
+
 Id: everythingselectric-01
 Type: article
 Media: link
