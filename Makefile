@@ -44,7 +44,7 @@ update pull : doc.odt
 	git co develop
 	git pull origin develop
 
-save push : build
+save push : ci build
 	git co develop
 	git pull origin develop
 	incver.sh -m VERSION
