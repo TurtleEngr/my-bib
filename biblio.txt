@@ -7292,9 +7292,10 @@ Type: book
 Media: Ebook
 Title: An Autobiography: The Story of My Experiments With Truth
 Author: Gandhi, Mohandas K.
-Date: 2008
+Date: 2008-08-27
 Publisher: Formax Publishing
 Tags: important
+Link: https://www.amazon.com/dp/B001EWEB5I
 ASIN: 45411
 
 Id: gandhi-02
@@ -8835,6 +8836,7 @@ Title: TED: Jonathan Haidt on the moral roots of liberals and conservatives
 Date: 2008-03
 Tags: video, ted, video
 Link: https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives
+AltLink: https://www.youtube.com/watch?v=8SOQduoLgRw
 
 Id: haidt-02
 Type: article
@@ -9251,7 +9253,7 @@ Title: The WEIRDest People in the World
 Subtitle: How the West Became Psychologically Peculiar and Particularly Prosperous
 Author: Henrich, Joseph
 Date: 2020-09-08
-Publisher: Farrar, Straus and Giroux (September 8, 2020)
+Publisher: Farrar, Straus and Giroux
 ASIN: B07RZFCPMD
 Link: https://www.amazon.com/gp/product/B07RZFCPMD/
 
