@@ -8391,6 +8391,17 @@ Title: gPhoto - gPhoto Home
 Tags: home, a/v, link, video, link
 Link: http://gphoto.sourceforge.net/
 
+Id: grabar-01
+Type: article
+Media: link
+Title: The Pithiest Critique of Modern Conservatism Keeps Getting Credited to the Wrong Man
+Subtitle: “Wilhoit’s Law” was created by a different Frank Wilhoit
+Author: Grabar, Henry
+Date: 2022-06-03
+Publisher: Slate.com
+Link: https://slate.com/business/2022/06/wilhoits-law-conservatives-frank-wilhoit.html
+AltLink: https://tinyurl.com/3uh5s3vk+ https://web.archive.org/web/20250512010109/https://slate.com/business/2022/06/wilhoits-law-conservatives-frank-wilhoit.html
+
 Id: grabhorn-01
 Type: book
 Media: Paperback
