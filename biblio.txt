@@ -19209,6 +19209,15 @@ Title: Simple toy - How to make a toy with a small piece of paper
 Tags: video
 Link: http://www.wimp.com/simpletoy/
 
+Id: sinek-01
+Type: media
+Media: video
+Title:  You're Being Lied To About AI's Real Purpose! We're Teaching Our Kids To Not Be Human! 
+Author: Sinek, Simon 
+Date: 2025-05-26
+Publisher: The Diary Of A CEO
+Link: https://www.youtube.com/watch?v=W4tqbEmplug
+
 Id: singers-01
 Type: article
 Media: link
