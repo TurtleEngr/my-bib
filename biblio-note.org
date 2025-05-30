@@ -870,6 +870,13 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: hedges-01
 - At 1h09m30s Politics is a game of fear.
 
+** Id: html-01
+- Inspired by: https://web.archive.org/web/20131130130322/http://motherfuckingwebsite.com/
+- Domain registered:
+  - 2025-03-29
+  - State: Kharkiv
+  - Country: UA (Ukraine)
+
 ** Id: king-02
 - See also democracynow-02
 

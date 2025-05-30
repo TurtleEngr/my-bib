@@ -2468,6 +2468,16 @@ Date: 2024-12-18
 Link: https://us20.campaign-archive.com/?u=45d6d4980424b90bf2c3d6c88&id=c99c6ac546
 AltLink: https://tinyurl.com/yc6s8hjj+ https://web.archive.org/web/20241220074650/https://us20.campaign-archive.com/?u=45d6d4980424b90bf2c3d6c88&id=c99c6ac546
 
+Id: burns-01
+Type: article
+Media: link
+Title: Bonhoeffer's Theory of Stupidity Explains The World Perfectly
+Subtitle: The phenomenon that is at the root of all problems
+Author: Burns, Peter 
+Date: 2021-11-10
+Publisher: Lessons from History
+Link: https://medium.com/lessons-from-history/bonhoeffers-theory-of-stupidity-explains-the-world-perfectly-957cbb3fbac1
+
 Id: burstyn-01
 Type: media
 Media: Blu-ray
@@ -9718,6 +9728,15 @@ Date: 2022-11-04
 Link: https://www.nytimes.com/2022/11/04/technology/tiktok-deepfakes-disinformation.html
 AltLink: https://archive.vn/STdSa
 
+Id: html-01
+Type: article
+Media: link
+Title: Just fucking use HTML
+Date: 2025-03-29
+DateSeen: 2025-05-12
+Link: https://justfuckingusehtml.com/
+AltLink: https://tinyurl.com/bdz2yneh+ https://web.archive.org/web/20250512141016/https://justfuckingusehtml.com/
+
 Id: html-form-guide-01
 Type: article
 Media: link
@@ -9746,13 +9765,6 @@ Title: CSS - Cascading Style Sheets
 Tags: folder, reference, xml, html, link
 Link: http://www.htmlhelp.com/reference/css/
 
-Id: htps-01
-Type: site
-Media: site
-Title: htps://developer.paypal.com
-Tags: trustedid, link
-Link: htps://developer.paypal.com
-
 Id: httpd-apache-01
 Type: article
 Media: link
@@ -9766,6 +9778,13 @@ Media: link
 Title: Apache HTTP Server 2.2 Doc
 Tags: folder, reference, xml, html, link
 Link: http://httpd.apache.org/docs/2.2/
+
+Id: https-01
+Type: site
+Media: site
+Title: https://developer.paypal.com
+Tags: trustedid, link
+Link: https://developer.paypal.com
 
 Id: htwins-01
 Type: media
@@ -21223,6 +21242,17 @@ Media: link
 Title: The Thom Hartmann Radio Program; Thom Hartmann
 Tags: home, change, link
 Link: http://www.thomhartmann.com/2009/03/01/the-thom-hartmann-radio-program/
+
+Id: thomson-01
+Type: article
+Media: link
+Title: Bonhoeffer's "theory of stupidity"
+Subtitle: We have more to fear from stupid people than evil ones 
+Author: Thomson, Jonny
+Date: 2023-01-26
+Publisher: Big Think
+Link: https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/
+AltLink: https://tinyurl.com/uaesaers+ https://web.archive.org/web/20230126155255/https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/
 
 Id: thornhill-01
 Type: site
