@@ -1,12 +1,24 @@
-#!/bin/bash
-# Usage:
-#    mk-biblio-org <biblio.txt >gen/biblio.org
-# Also requires: biblio-note.org
+#!/usr/bin/env bash
+
+# --------------------
+# Conf
+export cBiblioNote=~/ver/local/app/my-bib/biblio-note.org
+
+# --------------------
+# Usage
+if [[ -t 0 ]]; then
+    cat <<EOF
+Usage:
+    mk-biblio-org <gen/ref-biblio.txt >gen/biblio.org
+Also requires: biblio-note.org
+EOF
+    exit 1
+fi
 
 # --------------------
 # Build map array to biblio-note.html
 echo 'BEGIN {' >/tmp/mk-biblio.awk
-grep '\*\* Id: ' biblio-note.org | awk '
+grep '\*\* Id: ' ${cBiblioNote} | awk '
 {
   print "  tNoteList[\"" $3 "\"] = \"<a href=\\\"biblio-note.html#id-" $3 "\\\">See: biblio-note#id-" $3 "</a>\""
 }
@@ -18,13 +30,19 @@ echo '}' >>/tmp/mk-biblio.awk
 cat <<\EOF >>/tmp/mk-biblio.awk
 /^#/ { next }
 NF == 0 { next }
-$1 == "Id:" {
+/{.*-[0-9]*}/ || $1 == "Id:" {
   if (tNote != "") {
     print "   + Annote: " tNote
   }
   tNote = ""
-  if ($2 in tNoteList) {
-    tNote = tNoteList[$2]
+  if ($1 == "Id:") {
+    tId = $2
+  } else {
+    tId = $0
+    gsub(/[{}]/,"", tId)
+  }
+  if (tId in tNoteList) {
+    tNote = tNoteList[tId]
   }
   print "** " $0
   next
@@ -43,7 +61,7 @@ cat <<\EOF
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
-<title>Bibliography</title>
+<title>Bibliography/title>
 <link rel="stylesheet"
       href="bib.css" />
 </head>
@@ -53,4 +71,4 @@ cat <<\EOF
 EOF
 
 'date' +'- %F'
-awk -f /tmp/mk-biblio.awk biblio.txt
+awk -f /tmp/mk-biblio.awk

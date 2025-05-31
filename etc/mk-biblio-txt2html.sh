@@ -1,8 +1,5 @@
-#!/bin/bash
-# $Source$a
-# Orig. Source: /repo/local.cvs/project/book-humane/bin/mk-biblio-txt2html.sh,v
+#!/usr/bin/env bash
 
-# ----------------------------------------
 if [[ -t 0 ]]; then
     cat <<EOF
 Usage:
@@ -34,10 +31,10 @@ function fPrintRec() {
         tAuthor = tAuthor ". "
     }
     if (tType == "book") {
-        print "<li><p><b>" tId "</b> " tAuthor "<i>" tTitle ".</i>" tYear tMedia tPub tISBN tLink "</p></li>"
+        print "<p><b>" tId "</b> " tAuthor "<i>" tTitle ".</i>" tYear tMedia tPub tISBN tLink "</p>"
         return
     }
-    print "<li><p><b>" tId "</b> " tAuthor "\"" tTitle ".\"" tYear tMedia tPub tLink "</p></li>"
+    print "<p><b>" tId "</b> " tAuthor "\"" tTitle ".\"" tYear tMedia tPub tLink "</p>"
 }
 
 /^#/ { next }
@@ -167,13 +164,11 @@ EOF
 'date' '+%F'
 cat <<\EOF
 </p>
-<ul>
 EOF
 
 awk -f /tmp/mk-biblio-txt2html.awk
 
 cat <<\EOF
-</ul>
 </body>
 </html>
 EOF

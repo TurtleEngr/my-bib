@@ -1,5 +1,4 @@
 # /home/bruce/ver/local/app/my-bib/Makefile
-
 # docs/ files are published to: https://turtleengr.github.io/my-bib/
 
 mBook = alien
@@ -11,6 +10,7 @@ mRelDev = /rel/development/doc/own/$(mTitleDir)
 mRelRel = /rel/released/doc/own/$(mTitleDir)
 mBib = $(HOME)/ver/local/app/my-bib/biblio.txt
 mDoc = $(HOME)/ver/local/project/book-humane/draft/$(mBook).odt
+mAuthTools = ~/ver/github/app/author-tools
 
 mClone = git clone git@github.com:TurtleEngr/my-bib.git
 mTidy = tidy -config etc/tidyxhtml.conf
@@ -75,6 +75,11 @@ status : biblio-status.txt
 
 biblio-status.txt : biblio.txt
 	time ./link-status <$?
+
+setup : etc/mk-biblio-org etc/mk-biblio-txt2html.sh
+
+etc/% : $(mAuthTools)/bin/%
+	cp $< $@
 
 # -------------
 
