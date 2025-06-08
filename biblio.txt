@@ -14,6 +14,8 @@
 # Note: (aka: Notes:, Tags:)
 # AltLink: (aka: Altlink:, Alt:)
 
+
+
 Id: aa-san-mateo-01
 Type: site
 Media: org
@@ -22867,6 +22869,29 @@ Title: The Sex-Starved Marriage; Michele Weiner-Davis; TEDxCU
 Author: Weiner-Davis, Michele
 Tags: video
 Link: https://www.youtube.com/watch?v=Ep2MAx95m20
+
+Id: weinberg-01
+Type: book
+Media: Hardcover
+Title: Psychology of Computer Programming
+Author: Weinberg, Gerald M.
+Date: 1971-01-01
+Publisher: Van Nostrand Reinhold Company
+ISBN: 9780442292645
+Link: https://www.goodreads.com/book/show/2229333.Psychology_of_Computer_Programming
+
+Id: weinberg-02
+Type: book
+Media: Ebook
+Title: Psychology of Computer Programming
+Subtitle: Silver Anniversary eBook
+Author: Weinberg, Gerald M.
+Date: 2011-03-08
+Publisher: Weinberg & Weinberg
+Edition: 50'th An.
+ISBN: 9781458118448
+Link: https://www.amazon.com/dp/B004R9QACC/
+AltLink: https://openlibrary.org/books/OL376840M/The_psychology_of_computer_programming
 
 Id: weirdlife-01
 Type: media

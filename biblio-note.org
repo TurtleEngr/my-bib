@@ -2432,6 +2432,8 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: weiner-davis-01
 - Good tips
 
+** Id: weinberg-01
+- Recommended size for teams: 9 to 12 people. (page?)
 ** Id: wheaton-01
 # Old: mcmichael-01
 - See: ver/local/project/book-humane/data/ic-podcast-paul-wheaton.txt
