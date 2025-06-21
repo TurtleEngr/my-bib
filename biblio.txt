@@ -14,8 +14,6 @@
 # Note: (aka: Notes:, Tags:)
 # AltLink: (aka: Altlink:, Alt:)
 
-
-
 Id: aa-san-mateo-01
 Type: site
 Media: org
@@ -14811,6 +14809,14 @@ Author: nfnc
 Tags: culture, link
 Link: http://www.nfnc.org/
 
+Id: ngl-01
+Type: site
+Media: org
+Title: Nonviolent Global Liberation
+Date: 2025-02-22
+Link: https://nglcommunity.org/
+AltLink: https://tinyurl.com/2kwbfb7k+ https://web.archive.org/web/20250222112612/https://nglcommunity.org/
+
 Id: nibley-01
 Type: media
 Media: DVD
@@ -23715,6 +23721,16 @@ Date: 2025-04-09
 Publisher: Wikipedia, The Free Encyclopedia.
 Link: https://en.wikipedia.org/wiki/Potlatch
 AltLink: https://tinyurl.com/yurump9k+ https://web.archive.org/web/20250410051335/https://en.wikipedia.org/wiki/Potlatch
+
+Id: wikipedia-69
+Type: article
+Media: link
+Title: 
+Author: Wikipedia contributors
+Date: 2025-06-21
+Publisher: Wikipedia, The Free Encyclopedia.
+Link: https://en.wikipedia.org/wiki/Parliamentary_procedure
+AltLink: https://tinyurl.com/j4sujj9d+ https://web.archive.org/web/20250524072154/https://en.wikipedia.org/wiki/Parliamentary_procedure
 
 Id: wilburhotsprings-01
 Type: site
