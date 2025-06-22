@@ -2910,6 +2910,7 @@ Id: centerforpartnership-01
 Type: site
 Media: org
 Title: Home - The Center for Partnership Systems
+Date: 2023-12-10
 Link: https://centerforpartnership.org/
 AltLink: https://tinyurl.com/y39atran+ https://web.archive.org/web/20231210195621/https://centerforpartnership.org/
 
@@ -3460,6 +3461,7 @@ Media: org
 Title: Code for America
 Subtitle: About us
 Author: Code for America
+Date: 2024-08-28
 Link: https://codeforamerica.org/about-us/
 AltLink: https://tinyurl.com/3hw5t2et+ https://web.archive.org/web/20240828181242/https://codeforamerica.org/about-us/
 
@@ -3560,8 +3562,10 @@ Id: commonfuture-01
 Type: site
 Media: org
 Title: Common Future
+Date: 2025-06-18
 Tags: old:livingeconomies-02
 Link: https://commonfuture.co/
+AltLink: https://tinyurl.com/mrx643tf+ https://web.archive.org/web/20250618184325/https://commonfuture.co/
 
 Id: community-01
 Type: book
@@ -6493,8 +6497,10 @@ Id: fce-01
 Type: site
 Media: org
 Title: Foundation for Community Encouragement
+Date: 2025-05-20
 Tags: organization, link
 Link: https://www.fce-community.org/
+AltLink: https://tinyurl.com/ubacvzwp+ https://web.archive.org/web/20250520202319/https://www.fce-community.org/
 
 Id: fedoraforum-01
 Type: article
@@ -14806,8 +14812,10 @@ Type: site
 Media: org
 Title: Network For a New Culture
 Author: nfnc
+Date: 2025-02-27
 Tags: culture, link
 Link: http://www.nfnc.org/
+AltLink: https://tinyurl.com/42hp5m86+ https://web.archive.org/web/20250227054736/https://www.nfnc.org/
 
 Id: ngl-01
 Type: site
@@ -18294,14 +18302,18 @@ Id: santafe-01
 Type: site
 Media: org
 Title: Santa Fe Institute
+Date: 2025-06-22
 Link: https://www.santafe.edu/
+AltLink: https://tinyurl.com/5n7j974m+ https://web.archive.org/web/20250622111919/https://www.santafe.edu/
 
 Id: santafe-02
 Type: site
 Media: org
 Title: Complexity Explorer
+Date: 2025 06 22
 Publisher: Santa Fe Institute
 Link: https://www.complexityexplorer.org/home
+AltLink: https://tinyurl.com/4h6kvfsc+ https://web.archive.org/web/20250622174430/https://www.complexityexplorer.org/home#gsc.tab=0
 
 Id: sasaki-01
 Type: media
@@ -22697,7 +22709,9 @@ Type: site
 Media: org
 Title: Wellbeing Economy Alliance
 Subtitle: For an economy in service of life
+Date: 2025-06-20
 Link: https://weall.org/
+AltLink: https://tinyurl.com/4u7sn9et+ https://web.archive.org/web/20250620152434/https://weall.org/
 
 Id: wearables-blu-01
 Type: article
