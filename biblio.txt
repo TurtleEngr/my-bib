@@ -11663,6 +11663,17 @@ Title: LanLinkup
 Tags: home, tofile, set1, link
 Link: http://www.lanlinkup.com/index.php
 
+Id: lanusse-01
+Type: article
+Media: link
+Title: The Decline of Genius: Where Did All the World-Changers Go?
+Subtitle: We didn’t just stop making Einsteins---we built a system designed to make sure they never showed up
+Author: Lanusse, Ricky
+Date: 2025-06-18
+Publisher: The Quantastic Journal
+Link: https://medium.com/the-quantastic-journal/the-decline-of-genius-where-did-all-the-world-changers-go-774068b2d243
+AltLink: https://tinyurl.com/yc2cma2p+ https://web.archive.org/web/20250624160638/https://moria.whyayh.com/rel/archive/article/culture/Decline-of-Genius_Ricky-Lanusse.pdf https://moria.whyayh.com/rel/archive/article/culture/Decline-of-Genius_Ricky-Lanusse.pdf
+
 Id: laptop-01
 Type: article
 Media: link

@@ -1043,6 +1043,10 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - Read the book's Editorial Review section for a good Q&amp;A with
   Jaron, that summarizes his initial points.
 
+** Id: lanusse-01
+- The AltLink is a PDF copy of the Medium article. This is because the
+  article is behind Medium's paywall, so it cannot be archived
+  directly.
 ** Id: le-01
 - What they are doing is basic bio-feedback.
 
