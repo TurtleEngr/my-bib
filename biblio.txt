@@ -20373,6 +20373,16 @@ Title: subversion: Issue 516
 Tags: toolsw, appcms, subversion, link
 Link: http://subversion.tigris.org/issues/show_bug.cgi?id=516
 
+Id: sullivan-01
+Type: Article
+Media: Link
+Title: How the Gay Rights Movement Radicalized, and Lost Its Way
+Author: Sullivan, Andrew
+Date: 2025-06-26
+Publisher: New York Times
+Link: https://www.nytimes.com/2025/06/26/opinion/gay-lesbian-trans-rights.html
+AltLink: https://tinyurl.com/wt6uumz9+ https://web.archive.org/web/20250626153810/https://www.nytimes.com/2025/06/26/opinion/gay-lesbian-trans-rights.html
+
 Id: summersolstice-01
 Type: media
 Media: video
