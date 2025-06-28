@@ -84,8 +84,10 @@ etc/% : $(mAuthTools)/bin/%
 
 # -------------
 
-README.md : gen/README.md
-	sed 's/^ *!\[GitHub /![GitHub /; s/^ *\[!\[alt]/[![alt]/' <$? >$@
+README.md : README.org
+	awk '/#\+BEGIN_EXPORT html/,/#\+END_EXPORT/ {next} {print $0}' <$< >gen/tmp.org
+	-pandoc -f org -t markdown <gen/tmp.org >$@
+	sed -i 's/^ *!\[GitHub /![GitHub /; s/^ *\[!\[alt]/[![alt]/' $@
 
 gen/README.html : README.org
 	awk '/#\+BEGIN_SRC/,/#\+END_SRC/ {next} {print $0}' <$< >gen/tmp.org
