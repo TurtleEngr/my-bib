@@ -16,6 +16,7 @@ mClone = git clone git@github.com:TurtleEngr/my-bib.git
 mTidy = tidy -config etc/tidyxhtml.conf
 
 mPubList = \
+	VERSION \
 	gen/README.html \
 	gen/bib.css \
 	gen/biblio.html \
