@@ -87,6 +87,11 @@ etc/% : $(mAuthTools)/bin/%
 README.md : gen/README.md
 	sed 's/^ *!\[GitHub /![GitHub /; s/^ *\[!\[alt]/[![alt]/' <$? >$@
 
+gen/README.html : README.org
+	awk '/#\+BEGIN_SRC/,/#\+END_SRC/ {next} {print $0}' <$< >gen/tmp.org
+	-org2html.sh -s2 -i gen/tmp.org -o $@
+	#[![alt](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://github.com/TurtleEngr/my-bib/blob/develop/LICENSE)
+
 gen/bib.css : etc/bib.css
 	ln -f $? $@
 

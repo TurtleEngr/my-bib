@@ -18,6 +18,11 @@ This file: <https://TurtleEngr.github.io/my-bib>
     [![GitHub Tag](https://img.shields.io/github/v/tag/TurtleEngr/my-bib)](https://github.com/TurtleEngr/my-bib/tags)
     [![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib%20is%3Aopen&style=flat&label=issues)](https://github.com/TurtleEngr/my-bib/issues)
 
+```{=html}
+<p><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"/> -
+<a href="https://github.com/TurtleEngr/my-bib/blob/develop/LICENSE" target="_blank">
+LICENSE</a></p>
+```
 My personal bibliography
 ------------------------
 
