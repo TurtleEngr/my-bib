@@ -66,9 +66,10 @@ publish release : save
 	git co develop
 	rsync -a $(mPubList) $(mServer):$(mRelRel)
 
-view :
-	-sensible-browser ./biblio.txt
+view : gen/biblio-raw.html
+	-sensible-browser gen/biblio-raw.html
 	#-sensible-browser gen/biblio-note.html
+	#-sensible-browser ./biblio.txt
 	#-sensible-browser gen/README.html
 
 # This will take a long time

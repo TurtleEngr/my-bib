@@ -13499,7 +13499,7 @@ Author: Meyer, Manu
 Date: 1994-01-17
 Publisher: Harvard Graduate School of Education
 Link: https://www2.hawaii.edu/~barkai/HO/Hooponopono.pdf
-AltLink: https://tinyurl.com/y6p453az+ https://moria.whyayh.com/rel/archive/article/culture/Hooponopono.pdf
+AltLink: https://tinyurl.com/2jmcxkb6+ https://web.archive.org/web/20250629172609/https://www2.hawaii.edu/~barkai/HO/Hooponopono.pdf https://tinyurl.com/y6p453az+ https://moria.whyayh.com/rel/archive/article/culture/Hooponopono.pdf
 
 Id: meyer-stoll-01
 Type: article
