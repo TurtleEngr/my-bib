@@ -3089,6 +3089,25 @@ Publisher: Oped News
 Tags: home, debt, link, old:opednews-10
 Link: http://www.opednews.com/articles/Screw-you-Mr-Potter-by-Michael-Chavers-100106-652.html
 
+Id: chenoweth-01
+Type: media
+Media: video
+Title: The success of nonviolent civil resistance
+Subtitle: Erica Chenoweth at TEDxBoulder 
+Author: Chenoweth, Erica
+Date: 2013-11-04
+Publisher: TED
+Link: https://www.youtube.com/watch?v=YJSehRlU34w
+
+Id: chenoweth-02
+Type: media
+Media: video
+Title:  Could The 3.5% Protest Rule Stop Donald Trump?
+Author: Chenoweth, Erica
+Date: 2025-06-15
+Publisher: Pod Save America
+Link: https://www.youtube.com/watch?v=x4syl-hZ9_I&t=3392s
+
 Id: chez-01
 Type: article
 Media: link

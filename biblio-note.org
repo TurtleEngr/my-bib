@@ -271,6 +271,10 @@ interact that matters.
 ** Id: cassella-01
 - See orginal source paper: sherwood-01. Also see: huber-01.
 
+** Id: chenoweth-01
+- See also: chenoweth-02
+** Id: chenoweth-02
+- See also: chenoweth-01
 ** Id: chiang-02
 - "When Silicon Valley tries to imagine superintelligence, what it
   comes up with is no-holds-barred capitalism."
