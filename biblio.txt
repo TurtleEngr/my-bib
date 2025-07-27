@@ -20400,7 +20400,7 @@ Author: Sullivan, Andrew
 Date: 2025-06-26
 Publisher: New York Times
 Link: https://www.nytimes.com/2025/06/26/opinion/gay-lesbian-trans-rights.html
-AltLink: https://tinyurl.com/wt6uumz9+ https://web.archive.org/web/20250626153810/https://www.nytimes.com/2025/06/26/opinion/gay-lesbian-trans-rights.html
+AltLink: https://tinyurl.com/2x4bb48u+ https://web.archive.org/web/20250726221809/https://moria.whyayh.com/rel/archive/article/culture/gay-lesbian-trans-rights.pdf https://moria.whyayh.com/rel/archive/article/culture/gay-lesbian-trans-rights.pdf
 
 Id: summersolstice-01
 Type: media
