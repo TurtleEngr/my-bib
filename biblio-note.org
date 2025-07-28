@@ -756,6 +756,40 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   whittling knife. But if you mess with that order in the slightest
   you'll sound like a maniac."
 
+** Id: gibbs-01
+- To avoid confirmation bias, I now preface all my serious prompts
+  with these directions.
+
+  In all your responses, please focus on substance over praise. Skip
+  unnecessary compliments, engage critically with my ideas, question
+  my assumptions, identify my biases, and offer counterpoints when
+  relevant. Don’t shy away from disagreement, and ensure that any
+  agreements you have are grounded in reason and evidence. Also, give
+  examples and sources.
+
+  When writing your response, please ensure you include the following
+  information: 1. A neutral, unbiased view of the request, unfiltered
+  by your desire to be a helpful and positive assistant. 2. A devil’s
+  advocate view, pointing out any logical counterpoints or things that
+  I have overlooked. 3. An encouraging, positive view of the request.
+
+  My question is:
+
+  [your question]
+
+** Id: gibbs-02
+- Prompt:
+
+  Output an overview of every single dimension of my request.
+  Find points of uncertainty.
+  Then, ask me as many clarifying questions as possible.
+
+- or
+
+  Output an overview of every single dimension of my request.
+  Find points of uncertainty.
+  Then, ask me at most 7 of your most relevant clarifying questions.
+
 ** Id: gilbert-01
 - Dan Gilbert presents research and data from his exploration of
   happiness -- sharing some surprising tests and experiments that you

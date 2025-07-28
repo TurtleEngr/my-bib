@@ -7645,6 +7645,24 @@ Title: Giant risk - Incredible trampoline stunt
 Tags: video
 Link: http://www.wimp.com/giantrisk/
 
+Id: gibbs-01
+Type: article
+Media: link
+Title: ChatGPT Is Poisoning Your Brain
+Subtitle: Here‘s How to Stop It Before It’s Too Late
+Author: Gibbs, Jordan
+Date: 2025-04-29
+Link: https://medium.com/@jordan_gibbs/chatgpt-is-poisoning-your-brain-b66c16ddb7ae
+AltLink: https://tinyurl.com/kyt24ktc+ https://web.archive.org/web/20250728232225/https://moria.whyayh.com/rel/archive/article/culture/chatgpt-is-poisoning-your-brain_2025-04-29.pdf https://moria.whyayh.com/rel/archive/article/culture/chatgpt-is-poisoning-your-brain_2025-04-29.pdf
+
+Id: gibbs-02
+Title: The Only ChatGPT Prompt that Matters
+Subtitle: Forget every prompt gimmick you’ve ever learned; this is all you need
+Author: Gibbs, Jordan
+Date: 2025:07-13
+Link: https://medium.com/@jordan_gibbs/the-only-chatgpt-prompt-that-matters-f16dd85e43b3
+AltLink: https://tinyurl.com/3z59re27+ https://web.archive.org/web/20250728232418/https://moria.whyayh.com/rel/archive/article/culture/the-only-chatgpt-prompt-that-matters_2025-07-13.pdf https://moria.whyayh.com/rel/archive/article/culture/the-only-chatgpt-prompt-that-matters_2025-07-13.pdf
+
 Id: gibson-01
 Type: book
 Media: Ebook
@@ -13923,8 +13941,10 @@ Link: http://moonmagazine.org/gordon-hempton-we-save-what-we-love-2013-02-14/
 Id: moore-01
 Type: media
 Media: video
-Title: Michael Moore Presents: Planet of the Humans; Full Documentary; Directed by Jeff Gibbs
-Tags: video, old:youtube-023
+Title: Michael Moore Presents: Planet of the Humans
+Subtitle: Full Documentary; Directed by Jeff Gibbs
+Author: Moore, Michael
+Tags: documentary, Jeff_Gibbs, video, old:youtube-023
 Link: https://www.youtube.com/watch?v=Zk11vI-7czE
 
 Id: moore-02
