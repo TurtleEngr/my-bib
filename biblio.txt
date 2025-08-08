@@ -16849,6 +16849,17 @@ Title: 14-year-old invents a solar-powered water purification process
 Tags: video
 Link: http://www.wimp.com/purificationjug/
 
+Id: putnam-01
+Type: article
+Media: link
+Title: Robert Putnam Knows Why You’re Lonely
+Author: Putnam, Robert
+Authors: Lulu Garcia-Navarro
+Date: 2024-07-13
+Publisher: The New York Times
+Link: https://www.nytimes.com/2024/07/13/magazine/robert-putnam-interview.html
+AltLink: https://tinyurl.com/4kapmvzs+ https://web.archive.org/web/20240713201117/https://www.nytimes.com/2024/07/13/magazine/robert-putnam-interview.html
+
 Id: quaid-01
 Type: media
 Media: DVD
