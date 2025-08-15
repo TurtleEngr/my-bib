@@ -19795,7 +19795,8 @@ ASIN: 1933608
 Id: spector-01
 Type: book
 Media: Ebook
-Title: MADNESS AT THE GATES OF THE CITY The Myth of American Innocence
+Title: Madness at the Gates of the City
+Subtitle: The Myth of American Innocence
 Author: Spector, Barry
 Date: 2010
 Publisher: Regent Press
