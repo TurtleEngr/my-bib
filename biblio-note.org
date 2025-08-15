@@ -271,6 +271,10 @@ interact that matters.
 ** Id: cassella-01
 - See orginal source paper: sherwood-01. Also see: huber-01.
 
+** Id: chenoweth-01
+- See also: chenoweth-02
+** Id: chenoweth-02
+- See also: chenoweth-01
 ** Id: chiang-02
 - "When Silicon Valley tries to imagine superintelligence, what it
   comes up with is no-holds-barred capitalism."
@@ -751,6 +755,40 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - So you can have a lovely little old rectangular green French silver
   whittling knife. But if you mess with that order in the slightest
   you'll sound like a maniac."
+
+** Id: gibbs-01
+- To avoid confirmation bias, I now preface all my serious prompts
+  with these directions.
+
+  In all your responses, please focus on substance over praise. Skip
+  unnecessary compliments, engage critically with my ideas, question
+  my assumptions, identify my biases, and offer counterpoints when
+  relevant. Don’t shy away from disagreement, and ensure that any
+  agreements you have are grounded in reason and evidence. Also, give
+  examples and sources.
+
+  When writing your response, please ensure you include the following
+  information: 1. A neutral, unbiased view of the request, unfiltered
+  by your desire to be a helpful and positive assistant. 2. A devil’s
+  advocate view, pointing out any logical counterpoints or things that
+  I have overlooked. 3. An encouraging, positive view of the request.
+
+  My question is:
+
+  [your question]
+
+** Id: gibbs-02
+- Prompt:
+
+  Output an overview of every single dimension of my request.
+  Find points of uncertainty.
+  Then, ask me as many clarifying questions as possible.
+
+- or
+
+  Output an overview of every single dimension of my request.
+  Find points of uncertainty.
+  Then, ask me at most 7 of your most relevant clarifying questions.
 
 ** Id: gilbert-01
 - Dan Gilbert presents research and data from his exploration of
@@ -1657,6 +1695,24 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: pukui-01
 - Ho'oponopono Page 60-77 (in PDF page 80-97)
 
+** Id: putnam-01
++ The full interview (audio) with a generated transcript can be found
+  here: https://www.youtube.com/watch?v=sqZ4Po4vMAQ
++ One fundamental problem: young males
++ More:
+  + Video: The 2023 Ithiel de Sola Pool Lecture by Robert D. Putnam
+    + https://www.youtube.com/watch?v=fxS35EppNfI
+    + The leading indicator of the I/We change is: culture and
+      morality https://youtu.be/fxS35EppNfI?si=y7b2DyJPShoWrdoU&t=3660
+      Things like Boy Scouts, Boy's club, fraternal organizations,
+      etc.
+  + Bowling Alone: Revised and Updated: The Collapse and Revival of
+    American Community
+    + https://www.amazon.com/dp/1982130849/
+  + Book: The Upswing: How America Came Together a Century Ago and How
+    We Can Do It Again
+    + https://www.amazon.com/dp/1982129158/
+
 ** Id: rachel-01
 - Issues 1 to 854:
 + https://web.archive.org/web/20051023185507fw_/http://www.rachel.org/BULLETIN/index.cfm?St=4
@@ -2009,8 +2065,12 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   nonprofit sector as a whole?
 
 *** My thought:
-- Yes! Even non-profits are not immune to the "survival instinct" in
+- Yes! Even non-profits are not immune to the "survival instinct" of
   large organizations.
+
+*** Another response: youtuber
+- The New York Times Thinks Gays Have Gone Too Far
+  + https://www.youtube.com/watch?v=vTyR3oIn6is
 
 ** Id: sunstein-01
 - Got this reference from David French's article:

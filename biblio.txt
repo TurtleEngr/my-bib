@@ -3089,6 +3089,25 @@ Publisher: Oped News
 Tags: home, debt, link, old:opednews-10
 Link: http://www.opednews.com/articles/Screw-you-Mr-Potter-by-Michael-Chavers-100106-652.html
 
+Id: chenoweth-01
+Type: media
+Media: video
+Title: The success of nonviolent civil resistance
+Subtitle: Erica Chenoweth at TEDxBoulder 
+Author: Chenoweth, Erica
+Date: 2013-11-04
+Publisher: TED
+Link: https://www.youtube.com/watch?v=YJSehRlU34w
+
+Id: chenoweth-02
+Type: media
+Media: video
+Title:  Could The 3.5% Protest Rule Stop Donald Trump?
+Author: Chenoweth, Erica
+Date: 2025-06-15
+Publisher: Pod Save America
+Link: https://www.youtube.com/watch?v=x4syl-hZ9_I&t=3392s
+
 Id: chez-01
 Type: article
 Media: link
@@ -7625,6 +7644,24 @@ Media: video
 Title: Giant risk - Incredible trampoline stunt
 Tags: video
 Link: http://www.wimp.com/giantrisk/
+
+Id: gibbs-01
+Type: article
+Media: link
+Title: ChatGPT Is Poisoning Your Brain
+Subtitle: Here‘s How to Stop It Before It’s Too Late
+Author: Gibbs, Jordan
+Date: 2025-04-29
+Link: https://medium.com/@jordan_gibbs/chatgpt-is-poisoning-your-brain-b66c16ddb7ae
+AltLink: https://tinyurl.com/kyt24ktc+ https://web.archive.org/web/20250728232225/https://moria.whyayh.com/rel/archive/article/culture/chatgpt-is-poisoning-your-brain_2025-04-29.pdf https://moria.whyayh.com/rel/archive/article/culture/chatgpt-is-poisoning-your-brain_2025-04-29.pdf
+
+Id: gibbs-02
+Title: The Only ChatGPT Prompt that Matters
+Subtitle: Forget every prompt gimmick you’ve ever learned; this is all you need
+Author: Gibbs, Jordan
+Date: 2025:07-13
+Link: https://medium.com/@jordan_gibbs/the-only-chatgpt-prompt-that-matters-f16dd85e43b3
+AltLink: https://tinyurl.com/3z59re27+ https://web.archive.org/web/20250728232418/https://moria.whyayh.com/rel/archive/article/culture/the-only-chatgpt-prompt-that-matters_2025-07-13.pdf https://moria.whyayh.com/rel/archive/article/culture/the-only-chatgpt-prompt-that-matters_2025-07-13.pdf
 
 Id: gibson-01
 Type: book
@@ -13904,8 +13941,10 @@ Link: http://moonmagazine.org/gordon-hempton-we-save-what-we-love-2013-02-14/
 Id: moore-01
 Type: media
 Media: video
-Title: Michael Moore Presents: Planet of the Humans; Full Documentary; Directed by Jeff Gibbs
-Tags: video, old:youtube-023
+Title: Michael Moore Presents: Planet of the Humans
+Subtitle: Full Documentary; Directed by Jeff Gibbs
+Author: Moore, Michael
+Tags: documentary, Jeff_Gibbs, video, old:youtube-023
 Link: https://www.youtube.com/watch?v=Zk11vI-7czE
 
 Id: moore-02
@@ -16809,6 +16848,17 @@ Media: video
 Title: 14-year-old invents a solar-powered water purification process
 Tags: video
 Link: http://www.wimp.com/purificationjug/
+
+Id: putnam-01
+Type: article
+Media: link
+Title: Robert Putnam Knows Why You’re Lonely
+Author: Putnam, Robert
+Authors: Lulu Garcia-Navarro
+Date: 2024-07-13
+Publisher: The New York Times
+Link: https://www.nytimes.com/2024/07/13/magazine/robert-putnam-interview.html
+AltLink: https://tinyurl.com/4kapmvzs+ https://web.archive.org/web/20240713201117/https://www.nytimes.com/2024/07/13/magazine/robert-putnam-interview.html
 
 Id: quaid-01
 Type: media
@@ -20382,7 +20432,7 @@ Author: Sullivan, Andrew
 Date: 2025-06-26
 Publisher: New York Times
 Link: https://www.nytimes.com/2025/06/26/opinion/gay-lesbian-trans-rights.html
-AltLink: https://tinyurl.com/wt6uumz9+ https://web.archive.org/web/20250626153810/https://www.nytimes.com/2025/06/26/opinion/gay-lesbian-trans-rights.html
+AltLink: https://tinyurl.com/2x4bb48u+ https://web.archive.org/web/20250726221809/https://moria.whyayh.com/rel/archive/article/culture/gay-lesbian-trans-rights.pdf https://moria.whyayh.com/rel/archive/article/culture/gay-lesbian-trans-rights.pdf
 
 Id: summersolstice-01
 Type: media
