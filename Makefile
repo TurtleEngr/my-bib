@@ -43,11 +43,11 @@ ci checkin commit : clean build
 
 update pull : doc.odt
 	git co develop
-	git pull origin develop
+	git pull --tags origin develop
 
 save push : ci build
 	git co develop
-	git pull origin develop
+	git pull --tags origin develop
 	incver.sh -m VERSION
 	rsync -a $(mPubList) docs/
 	mv docs/README.html docs/index.html
@@ -60,7 +60,7 @@ publish release : save
 	git tag -f -F VERSION "v$$(cat VERSION)"
 	git push --tags origin develop
 	git co main
-	git pull origin main
+	git pull --tags origin main
 	git merge develop
 	git push --tags origin main
 	git co develop
