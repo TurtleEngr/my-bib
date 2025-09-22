@@ -16860,6 +16860,56 @@ Publisher: The New York Times
 Link: https://www.nytimes.com/2024/07/13/magazine/robert-putnam-interview.html
 AltLink: https://tinyurl.com/4kapmvzs+ https://web.archive.org/web/20240713201117/https://www.nytimes.com/2024/07/13/magazine/robert-putnam-interview.html
 
+Id: putnam-02
+Type: book
+Media: Hardcover
+Title: The Upswing
+Subtitle: How America Came Together a Century Ago and How We Can Do It Again
+Author: Putnam, Robert
+Authors: Shaylyn Romney Garrett
+Date: 2020-10-13
+Publisher: Simon & Schuster
+Link: https://www.amazon.com/dp/198212914X/
+
+Id: putnam-03
+Type: book
+Media: Ebook
+Title: The Upswing
+Subtitle: How America Came Together a Century Ago and How We Can Do It Again
+Author: Putnam, Robert
+Authors: Shaylyn Romney Garrett
+Date: 2020-10-13
+Publisher: Simon & Schuster
+Link: https://www.amazon.com/dp/B07TFB4CTQ/
+
+Id: putnam-04
+Type: media
+Media: video
+Title: The 2023 Ithiel de Sola Pool Lecture by Robert D. Putnam
+Author: Putnam, Robert
+Date: 2023-09-22
+Publisher: Salzburg Global
+Link: https://www.youtube.com/watch?v=fxS35EppNfI
+
+Id: putnam-05
+Type: media
+Media: video
+Title: The Upswing | Robert D Putnam and Shaylyn Romney Garrett
+Author: Putnam, Robert
+Authors: Shaylyn Romney Garrett
+Publisher: BYU Kennedy Center
+Link: https://www.youtube.com/watch?v=Wh3Lffg3__o
+
+Id: putnam-06
+Type: book
+Media: Ebook
+Title: Bowling Alone
+Subtitle: Revised and Updated: The Collapse and Revival of American Community
+Author: Putnam, Robert
+Date: 2001-08-01
+Publisher: Simon & Schuster
+Link: https://www.amazon.com/dp/B003DYGOO6
+
 Id: quaid-01
 Type: media
 Media: DVD
