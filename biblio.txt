@@ -20139,7 +20139,7 @@ Subtitle: More Tales from My Travels
 Author: Starhawk
 Date: 2025-09-25
 Link: https://starhawk.substack.com/p/ecovillages-and-collaboration
-AltLink: TBD TINY ARC https://moria.whyayh.com/rel/archive/article/culture/Ecovillages_and_Collaboration-Starhawk_2025-09-25.pdf https://web.archive.org/web/20250926032855/https://starhawk.substack.com/p/ecovillages-and-collaboration
+AltLink: https://tinyurl.com/4pdrxynd+ https://web.archive.org/save/https://moria.whyayh.com/rel/archive/article/culture/Ecovillages_and_Collaboration-Starhawk_2025-09-25.pdf https://moria.whyayh.com/rel/archive/article/culture/Ecovillages_and_Collaboration-Starhawk_2025-09-25.pdf https://web.archive.org/web/20250926032855/https://starhawk.substack.com/p/ecovillages-and-collaboration
 
 Id: startupzone-01
 Type: article

@@ -2010,6 +2010,10 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: starhawk-01
 - First published 1994-06-01
 
+** Id: starhawk-02
+- She visited a number of intentional communities in Europe.
+- She lists elements for successful communities.
+
 ** Id: steffen-01
 - Example: more density will reduce energy needs more than just
   changing to renewable energies. What we really want is "access" to
