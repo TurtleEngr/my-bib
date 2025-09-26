@@ -20131,6 +20131,16 @@ Date: 2011-08-10
 Publisher: Bantam
 Link: https://www.amazon.com/dp/B003EJDGLE/
 
+Id: starhawk-02
+Type: article
+Media: link
+Title: Ecovillages and Collaboration
+Subtitle: More Tales from My Travels
+Author: Starhawk
+Date: 2025-09-25
+Link: https://starhawk.substack.com/p/ecovillages-and-collaboration
+AltLink: TBD TINY ARC https://moria.whyayh.com/rel/archive/article/culture/Ecovillages_and_Collaboration-Starhawk_2025-09-25.pdf https://web.archive.org/web/20250926032855/https://starhawk.substack.com/p/ecovillages-and-collaboration
+
 Id: startupzone-01
 Type: article
 Media: link
