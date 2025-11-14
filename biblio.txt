@@ -8863,6 +8863,15 @@ Title: Main Page - Gutenberg
 Tags: reference, link
 Link: http://www.gutenberg.org/wiki/Main_Page
 
+Id: gutmann-01
+Type: media
+Media: video
+Title:  Why do we celebrate incompetent leaders?
+Author: Gutmann, Martin 
+Publisher: TEXx Talks: TEDxBerlin 
+Tags: video, leaders
+Link: https://www.youtube.com/watch?v=DU06c7f9fzc
+
 Id: gyroscopes-01
 Type: article
 Media: link
