@@ -1641,6 +1641,23 @@ crises."--Keith Grint </blockquote>
   Gaia Theory. The climate descriptions are all a result of inorganic
   processes. Disappointing. However the photography is stunning."
 
+** Id: pearlman-01
+
+- Perlman asks: "What if, instead of using our brains to devise
+  conceptions of critical thinking, we eliminated the noise and
+  revolutionized a way to teach people how to think better by tracing
+  critical thinking back to its core evolutionary survival
+  mechanisms?"
+
+- What are the basic survival skills for all organisms:
+- <blockquote>
+  1. Perceive their environment
+  2. Sense danger vs. reward
+  3. Decide between danger and reward
+  4. Act on the decision
+  {pearlman-01}
+  </blockquote>
+
 ** Id: perel-02
 - In long-term relationships, we often expect our beloved to be both
   best friend and erotic partner.
