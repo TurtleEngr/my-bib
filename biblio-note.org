@@ -852,6 +852,26 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 ** Id: gross-01
 - Sterling engine, and dynamic mirrors
 
+** Id: gutmann-01
+- <i>"The evidence is clear that <b>boring management</b>
+  matters."</i>--Raffaella Sadun{gutmann-01}
+
+- Leader selection mistake: People often pick leaders because they
+  make for a good "story."  Excellent leaders have boring stories,
+  because they have avoided the conflicts that make for a good
+  story.
+
+<blockquote>We see leadership potentils in people who:
++ speak more (regardless of what they say)
++ appear confident (regardless of competence)
++ are perpetually busy (regardless of what they're doing)
+</blockquote>
+
+<blockquote>"since we reward people who are good in crises (and
+ignore people who are such good manager that there are very few
+crises), [people] soon learn to seek out (or reframe situations as)
+crises."--Keith Grint </blockquote>
+
 ** Id: haidt-01
 - See also: 2009-05-28 - Conservatives Live In a Different Moral
   Universe--and here's why it matters
@@ -1620,6 +1640,23 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 - I grep'ed through the full transcript. There is no mention of the
   Gaia Theory. The climate descriptions are all a result of inorganic
   processes. Disappointing. However the photography is stunning."
+
+** Id: pearlman-01
+
+- Perlman asks: "What if, instead of using our brains to devise
+  conceptions of critical thinking, we eliminated the noise and
+  revolutionized a way to teach people how to think better by tracing
+  critical thinking back to its core evolutionary survival
+  mechanisms?"
+
+- What are the basic survival skills for all organisms:
+- <blockquote>
+  1. Perceive their environment
+  2. Sense danger vs. reward
+  3. Decide between danger and reward
+  4. Act on the decision
+  {pearlman-01}
+  </blockquote>
 
 ** Id: perel-02
 - In long-term relationships, we often expect our beloved to be both
@@ -2557,6 +2594,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 
 ** Id: wikipedia-48
 - See also lafont-01
+
+** Id: wikipedia-62
+https://robertsrules.com/
 
 ** Id: wikipedia-66
 - This was collected with the Wikipedia Tool: "Cite this page"

@@ -8863,6 +8863,16 @@ Title: Main Page - Gutenberg
 Tags: reference, link
 Link: http://www.gutenberg.org/wiki/Main_Page
 
+Id: gutmann-01
+Type: media
+Media: video
+Title:  Why do we celebrate incompetent leaders?
+Author: Gutmann, Martin
+Date:  2024-05-23
+Publisher: TEXx Talks: TEDxBerlin 
+Tags: video, leaders
+Link: https://www.youtube.com/watch?v=DU06c7f9fzc
+
 Id: gyroscopes-01
 Type: article
 Media: link
@@ -15971,6 +15981,16 @@ Media: link
 Title: Impeach The Supreme Court 5
 Tags: link
 Link: http://www.peaceteam.net/action/pnum1030.php
+
+Id: pearlman-01
+Type: media
+Media: video
+Title: 4 tips for developing critical thinking skills
+Author: Pearlman, Steve, Ph.D.
+Date: 2025-05-06
+Publisher: TEXx Talks: TEDxCapeMay
+Tags: video, critical thinking
+Link: https://www.youtube.com/watch?v=Bry8J78Awq0
 
 Id: pebblebee-01
 Type: site
