@@ -21418,7 +21418,7 @@ Link: http://www.thomhartmann.com/2009/03/01/the-thom-hartmann-radio-program/
 Id: thomson-01
 Type: article
 Media: link
-Title: Bonhoeffer's "theory of stupidity"
+Title: Bonhoeffer's 'theory of stupidity'
 Subtitle: We have more to fear from stupid people than evil ones 
 Author: Thomson, Jonny
 Date: 2023-01-26
