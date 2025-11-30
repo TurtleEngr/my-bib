@@ -1,7 +1,8 @@
 *~
 .cvsignore
-README.html
 CVS/
+README.html
+alien.doc.odt
 backup/
 doc.odt
 gen/
