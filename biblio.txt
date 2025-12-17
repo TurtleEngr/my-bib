@@ -18259,6 +18259,15 @@ Author: Russell, Cameron
 Tags: video, old:youtube-025
 Link: http://www.youtube.com/watch?v=KM4Xe6Dlp0Y
 
+Id: russell-02
+Type: media
+Media: video
+Title: More Perfect Union
+Author: Russell, John
+Date: 2025-12-12
+Publisher: More Perfect Union
+Link: https://www.youtube.com/watch?v=dQMZR64G_eM
+
 Id: russianbalalaika-01
 Type: media
 Media: video
