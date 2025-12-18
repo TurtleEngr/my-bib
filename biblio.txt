@@ -4286,8 +4286,8 @@ Tags: home, tofile, set6, link
 Link: http://dbaron.org/sat/archive.html
 
 Id: deal-01
-Type: article
-Media: link
+Type: site
+Media: org
 Title: About Doughnut Economics
 Subtitle: Meet the Doughnut and the concepts at the heart of Doughnut Economics.
 Author: DEAL Community
