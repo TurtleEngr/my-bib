@@ -18262,7 +18262,7 @@ Link: http://www.youtube.com/watch?v=KM4Xe6Dlp0Y
 Id: russell-02
 Type: media
 Media: video
-Title: More Perfect Union
+Title: Italy's Radical Solution to Extreme Inequality 
 Author: Russell, John
 Date: 2025-12-12
 Publisher: More Perfect Union
@@ -18599,6 +18599,15 @@ Media: site
 Title: Santa Clara County Model Aircraft Skypark
 Tags: home, make, rcplanes, link
 Link: http://www.sccmas.org/
+
+Id: schasfoort-01
+Type: media
+Media: video
+Title: How scientists radically reduced US gun violence (no gun ban)
+Author: Schasfoort, Joeri
+Date: 2025-12-15
+Publisher: Money & Macro
+Link: https://www.youtube.com/watch?v=F-9RCKKvoJw
 
 Id: schaub-01
 Type: article

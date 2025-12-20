@@ -1933,6 +1933,14 @@ crises."--Keith Grint </blockquote>
 ** Id: science-slashdot-01
 - Good, but probably too late
 
+** Id: schasfoort-01
+- SOURCES: I've linked my sources in the blog that goes along with
+  this video. Links are in the text.
+  https://www.moneymacro.rocks/blog
+
+- Written by Alejandro Iribas De La Puerta and Dr. Joeri Schasfoort.
+  Edited by Natalia Karpacz.
+
 ** Id: scott-02
 - by Tom Scott
 
