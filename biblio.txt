@@ -386,6 +386,17 @@ Title: Best Brownies Recipe - Allrecipes.com; Allrecipes
 Tags: misc, recipe, link
 Link: https://www.allrecipes.com/recipe/10549/best-brownies/
 
+Id: almgren=01
+Type: article
+Media: link
+Title: Democracy Is Done: The Rise of Corporate Monarchy
+Subtitle: The Real Agenda Behind Elon's Coup & Trump's Chaotic First 3 Weeks
+Author: Almgren, Shane
+Date: 2025-02-14
+Publisher: shanealmgren.substack.com
+Link: https://shanealmgren.substack.com/p/democracy-is-done-the-rise-of-corporate
+AltLink: https://tinyurl.com/2sfru4dd+ https://web.archive.org/web/20250301021219/https://shanealmgren.substack.com/p/democracy-is-done-the-rise-of-corporate
+
 Id: almanac-01
 Type: site
 Media: org
@@ -867,6 +878,17 @@ Media: video
 Title: Dan Ariely asks, Are we in control of our own decisions?
 Tags: ted, biblio
 Link: http://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions.html
+
+Id: armitage-01
+Type: article
+Media: link
+Title: Being Dangerous
+Subtitle: How to Go from Activist to Operative, A Field Guide
+Author: Armitage, Christopher
+Date: 2025-12-21
+Publisher: The Existentialist Republic
+Link: https://tinyurl.com/bdfvr8zj+
+AltLink: https://tinyurl.com/rc8fytxh+ https://web.archive.org/save/https://moria.whyayh.com/rel/archive/article/culture/Being_Dangerous_2025-12-21.pdf https://moria.whyayh.com/rel/archive/article/culture/Being_Dangerous_2025-12-21.pdf https://drive.google.com/file/d/1QTYQw4TH2w_N8vpAdg8i8d2InFFlbkoc/view https://tinyurl.com/35fw685c+ https://substack.com/redirect/d42ce1ab-0e37-4dfc-9e44-5f8fb97a7055?j=eyJ1IjoicWw3dGQifQ.9Gt9sgmlyOU_CLFOrc-dWm_X7_L1Jkd0EIZq2I0L8fM
 
 Id: armstrong-01
 Type: media
