@@ -1870,6 +1870,21 @@ crises."--Keith Grint </blockquote>
 - [[http://www.youtube.com/watch?v=uURhPZgjHfw][Jeanne Robertson at the Grand Ole Opry]]
 - [[http://www.youtube.com/watch?v=jICYirpMgX4][Jeanne Robertson "The Golfer's Christening"]]
 
+** Id: robins-01
+
+Robins' studies found high rates of heroin use (34%) and symptoms of
+heroin dependence (20%) among US soldiers while serving in Vietnam. In
+the first year after returning to the United States only 1% became
+re-addicted to heroin, although 10% tried the drug after their
+return.{robins-01}
+
+- Main Study: See: robins-01
+Robins, L. N., Davis, D. H., & Nurco, D. N. (1974). How Permanent Was Vietnam Drug Addiction? American Journal of Public Health, 64(12 Suppl), 38-43.
+AJPH: https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.64.12_Suppl.38
+
+https://tinyurl.com/bdd822z9+
+https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.64.12_Suppl.38
+
 ** Id: rodgers-01
 - by Travis Rodgers
 - Answer: Time (duh)
@@ -1938,8 +1953,14 @@ crises."--Keith Grint </blockquote>
   this video. Links are in the text.
   https://www.moneymacro.rocks/blog
 
-- Written by Alejandro Iribas De La Puerta and Dr. Joeri Schasfoort.
-  Edited by Natalia Karpacz.
+- https://www.moneymacro.rocks/2025-12-15-guns/
+
+- https://link.springer.com/article/10.1007/s10940-020-09490-6
+  - Cite this article, but can't access behind paywall.<br>
+  + Chalfin, A., Hansen, B., Lerner, J. et al. Reducing Crime Through
+    Environmental Design: Evidence from a Randomized Experiment of
+    Street Lighting in New York City. J Quant Criminol 38, 127–157
+    (2022). https://doi.org/10.1007/s10940-020-09490-6
 
 ** Id: scott-02
 - by Tom Scott

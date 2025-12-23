@@ -17966,6 +17966,17 @@ Author: Robbins, Tony
 Tags: video, old:ted-30
 Link: http://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do.html
 
+Id: robins-02
+Type: article
+Media: link
+Title: How Permanent Was Vietnam Drug Addiction?
+Author: Robins, Lee. N.
+Authors: Darlene. H Davis, David Nurco
+Date: 1974
+Publisher: American Journal of Public Health, 64(12 Suppl), 38-43.
+Link: https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.64.12_Suppl.38
+Altlink: https://tinyurl.com/bdd822z9+ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.64.12_Suppl.38
+
 Id: robertnz-01
 Type: article
 Media: link
@@ -18630,6 +18641,7 @@ Author: Schasfoort, Joeri
 Date: 2025-12-15
 Publisher: Money & Macro
 Link: https://www.youtube.com/watch?v=F-9RCKKvoJw
+AltLink: https://www.moneymacro.rocks/2025-12-15-guns/
 
 Id: schaub-01
 Type: article
