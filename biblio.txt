@@ -10993,6 +10993,18 @@ Title: First Steps Tutorial - KeePass
 Tags: home, make, crypt, link
 Link: http://keepass.info/help/base/firststeps.html
 
+Id: kelly-01
+Type: article
+Media: link
+Title: Mutual Aid 101
+Subtitle: Solidarity, Survival, and Resistance
+Author: Kelly, Madelyn
+Authors: Paige Kelly, and Tom Llewellyn
+Date: 2025-02-20
+Publisher: Shareable
+Link: https://www.shareable.net/toolkit/mutual-aid-toolkit/
+AltLink: https://tinyurl.com/r27m37v9+ https://web.archive.org/web/20251223225458/https://moria.whyayh.com/rel/archive/article/culture/Mutual-Aid-101-Toolkit.pdf https://moria.whyayh.com/rel/archive/article/culture/Mutual-Aid-101-Toolkit.pdf
+
 Id: kennedy-01
 Type: book
 Media: Ebook

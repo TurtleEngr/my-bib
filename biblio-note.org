@@ -935,6 +935,12 @@ crises."--Keith Grint </blockquote>
   - State: Kharkiv
   - Country: UA (Ukraine)
 
+** Id: kelly-01
+- An introductory toolkit for mutual aid organizing—from starting a
+  group to sustaining it for the long haul
+
+- https://indivisiblepv.info/2025/02/some-actions-that-are-not-protesting-or-voting/
+
 ** Id: king-02
 - See also democracynow-02
 
