@@ -6569,6 +6569,16 @@ Tags: biblio
 ISBN: 9780671892586
 ASIN: 13257755
 
+Id: feistel-01
+Type: article
+Media: link
+Title: Peace as a natural state
+Author: Feistel, Felrx
+Date: 2025-12-24
+Publication: Open-Publishing Newswire
+Link: https://www.indybay.org/newsitems/2025/12/24/18882397.php
+AltLink: https://tinyurl.com/c8a58p5s+ https://web.archive.org/web/20251224175552/https://www.indybay.org/newsitems/2025/12/24/18882397.php
+
 Id: feldman-01
 Type: media
 Media: DVD
