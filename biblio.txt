@@ -7219,6 +7219,17 @@ Title: Aquarium plants, plants for your aquarium
 Tags: home, make, aquarium, link
 Link: http://freshwateraquariumplants.com/index.html
 
+Id: frick-01
+Type: article
+Media: link
+Title: The Library of Things Toolkit
+Subtitle: A comprehensive guide to starting (and growing) a sharing hub in your community
+Author: Frick, Leanna
+Authors: Paige Kelly and Tom Llewellyn
+Publisher: Sharable
+Link: https://www.shareable.net/toolkit/library-of-things-toolkit/
+AltLink: https://tinyurl.com/2s4845jj+ https://web.archive.org/web/20251223235629/https://moria.whyayh.com/rel/archive/article/culture/Library-of-Things-Toolkit.pdf https://moria.whyayh.com/rel/archive/article/culture/Library-of-Things-Toolkit.pdf
+
 Id: fried-01
 Type: media
 Media: video
