@@ -9934,6 +9934,15 @@ Subtitle: Sites Allow You To Create Army Of Virtual Assistants
 Tags: link
 Link: http://www.huffingtonpost.com/2008/06/25/outsource-your-life-sites_n_109289.html
 
+Id: hughes-01
+Type: media
+Media: video
+Title: Why did we stop caring about disinformation?
+Author: Hughes, Skylar
+Date: 2025-12-16
+Publisher: TEDxDuke
+Link: https://www.youtube.com/watch?v=Q9b7ZQh28GY
+
 Id: hugsamsterdam-01
 Type: media
 Media: video
