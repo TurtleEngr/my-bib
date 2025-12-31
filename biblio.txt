@@ -22777,6 +22777,15 @@ Title: How to safely end social distancing and ease the Covid-19 pandemic - Vox
 Tags: reference, misc, link
 Link: https://www.vox.com/science-and-health/2020/3/26/21192211/coronavirus-covid-19-social-distancing-end
 
+Id: voysey-01
+Type: media
+Media: video
+Title: Why we suck at making friends (and 3 ways to improve)
+Author: Voysey, Sheridan
+Date: 2025-12-11
+Publisher: TEDx St Albans
+Link: https://www.youtube.com/watch?v=h3oXB4I89YM
+
 Id: vrealities-01
 Type: article
 Media: link
