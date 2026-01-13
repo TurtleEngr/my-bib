@@ -16509,6 +16509,17 @@ Publisher: Walt Disney Studios
 Tags: biblio
 ASIN: 16707643
 
+Id: pogue-01
+Type: article
+Media: link
+Title: This Rural Congresswoman Thinks Democrats Have Lost Their Minds
+Subtitle: She Has a Point
+Author: Pogue, James 
+Date: 2026-01-12
+Publisher: New York Times
+Link: https://www.nytimes.com/2026/01/12/opinion/marie-gluesenkamp-perez.html
+AltLink: https://tinyurl.com/rvbtsz5k+ https://web.archive.org/web/20260113013011/https://moria.whyayh.com/rel/archive/article/culture/Rural_Congresswoman_Thinks_Democrats_Have_Lost_Their_Minds.pdf https://moria.whyayh.com/rel/archive/article/culture/Rural_Congresswoman_Thinks_Democrats_Have_Lost_Their_Minds.pdf
+
 Id: politics-slashdot-01
 Type: article
 Media: link
