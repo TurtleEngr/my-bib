@@ -8662,6 +8662,16 @@ Date: 1981-05-20
 Link: https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf
 AltLink: https://tinyurl.com/46h2nc3v+ https://web.archive.org/web/20240104100722/https://www.clarewgraves.com/articles_content/1981_handout/1981_summary.pdf https://moria.whyayh.com/rel/archive/article/culture/1981_summary.pdf
 
+Id: gray-01
+Type: book
+Media: Ebook
+Title: Outraged
+Subtitle: Why We Fight About Morality and Politics and How to Find Common Ground
+Author: Gray, Kurt
+Date: 2025-01-14
+Publisher: Pantheon
+Link: https://www.amazon.com/dp/B0D1QDT5XL/
+
 Id: graziano-01
 Type: article
 Media: link
