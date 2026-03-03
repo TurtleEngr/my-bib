@@ -1426,6 +1426,17 @@ Title: Kyle Chin: Simple, beautiful longboarding
 Tags: video
 Link: http://www.wimp.com/beautifullongboarding/
 
+Id: becker-01
+Type: media
+Media: video
+Title: Top Intelligence Advisor: "Epstein Was A Front."
+Subtitle: They Can See Everything, Even Your Messages!
+Author: Becker, Gavin de
+Date: 2026-03-02
+Publisher: The Diary Of A CEO
+Tags: youtube
+Link: https://www.youtube.com/watch?v=t38LbMVoPCs
+
 Id: beethoven-01
 Type: media
 Media: video
