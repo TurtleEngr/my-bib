@@ -11675,6 +11675,16 @@ Title: 3.2 ac Rural Ag/Equestrian Building Site - Property - LandAndFarm.com - L
 Tags: misc, link
 Link: http://www.landandfarm.com/property/3.2_ac_Rural_Ag_Equestrian_Building_Site-1640558/
 
+Id: landemore-01
+Type: article
+Media: link
+Title: No Shy Person Left Behind
+Author: Landemore, Helene 
+Date: 2026-04-07
+Publisher: New York Times
+Link: https://www.nytimes.com/2026/04/07/opinion/political-power-citizens-assemblies.html
+AltLink: https://web.archive.org/web/20260407171859/https://moria.whyayh.com/rel/archive/article/culture/No_Shy_Person_Left_Behind-2026-04-07.pdf https://moria.whyayh.com/rel/archive/article/culture/No_Shy_Person_Left_Behind-2026-04-07.pdf
+
 Id: landing-google-01
 Type: article
 Media: link
