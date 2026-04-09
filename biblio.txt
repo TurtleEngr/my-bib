@@ -11037,6 +11037,18 @@ Publisher: Universal Pictures Home Entertainment
 Tags: biblio
 ASIN: 16557420
 
+Id: keen-01
+Type: media
+Media: video
+Title: Financial Crash Expert
+Subtitle: In 3 months Weâ€™ll Enter A Famine! If Iran Doesnâ€™t Surrender It's The End!
+Author: Keen, Steve
+Date: 2026-04-06
+Publisher: The Diary Of A CEO
+Tags: youtube
+Link: https://www.youtube.com/watch?v=PUO51DoSEqk
+AltLink: https://moria.whyayh.com/rel/archive/article/culture/financial-crash-expert_2026-04-06.html https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/Financial_Crash_Expert_2026-04-06.mp4
+
 Id: keepass-01
 Type: article
 Media: link
