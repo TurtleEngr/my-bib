@@ -38,7 +38,6 @@ usage :
 	@echo 'setup'
 
 build : clean gen $(mPubList) README.md gen/todo.html
-	incver.sh -p VERSION
 
 clean :
 	-find . -name '*~' -exec rm {} \;
