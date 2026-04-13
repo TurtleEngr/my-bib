@@ -25,6 +25,18 @@ mPubList = \
 
 # ======================================
 
+usage :
+	@echo 'Usage:'
+	@echo 'clean, dist-clean'
+	@echo 'build, gen'
+	@echo 'ci, checkin, commit (ver -p)'
+	@echo 'update, pull'
+	@echo 'save, push (ver -m)'
+	@echo 'publish, release, merge-to-main (ver -M)'
+	@echo 'view'
+	@echo 'status'
+	@echo 'setup'
+
 build : clean gen $(mPubList) README.md gen/todo.html
 	incver.sh -p VERSION
 
@@ -39,6 +51,7 @@ gen :
 	-mkdir $@
 
 ci checkin commit : clean build
+	incver.sh -p VERSION
 	git commit -am "Updated"
 
 update pull : doc.odt
@@ -66,9 +79,9 @@ publish release : save
 	git co develop
 	rsync -a $(mPubList) $(mServer):$(mRelRel)
 
-view : gen/biblio-raw.html
+view : gen/biblio-raw.html gen/biblio-note.html
 	-sensible-browser gen/biblio-raw.html
-	#-sensible-browser gen/biblio-note.html
+	-sensible-browser gen/biblio-note.html
 	#-sensible-browser ./biblio.txt
 	#-sensible-browser gen/README.html
 

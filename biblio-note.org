@@ -1601,6 +1601,14 @@ Dr. Landemore is a political theorist at Yale and the author of
 ** Id: o-keefe-01
 - It improves the survival of the community.
 
+** Id: oecd-01
+- Search for: Citizens’ assemblies
+- <blockquote>The OECD (Organisation for Economic Co-operation and
+  Development) is a forum and knowledge hub for data, analysis and
+  best practices in public policy. We work with over 100 countries
+  across the world to build stronger, fairer and cleaner societies –
+  helping to shape better policies for better lives.</blockquote>
+
 ** Id: olito-01
 - "When words are spelled the same and sound the same but have
   different meanings, then they are called homonyms. When they are
