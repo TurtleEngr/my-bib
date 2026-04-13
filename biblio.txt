@@ -11695,7 +11695,7 @@ Author: Landemore, Helene
 Date: 2026-04-07
 Publisher: New York Times
 Link: https://www.nytimes.com/2026/04/07/opinion/political-power-citizens-assemblies.html
-AltLink: https://web.archive.org/web/20260407171859/https://moria.whyayh.com/rel/archive/article/culture/No_Shy_Person_Left_Behind-2026-04-07.pdf https://moria.whyayh.com/rel/archive/article/culture/No_Shy_Person_Left_Behind-2026-04-07.pdf
+AltLink: https://tinyurl.com/ysasetda+ https://web.archive.org/web/20260407171859/https://moria.whyayh.com/rel/archive/article/culture/No_Shy_Person_Left_Behind-2026-04-07.pdf https://moria.whyayh.com/rel/archive/article/culture/No_Shy_Person_Left_Behind-2026-04-07.pdf
 
 Id: landing-google-01
 Type: article
@@ -24139,6 +24139,18 @@ Media: site
 Title: Women's International League For Peace and Freedom
 Tags: home, tofile, set4, link
 Link: http://www.wilpf.org/
+
+Id: wilson-01
+Type: article
+Media: link
+Title: Getting Real About Citizens’ Assemblies
+Subtitle: A New Theory of Change for Citizens’ Assemblies
+Author: Wilson, Rich
+Authors: Claire Mellier Print
+Date:  2023-10-10
+Publisher: European Democracy Hub
+Link: https://europeandemocracyhub.epd.eu/getting-real-about-citizens-assemblies-a-new-theory-of-change-for-citizens-assemblies/
+AltLink: https://tinyurl.com/bdj5nu3u+ https://web.archive.org/web/20260413192508/https://europeandemocracyhub.epd.eu/getting-real-about-citizens-assemblies-a-new-theory-of-change-for-citizens-assemblies/
 
 Id: wilytech-01
 Type: site
