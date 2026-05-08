@@ -195,6 +195,12 @@ possible level.
 - bottomupmind.com is gone.
 - Some missing articles can be found in Internet Archive or OpEdNews
   (using google.com)
+** Id: braga-01
+- I took a guess at the date of the article. It is somewhere between
+  2022 and 2025. (Why are dates left off of web pages? Maybe the
+  thought is that the information will be ignored a few years after
+  the date, so don't add a date.)
+
 ** Id: brand-04
 - Excellent analysis.
 

@@ -27,15 +27,15 @@ mPubList = \
 
 usage :
 	@echo 'Usage:'
-	@echo 'clean, dist-clean'
-	@echo 'build, gen'
-	@echo 'ci, checkin, commit (ver -p)'
-	@echo 'update, pull'
-	@echo 'save, push (ver -m)'
-	@echo 'publish, release, merge-to-main (ver -M)'
-	@echo 'view'
-	@echo 'status'
-	@echo 'setup'
+	@echo '    clean, dist-clean'
+	@echo '   *update, pull'
+	@echo '   *build, gen'
+	@echo '   *ci, checkin, commit (ver -p)'
+	@echo '   *save, push (ver -m)'
+	@echo '   *publish, release, merge-to-main (ver -M)'
+	@echo '    view'
+	@echo '    status'
+	@echo '    setup'
 
 build : clean gen $(mPubList) README.md gen/todo.html
 
