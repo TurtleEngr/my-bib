@@ -21030,6 +21030,18 @@ Title: Temporary Tattoos for Adults; TattooSales.com
 Tags: home, buy, link
 Link: http://www.tattoosales.com/adulttemporarytattoos.aspx?page=11
 
+Id: taub-01
+Type: article
+Media: link
+Title: Actually, Democracy Dies in H.R.
+Subtititle: New research sheds light on how mediocre employees help would-be authoritarians maintain power.
+Author: Taub, Amanda
+Date: 2026-05-18
+Publisher: New York Times
+Tags: Adam_Scharpf, Christian_Glassel
+Link: https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html
+AltLink: https://tinyurl.com/yvjwvbdv+ https://web.archive.org/web/20260520173513/https://moria.whyayh.com/rel/archive/article/culture/Actually_Democracy_Dies_in_H.R_2026-05-18.pdf https://moria.whyayh.com/rel/archive/article/culture/Actually_Democracy_Dies_in_H.R_2026-05-18.pdf
+
 Id: taylor-01
 Type: media
 Media: video

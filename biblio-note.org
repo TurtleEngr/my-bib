@@ -2310,6 +2310,32 @@ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi
 ** Id: tamera-03
 - Tamera's Home page
 
+** Id: taub-01
+
+<blockquote>
+"Making a Career in Dictatorship," a new book by two German political
+scientists, Adam Scharpf and Christian Glassel, reads like what you
+might get if you crossed Hannah Arendt’s ideas about the “banality of
+evil” with a business school guide on how to get the most out of low
+performers.
+</blockquote>
+
+<blockquote>
+Mr. Glassel and Mr. Scharpf are concerned that President Trump’s
+planned expansion of ICE, in particular, could make it an ideal venue
+for “detouring” by ambitious underperformers who could be deployed for
+anti-democratic purposes. The worry is especially profound given the
+storming of the Capitol at the end of Mr. Trump’s first term, albeit
+by a less organized band of loyalists.
+
+The playbook for a leader to create a loyal security service, they
+said, is to set up or repurpose an institution that can become a
+“second ladder” for career promotions, resource it generously and
+ensure that the barriers to getting hired there are low, signaling
+that it offers career opportunities to those who cannot find them
+elsewhere.
+</blockquote>
+
 ** Id: tcm-01
 - We're building a movement of people across the United States to
   reclaim our future by initiating an emergency-speed, whole-society
