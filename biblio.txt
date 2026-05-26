@@ -19579,7 +19579,7 @@ Link: http://www.wimp.com/simpletoy/
 Id: sinek-01
 Type: media
 Media: video
-Title:  You're Being Lied To About AI's Real Purpose! We're Teaching Our Kids To Not Be Human! 
+Title: You're Being Lied To About AI's Real Purpose! We're Teaching Our Kids To Not Be Human! 
 Author: Sinek, Simon 
 Date: 2025-05-26
 Publisher: The Diary Of A CEO
