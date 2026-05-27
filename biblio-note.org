@@ -1175,6 +1175,25 @@ Dr. Landemore is a political theorist at Yale and the author of
 - Read the book's Editorial Review section for a good Q&amp;A with
   Jaron, that summarizes his initial points.
 
+** Id: lanier-07
+00:00 - Introduction: Jaron Lanier
+06:17 - The Thinking Behind Virtual Reality
+08:33 - Why VR Flopped
+16:57 - Social Media Addiction Lawsuits
+21:42 - The Social Media Addicted Personality
+22:42 - The Internet’s Business Model
+30:28 - Is Social Media Equally Bad for Everyone? 
+36:22 - AI’s Changes to the Internet
+38:39 - Stop Mythologizing AI
+43:30 - There Is No AI
+52:24 - Data Dignity & Inventing a New Jobs Under AI
+58:19 - Why Privacy is Difficult
+  The right to be left alone. Don't try to predict or understand me so
+  that you can manipulate me.
+01:06:20 - Is the Internet Toast? 
+01:08:28 - Everyone’s Suing AI
+01:10:54 - Closing Thoughts
+
 ** Id: lanusse-01
 - The AltLink is a PDF copy of the Medium article. This is because the
   article is behind Medium's paywall, so it cannot be archived
@@ -2312,29 +2331,25 @@ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi
 
 ** Id: taub-01
 
-<blockquote>
-"Making a Career in Dictatorship," a new book by two German political
-scientists, Adam Scharpf and Christian Glassel, reads like what you
-might get if you crossed Hannah Arendt’s ideas about the “banality of
-evil” with a business school guide on how to get the most out of low
-performers.
-</blockquote>
+<blockquote> "Making a Career in Dictatorship," a new book by two
+German political scientists, Adam Scharpf and Christian Glassel, reads
+like what you might get if you crossed Hannah Arendt’s ideas about the
+“banality of evil” with a business school guide on how to get the most
+out of low performers.  </blockquote>
 
-<blockquote>
-Mr. Glassel and Mr. Scharpf are concerned that President Trump’s
-planned expansion of ICE, in particular, could make it an ideal venue
-for “detouring” by ambitious underperformers who could be deployed for
-anti-democratic purposes. The worry is especially profound given the
-storming of the Capitol at the end of Mr. Trump’s first term, albeit
-by a less organized band of loyalists.
+<blockquote> Mr. Glassel and Mr. Scharpf are concerned that President
+Trump’s planned expansion of ICE, in particular, could make it an
+ideal venue for “detouring” by ambitious underperformers who could be
+deployed for anti-democratic purposes. The worry is especially
+profound given the storming of the Capitol at the end of Mr. Trump’s
+first term, albeit by a less organized band of loyalists.
 
 The playbook for a leader to create a loyal security service, they
 said, is to set up or repurpose an institution that can become a
 “second ladder” for career promotions, resource it generously and
 ensure that the barriers to getting hired there are low, signaling
 that it offers career opportunities to those who cannot find them
-elsewhere.
-</blockquote>
+elsewhere.  </blockquote>
 
 ** Id: tcm-01
 - We're building a movement of people across the United States to

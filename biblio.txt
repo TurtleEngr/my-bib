@@ -11821,6 +11821,17 @@ Publisher: wikipedia.org
 Link: https://en.wikipedia.org/wiki/Jaron_Lanier
 AltLink: https://tinyurl.com/cny25pbf+ https://web.archive.org/web/20240829232309/https://en.wikipedia.org/wiki/Jaron_Lanier
 
+Id: lanier-07
+Type: media
+Media: video
+Title: There Is No AI, Really (It’s Just People), with Jaron Lanier
+Author: Lanier, Jaron
+Authors: Neil deGrasse Tyson, Negin Farsad, and Gary O’Reilly
+Date: 2026-05-23
+Publisher: StarTalk Podcast
+Link: https://www.youtube.com/watch?v=TTppvBU2rU4
+AltLink: https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/There_Is_No_AI_Really_It_s_Just_People_with_Jaron_Lanier.webm
+
 Id: lanlinkup-01
 Type: article
 Media: link
