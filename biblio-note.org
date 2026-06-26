@@ -2280,12 +2280,17 @@ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi
 + [[http://www.youtube.com/watch?v=kHMNGjTgruk][part1]] 
 + [[http://www.youtube.com/watch?v=mbaVmQqjV0Q][part2]] 
 + [[http://www.youtube.com/watch?v=xFkx_YZiJss][part3]] 
-+ part4 - missing 
-+ [[http://www.youtube.com/watch?v=FQfjEJaLGRI][part5]] +
-+ [[http://www.youtube.com/watch?v=Fi9sodp15F8][part6]] [[http://www.youtube.com/watch?v=HcLzaIFapS4][
-+ part7]] 
-+ part8 -missing
-- Another source: [[https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html]]
++ part4 - missing from YouTube
++ [[http://www.youtube.com/watch?v=FQfjEJaLGRI][part5]]
++ [[http://www.youtube.com/watch?v=Fi9sodp15F8][part6]] 
++ [[http://www.youtube.com/watch?v=HcLzaIFapS4][part7]]
++ part8 - missing from YouTube
+
+- Another source:
+  [[https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html]]
+
+- I found all the parts, and saved them at:
+  https://moria.whyayh.com/rel/archive/video/public/a-planet-for-the-taking/
 
 ** Id: tallbear-01
 *** Chain that lead to Tallbear

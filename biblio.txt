@@ -20855,8 +20855,10 @@ Id: suzuki-02
 Type: media
 Media: video
 Title: A Planet for the Taking (series) by David Suzuki
+Date: 1985
 Tags: video
 Link: https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html
+AltLink: https://tinyurl.com/3c9ppnuy+ https://web.archive.org/web/20251121224806/https://www.sustainable.soltechdesigns.com/a-planet-for-the-taking.html https://www.imdb.com/title/tt4088948/
 
 Id: svk-bestpractical-01
 Type: site
