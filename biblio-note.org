@@ -1805,6 +1805,120 @@ Dr. Landemore is a political theorist at Yale and the author of
   winds. Change your altitude, drop ballast or let out air, to find
   new winds, new paths.
 
+** Id: piketty-01
++ From GoodReads
+  + https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century
+  + https://web.archive.org/web/20260520040837/https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century
+  - <blockquote>
+    - What are the grand dynamics that drive the accumulation and
+      distribution of capital? Questions about the long-term evolution
+      of inequality, the concentration of wealth, and the prospects
+      for economic growth lie at the heart of political economy. But
+      satisfactory answers have been hard to find for lack of adequate
+      data and clear guiding theories. In Capital in the Twenty-First
+      Century, Thomas Piketty analyzes a unique collection of data
+      from twenty countries, ranging as far back as the eighteenth
+      century, to uncover key economic and social patterns. His
+      findings will transform debate and set the agenda for the next
+      generation of thought about wealth and inequality.
+    - Piketty shows that modern economic growth and the diffusion of
+      knowledge have allowed us to avoid inequalities on the
+      apocalyptic scale predicted by Karl Marx. But we have not
+      modified the deep structures of capital and inequality as much
+      as we thought in the optimistic decades following World War
+      II. <b>The main driver of inequality—the tendency of returns on
+      capital to exceed the rate of economic growth—today threatens to
+      generate extreme inequalities that stir discontent and undermine
+      democratic values.</b> But economic trends are not acts of
+      God. Political action has curbed dangerous inequalities in the
+      past, Piketty says, and may do so again.</blockquote>
+
++ Capital in the Twenty-first Century by Thomas Piketty – review
+  + There has been an intense debate about this surprise
+    bestseller. What is the upshot?
+  + https://www.theguardian.com/books/2014/jul/17/capital-twenty-first-century-thomas-piketty-review
+  + https://web.archive.org/web/20260309020355/https://www.theguardian.com/books/2014/jul/17/capital-twenty-first-century-thomas-piketty-review
+  + By Stephanie Flanders,  2014-07-17  
++ 'People are so disgusted' - Economist Thomas Piketty on why we need
+  a wealth tax
+  + https://www.youtube.com/watch?v=XeZoNTJgBZs
++ Thomas Piketty on Inequality and Capital in the 21st Century
+  09/22/2014
+  + https://www.youtube.com/watch?v=MOZJBKZqw40
++ The Dignity Deficit: Inequality, Work, & Recognition
+  + https://www.youtube.com/watch?v=bMg-1raozPA
+
++ AI Was Never About Helping You | Cory Doctorow 2026-06-19
+  + https://youtu.be/SPQNPJ0CEPo?si=tj6qfmk8xYRE4TQe&t=2385
+  + Publisher: Galaxy Brain with Charlie Warzel
+  - <blockquote>
+    - How does this cycle break?
+    - Well, about 15 years ago, I guess, there was a book by Tom
+      Picetti, the French economist, called Capital in the 21st
+      century. And Petti did this monumental research project going
+      through every ledger of capital flows going back 300 years to
+      trace capital flows and capital concentration over
+      centuries. And their AI, Oligarchy, and Democracy conclusion was
+      that all of the things being equal, capital tends to
+      accumulate. that if you have money, you tend to make money. They
+      they summarized this as R is greater than G. The rate of
+      return of cap on capital is always greater than the rate of
+      growth.
+    - And so Petti's point was if you don't do something about that,
+      rich people get richer and richer and richer and richer and
+      richer and richer. Doesn't matter how big the pie is getting,
+      the share of the pie owned by the rich gets bigger faster than
+      the pie gets bigger always as an iron law. And that eventually
+      this becomes untenable. Eventually, the rich, because they are
+      unchecked, there is no democratic accountability, they are as
+      subject to folly as the rest of us, they look to one another
+      with great jealousy and use us as pawns in bids to take one
+      another's fortunes once our fortunes have been stripped
+      bare. that this creates ma massive instability and that those
+      instabilities tip and he sees these points over and over again
+      where the share of income in the top decile the top 10% reaches
+      or wealth rather not income reaches a certain point, and then
+      you get the French Revolution and then World War I and World War
+      II and so on and so on.
+    - His message was that unless we do something about oligarchy the
+      end state of oligarchy is not stability The end state of
+      oligarchy is chaos. It's collapse. And that is my worry.
+    - You mentioned before, that there are these billionaires who love
+      the fantasy of AI and love the fantasy of of a world without
+      people and that they live in a world without people now where
+      everyone around them is a non-player character who just glazes
+      them with AI like nonsense.
+    - But there's another group of people who love AI, which is
+      politicians who want to exert their will without having to go
+      through a permanent civil service. Just like there's a dream of
+      a workplace without workers, there's a dream of a government
+      without bureaucrats, right? This is what Trump wants to do with
+      Doge. This was the whole nature of the Doge project was you take
+      away the deep state, which is to say everyone who knows how the
+      government works, and you replace them with chat bots, and then
+      Trump has an idea, and it happens. You don't have these
+      collisions with people like that's not just not how the
+      government works. We can't do it that way. There people won't be
+      able to fill in that form you want them to fill in. If you take
+      away this support, this other thing will collapse. Doesn't
+      doesn't work that way. You just tell the chatbot to do it and
+      the chatbot just does it. You can see how this would be really
+      unstable. I mean, we're living through it. We're living through
+      it with just screw flies.  No amount of belief is going to help
+      you when beef is $30 a pound; like that's politically
+      destabilizing. And so I think that unless we can confront
+      oligarchy by democratic means that we will find ourselves in the
+      midst of a circumstance where it is being confronted by
+      non-democratic means whether or not that's what we want or what
+      we aim for. And I really worry about it. I think oligarchy, it
+      is the force that stops us from addressing the poly crisis of
+      genocide and climate degradation and rising authoritarianism.
+      And until we meet that oligarchy challenge, I think we are going
+      to struggle to do more than fight a holding action on everything
+      else. And when we get rid of the oligarchs, it's still not going
+      to be easy.
+    </blockquote>
+    
 ** Id: pines-01
 - Emergent Properties. See: santafe-01 and santafe-02
 

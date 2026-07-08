@@ -16466,6 +16466,16 @@ Author: Piff, Paul
 Tags: video, old:ted-23
 Link: http://www.ted.com/talks/paul_piff_does_money_make_you_mean.html
 
+Id: piketty-01
+Type: book
+Media: Ebook
+Title: Capital in the Twenty-First Century 
+Author: Thomas Piketty
+Authors: Arthur Goldhammer (Translator) 
+Date: 2017-08-14
+Publisher: Belknap Press
+Link: https://www.amazon.com/dp/B074DVRW88/
+
 Id: pines-01
 Type: article
 Media: link
