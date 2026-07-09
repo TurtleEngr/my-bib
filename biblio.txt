@@ -18051,6 +18051,15 @@ Publisher: Lesli Richardson
 Tags: biblio
 ASIN: 22689095
 
+Id: richardson-02
+Type: site
+Media: link
+Title: The Thinking Shop
+Author: Jesse Richardson
+Date: 2026-07-08
+Publisher: The School of Thought
+Link: https://thethinkingshop.org/
+
 Id: richter-01
 Type: article
 Media: link
@@ -24158,6 +24167,26 @@ Date: 2026-06-29
 Publisher: Wikipedia, The Free Encyclopedia.
 Link: https://en.wikipedia.org/wiki/East_India_Company
 AltLink: https://tinyurl.com/yc89u29v+ https://web.archive.org/web/20260630020231/https://en.wikipedia.org/wiki/East_India_Company
+
+Id: wikipedia-72
+Type: article
+Media: link
+Title: List of fallacies
+Author: Wikipedia contributors
+Date: 2026-07-08
+Publisher: Wikipedia, The Free Encyclopedia.
+Link:https://en.wikipedia.org/wiki/List_of_fallacies 
+AltLink: https://tinyurl.com/4p84hu86+ https://web.archive.org/web/20260709010251/https://en.wikipedia.org/wiki/List_of_fallacies
+
+Id: wikipedia-73
+Type: article
+Media: link
+Title: List of cognitive biases
+Author: Wikipedia contributors
+Date: 2026-07-08
+Publisher: Wikipedia, The Free Encyclopedia.
+Link: https://en.wikipedia.org/wiki/List_of_cognitive_biases
+AltLink: https://tinyurl.com/2hnxdz36+ https://web.archive.org/web/20260709010405/https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 Id: wilburhotsprings-01
 Type: site

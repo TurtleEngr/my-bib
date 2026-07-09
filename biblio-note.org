@@ -2074,6 +2074,14 @@ Dr. Landemore is a political theorist at Yale and the author of
 - The new process freezes the samples before the slicing process. Also
   the fluid-filled spaces collapse soon after deaths, so they won't be
   seen with cadaver studies.
+** Id: richardson-02
++ https://yourlogicalfallacyis.com/pdf/Logical_Fallacies_on_A4.pdf
+  + https://web.archive.org/web/20250826223101/https://yourlogicalfallacyis.com/pdf/Logical_Fallacies_on_A4.pdf
+
++ Interactive links:
+  + https://www.yourlogicalfallacyis.com/
+  + https://yourbias.is/
+
 ** Id: ridley-01
 - "Trade" and idea transfer is the substrate for patterns...
 
