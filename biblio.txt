@@ -21001,6 +21001,44 @@ Date: 2024-12-02_11
 Link: https://en.wikipedia.org/wiki/Kim_TallBear
 AltLink: https://tinyurl.com/ms86swr9+ https://web.archive.org/web/20241201021756/https://en.wikipedia.org/wiki/Kim_TallBear
 
+Id: tallbear-02
+Type: article
+Media: link
+Title: "Kim TallBear: The polyamorist that wants to destroy sex"
+Author: Tallbear, Dr. Kim
+Authors: Montserrat Madariaga-Caro
+Date: 2021-02-01
+Publisher: The Critical Polyamorist
+Link: http://www.criticalpolyamorist.com/homeblog/kim-tallbear-the-polyamorist-that-wants-to-destroy-sex-interview-by-montserrat-madariaga-caro
+AltLink: https://tinyurl.com/3ujwm64f+ https://web.archive.org/web/20260719203946/http://www.criticalpolyamorist.com/homeblog/kim-tallbear-the-polyamorist-that-wants-to-destroy-sex-interview-by-montserrat-madariaga-caro
+
+Id: tallbear-03
+Type: media
+Media: video
+Title: "Settler Sexuality (with Dr. Kim Tallbear)"
+Author: Tallbear, Dr. Kim
+Date: 2024-05-20
+Publisher: Multiamory
+Link: https://www.youtube.com/watch?v=s026lmZh7cY
+
+Id: tallbear-04
+Type: media
+Media: video
+Title: "Decolonial Sex and Relations for a More Sustainable World"
+Author: Tallbear, Dr. Kim
+Date: 2018-11-08
+Publisher: University of Winnipeg
+Link: https://www.youtube.com/watch?v=1ELSwPqjKkE
+
+Id: tallbear-05
+Type: media
+Media: video
+Title: "Dr. KIM TALLBEAR on Reviving Kinship and Sexual Abundance"
+Author: Tallbear, Dr. Kim
+Date: 2020 -02-05
+Publisher: For The Wild
+Link: https://www.youtube.com/watch?v=mLwZbjpHr4o
+
 Id: tamera-01
 Type: site
 Media: site
