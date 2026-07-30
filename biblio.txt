@@ -8127,96 +8127,12 @@ Title: Can Gravity be Induced?
 Tags: home, electricuniverse, link
 Link: http://goodfelloweb.com/nature/cgbi/index.html
 
-Id: google-01
-Type: article
-Media: link
-Title: kdenlive sound drifting with rendering - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?ei=B-5PW6WoGLSQ0PEP34ewyA4&amp;q=kdenlive+sound+drifting+with+rendering&amp;oq=kdenlive+sound+drifting+with+rendering&amp;gs_l=psy-ab.3..33i160k1.95116020.95126926.0.95127240.29.29.0.0.0.0.164.2998.12j15.27.0....0...1.1.64.
-
-Id: google-02
-Type: article
-Media: link
-Title: lightworks linux free - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?ei=v3RCW8XqDcuo0gKHvbGYCw&amp;q=lightworks+linux+free&amp;oq=lightworks+linux+free&amp;gs_l=psy-ab.3..0.9811258.9816258.0.9816725.12.12.0.0.0.0.122.1348.0j12.12.0....0...1.1.64.psy-ab..0.12.1347...0i67k1j0i22i30k1j0i22i10i3
-
-Id: google-03
-Type: article
-Media: link
-Title: multiple videos in one screen lightworks - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?ei=v_VCW4yNGIiH8AP4jqC4DA&amp;q=multiple+videos+in+one+screen+lightworks&amp;oq=lightworks+multiple+videos+i&amp;gs_l=psy-ab.1.0.0i22i30k1.1630226.1684680.0.1687165.46.32.14.0.0.0.158.3105.23j9.32.0....0...1.1.64.psy-ab..0.
-
-Id: google-04
-Type: article
-Media: link
-Title: video how to get a timecode into consumer cameras - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?q=video+how+to+get+a+timecode+into+consumer+cameras&amp;oq=video+how+to+get+a+timecode+into++consumer+cameras&amp;aqs=chrome..69i57.16523j0j8&amp;sourceid=chrome&amp;ie=UTF-8
-
-Id: google-05
-Type: article
-Media: link
-Title: datadog aws tags - Google Search
-Tags: current, set2019, link
-Link: https://www.google.com/search?q=datadog+aws+tags&amp;rlz=1C1SQJL_enUS801US801&amp;oq=datadog+aws+tags&amp;aqs=chrome..69i57j69i60.5732j0j7&amp;sourceid=chrome&amp;ie=UTF-8
-
 Id: google-06
 Type: article
 Media: link
 Title: Google
 Tags: folder, link
 Link: http://www.google.com/
-
-Id: google-07
-Type: article
-Media: link
-Title: javascript manual - Google Search
-Tags: folder, reference, xml, html, link
-Link: http://www.google.com/search?q=javascript+manual&amp;start=0&amp;start=0&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official
-
-Id: google-08
-Type: article
-Media: link
-Title: rfid writer kit - Google Search
-Tags: home, buy, link
-Link: http://www.google.com/search?hl=en&amp;source=hp&amp;q=rfid+writer+kit&amp;aq=2&amp;aqi=g5g-m4&amp;aql=&amp;oq=rfid+writer&amp;gs_rfai=C7u97v7KZTK-1PJHaNoe0mFQAAACqBAVP0BfpRw
-
-Id: google-09
-Type: article
-Media: link
-Title: BOREL PRIVATE BANK&amp;TRUST CO - Google Search
-Tags: home, debt, link
-Link: http://www.google.com/#hl=en&amp;source=hp&amp;q=BOREL+PRIVATE+BANK%26TRUST+CO&amp;btnG=Google+Search&amp;aq=f&amp;aqi=&amp;oq=&amp;fp=e8d6ef47431c6a4a
-
-Id: google-10
-Type: article
-Media: link
-Title: shipping container homes - Google Search
-Tags: home, eco, link
-Link: http://www.google.com/search?hl=en&amp;q=shipping+container+homes&amp;btnG=Search
-
-Id: google-11
-Type: article
-Media: link
-Title: electric car conversion - Google Search
-Tags: home, electriccar, googlesearch, link
-Link: http://www.google.com/search?hl=en&amp;q=electric+car+conversion&amp;btnG=Google+Search
-
-Id: google-12
-Type: article
-Media: link
-Title: Saturnian Theory - Google Search
-Tags: home, electricuniverse, link
-Link: http://www.google.com/search?hl=en&amp;q=Saturnian+Theory&amp;btnG=Google+Search
-
-Id: google-13
-Type: article
-Media: link
-Title: thorium power - Google Search
-Tags: home, freeenergy, link
-Link: http://www.google.com/#sclient=psy&amp;hl=en&amp;q=thorium+power&amp;aq=f&amp;aqi=g5&amp;aql=&amp;oq=&amp;gs_rfai=&amp;pbx=1&amp;fp=84f34ab5383c7ee9
 
 Id: google-14
 Type: article
@@ -8225,104 +8141,12 @@ Title: Google Voice - Inbox
 Tags: home, homelan, frequent, link
 Link: https://www.google.com/voice#inbox
 
-Id: google-15
-Type: article
-Media: link
-Title: bastard operator from hell - Google Search
-Tags: home, humor, link
-Link: http://www.google.com/search?hl=en&amp;q=bastard+operator+from+hell&amp;btnG=Google+Search
-
 Id: google-16
 Type: article
 Media: link
 Title: Google Webmaster Central. Get data about crawling, indexing and search traffic. Increase traffic to your site.
 Tags: home, link
 Link: https://www.google.com/webmasters/
-
-Id: google-17
-Type: article
-Media: link
-Title: privacy encryption I have nothing to hide Will Dwyer - Google Search
-Tags: home, make, crypt, nothing_to_hide, link
-Link: http://www.google.com/search?num=20&amp;hl=en&amp;q=privacy+encryption+I+have+nothing+to+hide+Will+Dwyer&amp;btnG=Search
-
-Id: google-18
-Type: article
-Media: link
-Title: windows keeps rebooting recovery - Google Search
-Tags: home, pcshell, link
-Link: http://www.google.com/search?client=firefox-a&amp;rls=org.mozilla%3Aen-US%3Aofficial&amp;channel=s&amp;hl=en&amp;q=windows+keeps+rebooting+recovery&amp;btnG=Google+Search
-
-Id: google-19
-Type: article
-Media: link
-Title: spooldr.sys - Google Search
-Tags: home, pcshell, link
-Link: http://www.google.com/search?hl=en&amp;q=spooldr.sys&amp;btnG=Search
-
-Id: google-20
-Type: article
-Media: link
-Title: Google Search: 11th hour pbs
-Tags: home, tofile, set4, link
-Link: http://www.google.com/search?hl=en&amp;ie=UTF-8&amp;q=11th+hour+pbs&amp;btnG=Google+Search
-
-Id: google-21
-Type: article
-Media: link
-Title: Google Search: Bear mail order degrees
-Tags: home, tofile, set4, link
-Link: http://www.google.com/search?hl=en&amp;ie=UTF-8&amp;q=Bear+mail+order+degrees&amp;btnG=Google+Search
-
-Id: google-22
-Type: article
-Media: link
-Title: japa kara mala hand rosary - Google Search
-Tags: home, tofile, set8, link
-Link: http://www.google.com/search?hl=en&amp;lr=&amp;q=japa+kara+mala+hand+rosary&amp;btnG=Search
-
-Id: google-23
-Type: article
-Media: link
-Title: automatic paper cutter machine - Google Search
-Tags: home, writing, publishing, link
-Link: http://www.google.com/#sclient=psy&amp;hl=en&amp;source=hp&amp;q=automatic+paper+cutter+machine&amp;aq=1&amp;aqi=g-c1g1g-m1&amp;aql=&amp;oq=&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.&amp;fp=7ddfcab4a94a31d1
-
-Id: google-24
-Type: article
-Media: link
-Title: Your Storm Photos - April 30, 2019 - NBC 5 Dallas-Fort Worth
-Date: 2019-04-30
-Tags: images, lighting, link
-Link: https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.nbcdfw.com%2F2019%2F09%2F2d8c2782bbf14fa58721c911211c6f6d.jpeg.jpg%3Ffit%3D489%252C559&amp;imgrefurl=https%3A%2F%2Fwww.nbcdfw.com%2Fmultimedia%2Fyour-storm-photos-april-30-2019-2%2F274352%2F&amp;t
-
-Id: google-25
-Type: article
-Media: link
-Title: linux firefox java - Google Search
-Tags: last, foldername, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+firefox+java&amp;btnG=Search
-
-Id: google-26
-Type: article
-Media: link
-Title: EditiX for Linux/Unix - Google Search
-Tags: last, link
-Link: http://www.google.com/search?hl=en&amp;q=EditiX+for+Linux%2FUnix&amp;btnG=Search
-
-Id: google-27
-Type: article
-Media: link
-Title: linux usb devices - Google Search
-Tags: last, usb-rs232, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+usb+devices&amp;btnG=Google+Search
-
-Id: google-28
-Type: article
-Media: link
-Title: linux usb to rs232 dynex - Google Search
-Tags: last, usb-rs232, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+usb+to+rs232+dynex&amp;btnG=Google+Search
 
 Id: google-29
 Type: article
@@ -8331,96 +8155,12 @@ Title: Google - Cloud Print
 Tags: printing, link
 Link: http://www.google.com/cloudprint/learn/?hl=en
 
-Id: google-30
-Type: article
-Media: link
-Title: Lahaina Noon dates - Google Search
-Tags: science, link
-Link: https://www.google.com/search?num=20&amp;newwindow=1&amp;q=Lahaina+Noon+dates&amp;sa=X&amp;ved=0ahUKEwjmjtahsevaAhXni1QKHaSJBw4Q3rMBCC4oAg&amp;biw=1418&amp;bih=691
-
-Id: google-31
-Type: article
-Media: link
-Title: RSA SecurID Appliance 130 - Security appliance
-Tags: toolhw, link
-Link: http://www.google.com/products/catalog?hl=en&amp;biw=1100&amp;bih=641&amp;q=rsa+securid+appliance&amp;um=1&amp;ie=UTF-8&amp;cid=2694216676407525571&amp;ei=paLLTL-tJoScsQOm3rTaDg&amp;sa=X&amp;oi=product_catalog_result&amp;ct=result&amp;resnum=6&amp;ved=0
-
-Id: google-32
-Type: article
-Media: link
-Title: algorithm time series - Google Search
-Tags: toolsw, appdb, link
-Link: http://www.google.com/search?hl=en&amp;q=algorithm+%22time+series%22&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=&amp;gs_rfai=
-
-Id: google-33
-Type: article
-Media: link
-Title: round robin database mysql - Google Search
-Tags: toolsw, appdb, link
-Link: http://www.google.com/search?hl=en&amp;q=round+robin+database+mysql&amp;aq=1&amp;aqi=g4&amp;aql=&amp;oq=round+robin+database+&amp;gs_rfai=
-
-Id: google-34
-Type: article
-Media: link
-Title: linux java firefox - Google Search
-Tags: toolsw, appinternet, firefox, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+java+firefox&amp;btnG=Search
-
-Id: google-35
-Type: article
-Media: link
-Title: open filer - Google Search
-Tags: toolsw, appnetwork, link
-Link: http://www.google.com/search?hl=en&amp;q=open+filer&amp;btnG=Google+Search&amp;aq=f&amp;oq=
-
-Id: google-36
-Type: article
-Media: link
-Title: udp ssh tunnel - Google Search
-Tags: toolsw, appnetwork, ssh, link
-Link: http://www.google.com/search?hl=en&amp;source=hp&amp;biw=1100&amp;bih=640&amp;q=udp+ssh+tunnel&amp;aq=0&amp;aqi=g2g-m1&amp;aql=&amp;oq=udp+ssh&amp;gs_rfai=Cx0-tnVirTNSNBJSmoATTv5ydAwAAAKoEBU_QTJbE
-
-Id: google-37
-Type: article
-Media: link
-Title: linux installing firefox 32bit on a 64bit - Google Search
-Tags: toolsw, platform, centos, firefox-32bit, link
-Link: http://www.google.com/search?client=firefox-a&amp;rls=org.mozilla%3Aen-US%3Aofficial&amp;channel=s&amp;hl=en&amp;q=linux+installing+firefox+32bit+on+a+64bit&amp;btnG=Google+Search
-
-Id: google-38
-Type: article
-Media: link
-Title: skipfish - Google Search
-Tags: toolsw, security, link
-Link: http://www.google.com/#hl=en&amp;source=hp&amp;q=skipfish&amp;aq=f&amp;aqi=g-sx1&amp;aql=&amp;oq=&amp;gs_rfai=&amp;fp=1dc62da33e2ff469
-
-Id: google-39
-Type: article
-Media: link
-Title: javascript class template - Google Search
-Tags: tools, gas, link
-Link: https://www.google.com/search?q=javascript+class+template&amp;oq=javascript+class+template&amp;aqs=chrome..69i57j69i59.14812j0j8&amp;sourceid=chrome&amp;ie=UTF-8
-
 Id: google-40
 Type: article
 Media: link
 Title: Search Console - Home
 Tags: tools, link
 Link: https://www.google.com/webmasters/tools/home?pli=1
-
-Id: google-41
-Type: article
-Media: link
-Title: IT support companies colo, redwood city - Google Search
-Tags: work, it_support, link
-Link: http://www.google.com/search?hl=en&amp;biw=1036&amp;bih=758&amp;q=IT+support+companies+colo%2C+redwood+city&amp;aq=f&amp;aqi=&amp;aql=f&amp;oq=&amp;gs_rfai=
-
-Id: google-42
-Type: article
-Media: link
-Title: apache2 prefork php futex - Google Search
-Tags: work, set2010, link
-Link: http://www.google.com/search?q=apache2+prefork+php+futex&amp;hl=en&amp;biw=1100&amp;bih=641&amp;ei=BODZTLeDNJTWtQP8yfSDCA&amp;start=30&amp;sa=N
 
 Id: google-github-01
 Type: article
