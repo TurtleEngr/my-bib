@@ -4088,7 +4088,7 @@ Title: America the Merciless
 Author: Paul, Pamela
 Date: 2022-06-26
 Tags: compassion, article
-Link: https://www.nytimes.com/2022/06/26/opinion/america-the-merciless.html?campaign_id=9&amp;emc=edit_nn_20220627&amp;instance_id=65116&amp;nl=the-morning&amp;regi_id=94896926&amp;segment_id=96890&amp;te=1&amp;user_id=984a8324d50a8dad9ddcff77e7096966
+Link: https://www.nytimes.com/2022/06/26/opinion/america-the-merciless.html
 AltLink: https://archive.vn/MoVgi
 
 Id: curezone-01
@@ -4341,7 +4341,7 @@ Type: article
 Media: link
 Title: VoCore2 Mini Linux Computer + Ultimate Dock; Slashdot Deals
 Tags: micro-computer, linux, link
-Link: https://deals.slashdot.org/sales/vocore2-ultimate-dock?jl_uid=984a8324d50a8dad9ddcff77e7096966&amp;jl_cmpn=20161203_Tech_DailyDeals&amp;utm_campaign=20161203_Tech_DailyDeals&amp;utm_source=StackSocial+Deals+Newsletter&amp;utm_medium=email
+Link: https://deals.slashdot.org/sales/vocore2-ultimate-dock
 
 Id: debian-01
 Type: article
@@ -4844,14 +4844,14 @@ Type: article
 Media: link
 Title: Notebook Computers - Sort By Brand
 Tags: home, buy, link
-Link: http://www.discountpc.net/Shop/Control/fp/sfv/31991/scat/88073/order/asc/order_by/sell_price?source=gg-laptop/notebook&amp;gclid=CJfaqJPRtZICFSguagodr0Qqyg
+Link: http://www.discountpc.net/Shop/Control/fp/sfv/31991/scat/88073/order/asc/order_by/sell_price
 
 Id: discoworld-dk-01
 Type: article
 Media: link
 Title: DiscoWorld.dk; Citronic 170.927; AX-3 2/3-WAY X-OVER Professionel Sound Â» Active Crossovers
 Tags: home, buy, link
-Link: http://www.discoworld.dk/shop/product_info.php?manufacturers_id=3&amp;products_id=30759&amp;language=en
+Link: http://www.discoworld.dk/shop/product_info.php
 
 Id: diybookbinding-01
 Type: article
@@ -5564,7 +5564,7 @@ Type: article
 Media: link
 Title: Latest Earthquakes
 Tags: link
-Link: https://earthquake.usgs.gov/earthquakes/map/#%7B%22autoUpdate%22%3A%5B%22autoUpdate%22%5D%2C%22basemap%22%3A%22grayscale%22%2C%22feed%22%3A%221day_m25%22%2C%22listFormat%22%3A%22default%22%2C%22mapposition%22%3A%5B%5B24.206889622398023%2C-125.1123046875
+Link: https://earthquake.usgs.gov/
 
 Id: earthquake-02
 Type: article
