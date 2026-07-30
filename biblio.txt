@@ -1440,13 +1440,6 @@ Publisher: The Diary Of A CEO
 Tags: youtube
 Link: https://www.youtube.com/watch?v=t38LbMVoPCs
 
-Id: beethoven-01
-Type: media
-Media: video
-Title: beethoven sonata pathetique youtube music - Google Search
-Tags: music, youtube, link, video
-Link: https://www.google.com/search?ei=_BaKW__CCd7A0PEPjJ2K8AI&amp;q=beethoven+sonata+pathetique+youtube+music&amp;oq=beethoven+sonata+pathetique+youtube+music&amp;gs_l=mobile-gws-wiz-serp.3...39771.49297..52229...0.0..0.188.1610.0j12......0....1.........0i13
-
 Id: bekkoame-ne-jp-01
 Type: site
 Media: site
