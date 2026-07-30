@@ -1136,7 +1136,7 @@ Type: article
 Media: link
 Title: EC2 Container Service In Action
 Tags: aws, link
-Link: http://aws.amazon.com/blogs/aws/ec2-container-service-in-action/?sc_ichannel=ha&amp;sc_ipage=homepage&amp;sc_icountry=en&amp;sc_isegment=c&amp;sc_iplace=hero1&amp;sc_icampaigntype=product_launch&amp;sc_icampaign=ha_en_ECS_Launch&amp;sc_icategory=none&am
+Link: http://aws.amazon.com/blogs/aws/ec2-container-service-in-action/
 
 Id: axelrod-01
 Type: book
@@ -17473,7 +17473,7 @@ Subtitle: Seven Ways to Think Like a 21st-Century Economist
 Author: Raworth, Kate
 Date: 2018-03-12
 Edition: Rep
-Publisher:‎ Chelsea Green
+Publisher: Chelsea Green
 ISBN: 1603587969
 Link: https://www.amazon.com/dp/1603587969/
 
