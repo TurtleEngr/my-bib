@@ -10406,13 +10406,6 @@ Title: Flowblade Documentation
 Tags: video, link
 Link: https://jliljebl.github.io/flowblade/webhelp/help.html
 
-Id: jobsearch-monster-01
-Type: article
-Media: link
-Title: US-CA-Menlo Park-Configuration/Release MAnager
-Tags: home, job, jobposting, link
-Link: http://jobsearch.monster.com/getjob.asp?JobID=16018505&amp;col=&amp;cy=US&amp;brd=1%2C+1863&amp;lid=355%2C+883%2C+356&amp;fn=46%2C+6%2C+546%2C+4%2C+549%2C+660%2C+554%2C+47%2C+561&amp;jt=&amp;q=release+engineer&amp;AVSDM=2002%2D09%2D30+18%3A08%3A00%2E000
-
 Id: jobvite-01
 Type: site
 Media: site
@@ -12265,14 +12258,14 @@ Type: article
 Media: link
 Title: Industrial NUC.; Logic Supply
 Tags: tools, link
-Link: https://www.logicsupply.com/nuc/?cpsrc=Display_NUC&amp;agname=nuc&amp;kw=&amp;ps=none&amp;gclid=EAIaIQobChMIwaqX6eH13gIVDvxkCh2F-w-jEAEYASAAEgJaXPD_BwE
+Link: https://www.logicsupply.com/nuc/
 
 Id: login-yahoo-01
 Type: article
 Media: link
 Title: Yahoo! Mail
 Tags: folder, home, link
-Link: https://login.yahoo.com/config/login?.src=ym&amp;.v=0&amp;.u=8rdvpjsu4ci4e&amp;.last=&amp;promo=&amp;.intl=us&amp;.bypass=&amp;.partner=&amp;.done=
+Link: https://login.yahoo.com/config/login
 
 Id: logix-cz-01
 Type: article
@@ -12484,7 +12477,7 @@ Type: article
 Media: link
 Title: From Blank Page to Book in Thirty Days; Lulu.com
 Tags: tools, link
-Link: http://www.lulu.com/blog/12991?utm_source=bronto&amp;utm_medium=email&amp;utm_term=View+Guide&amp;utm_content=NaNoWriMo:+Let+the+writing+begin!+%3F%3F&amp;utm_campaign=10242017_US_en_LULU25+#sthash.YZF3STgD.B7bDlFxP.dpbs
+Link: http://www.lulu.com/blog/12991
 
 Id: luna-01
 Type: article
@@ -12721,7 +12714,7 @@ Type: article
 Media: link
 Title: Arduino Duemilanove
 Tags: home, buy, link
-Link: http://www.makershed.com/ProductDetails.asp?ProductCode=MKSP4&amp;Click=58529&amp;utm_medium=email&amp;utm_source=EmailCampaign&amp;utm_content=363850116&amp;utm_campaign=MakerShedNewsletter-July2010&amp;utm_term=ArduinoDuemilanove
+Link: http://www.makershed.com/ProductDetails.asp
 
 Id: makeuseof-01
 Type: article
@@ -14222,7 +14215,7 @@ Type: article
 Media: link
 Title: Scary Blue UV Contact Lenses
 Tags: misc, link
-Link: https://myscaryeyes.com/scary-blue-uv-contact-lenses?utm_medium=google_shopping&amp;utm_source=google&amp;utm_campaign=google_shopping_us&amp;gclid=Cj0KCQjwz93cBRCrARIsAEFbWsjtx3zykRhBu9gXvslLgbldBOYfs9_B6VQom_9aB-tcVMr9alXollcaAix4EALw_wcB
+Link: https://myscaryeyes.com/scary-blue-uv-contact-lenses
 
 Id: myslingstudio-01
 Type: media
@@ -14727,7 +14720,7 @@ Type: article
 Media: link
 Title: Global Revolution and the Healing of Love - Debrief; New Way Group
 Tags: current, set2018, link
-Link: https://newwaygroup.wordpress.com/2017/08/06/global-revolution-and-the-healing-of-love-debrief/?preview_id=266&amp;preview_nonce=dbcc7dd6dc&amp;post_format=standard&amp;_thumbnail_id=-1&amp;preview=true
+Link: https://newwaygroup.wordpress.com/2017/08/06/global-revolution-and-the-healing-of-love-debrief/
 
 Id: newwaygroup-02
 Type: article
@@ -15032,7 +15025,7 @@ Type: article
 Media: link
 Title: Opinion; It's the End of California as We Know It - The New York Times
 Tags: culture, link
-Link: https://www.nytimes.com/2019/10/30/opinion/california-fires.html?te=1&amp;nl=evening-briefing&amp;emc=edit_ne_20191030?campaign_id=57&amp;instance_id=13489&amp;segment_id=18372&amp;user_id=984a8324d50a8dad9ddcff77e7096966&amp;regi_id=94896926
+Link: https://www.nytimes.com/2019/10/30/opinion/california-fires.html
 
 Id: nytimes-13
 Type: article
@@ -15053,7 +15046,7 @@ Type: article
 Media: link
 Title: How the Silence Makes the Music - The New York Times
 Tags: current, link
-Link: https://www.nytimes.com/2019/10/02/arts/music/silence-classical-music.html?te=1&amp;nl=morning-briefing&amp;emc=edit_NN_p_20191008&amp;section=aBreak?campaign_id=9&amp;instance_id=12915&amp;segment_id=17680&amp;user_id=984a8324d50a8dad9ddcff77e7096966&a
+Link: https://www.nytimes.com/2019/10/02/arts/music/silence-classical-music.html
 
 Id: nytimes-16
 Type: article
@@ -15067,7 +15060,7 @@ Type: article
 Media: link
 Title: How to Grow a Better Tomato - The New York Times
 Tags: misc, gardening, link
-Link: https://www.nytimes.com/2020/05/12/realestate/how-to-grow-a-better-tomato.html?campaign_id=57&amp;emc=edit_ne_20200513&amp;instance_id=18454&amp;nl=evening-briefing&amp;regi_id=94896926&amp;segment_id=27704&amp;te=1&amp;user_id=984a8324d50a8dad9ddcff77e
+Link: https://www.nytimes.com/2020/05/12/realestate/how-to-grow-a-better-tomato.html
 
 Id: nytimes-18
 Type: article
@@ -17079,7 +17072,6 @@ Subtitle: Senior Project
 Author: Rafnel, Bruce A
 Date: 1981
 Link: https://tinyurl.com/bdek3svn+
-AltLink: https://tinyurl.com/yfpz5fud+ https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&amp;context=L&amp;vid=01CALS_PSU:01CALS_PSU&amp;lang=en%2F&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;tab=Everything&amp;query=any,contains,senior%20project%20Bruce%20Rafnel&amp;offset=0 https://web.archive.org/web/20241010012700/https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&amp;context=L&amp;vid=01CALS_PSU:01CALS_PSU&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;tab=Everything&amp;query=any,contains,senior%20project%20Bruce%20Rafnel&amp;offset=0
 
 Id: rafnel-09
 Type: article
@@ -17959,7 +17951,7 @@ Type: article
 Media: link
 Title: High and Mighty: Raised Beds
 Tags: culture, link
-Link: http://www.rodalesorganiclife.com/garden/high-mighty-raised-beds?utm_campaign=Rodale%27s%20Organic%20Life&amp;utm_medium=Social&amp;utm_source=facebook.com&amp;utm_term=712573442
+Link: http://www.rodalesorganiclife.com/garden/high-mighty-raised-beds
 
 Id: rodgers-01
 Type: article
@@ -18510,7 +18502,7 @@ Type: article
 Media: link
 Title: Scabies - Natural Scabies Treatment - Kill Scabies
 Tags: home, buy, link
-Link: http://www.scabies-killer.com/?bkw=scabies&amp;src=Google&amp;ver=&amp;med=&amp;adg=&amp;cam=Scabies%2DKiller&amp;ucroi_kw=scabies&amp;ucroi_adid=65425&amp;ucroi_google_type=GoogleAdWordsSearch&amp;gclid=COmu4deWjJ0CFShSagodNlWB_g
+Link: http://www.scabies-killer.com/
 
 Id: scariesttrail-01
 Type: media
@@ -18901,34 +18893,6 @@ Media: link
 Title: Dice - Job Seeker Tools
 Tags: home, job, company, link
 Link: http://seeker.dice.com/seeker.epl?rel_code=1102&amp;op=2
-
-Id: seeker-dice-02
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/3/f/3f5244bc728b41670eb005ac6489d997@activejobs0&amp;c=131
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/3/f/3f5244bc728b41670eb005ac6489d997@activejobs0&amp;c=131
-
-Id: seeker-dice-03
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/4/e/4ebb78673d06564f5408cda821434777@activejobs0&amp;c=101
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/4/e/4ebb78673d06564f5408cda821434777@activejobs0&amp;c=101
-
-Id: seeker-dice-04
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/5/2/52fc3fbf0435b6797563da4f65ada183@activejobs0&amp;c=101
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/5/2/52fc3fbf0435b6797563da4f65ada183@activejobs0&amp;c=101
-
-Id: seeker-dice-05
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/c/c/cc919d62e485ead84a4246faf608ddf6@activejobs0&amp;c=1
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/c/c/cc919d62e485ead84a4246faf608ddf6@activejobs0&amp;c=1
 
 Id: seely-01
 Type: media
@@ -19708,7 +19672,7 @@ Type: site
 Media: product
 Title: SonyStyle.com:  Sony Portable Reader System
 Tags: home, tofile, set5, link
-Link: http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CategoryName=&amp;ProductSKU=PRS500&amp;TabName=specs&amp;var2=
+Link: http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start
 
 Id: soundcloud-01
 Type: site
@@ -20928,7 +20892,7 @@ Type: article
 Media: link
 Title: Infarm wants to put a farm in every grocery store; TechCrunch
 Tags: culture, link
-Link: https://techcrunch.com/2017/06/26/infarm/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+TechCrunch
+Link: https://techcrunch.com/2017/06/26/infarm/
 
 Id: techcrunch-03
 Type: site
@@ -20956,7 +20920,7 @@ Type: article
 Media: link
 Title: How to Opt Out of Everything Online - Techland - TIME.com
 Tags: home, tofile, set2011, link
-Link: http://techland.time.com/2011/03/10/how-to-opt-out-of-everything-online/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+timeblogs%2Fnerd_world+%28TIME%3A+Techland%29
+Link: http://techland.time.com/2011/03/10/how-to-opt-out-of-everything-online/
 
 Id: technologyreview-01
 Type: article
@@ -21276,7 +21240,7 @@ Type: article
 Media: link
 Title: The Lost Ways
 Tags: culture, link
-Link: http://www.thelostways.com/vsl/index.php?r=3350&amp;hop=nickthom&amp;utm_content_id=752145&amp;utm_widget_id=5042&amp;utm_boost_id=89760&amp;utm_targeting=conservative+news
+Link: http://www.thelostways.com/vsl/index.php
 
 Id: theluf-blogspot-01
 Type: site
@@ -22437,7 +22401,7 @@ Type: article
 Media: link
 Title: Vention; Simplified Machine Design for Everyone
 Tags: tools, link
-Link: https://www.vention.io/?utm_medium=video&amp;utm_source=google&amp;utm_campaign=video%20-%20vention2&amp;utm_content=placement&amp;gclid=Cj0KCQiAtvPjBRDPARIsAJfZz0o9ZqBQ6uS4aYUV48qfxXrA4Owszo2jCIYI6ttTE9v1rx79VMY010EaAmMkEALw_wcB
+Link: https://www.vention.io/
 
 Id: veritasium-01
 Type: media
@@ -22940,13 +22904,6 @@ Title: Amy Webb: How I hacked online dating
 Author: Webb, Amy
 Tags: video, old:youtube-040
 Link: http://www.youtube.com/watch?v=d6wG_sAdP0U
-
-Id: webcache-googleusercontent-01
-Type: article
-Media: link
-Title: Fast Algorithms for Burst Detection
-Tags: toolsw, appdb, link
-Link: http://webcache.googleusercontent.com/search?q=cache:VRx4oHKNIPMJ:www.cs.nyu.edu/web/Research/Theses/zhang_xin.pdf+algorithm+for+a+%22running+count%22+over+time&amp;hl=en&amp;gl=us#18
 
 Id: webcitation-01
 Type: article
