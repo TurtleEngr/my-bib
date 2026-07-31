@@ -1136,7 +1136,7 @@ Type: article
 Media: link
 Title: EC2 Container Service In Action
 Tags: aws, link
-Link: http://aws.amazon.com/blogs/aws/ec2-container-service-in-action/?sc_ichannel=ha&amp;sc_ipage=homepage&amp;sc_icountry=en&amp;sc_isegment=c&amp;sc_iplace=hero1&amp;sc_icampaigntype=product_launch&amp;sc_icampaign=ha_en_ECS_Launch&amp;sc_icategory=none&am
+Link: http://aws.amazon.com/blogs/aws/ec2-container-service-in-action/
 
 Id: axelrod-01
 Type: book
@@ -1439,13 +1439,6 @@ Date: 2026-03-02
 Publisher: The Diary Of A CEO
 Tags: youtube
 Link: https://www.youtube.com/watch?v=t38LbMVoPCs
-
-Id: beethoven-01
-Type: media
-Media: video
-Title: beethoven sonata pathetique youtube music - Google Search
-Tags: music, youtube, link, video
-Link: https://www.google.com/search?ei=_BaKW__CCd7A0PEPjJ2K8AI&amp;q=beethoven+sonata+pathetique+youtube+music&amp;oq=beethoven+sonata+pathetique+youtube+music&amp;gs_l=mobile-gws-wiz-serp.3...39771.49297..52229...0.0..0.188.1610.0j12......0....1.........0i13
 
 Id: bekkoame-ne-jp-01
 Type: site
@@ -4095,7 +4088,7 @@ Title: America the Merciless
 Author: Paul, Pamela
 Date: 2022-06-26
 Tags: compassion, article
-Link: https://www.nytimes.com/2022/06/26/opinion/america-the-merciless.html?campaign_id=9&amp;emc=edit_nn_20220627&amp;instance_id=65116&amp;nl=the-morning&amp;regi_id=94896926&amp;segment_id=96890&amp;te=1&amp;user_id=984a8324d50a8dad9ddcff77e7096966
+Link: https://www.nytimes.com/2022/06/26/opinion/america-the-merciless.html
 AltLink: https://archive.vn/MoVgi
 
 Id: curezone-01
@@ -4348,7 +4341,7 @@ Type: article
 Media: link
 Title: VoCore2 Mini Linux Computer + Ultimate Dock; Slashdot Deals
 Tags: micro-computer, linux, link
-Link: https://deals.slashdot.org/sales/vocore2-ultimate-dock?jl_uid=984a8324d50a8dad9ddcff77e7096966&amp;jl_cmpn=20161203_Tech_DailyDeals&amp;utm_campaign=20161203_Tech_DailyDeals&amp;utm_source=StackSocial+Deals+Newsletter&amp;utm_medium=email
+Link: https://deals.slashdot.org/sales/vocore2-ultimate-dock
 
 Id: debian-01
 Type: article
@@ -4851,14 +4844,14 @@ Type: article
 Media: link
 Title: Notebook Computers - Sort By Brand
 Tags: home, buy, link
-Link: http://www.discountpc.net/Shop/Control/fp/sfv/31991/scat/88073/order/asc/order_by/sell_price?source=gg-laptop/notebook&amp;gclid=CJfaqJPRtZICFSguagodr0Qqyg
+Link: http://www.discountpc.net/Shop/Control/fp/sfv/31991/scat/88073/order/asc/order_by/sell_price
 
 Id: discoworld-dk-01
 Type: article
 Media: link
 Title: DiscoWorld.dk; Citronic 170.927; AX-3 2/3-WAY X-OVER Professionel Sound Â» Active Crossovers
 Tags: home, buy, link
-Link: http://www.discoworld.dk/shop/product_info.php?manufacturers_id=3&amp;products_id=30759&amp;language=en
+Link: http://www.discoworld.dk/shop/product_info.php
 
 Id: diybookbinding-01
 Type: article
@@ -5571,7 +5564,7 @@ Type: article
 Media: link
 Title: Latest Earthquakes
 Tags: link
-Link: https://earthquake.usgs.gov/earthquakes/map/#%7B%22autoUpdate%22%3A%5B%22autoUpdate%22%5D%2C%22basemap%22%3A%22grayscale%22%2C%22feed%22%3A%221day_m25%22%2C%22listFormat%22%3A%22default%22%2C%22mapposition%22%3A%5B%5B24.206889622398023%2C-125.1123046875
+Link: https://earthquake.usgs.gov/
 
 Id: earthquake-02
 Type: article
@@ -8134,96 +8127,12 @@ Title: Can Gravity be Induced?
 Tags: home, electricuniverse, link
 Link: http://goodfelloweb.com/nature/cgbi/index.html
 
-Id: google-01
-Type: article
-Media: link
-Title: kdenlive sound drifting with rendering - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?ei=B-5PW6WoGLSQ0PEP34ewyA4&amp;q=kdenlive+sound+drifting+with+rendering&amp;oq=kdenlive+sound+drifting+with+rendering&amp;gs_l=psy-ab.3..33i160k1.95116020.95126926.0.95127240.29.29.0.0.0.0.164.2998.12j15.27.0....0...1.1.64.
-
-Id: google-02
-Type: article
-Media: link
-Title: lightworks linux free - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?ei=v3RCW8XqDcuo0gKHvbGYCw&amp;q=lightworks+linux+free&amp;oq=lightworks+linux+free&amp;gs_l=psy-ab.3..0.9811258.9816258.0.9816725.12.12.0.0.0.0.122.1348.0j12.12.0....0...1.1.64.psy-ab..0.12.1347...0i67k1j0i22i30k1j0i22i10i3
-
-Id: google-03
-Type: article
-Media: link
-Title: multiple videos in one screen lightworks - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?ei=v_VCW4yNGIiH8AP4jqC4DA&amp;q=multiple+videos+in+one+screen+lightworks&amp;oq=lightworks+multiple+videos+i&amp;gs_l=psy-ab.1.0.0i22i30k1.1630226.1684680.0.1687165.46.32.14.0.0.0.158.3105.23j9.32.0....0...1.1.64.psy-ab..0.
-
-Id: google-04
-Type: article
-Media: link
-Title: video how to get a timecode into consumer cameras - Google Search
-Tags: current, set2018, link
-Link: https://www.google.com/search?q=video+how+to+get+a+timecode+into+consumer+cameras&amp;oq=video+how+to+get+a+timecode+into++consumer+cameras&amp;aqs=chrome..69i57.16523j0j8&amp;sourceid=chrome&amp;ie=UTF-8
-
-Id: google-05
-Type: article
-Media: link
-Title: datadog aws tags - Google Search
-Tags: current, set2019, link
-Link: https://www.google.com/search?q=datadog+aws+tags&amp;rlz=1C1SQJL_enUS801US801&amp;oq=datadog+aws+tags&amp;aqs=chrome..69i57j69i60.5732j0j7&amp;sourceid=chrome&amp;ie=UTF-8
-
 Id: google-06
 Type: article
 Media: link
 Title: Google
 Tags: folder, link
 Link: http://www.google.com/
-
-Id: google-07
-Type: article
-Media: link
-Title: javascript manual - Google Search
-Tags: folder, reference, xml, html, link
-Link: http://www.google.com/search?q=javascript+manual&amp;start=0&amp;start=0&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official
-
-Id: google-08
-Type: article
-Media: link
-Title: rfid writer kit - Google Search
-Tags: home, buy, link
-Link: http://www.google.com/search?hl=en&amp;source=hp&amp;q=rfid+writer+kit&amp;aq=2&amp;aqi=g5g-m4&amp;aql=&amp;oq=rfid+writer&amp;gs_rfai=C7u97v7KZTK-1PJHaNoe0mFQAAACqBAVP0BfpRw
-
-Id: google-09
-Type: article
-Media: link
-Title: BOREL PRIVATE BANK&amp;TRUST CO - Google Search
-Tags: home, debt, link
-Link: http://www.google.com/#hl=en&amp;source=hp&amp;q=BOREL+PRIVATE+BANK%26TRUST+CO&amp;btnG=Google+Search&amp;aq=f&amp;aqi=&amp;oq=&amp;fp=e8d6ef47431c6a4a
-
-Id: google-10
-Type: article
-Media: link
-Title: shipping container homes - Google Search
-Tags: home, eco, link
-Link: http://www.google.com/search?hl=en&amp;q=shipping+container+homes&amp;btnG=Search
-
-Id: google-11
-Type: article
-Media: link
-Title: electric car conversion - Google Search
-Tags: home, electriccar, googlesearch, link
-Link: http://www.google.com/search?hl=en&amp;q=electric+car+conversion&amp;btnG=Google+Search
-
-Id: google-12
-Type: article
-Media: link
-Title: Saturnian Theory - Google Search
-Tags: home, electricuniverse, link
-Link: http://www.google.com/search?hl=en&amp;q=Saturnian+Theory&amp;btnG=Google+Search
-
-Id: google-13
-Type: article
-Media: link
-Title: thorium power - Google Search
-Tags: home, freeenergy, link
-Link: http://www.google.com/#sclient=psy&amp;hl=en&amp;q=thorium+power&amp;aq=f&amp;aqi=g5&amp;aql=&amp;oq=&amp;gs_rfai=&amp;pbx=1&amp;fp=84f34ab5383c7ee9
 
 Id: google-14
 Type: article
@@ -8232,104 +8141,12 @@ Title: Google Voice - Inbox
 Tags: home, homelan, frequent, link
 Link: https://www.google.com/voice#inbox
 
-Id: google-15
-Type: article
-Media: link
-Title: bastard operator from hell - Google Search
-Tags: home, humor, link
-Link: http://www.google.com/search?hl=en&amp;q=bastard+operator+from+hell&amp;btnG=Google+Search
-
 Id: google-16
 Type: article
 Media: link
 Title: Google Webmaster Central. Get data about crawling, indexing and search traffic. Increase traffic to your site.
 Tags: home, link
 Link: https://www.google.com/webmasters/
-
-Id: google-17
-Type: article
-Media: link
-Title: privacy encryption I have nothing to hide Will Dwyer - Google Search
-Tags: home, make, crypt, nothing_to_hide, link
-Link: http://www.google.com/search?num=20&amp;hl=en&amp;q=privacy+encryption+I+have+nothing+to+hide+Will+Dwyer&amp;btnG=Search
-
-Id: google-18
-Type: article
-Media: link
-Title: windows keeps rebooting recovery - Google Search
-Tags: home, pcshell, link
-Link: http://www.google.com/search?client=firefox-a&amp;rls=org.mozilla%3Aen-US%3Aofficial&amp;channel=s&amp;hl=en&amp;q=windows+keeps+rebooting+recovery&amp;btnG=Google+Search
-
-Id: google-19
-Type: article
-Media: link
-Title: spooldr.sys - Google Search
-Tags: home, pcshell, link
-Link: http://www.google.com/search?hl=en&amp;q=spooldr.sys&amp;btnG=Search
-
-Id: google-20
-Type: article
-Media: link
-Title: Google Search: 11th hour pbs
-Tags: home, tofile, set4, link
-Link: http://www.google.com/search?hl=en&amp;ie=UTF-8&amp;q=11th+hour+pbs&amp;btnG=Google+Search
-
-Id: google-21
-Type: article
-Media: link
-Title: Google Search: Bear mail order degrees
-Tags: home, tofile, set4, link
-Link: http://www.google.com/search?hl=en&amp;ie=UTF-8&amp;q=Bear+mail+order+degrees&amp;btnG=Google+Search
-
-Id: google-22
-Type: article
-Media: link
-Title: japa kara mala hand rosary - Google Search
-Tags: home, tofile, set8, link
-Link: http://www.google.com/search?hl=en&amp;lr=&amp;q=japa+kara+mala+hand+rosary&amp;btnG=Search
-
-Id: google-23
-Type: article
-Media: link
-Title: automatic paper cutter machine - Google Search
-Tags: home, writing, publishing, link
-Link: http://www.google.com/#sclient=psy&amp;hl=en&amp;source=hp&amp;q=automatic+paper+cutter+machine&amp;aq=1&amp;aqi=g-c1g1g-m1&amp;aql=&amp;oq=&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.&amp;fp=7ddfcab4a94a31d1
-
-Id: google-24
-Type: article
-Media: link
-Title: Your Storm Photos - April 30, 2019 - NBC 5 Dallas-Fort Worth
-Date: 2019-04-30
-Tags: images, lighting, link
-Link: https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.nbcdfw.com%2F2019%2F09%2F2d8c2782bbf14fa58721c911211c6f6d.jpeg.jpg%3Ffit%3D489%252C559&amp;imgrefurl=https%3A%2F%2Fwww.nbcdfw.com%2Fmultimedia%2Fyour-storm-photos-april-30-2019-2%2F274352%2F&amp;t
-
-Id: google-25
-Type: article
-Media: link
-Title: linux firefox java - Google Search
-Tags: last, foldername, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+firefox+java&amp;btnG=Search
-
-Id: google-26
-Type: article
-Media: link
-Title: EditiX for Linux/Unix - Google Search
-Tags: last, link
-Link: http://www.google.com/search?hl=en&amp;q=EditiX+for+Linux%2FUnix&amp;btnG=Search
-
-Id: google-27
-Type: article
-Media: link
-Title: linux usb devices - Google Search
-Tags: last, usb-rs232, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+usb+devices&amp;btnG=Google+Search
-
-Id: google-28
-Type: article
-Media: link
-Title: linux usb to rs232 dynex - Google Search
-Tags: last, usb-rs232, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+usb+to+rs232+dynex&amp;btnG=Google+Search
 
 Id: google-29
 Type: article
@@ -8338,96 +8155,12 @@ Title: Google - Cloud Print
 Tags: printing, link
 Link: http://www.google.com/cloudprint/learn/?hl=en
 
-Id: google-30
-Type: article
-Media: link
-Title: Lahaina Noon dates - Google Search
-Tags: science, link
-Link: https://www.google.com/search?num=20&amp;newwindow=1&amp;q=Lahaina+Noon+dates&amp;sa=X&amp;ved=0ahUKEwjmjtahsevaAhXni1QKHaSJBw4Q3rMBCC4oAg&amp;biw=1418&amp;bih=691
-
-Id: google-31
-Type: article
-Media: link
-Title: RSA SecurID Appliance 130 - Security appliance
-Tags: toolhw, link
-Link: http://www.google.com/products/catalog?hl=en&amp;biw=1100&amp;bih=641&amp;q=rsa+securid+appliance&amp;um=1&amp;ie=UTF-8&amp;cid=2694216676407525571&amp;ei=paLLTL-tJoScsQOm3rTaDg&amp;sa=X&amp;oi=product_catalog_result&amp;ct=result&amp;resnum=6&amp;ved=0
-
-Id: google-32
-Type: article
-Media: link
-Title: algorithm time series - Google Search
-Tags: toolsw, appdb, link
-Link: http://www.google.com/search?hl=en&amp;q=algorithm+%22time+series%22&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=&amp;gs_rfai=
-
-Id: google-33
-Type: article
-Media: link
-Title: round robin database mysql - Google Search
-Tags: toolsw, appdb, link
-Link: http://www.google.com/search?hl=en&amp;q=round+robin+database+mysql&amp;aq=1&amp;aqi=g4&amp;aql=&amp;oq=round+robin+database+&amp;gs_rfai=
-
-Id: google-34
-Type: article
-Media: link
-Title: linux java firefox - Google Search
-Tags: toolsw, appinternet, firefox, link
-Link: http://www.google.com/search?hl=en&amp;q=linux+java+firefox&amp;btnG=Search
-
-Id: google-35
-Type: article
-Media: link
-Title: open filer - Google Search
-Tags: toolsw, appnetwork, link
-Link: http://www.google.com/search?hl=en&amp;q=open+filer&amp;btnG=Google+Search&amp;aq=f&amp;oq=
-
-Id: google-36
-Type: article
-Media: link
-Title: udp ssh tunnel - Google Search
-Tags: toolsw, appnetwork, ssh, link
-Link: http://www.google.com/search?hl=en&amp;source=hp&amp;biw=1100&amp;bih=640&amp;q=udp+ssh+tunnel&amp;aq=0&amp;aqi=g2g-m1&amp;aql=&amp;oq=udp+ssh&amp;gs_rfai=Cx0-tnVirTNSNBJSmoATTv5ydAwAAAKoEBU_QTJbE
-
-Id: google-37
-Type: article
-Media: link
-Title: linux installing firefox 32bit on a 64bit - Google Search
-Tags: toolsw, platform, centos, firefox-32bit, link
-Link: http://www.google.com/search?client=firefox-a&amp;rls=org.mozilla%3Aen-US%3Aofficial&amp;channel=s&amp;hl=en&amp;q=linux+installing+firefox+32bit+on+a+64bit&amp;btnG=Google+Search
-
-Id: google-38
-Type: article
-Media: link
-Title: skipfish - Google Search
-Tags: toolsw, security, link
-Link: http://www.google.com/#hl=en&amp;source=hp&amp;q=skipfish&amp;aq=f&amp;aqi=g-sx1&amp;aql=&amp;oq=&amp;gs_rfai=&amp;fp=1dc62da33e2ff469
-
-Id: google-39
-Type: article
-Media: link
-Title: javascript class template - Google Search
-Tags: tools, gas, link
-Link: https://www.google.com/search?q=javascript+class+template&amp;oq=javascript+class+template&amp;aqs=chrome..69i57j69i59.14812j0j8&amp;sourceid=chrome&amp;ie=UTF-8
-
 Id: google-40
 Type: article
 Media: link
 Title: Search Console - Home
 Tags: tools, link
 Link: https://www.google.com/webmasters/tools/home?pli=1
-
-Id: google-41
-Type: article
-Media: link
-Title: IT support companies colo, redwood city - Google Search
-Tags: work, it_support, link
-Link: http://www.google.com/search?hl=en&amp;biw=1036&amp;bih=758&amp;q=IT+support+companies+colo%2C+redwood+city&amp;aq=f&amp;aqi=&amp;aql=f&amp;oq=&amp;gs_rfai=
-
-Id: google-42
-Type: article
-Media: link
-Title: apache2 prefork php futex - Google Search
-Tags: work, set2010, link
-Link: http://www.google.com/search?q=apache2+prefork+php+futex&amp;hl=en&amp;biw=1100&amp;bih=641&amp;ei=BODZTLeDNJTWtQP8yfSDCA&amp;start=30&amp;sa=N
 
 Id: google-github-01
 Type: article
@@ -10673,13 +10406,6 @@ Title: Flowblade Documentation
 Tags: video, link
 Link: https://jliljebl.github.io/flowblade/webhelp/help.html
 
-Id: jobsearch-monster-01
-Type: article
-Media: link
-Title: US-CA-Menlo Park-Configuration/Release MAnager
-Tags: home, job, jobposting, link
-Link: http://jobsearch.monster.com/getjob.asp?JobID=16018505&amp;col=&amp;cy=US&amp;brd=1%2C+1863&amp;lid=355%2C+883%2C+356&amp;fn=46%2C+6%2C+546%2C+4%2C+549%2C+660%2C+554%2C+47%2C+561&amp;jt=&amp;q=release+engineer&amp;AVSDM=2002%2D09%2D30+18%3A08%3A00%2E000
-
 Id: jobvite-01
 Type: site
 Media: site
@@ -12532,14 +12258,14 @@ Type: article
 Media: link
 Title: Industrial NUC.; Logic Supply
 Tags: tools, link
-Link: https://www.logicsupply.com/nuc/?cpsrc=Display_NUC&amp;agname=nuc&amp;kw=&amp;ps=none&amp;gclid=EAIaIQobChMIwaqX6eH13gIVDvxkCh2F-w-jEAEYASAAEgJaXPD_BwE
+Link: https://www.logicsupply.com/nuc/
 
 Id: login-yahoo-01
 Type: article
 Media: link
 Title: Yahoo! Mail
 Tags: folder, home, link
-Link: https://login.yahoo.com/config/login?.src=ym&amp;.v=0&amp;.u=8rdvpjsu4ci4e&amp;.last=&amp;promo=&amp;.intl=us&amp;.bypass=&amp;.partner=&amp;.done=
+Link: https://login.yahoo.com/config/login
 
 Id: logix-cz-01
 Type: article
@@ -12751,7 +12477,7 @@ Type: article
 Media: link
 Title: From Blank Page to Book in Thirty Days; Lulu.com
 Tags: tools, link
-Link: http://www.lulu.com/blog/12991?utm_source=bronto&amp;utm_medium=email&amp;utm_term=View+Guide&amp;utm_content=NaNoWriMo:+Let+the+writing+begin!+%3F%3F&amp;utm_campaign=10242017_US_en_LULU25+#sthash.YZF3STgD.B7bDlFxP.dpbs
+Link: http://www.lulu.com/blog/12991
 
 Id: luna-01
 Type: article
@@ -12988,7 +12714,7 @@ Type: article
 Media: link
 Title: Arduino Duemilanove
 Tags: home, buy, link
-Link: http://www.makershed.com/ProductDetails.asp?ProductCode=MKSP4&amp;Click=58529&amp;utm_medium=email&amp;utm_source=EmailCampaign&amp;utm_content=363850116&amp;utm_campaign=MakerShedNewsletter-July2010&amp;utm_term=ArduinoDuemilanove
+Link: http://www.makershed.com/ProductDetails.asp
 
 Id: makeuseof-01
 Type: article
@@ -14489,7 +14215,7 @@ Type: article
 Media: link
 Title: Scary Blue UV Contact Lenses
 Tags: misc, link
-Link: https://myscaryeyes.com/scary-blue-uv-contact-lenses?utm_medium=google_shopping&amp;utm_source=google&amp;utm_campaign=google_shopping_us&amp;gclid=Cj0KCQjwz93cBRCrARIsAEFbWsjtx3zykRhBu9gXvslLgbldBOYfs9_B6VQom_9aB-tcVMr9alXollcaAix4EALw_wcB
+Link: https://myscaryeyes.com/scary-blue-uv-contact-lenses
 
 Id: myslingstudio-01
 Type: media
@@ -14994,7 +14720,7 @@ Type: article
 Media: link
 Title: Global Revolution and the Healing of Love - Debrief; New Way Group
 Tags: current, set2018, link
-Link: https://newwaygroup.wordpress.com/2017/08/06/global-revolution-and-the-healing-of-love-debrief/?preview_id=266&amp;preview_nonce=dbcc7dd6dc&amp;post_format=standard&amp;_thumbnail_id=-1&amp;preview=true
+Link: https://newwaygroup.wordpress.com/2017/08/06/global-revolution-and-the-healing-of-love-debrief/
 
 Id: newwaygroup-02
 Type: article
@@ -15299,7 +15025,7 @@ Type: article
 Media: link
 Title: Opinion; It's the End of California as We Know It - The New York Times
 Tags: culture, link
-Link: https://www.nytimes.com/2019/10/30/opinion/california-fires.html?te=1&amp;nl=evening-briefing&amp;emc=edit_ne_20191030?campaign_id=57&amp;instance_id=13489&amp;segment_id=18372&amp;user_id=984a8324d50a8dad9ddcff77e7096966&amp;regi_id=94896926
+Link: https://www.nytimes.com/2019/10/30/opinion/california-fires.html
 
 Id: nytimes-13
 Type: article
@@ -15320,7 +15046,7 @@ Type: article
 Media: link
 Title: How the Silence Makes the Music - The New York Times
 Tags: current, link
-Link: https://www.nytimes.com/2019/10/02/arts/music/silence-classical-music.html?te=1&amp;nl=morning-briefing&amp;emc=edit_NN_p_20191008&amp;section=aBreak?campaign_id=9&amp;instance_id=12915&amp;segment_id=17680&amp;user_id=984a8324d50a8dad9ddcff77e7096966&a
+Link: https://www.nytimes.com/2019/10/02/arts/music/silence-classical-music.html
 
 Id: nytimes-16
 Type: article
@@ -15334,7 +15060,7 @@ Type: article
 Media: link
 Title: How to Grow a Better Tomato - The New York Times
 Tags: misc, gardening, link
-Link: https://www.nytimes.com/2020/05/12/realestate/how-to-grow-a-better-tomato.html?campaign_id=57&amp;emc=edit_ne_20200513&amp;instance_id=18454&amp;nl=evening-briefing&amp;regi_id=94896926&amp;segment_id=27704&amp;te=1&amp;user_id=984a8324d50a8dad9ddcff77e
+Link: https://www.nytimes.com/2020/05/12/realestate/how-to-grow-a-better-tomato.html
 
 Id: nytimes-18
 Type: article
@@ -17346,7 +17072,6 @@ Subtitle: Senior Project
 Author: Rafnel, Bruce A
 Date: 1981
 Link: https://tinyurl.com/bdek3svn+
-AltLink: https://tinyurl.com/yfpz5fud+ https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&amp;context=L&amp;vid=01CALS_PSU:01CALS_PSU&amp;lang=en%2F&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;tab=Everything&amp;query=any,contains,senior%20project%20Bruce%20Rafnel&amp;offset=0 https://web.archive.org/web/20241010012700/https://csu-calpoly.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000363459702920&amp;context=L&amp;vid=01CALS_PSU:01CALS_PSU&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;tab=Everything&amp;query=any,contains,senior%20project%20Bruce%20Rafnel&amp;offset=0
 
 Id: rafnel-09
 Type: article
@@ -17473,7 +17198,7 @@ Subtitle: Seven Ways to Think Like a 21st-Century Economist
 Author: Raworth, Kate
 Date: 2018-03-12
 Edition: Rep
-Publisher:‎ Chelsea Green
+Publisher: Chelsea Green
 ISBN: 1603587969
 Link: https://www.amazon.com/dp/1603587969/
 
@@ -18226,7 +17951,7 @@ Type: article
 Media: link
 Title: High and Mighty: Raised Beds
 Tags: culture, link
-Link: http://www.rodalesorganiclife.com/garden/high-mighty-raised-beds?utm_campaign=Rodale%27s%20Organic%20Life&amp;utm_medium=Social&amp;utm_source=facebook.com&amp;utm_term=712573442
+Link: http://www.rodalesorganiclife.com/garden/high-mighty-raised-beds
 
 Id: rodgers-01
 Type: article
@@ -18777,7 +18502,7 @@ Type: article
 Media: link
 Title: Scabies - Natural Scabies Treatment - Kill Scabies
 Tags: home, buy, link
-Link: http://www.scabies-killer.com/?bkw=scabies&amp;src=Google&amp;ver=&amp;med=&amp;adg=&amp;cam=Scabies%2DKiller&amp;ucroi_kw=scabies&amp;ucroi_adid=65425&amp;ucroi_google_type=GoogleAdWordsSearch&amp;gclid=COmu4deWjJ0CFShSagodNlWB_g
+Link: http://www.scabies-killer.com/
 
 Id: scariesttrail-01
 Type: media
@@ -19168,34 +18893,6 @@ Media: link
 Title: Dice - Job Seeker Tools
 Tags: home, job, company, link
 Link: http://seeker.dice.com/seeker.epl?rel_code=1102&amp;op=2
-
-Id: seeker-dice-02
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/3/f/3f5244bc728b41670eb005ac6489d997@activejobs0&amp;c=131
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/3/f/3f5244bc728b41670eb005ac6489d997@activejobs0&amp;c=131
-
-Id: seeker-dice-03
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/4/e/4ebb78673d06564f5408cda821434777@activejobs0&amp;c=101
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/4/e/4ebb78673d06564f5408cda821434777@activejobs0&amp;c=101
-
-Id: seeker-dice-04
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/5/2/52fc3fbf0435b6797563da4f65ada183@activejobs0&amp;c=101
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/5/2/52fc3fbf0435b6797563da4f65ada183@activejobs0&amp;c=101
-
-Id: seeker-dice-05
-Type: article
-Media: link
-Title: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/c/c/cc919d62e485ead84a4246faf608ddf6@activejobs0&amp;c=1
-Tags: home, job, jobposting, link
-Link: http://seeker.dice.com/jobsearch/servlet/JobSearch?op=1002&amp;dockey=xml/c/c/cc919d62e485ead84a4246faf608ddf6@activejobs0&amp;c=1
 
 Id: seely-01
 Type: media
@@ -19975,7 +19672,7 @@ Type: site
 Media: product
 Title: SonyStyle.com:  Sony Portable Reader System
 Tags: home, tofile, set5, link
-Link: http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CategoryName=&amp;ProductSKU=PRS500&amp;TabName=specs&amp;var2=
+Link: http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start
 
 Id: soundcloud-01
 Type: site
@@ -21195,7 +20892,7 @@ Type: article
 Media: link
 Title: Infarm wants to put a farm in every grocery store; TechCrunch
 Tags: culture, link
-Link: https://techcrunch.com/2017/06/26/infarm/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+TechCrunch
+Link: https://techcrunch.com/2017/06/26/infarm/
 
 Id: techcrunch-03
 Type: site
@@ -21223,7 +20920,7 @@ Type: article
 Media: link
 Title: How to Opt Out of Everything Online - Techland - TIME.com
 Tags: home, tofile, set2011, link
-Link: http://techland.time.com/2011/03/10/how-to-opt-out-of-everything-online/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+timeblogs%2Fnerd_world+%28TIME%3A+Techland%29
+Link: http://techland.time.com/2011/03/10/how-to-opt-out-of-everything-online/
 
 Id: technologyreview-01
 Type: article
@@ -21543,7 +21240,7 @@ Type: article
 Media: link
 Title: The Lost Ways
 Tags: culture, link
-Link: http://www.thelostways.com/vsl/index.php?r=3350&amp;hop=nickthom&amp;utm_content_id=752145&amp;utm_widget_id=5042&amp;utm_boost_id=89760&amp;utm_targeting=conservative+news
+Link: http://www.thelostways.com/vsl/index.php
 
 Id: theluf-blogspot-01
 Type: site
@@ -22704,7 +22401,7 @@ Type: article
 Media: link
 Title: Vention; Simplified Machine Design for Everyone
 Tags: tools, link
-Link: https://www.vention.io/?utm_medium=video&amp;utm_source=google&amp;utm_campaign=video%20-%20vention2&amp;utm_content=placement&amp;gclid=Cj0KCQiAtvPjBRDPARIsAJfZz0o9ZqBQ6uS4aYUV48qfxXrA4Owszo2jCIYI6ttTE9v1rx79VMY010EaAmMkEALw_wcB
+Link: https://www.vention.io/
 
 Id: veritasium-01
 Type: media
@@ -23207,13 +22904,6 @@ Title: Amy Webb: How I hacked online dating
 Author: Webb, Amy
 Tags: video, old:youtube-040
 Link: http://www.youtube.com/watch?v=d6wG_sAdP0U
-
-Id: webcache-googleusercontent-01
-Type: article
-Media: link
-Title: Fast Algorithms for Burst Detection
-Tags: toolsw, appdb, link
-Link: http://webcache.googleusercontent.com/search?q=cache:VRx4oHKNIPMJ:www.cs.nyu.edu/web/Research/Theses/zhang_xin.pdf+algorithm+for+a+%22running+count%22+over+time&amp;hl=en&amp;gl=us#18
 
 Id: webcitation-01
 Type: article
