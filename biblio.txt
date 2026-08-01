@@ -20434,7 +20434,7 @@ Tags: toolsw, appcms, subversion, link
 Link: http://subversion.tigris.org/issues/show_bug.cgi?id=516
 
 Id: sullivan-01
-Type: Article
+Type: article
 Media: Link
 Title: How the Gay Rights Movement Radicalized, and Lost Its Way
 Author: Sullivan, Andrew
