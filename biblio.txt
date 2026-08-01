@@ -6593,7 +6593,7 @@ Media: link
 Title: Peace as a natural state
 Author: Feistel, Felrx
 Date: 2025-12-24
-Publication: Open-Publishing Newswire
+Publisher: Open-Publishing Newswire
 Link: https://www.indybay.org/newsitems/2025/12/24/18882397.php
 AltLink: https://tinyurl.com/c8a58p5s+ https://web.archive.org/web/20251224175552/https://www.indybay.org/newsitems/2025/12/24/18882397.php
 
@@ -15684,7 +15684,7 @@ Media: link
 Title: 10 Supreme Court Rulings—Before Hobby Lobby—That Turned Corporations Into People
 Author: Alex Park
 Date: 2014-07-10
-Publication: Mother Jones
+Publisher: Mother Jones
 Link: https://www.motherjones.com/politics/2014/07/how-supreme-court-turned-corporations-people-200-year-saga/
 AltLink: https://tinyurl.com/yxnr3pjc+ https://web.archive.org/web/20200929183437/https://www.motherjones.com/politics/2014/07/how-supreme-court-turned-corporations-people-200-year-saga/
 
