@@ -118,6 +118,9 @@
 ** Id: balle-01
 - See also: commonfuture-01, livingeconomies-02, weall-01
 
+** Id: bean-01
+See also: thomson-01, thomson-02
+
 ** Id: becker-01
 Gavin de Becker wrote the book The Gift of Fear
 https://www.amazon.com/gp/product/B0036Z9U2A/
@@ -2558,6 +2561,12 @@ elsewhere.  </blockquote>
 
 ** Id: timefortribe-01
 - Community and the Unquantifiable
+
+** Id: thomson-01
+See: bean-01
+
+** Id: thomson-02
+See: bean-01
 
 ** Id: trom-01
 - Home: 2021-10-19: https://archive.ph/3NxNL
