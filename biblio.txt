@@ -1410,6 +1410,16 @@ Title: Beafilmmaker video storytelling and editing courses
 Tag: video, link
 Link: https://www.beafilmmaker.com/
 
+Id: bean-01
+Type: media
+Media: video
+Title: Why You Can't Get Through to a Trump Supporter
+Author: Lucas Bean
+Date: 2026-08-09
+Publisher: Lucas Bean
+Tag: stupidity
+Link: https://www.youtube.com/watch?v=2Zki_vrUe5k
+
 Id: beatty-01
 Type: media
 Media: DVD
@@ -21402,8 +21412,19 @@ Subtitle: We have more to fear from stupid people than evil ones
 Author: Thomson, Jonny
 Date: 2023-01-26
 Publisher: Big Think
+Tag: stupidity
 Link: https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/
 AltLink: https://tinyurl.com/uaesaers+ https://web.archive.org/web/20230126155255/https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/
+
+Id: thomson-02
+Type: media
+Media: video
+Title:  The 3 elements of stupidity, according to philosophy
+Author: Jonny Thomson
+Date: 2026-07-24
+Publisher: Big Think
+Tag: stupidity
+Link: https://www.youtube.com/watch?v=HbQ-t8GXYTA
 
 Id: thornhill-01
 Type: site
