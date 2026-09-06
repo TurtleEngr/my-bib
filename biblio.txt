@@ -2254,9 +2254,10 @@ Media: link
 Title: MOOSE Crossing
 Subtitle: Construction, Community, and Learning in a Networked Virtual World for Kids
 Author: Bruckman, Amy
-Date: 1997-05-01
+Date: 1997-03-17
 Publisher: PhD Dissertation, MIT Media Lab
 Link: https://faculty.cc.gatech.edu/~asb/thesis/moose-crossing-entire.pdf
+AltLink: https://tinyurl.com/5s2p8ayc+ https://web.archive.org/web/20220119182905/https://faculty.cc.gatech.edu/~asb/thesis/moose-crossing-entire.pdf https://moria.whyayh.com/rel/archive/article/culture/moose-crossing-entire.pdf
 
 Id: bryson-01
 Type: book
