@@ -6835,11 +6835,32 @@ Type: article
 Media: link
 Title: Paradoxes of American Individualism
 Author: Fischer, Claude S.
-Date: 2008
+Date: 2008-06-01
 Publisher: Sociological Forum, Vol. 23, No. 2, June 2008
 Tag: article
 Link: https://sociology.berkeley.edu/sites/default/files/faculty/fischer/Fischer_Paradoxes%20of%20Individualism_2008.pdf
 AltLink: https://tinyurl.com/yt8nz49r+ https://web.archive.org/web/20240821191827/https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf https://moria.whyayh.com/rel/archive/article/culture/Fischer_Paradoxes-of-Individualism_2008.pdf
+
+Id: fischer-03
+Type: book
+Media: Paperback
+Title: Made in America
+Subtitle: A Social History of American Culture and Character
+Author: Fischer, Claude S.
+Date:  2011-10-10
+Publisher: University of Chicago Press
+Link: https://www.amazon.com/Made-America-History-American-Character/dp/0226251446/
+AltLink: https://madeinamericathebook.wordpress.com/about/
+
+Id: fischer-04
+Type: article
+Media: link
+Title: Unbundled: Another Way of Understanding Religious Change
+Author: Fischer, Claude
+Date: 2026-10-12
+Publisher: Made In America The Book
+Link: https://madeinamericathebook.wordpress.com/2026/10/12/unbundled-another-way-of-understanding-religious-change/
+AltLink: https://tinyurl.com/2wdt8dc6+ https://web.archive.org/web/20261020195104/https://madeinamericathebook.wordpress.com/2026/10/12/unbundled-another-way-of-understanding-religious-change/
 
 Id: fisher-01
 Type: media
