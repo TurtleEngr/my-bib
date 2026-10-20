@@ -153,7 +153,7 @@ possible level.
 ** Id: benkler-01
 - <blockquote>we are seeing the broad and deep emergence of a new,
   third mode of production in the digitally networked environment. I
-  call this mode “commons-based peer production,” to distinguish it
+  call this mode "commons-based peer production," to distinguish it
   from the property- and contract-based modes of firms and markets.
   Its central characteristic is that groups of individuals
   successfully collaborate on large- scale projects following a
@@ -215,13 +215,13 @@ possible level.
   effective antidote to delusion that has ever been discovered is...
 - The criticism of others.
 - Criticism even—especially— by your enemies.
-- Oh, that’s not to say you’re doomed always to be wrong!  For one
+- Oh, that's not to say you're doomed always to be wrong!  For one
   thing, science has provided many self-check tools that reduce rates
   and levels of delusion, applying experimental and experiential
   honesty to enhance the central catechism that made science so
   successful. A pair of simple sentences spoken not just by
   scientists, but by any person with an ounce of decency or maturity.
-- <i>“I might be wrong. Let’s find out.”</i>
+- <i>"I might be wrong. Let's find out."</i>
 
 ** Id: brin-02
 - See also: olson-01, olson-02, evans-02, oliver-01
@@ -308,19 +308,19 @@ interact that matters.
   comes up with is no-holds-barred capitalism."
 - "...we are already surrounded by machines that demonstrate a
   complete lack of insight, we just call them
-  corporations. Corporations don’t operate autonomously, of course,
+  corporations. Corporations don't operate autonomously, of course,
   and the humans in charge of them are presumably capable of insight,
-  but capitalism doesn’t reward them for using it. On the contrary,
+  but capitalism doesn't reward them for using it. On the contrary,
   capitalism actively erodes this capacity in people by demanding that
-  they replace their own judgment of what “good” means with “whatever
-  the market decides.”
+  they replace their own judgment of what "good" means with "whatever
+  the market decides."
 - There are industry observers talking about the need for AIs to have
   a sense of ethics, and some have proposed that we ensure that any
-  superintelligent AIs we create be “friendly,” meaning that their
+  superintelligent AIs we create be "friendly," meaning that their
   goals are aligned with human goals. I find these suggestions ironic
   given that we as a society have failed to teach corporations a sense
-  of ethics, that we did nothing to ensure that Facebook’s and
-  Amazon’s goals were aligned with the public good.
+  of ethics, that we did nothing to ensure that Facebook's and
+  Amazon's goals were aligned with the public good.
 - We need for the machines to wake up, not in the sense of computers
   becoming self-aware, but in the sense of corporations recognizing
   the consequences of their behavior.
@@ -382,9 +382,9 @@ interact that matters.
 
 ** Id: cooper-01
 - <blockquote>
-- So what can we do about our “Ignore more, care less, everything is
-  fine!” era? We need to stop enabling it. This starts by being more
-  attuned to our “everyday ignoring” and “everyday bystanding”—like
+- So what can we do about our "Ignore more, care less, everything is
+  fine!" era? We need to stop enabling it. This starts by being more
+  attuned to our "everyday ignoring" and "everyday bystanding"—like
   that pinch we feel when we know we should click through a concerning
   headline, but instead scroll past it.
 - We need to work harder to catch ourselves in the act of staying
@@ -396,7 +396,7 @@ interact that matters.
 - We need to demand that our leaders give the full truth and hold them
   to account. We must stand up for the silenced and stand with the
   silence-breakers.
-- To counter the new normal’s assault on normalcy, we must double down
+- To counter the new normal's assault on normalcy, we must double down
   on our /duty to know,/ to speak up, and to remember.
 - {cooper-01}</blockquote>
 
@@ -434,8 +434,8 @@ interact that matters.
 + [[http://www.webcitation.org/60j7W7SPq][New Expose Tracks ALEC-Private Prison Industry Effort to Replace Unionized Workers with Prison Labor]] - The new slavery: prison workers
 
 ** Id: democracynow-02
-- excerpt from Dr. King’s “Beyond Vietnam” address, given at New York
-  City’s Riverside Church on April 4, 1967. See also: king-02
+- excerpt from Dr. King's "Beyond Vietnam" address, given at New York
+  City's Riverside Church on April 4, 1967. See also: king-02
 
 ** Id: dickie-01
 - A 2020 study in the Journal of Scientific Advances found that,
@@ -475,10 +475,10 @@ interact that matters.
 
 - <blockquote>Once you understand the mirror world, you start to
   realize that many right wing conspiracists could have been directed
-  into productive movements, if only they’d understood that their
+  into productive movements, if only they'd understood that their
   problems were with systems, not sinister individuals (this is why
   Trump has ordered a purge of any federally funded research that
-  contains the word “systemic”):
+  contains the word "systemic"):
   https://mamot.fr/@Lazarou@mastodon.social/113943287435897828
   {doctorow-18}</blockquote>
 
@@ -488,17 +488,17 @@ interact that matters.
 
 - <blockquote>MLMs prey on the poor and desperate: women, people of
   color, people in dying small towns and decaying rustbelt
-  cities. It’s not just that these people are desperate — it’s that
+  cities. It's not just that these people are desperate — it's that
   they only survive through networks of mutual
   aid.{doctorow-18}</blockquote>
 
 - <blockquote>an MLM is a system for destructively transforming social
   capital into monetary capital.{doctorow-18}</blockquote>
 
-- <blockquote>Hearing Baker’s interview and reading Pitzer’s memoir
+- <blockquote>Hearing Baker's interview and reading Pitzer's memoir
   last week made it all click together for me. Not just that MLMs
   destroy social bonds, but that within every person who gets sucked
-  into an MLM, there’s a community organizer who could be building the
+  into an MLM, there's a community organizer who could be building the
   bonds that MLMs destroy.{doctorow-18}</blockquote>
 
 ** Id: dugan-01
@@ -524,7 +524,7 @@ interact that matters.
   is called a cult. What makes a cult toxic—and the dominant culture
   is toxic—is when there's severe punishment for deviance, when you
   face ostracism and even retribution if you fail to profess the
-  beliefs that the cult mandates. If you don’t exhibit the behaviors
+  beliefs that the cult mandates. If you don't exhibit the behaviors
   and abide by the taboos and rituals of the cult, you get in big
   trouble.
 
@@ -543,16 +543,16 @@ English system was barbaric compared to the Haudenosaunee Confederacy
 resolved problems.
 
 "Often described as the oldest, participatory democracy on Earth, the
-Haudenosaunee Confederacy’s constitution is believed to be a model for
+Haudenosaunee Confederacy's constitution is believed to be a model for
 the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 
 - <blockquote>The Clan Mothers decide who has the chops to be a
-  leader. They’re the ones who recommend promising young men for
+  leader. They're the ones who recommend promising young men for
   chiefhood. The Clan Mothers have the power to remove any chief who
   behaves in a way that strikes them as unseemly.
 
   If I were a Clan Mother looking for kids with the makings of good
-  chiefs, what would catch my eye? I’d be watching for the kids who
+  chiefs, what would catch my eye? I'd be watching for the kids who
   break up fights. The kids who are curious and open-minded. Kids who
   can admit they made a mistake. Kids who are slow to judge and quick
   to forgive. Kids who are strong but
@@ -569,9 +569,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
 
 - <blockquote>"Read the book before passing judgement that punishment
   is needed as a deterrent. Indigenous justice was based on victim or
-  survivor’s satisfaction that the remedy of the wrong had been
+  survivor's satisfaction that the remedy of the wrong had been
   righted. It could include taking a life, property or a acceptance of
-  an apology. It’s designed to restore balance and not lord power of one
+  an apology. It's designed to restore balance and not lord power of one
   over another." {eustace-01:comment: Roland Rivard, Wisconsin,
   2022-11-30}</blockquote>
 
@@ -665,7 +665,7 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   - Demonstrate these virtues, and your enemies can live with dignity
     and freedom even when they lose a political battle. When your
     enemies show the same virtues, you can still enjoy a good life
-    even when you lose. That’s the social compact of pluralism. In a
+    even when you lose. That's the social compact of pluralism. In a
     decent society, no defeat is ultimate defeat, and no victory is
     ultimate victory. And in all circumstances, your fundamental human
     rights must be preserved.
@@ -723,9 +723,9 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   + LinkedIn: https://www.linkedin.com/in/francis-fukuyama-651a03b/
   + f.fukuyama@stanford.edu
 - Talks
-  + Musk demoted as markets crash in ‘Trump Slump’! Ari talks oligarchs, trust & Poli-Sci with Fukuyama
+  + Musk demoted as markets crash in ‘Trump Slump'! Ari talks oligarchs, trust & Poli-Sci with Fukuyama
     - https://www.youtube.com/watch?v=-riOnDBnu8o
-  + Francis Fukuyama: Identity Politics – The Demand for Dignity and the Nation State’s Future
+  + Francis Fukuyama: Identity Politics – The Demand for Dignity and the Nation State's Future
     - https://www.youtube.com/watch?v=X8N4EBV5iK8
 
 - Books:
@@ -791,13 +791,13 @@ the American Constitution."-https://www.haudenosauneeconfederacy.com/who-we-are/
   In all your responses, please focus on substance over praise. Skip
   unnecessary compliments, engage critically with my ideas, question
   my assumptions, identify my biases, and offer counterpoints when
-  relevant. Don’t shy away from disagreement, and ensure that any
+  relevant. Don't shy away from disagreement, and ensure that any
   agreements you have are grounded in reason and evidence. Also, give
   examples and sources.
 
   When writing your response, please ensure you include the following
   information: 1. A neutral, unbiased view of the request, unfiltered
-  by your desire to be a helpful and positive assistant. 2. A devil’s
+  by your desire to be a helpful and positive assistant. 2. A devil's
   advocate view, pointing out any logical counterpoints or things that
   I have overlooked. 3. An encouraging, positive view of the request.
 
@@ -1052,7 +1052,7 @@ Local video: https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/Finan
   book, "Aflame," Iyer writes about his frequent visits to the
   monastery over the following three decades, always finding joy and
   renewal in the "silence and emptiness and light"... and lack of
-  screens. We’ll talk with Iyer about the book, and why his inner
+  screens. We'll talk with Iyer about the book, and why his inner
   journeys mean more to him than his far-flung trips across the
   globe.{iyer-01}</blockquote>
 
@@ -1088,23 +1088,23 @@ Local video: https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/Finan
     the moment was cockamamie. The real answer to why I might be
     reluctant to change behaviors actually has more to do with
     selfishness.
-  - Johnson: That’s good of you to admit. I think we all want to hold
+  - Johnson: That's good of you to admit. I think we all want to hold
     on to our comforts.
   - Interviewer: Is there an antidote to that kind of thinking?
   - Johnson: I think the answer is community. We have to be
     responsible to more than ourselves. We have to feel an obligation
-    to more than our children. It can’t just be a selfish desire to
+    to more than our children. It can't just be a selfish desire to
     hold on to what we currently have. You can maybe grip tightly onto
     your comfort in the short term, but the more we resist being part
     of the collective solution, the less likely that collective
-    solution is to happen. In a sense, you’re echoing a bit of this
+    solution is to happen. In a sense, you're echoing a bit of this
     bunker mentality where we have these megawealthy people who are
     buying up land in New Zealand and wherever else trying to save
     themselves. That seems like such a sad way to see the world. Like,
     do you want to live in a bunker for a year eating canned rations?
     Is that the life we want to build? Or do we all try to make sure
-    we have a world where there’s enough for everybody, where no one
-    takes too much and we share what we have. I’d rather share.
+    we have a world where there's enough for everybody, where no one
+    takes too much and we share what we have. I'd rather share.
   - {johnson-09}</blockquote>
 
 ** Id: jones-03
@@ -1169,7 +1169,7 @@ Local video: https://moria.whyayh.com/rel/archive/video/ThirdParty/culture/Finan
 
 ** Id: lafont-01
 - See also: wikipedia-48.  According to the theory, the tightest
-  circle has just five people – loved ones. That’s followed by
+  circle has just five people – loved ones. That's followed by
   successive layers of 15 (good friends), 50 (friends), 150
   (meaningful contacts), 500 (acquaintances) and 1500 (people you can
   recognise). People migrate in and out of these layers, but the idea
@@ -1196,9 +1196,9 @@ Dr. Landemore is a political theorist at Yale and the author of
 08:33 - Why VR Flopped
 16:57 - Social Media Addiction Lawsuits
 21:42 - The Social Media Addicted Personality
-22:42 - The Internet’s Business Model
+22:42 - The Internet's Business Model
 30:28 - Is Social Media Equally Bad for Everyone? 
-36:22 - AI’s Changes to the Internet
+36:22 - AI's Changes to the Internet
 38:39 - Stop Mythologizing AI
 43:30 - There Is No AI
 52:24 - Data Dignity & Inventing a New Jobs Under AI
@@ -1209,7 +1209,7 @@ Dr. Landemore is a political theorist at Yale and the author of
   The right to be left alone. Don't try to predict or understand me so
   that you can manipulate me.
 01:06:20 - Is the Internet Toast? 
-01:08:28 - Everyone’s Suing AI
+01:08:28 - Everyone's Suing AI
 01:10:54 - Closing Thoughts
 
 ** Id: lanusse-01
@@ -1282,7 +1282,7 @@ Dr. Landemore is a political theorist at Yale and the author of
 - "As economic crisis paralyzes Western economies, an ideology of
   personal responsibility has come to the fore. Conservatives seize on
   flaws in self-control as a way of evading questioning the economic
-  system. The Left, too, blames “greedy banks” in preference to
+  system. The Left, too, blames "greedy banks" in preference to
   systemic explanations."
 
 ** Id: little-02
@@ -1298,7 +1298,7 @@ Dr. Landemore is a political theorist at Yale and the author of
   farmers with his film material and knowledge. Liu diligently spreads
   the message that restoration of ecosystems is not only possible, but
   also economically very meaningful.  Backlight accompanies Liu on his
-  mission in Jordan and shows on the basis of Liu’s own film material
+  mission in Jordan and shows on the basis of Liu's own film material
   that a green future is possible worldwide.{liu-02}</blockquote>
 
 ** Id: livingeconomies-01
@@ -1361,7 +1361,7 @@ Dr. Landemore is a political theorist at Yale and the author of
   minute?--Lynn Margulis{margulis-02}</blockquote>
 
 ** Id: margulis-02
-- <blockquote>Life is a planetary-level phenomenon and Earth’s surface
+- <blockquote>Life is a planetary-level phenomenon and Earth's surface
   as been alive for at least 3,000 million years. To me, the human
   move to take responsibility for the living Earth is laughable—the
   rhetoric of the powerless. The planet takes care of us, not we of
@@ -1373,14 +1373,25 @@ Dr. Landemore is a political theorist at Yale and the author of
   an end to nature; we can only pose a threat to ourselves. The notion
   that we can destroy all life, including bacteria thriving in the
   water tanks of nuclear power plants or boiling hot vents, is
-  ludicrous. I hear our nonhuman brethren snickering: “Got along
-  without you before I met you, gonna get along without you now,” they
+  ludicrous. I hear our nonhuman brethren snickering: "Got along
+  without you before I met you, gonna get along without you now," they
   sing about us in harmony. Most of them, the microbes, the whales,
   the insects, the seed plants, and the birds, are still singing. The
   tropical forest trees are humming to themselves, waiting for us to
   finish our arrogant logging so they can get back to their business
   of growth as usual. And they will continue their cacophonies and
   harmonies long after we are gone.{margulis-02:loc1776}</blockquote>
+
+** Id: marquis-01
+- <blockquote>What would that clean-sheet logic mean across an entire
+  university?  One starting point is the organization theorist Martin
+  Parker's call to create "schools for organizing" rather than schools
+  for business, centered on how humans coordinate for shared
+  ends. Students would study co-ops, unions and social movements
+  alongside the shareholder corporation. The central question would
+  shift from "How do we maximize shareholder value?" to "How do
+  different forms of organization distribute power, risk and reward —
+  and which should we strengthen?"</blockquote>
 
 ** Id: mcalevey-01
 - See also [conover-02]
@@ -1437,15 +1448,15 @@ Dr. Landemore is a political theorist at Yale and the author of
     year he won the award for the best grown corn. One year a
     newspaper reporter interviewed him and learned something
     interesting about how he grew it. The reporter discovered that the
-    farmer shared his seed corn with his neighbors. “How can you
+    farmer shared his seed corn with his neighbors. "How can you
     afford to share your best seed corn with your neighbors when they
-    are entering corn in competition with yours each year?” the
+    are entering corn in competition with yours each year?" the
     reporter asked.
-  - “Why sir,” said the farmer, “Didn’t you know? The wind picks up
+  - "Why sir," said the farmer, "Didn't you know? The wind picks up
     pollen from the ripening corn and swirls it from field to
     field. If my neighbors grow inferior corn, cross-pollination will
     steadily degrade the quality of my corn. If I am to grow good
-    corn, I must help my neighbors grow good corn.”
+    corn, I must help my neighbors grow good corn."
   - So it is with our lives. Those who want to live meaningfully,
     healthy, and well must help enrich the lives of others, for the
     value of a life is measured by the lives it touches. And those who
@@ -1645,7 +1656,7 @@ Dr. Landemore is a political theorist at Yale and the author of
 - It improves the survival of the community.
 
 ** Id: oecd-01
-- Search for: Citizens’ assemblies
+- Search for: Citizens' assemblies
 - <blockquote>The OECD (Organisation for Economic Co-operation and
   Development) is a forum and knowledge hub for data, analysis and
   best practices in public policy. We work with over 100 countries
@@ -2073,7 +2084,7 @@ https://web.archive.org/web/20241010012700/https://csu-calpoly.primo.exlibrisgro
 ** Id: rettner-01
 - <blockquote>
   - [the] fluid-filled spaces had been missed for decades because they
-    don’t show up on the standard microscopic slides [because the]
+    don't show up on the standard microscopic slides [because the]
     fixing process drains away fluid and causes the newfound
     fluid-filled spaces to collapse.
 
@@ -2164,10 +2175,10 @@ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi
 - Image is superficial
 
 ** Id: russell-02
-- "Behind Italy’s beauty (and parmesan) is a radical tradition of
+- "Behind Italy's beauty (and parmesan) is a radical tradition of
   cooperatives. In some areas, they make up nearly a fifth of the
   GDP. We went to Emilia-Romagna, one of the richest regions in the
-  country, to investigate how Italy’s workers built a more democratic
+  country, to investigate how Italy's workers built a more democratic
   economy."
 
 ** Id: salon-01
@@ -2383,9 +2394,9 @@ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi
 
 *** From: PDXceptional, Portland, OR
 - This is a problem with some nonprofits — once the problem has been
-  “solved” they expand the definition of the problem to ensure
+  "solved" they expand the definition of the problem to ensure
   relevance and continue the organization operations.
-- It’s about ensuring the long-term stability of the organization
+- It's about ensuring the long-term stability of the organization
   versus solving a problem, declaring victory, and shutting
   down. Survival instinct, but is it good for the cause or even the
   nonprofit sector as a whole?
@@ -2401,12 +2412,12 @@ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi
 ** Id: sunstein-01
 - Got this reference from David French's article:
   https://www.nytimes.com/2024/10/20/opinion/michigan-diversity-equity-inclusion.html
-- From above article: "the more ideologically or theologically “pure”
+- From above article: "the more ideologically or theologically "pure"
   an institution becomes, the more wrong it is likely to be,
   especially if it takes on a difficult or complex task."
 - <blockquote>In brief, group polarization arises when members of a
   deliberating group move toward a more extreme point in whatever
-  direction is indicated by the members’ predeliberation
+  direction is indicated by the members' predeliberation
   tendency.{sunstein-01}</blockquote>
 - <blockquote>"That we have found the tendency to conformity in our
   society so strong that reasonably intelligent and well-meaning young
@@ -2482,20 +2493,20 @@ https://web.archive.org/web/20250810153230/https://ajph.aphapublications.org/doi
 
 <blockquote> "Making a Career in Dictatorship," a new book by two
 German political scientists, Adam Scharpf and Christian Glassel, reads
-like what you might get if you crossed Hannah Arendt’s ideas about the
-“banality of evil” with a business school guide on how to get the most
+like what you might get if you crossed Hannah Arendt's ideas about the
+"banality of evil" with a business school guide on how to get the most
 out of low performers.  </blockquote>
 
 <blockquote> Mr. Glassel and Mr. Scharpf are concerned that President
-Trump’s planned expansion of ICE, in particular, could make it an
-ideal venue for “detouring” by ambitious underperformers who could be
+Trump's planned expansion of ICE, in particular, could make it an
+ideal venue for "detouring" by ambitious underperformers who could be
 deployed for anti-democratic purposes. The worry is especially
-profound given the storming of the Capitol at the end of Mr. Trump’s
+profound given the storming of the Capitol at the end of Mr. Trump's
 first term, albeit by a less organized band of loyalists.
 
 The playbook for a leader to create a loyal security service, they
 said, is to set up or repurpose an institution that can become a
-“second ladder” for career promotions, resource it generously and
+"second ladder" for career promotions, resource it generously and
 ensure that the barriers to getting hired there are low, signaling
 that it offers career opportunities to those who cannot find them
 elsewhere.  </blockquote>
@@ -2587,7 +2598,7 @@ See: bean-01
   interesting. An informative documentary, perhaps shocking and
   disturbing to many, depending on how you digest the information. The
   documentary is divided into chapters and sub-chapters due to the
-  documentary’s excessive length (14 hours) and all the parts are
+  documentary's excessive length (14 hours) and all the parts are
   connected so we recommend that you see them in order.
 
 ** Id: trom-03
@@ -2897,7 +2908,7 @@ See: bean-01
 
 ** Id: whippman-01
 - "Under patriarchy, boys and men get everything, except the thing
-  that’s most worth having: human connection."--{whippman-01}
+  that's most worth having: human connection."--{whippman-01}
 
 ** Id: wikipedia-46
 - As of October 2011, over 350 million users accessed Facebook through

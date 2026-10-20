@@ -12902,6 +12902,16 @@ Title: Second Life Marketplace - BoyBox - Skins and Shapes by Freckle Shoteka
 Tag: misc, link
 Link: https://marketplace.secondlife.com/stores/75866
 
+Id: marquis-01
+Type: article
+Media: link
+Title: I Teach at a Business School. It’s Time to Shut Them Down.
+Author: Marquis, Chris
+Date: 2026-10-18
+Publisher: The New York Times
+Link: https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html
+AltLink: https://tinyurl.com/yvjkxe5z+ https://web.archive.org/web/20261020015214/https://moria.whyayh.com/rel/archive/article/culture/I_Teach_at_a_Business_School_Time_to_Shut_Them_Down-2026-10-18.pdf https://moria.whyayh.com/rel/archive/article/culture/I_Teach_at_a_Business_School_Time_to_Shut_Them_Down-2026-10-18.pdf
+
 Id: marschall-01
 Type: book
 Media: Ebook
