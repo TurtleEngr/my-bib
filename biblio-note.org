@@ -930,6 +930,14 @@ crises."--Keith Grint </blockquote>
   they will make much bigger changes than 500 isolated individuals.
 - History is not the study of the past, it is the study of change.
 
+** Id: harari-04
+- Harari's main point: AI's natural environment is
+  bureaucracies. Bureaucracies are built with legal systems, and legal
+  systems are built with langage.
+
+- Removing trust between humans is a major problem. Will it get to the
+  point where we will trust AIs more than people?
+
 ** Id: hari-01
 - We think our inability to focus is a personal failure to exert
   enough willpower over our devices. The truth is even more

@@ -8908,6 +8908,14 @@ Date: 2024-09-05
 Publisher: The Diary Of A CEO
 Link: https://www.youtube.com/watch?v=78YN1e8UXdM
 
+Id: harari-04
+Type: media
+Media: video
+Title: AI is hacking the code of civilization
+Author: Harari, Yuval Noah
+Date: 2026-10-30
+Link: https://www.youtube.com/watch?v=fUlMxqntE74
+
 Id: harbin-01
 Type: site
 Media: site
